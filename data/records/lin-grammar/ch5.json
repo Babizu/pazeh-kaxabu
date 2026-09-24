@@ -1,0 +1,1167 @@
+{
+  "source": "lin-grammar",
+  "shard": "ch5",
+  "label": "CH5構詞",
+  "groups": [
+    {
+      "id": "lin-grammar:ch5",
+      "source": "lin-grammar",
+      "type": "list",
+      "title": "CH5構詞",
+      "subtitle": null,
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "lin-grammar:ch5-5.1",
+      "source": "lin-grammar",
+      "localId": "ch5-5.1",
+      "unit": "sentence",
+      "text": "atun ohoni medeken yaku a tatoko.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 現在在撿我的拐杖。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.1)（潘德興 2019/08/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.1",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.1.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "(5.1) atun ohoni medeken yaku a tatoko.wav"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.3a",
+      "source": "lin-grammar",
+      "localId": "ch5-5.3a",
+      "unit": "sentence",
+      "text": "kaidini nahaza udan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這裡有雨。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.3a)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.3a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.3a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "kaidini nahaza udan.wav"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.3b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.3b",
+      "unit": "sentence",
+      "text": "ohoni ini mudan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "現在沒下雨。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.3b)（潘德興 2020/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.3b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.3b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "(5.3b) ohoni ini mudan..wav"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.5a",
+      "source": "lin-grammar",
+      "localId": "ch5-5.5a",
+      "unit": "sentence",
+      "text": "mituku lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "坐了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.5a)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.5a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.5a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.5b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.5b",
+      "unit": "sentence",
+      "text": "kaidini nahaza aitukuan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在這裡有椅子。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.5b)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.5b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.5b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.7",
+      "source": "lin-grammar",
+      "localId": "ch5-5.7",
+      "unit": "sentence",
+      "text": "ita ka tatawan a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們是台灣人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.7)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.7",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.7.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.8",
+      "source": "lin-grammar",
+      "localId": "ch5-5.8",
+      "unit": "sentence",
+      "text": "yaku meken dadas lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃番薯了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.8)（潘德興 2020/08/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.8",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.8.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.9",
+      "source": "lin-grammar",
+      "localId": "ch5-5.9",
+      "unit": "sentence",
+      "text": "zuzut’i saaken iu sumay na.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請裝菜、裝飯！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.9)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.9",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.9.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.22a",
+      "source": "lin-grammar",
+      "localId": "ch5-5.22a",
+      "unit": "sentence",
+      "text": "mikita\tbabizu muuput lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看完書了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.22a)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.22a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.22a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.22b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.22b",
+      "unit": "sentence",
+      "text": "yaku muuput a siisinaw siatu lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我洗完衣服了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.22b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.22b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.22b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.24b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.24b",
+      "unit": "sentence",
+      "text": "alo meken sumay!",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來吃飯！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.24b)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.24b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.24b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.25b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.25b",
+      "unit": "sentence",
+      "text": "alo mudok taating a inusat!",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來喝一點酒！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.25b)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.25b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.25b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.28",
+      "source": "lin-grammar",
+      "localId": "ch5-5.28",
+      "unit": "sentence",
+      "text": "yaku ini musinaw kaaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒洗腳。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.28)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.28",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.28.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.36b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.36b",
+      "unit": "sentence",
+      "text": "imisiw talima pakamuaping.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他自己弄破。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.36b)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.36b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.36b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.36c",
+      "source": "lin-grammar",
+      "localId": "ch5-5.36c",
+      "unit": "sentence",
+      "text": "pakaasikit liaki yaku a kaaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我的腳痛了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.36c)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.36c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.36c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.38a",
+      "source": "lin-grammar",
+      "localId": "ch5-5.38a",
+      "unit": "sentence",
+      "text": "paka nita umu maziah.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓咱們的粿熟。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.38a)（潘德興 2018/05/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.38a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.38a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.38b",
+      "source": "lin-grammar",
+      "localId": "ch5-5.38b",
+      "unit": "sentence",
+      "text": "paka isiw paluzuakzuak’i nahaza ali akhéhén.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓你多子多孫有孫、小孩",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.38b)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.38b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.38b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.38c",
+      "source": "lin-grammar",
+      "localId": "ch5-5.38c",
+      "unit": "sentence",
+      "text": "paka isiw mahabay taating",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "給你較好。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.38c)（潘德興 2019/08/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.38c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.38c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch5-5.38d",
+      "source": "lin-grammar",
+      "localId": "ch5-5.38d",
+      "unit": "sentence",
+      "text": "paka bauzak meken.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓豬吃。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch5",
+        "role": "example",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH5構詞 例 (5.38d)（潘德興 2019/09/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "5.38d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch5-5.38d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/17"
+      ]
+    }
+  ]
+}

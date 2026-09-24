@@ -1,0 +1,2030 @@
+{
+  "source": "pazih-dict",
+  "shard": "p113",
+  "label": "p.113",
+  "groups": [
+    {
+      "id": "pazih-dict:p113-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "duray-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "durun",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，durun 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dusa",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dusudus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusudus- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "duxar-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxar- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "duxay-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxay- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p113-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "duxu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p113-01",
+      "source": "pazih-dict",
+      "localId": "p113-01",
+      "unit": "affix",
+      "text": "duray-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-01-f01",
+      "source": "pazih-dict",
+      "localId": "p113-01-f01",
+      "unit": "word",
+      "text": "muduray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗刷，擦亮",
+          "en": "to scrub, to polish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-01-x01",
+      "source": "pazih-dict",
+      "localId": "p113-01-x01",
+      "unit": "sentence",
+      "text": "durayi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擦久一點！",
+          "en": "Scrub it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-01",
+        "role": "example",
+        "parent": "pazih-dict:p113-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-01-x02",
+      "source": "pazih-dict",
+      "localId": "p113-01-x02",
+      "unit": "phrase",
+      "text": "duduray sapay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在擦體垢",
+          "en": "is scrubbing body dirt",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-01",
+        "role": "example",
+        "parent": "pazih-dict:p113-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-01-x03",
+      "source": "pazih-dict",
+      "localId": "p113-01-x03",
+      "unit": "phrase",
+      "text": "muduray asezah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揉螞蟻",
+          "en": "to scrub ants (to death)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-01",
+        "role": "example",
+        "parent": "pazih-dict:p113-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duray- 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-02",
+      "source": "pazih-dict",
+      "localId": "p113-02",
+      "unit": "word",
+      "text": "durun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "穀皮",
+          "en": "husk (of grains), chaffs",
+          "nan": null
+        },
+        {
+          "zh": "米糠（細、粗）",
+          "en": "rice bran",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，durun 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03",
+      "source": "pazih-dict",
+      "localId": "p113-03",
+      "unit": "word",
+      "text": "dusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "二",
+          "en": "two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x01",
+      "source": "pazih-dict",
+      "localId": "p113-03-x01",
+      "unit": "phrase",
+      "text": "dusa daali",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "二天",
+          "en": "two days",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x02",
+      "source": "pazih-dict",
+      "localId": "p113-03-x02",
+      "unit": "phrase",
+      "text": "dusa isit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "二十",
+          "en": "twenty",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x03",
+      "source": "pazih-dict",
+      "localId": "p113-03-x03",
+      "unit": "sentence",
+      "text": "dusa isit ida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "二十一",
+          "en": "twenty-one",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f01",
+      "source": "pazih-dict",
+      "localId": "p113-03-f01",
+      "unit": "word",
+      "text": "dudusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第二",
+          "en": "second",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x04",
+      "source": "pazih-dict",
+      "localId": "p113-03-x04",
+      "unit": "sentence",
+      "text": "dudusa a dali a ka mukusa inang sibaden di riniux a daran a isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第二天他再去把他們（薄鐵）排好在（鰻魚）滑行的路上",
+          "en": "The next day he went again to set up thin sheets of iron on the path where (the eel) slided.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f02",
+      "source": "pazih-dict",
+      "localId": "p113-03-f02",
+      "unit": "word",
+      "text": "maadusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分叉（路）",
+          "en": "to be forked (bifurcation of a path)",
+          "nan": null
+        },
+        {
+          "zh": "分成兩半",
+          "en": "to divide into two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x05",
+      "source": "pazih-dict",
+      "localId": "p113-03-x05",
+      "unit": "sentence",
+      "text": "imini ka pialay maadusa daxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "起初這塊地分為二半",
+          "en": "At first, this land was divided into two.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f03",
+      "source": "pazih-dict",
+      "localId": "p113-03-f03",
+      "unit": "word",
+      "text": "matadusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第二次",
+          "en": "second time, twice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f04",
+      "source": "pazih-dict",
+      "localId": "p113-03-f04",
+      "unit": "word",
+      "text": "miadusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第二",
+          "en": "second",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x06",
+      "source": "pazih-dict",
+      "localId": "p113-03-x06",
+      "unit": "sentence",
+      "text": "dusa'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分開為二！",
+          "en": "Divide into two!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x07",
+      "source": "pazih-dict",
+      "localId": "p113-03-x07",
+      "unit": "phrase",
+      "text": "dusai naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我分兩份",
+          "en": "Let me divide it into two.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f04",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f05",
+      "source": "pazih-dict",
+      "localId": "p113-03-f05",
+      "unit": "word",
+      "text": "dusaen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分作兩份",
+          "en": "to divide into two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": "pazih-dict:p113-03-f04",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x08",
+      "source": "pazih-dict",
+      "localId": "p113-03-x08",
+      "unit": "sentence",
+      "text": "paadusai!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分作兩份！",
+          "en": "Divide it into two!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f06",
+      "source": "pazih-dict",
+      "localId": "p113-03-f06",
+      "unit": "word",
+      "text": "duudusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分開為二",
+          "en": "to halve, to divide into two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": "pazih-dict:p113-03-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-f07",
+      "source": "pazih-dict",
+      "localId": "p113-03-f07",
+      "unit": "word",
+      "text": "mudusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分成兩份",
+          "en": "to divide into two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-03-x09",
+      "source": "pazih-dict",
+      "localId": "p113-03-x09",
+      "unit": "sentence",
+      "text": "duudusa luxut, mamerek mudusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他們）在分鹿卻無法分成兩份",
+          "en": "(They) were dividing the deer into two, but couldn't do it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-03",
+        "role": "example",
+        "parent": "pazih-dict:p113-03-f07",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusa 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-04",
+      "source": "pazih-dict",
+      "localId": "p113-04",
+      "unit": "affix",
+      "text": "dusudus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusudus- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-04-f01",
+      "source": "pazih-dict",
+      "localId": "p113-04-f01",
+      "unit": "word",
+      "text": "mudusudus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨碎",
+          "en": "to grate (as cassava) with a grater having holes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusudus- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-04-f02",
+      "source": "pazih-dict",
+      "localId": "p113-04-f02",
+      "unit": "word",
+      "text": "dusudusi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使磨碎",
+          "en": "to make someone to grate it",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-04",
+        "role": "form",
+        "parent": "pazih-dict:p113-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，dusudus- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-05",
+      "source": "pazih-dict",
+      "localId": "p113-05",
+      "unit": "affix",
+      "text": "duxar-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxar- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-05-f01",
+      "source": "pazih-dict",
+      "localId": "p113-05-f01",
+      "unit": "word",
+      "text": "muduxar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷看",
+          "en": "to peep",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxar- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-05-x01",
+      "source": "pazih-dict",
+      "localId": "p113-05-x01",
+      "unit": "sentence",
+      "text": "duxari!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷看！",
+          "en": "Peep at it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-05",
+        "role": "example",
+        "parent": "pazih-dict:p113-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxar- 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-06",
+      "source": "pazih-dict",
+      "localId": "p113-06",
+      "unit": "affix",
+      "text": "duxay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxay- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-06-f01",
+      "source": "pazih-dict",
+      "localId": "p113-06-f01",
+      "unit": "word",
+      "text": "muduxay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃膩",
+          "en": "tired of eating",
+          "nan": null
+        },
+        {
+          "zh": "做的很厭煩",
+          "en": "tired of doing something",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxay- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-07",
+      "source": "pazih-dict",
+      "localId": "p113-07",
+      "unit": "affix",
+      "text": "duxu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-07-f01",
+      "source": "pazih-dict",
+      "localId": "p113-07-f01",
+      "unit": "word",
+      "text": "kaduxu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "符咒，念咒",
+          "en": "to call down curses on someone",
+          "nan": null
+        },
+        {
+          "zh": "占卜",
+          "en": "to tell fortune",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-07-f02",
+      "source": "pazih-dict",
+      "localId": "p113-07-f02",
+      "unit": "word",
+      "text": "pakaduxu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "念咒語",
+          "en": "to call mumbo jumbo",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-07",
+        "role": "form",
+        "parent": "pazih-dict:p113-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-07-x01",
+      "source": "pazih-dict",
+      "localId": "p113-07-x01",
+      "unit": "sentence",
+      "text": "mabaza kaduxu a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "懂得占卜的人",
+          "en": "the person who knows how to curse or tell a fortune",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-07",
+        "role": "example",
+        "parent": "pazih-dict:p113-07-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條下例句",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p113-07-f03",
+      "source": "pazih-dict",
+      "localId": "p113-07-f03",
+      "unit": "word",
+      "text": "sikaduxuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "占卜者",
+          "en": "fortune teller",
+          "nan": null
+        },
+        {
+          "zh": "念咒的人",
+          "en": "the person who curses",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p113-07",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.113，duxu- 條下派生詞",
+        "page": 113,
+        "pages": [
+          113
+        ],
+        "row": null,
+        "code": "p113-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p113.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

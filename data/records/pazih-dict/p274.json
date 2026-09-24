@@ -1,0 +1,2048 @@
+{
+  "source": "pazih-dict",
+  "shard": "p274",
+  "label": "p.274",
+  "groups": [
+    {
+      "id": "pazih-dict:p274-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "si",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p274-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "si-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p274-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "si-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p274-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "si-+ location",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p274-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "si-…-an",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p274-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sia",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p274-01",
+      "source": "pazih-dict",
+      "localId": "p274-01",
+      "unit": "word",
+      "text": "si",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-01-x01",
+      "source": "pazih-dict",
+      "localId": "p274-01-x01",
+      "unit": "sentence",
+      "text": "kumuxi si ka naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請替我捉！",
+          "en": "Please catch it for me!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-01-x02",
+      "source": "pazih-dict",
+      "localId": "p274-01-x02",
+      "unit": "sentence",
+      "text": "pakatahayak si na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請謝謝他！",
+          "en": "Please thank him!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-02",
+      "source": "pazih-dict",
+      "localId": "p274-02",
+      "unit": "affix",
+      "text": "si-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工具焦點",
+          "en": "Instrumental-focus",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "saa-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p274-02-f01",
+      "source": "pazih-dict",
+      "localId": "p274-02-f01",
+      "unit": "word",
+      "text": "si-te'eng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "丟",
+          "en": "to throw with something",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-03",
+      "source": "pazih-dict",
+      "localId": "p274-03",
+      "unit": "affix",
+      "text": "si-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有，製造",
+          "en": "to have, to produce",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p274-03-f01",
+      "source": "pazih-dict",
+      "localId": "p274-03-f01",
+      "unit": "word",
+      "text": "si-tatupung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生蘑菇",
+          "en": "to have mushrooms",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tatupung",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-03-f02",
+      "source": "pazih-dict",
+      "localId": "p274-03-f02",
+      "unit": "word",
+      "text": "si-pazeng(an)",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長刺",
+          "en": "to have thorns",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "pazeng",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si- 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-04",
+      "source": "pazih-dict",
+      "localId": "p274-04",
+      "unit": "phrase",
+      "text": "si-+ location",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去",
+          "en": "to go",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-04-f01",
+      "source": "pazih-dict",
+      "localId": "p274-04-f01",
+      "unit": "word",
+      "text": "sidi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去",
+          "en": "to go",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-04-f02",
+      "source": "pazih-dict",
+      "localId": "p274-04-f02",
+      "unit": "word",
+      "text": "sidini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來這兒",
+          "en": "to come here",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-04-f03",
+      "source": "pazih-dict",
+      "localId": "p274-04-f03",
+      "unit": "word",
+      "text": "sidua",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去那兒",
+          "en": "to go there",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-04-f04",
+      "source": "pazih-dict",
+      "localId": "p274-04-f04",
+      "unit": "word",
+      "text": "si'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去哪",
+          "en": "Where to go?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "asay",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-+ location 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05",
+      "source": "pazih-dict",
+      "localId": "p274-05",
+      "unit": "affix",
+      "text": "si-…-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶有",
+          "en": "to bring forth, to have a growth on one's body",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "circumfix",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f01",
+      "source": "pazih-dict",
+      "localId": "p274-05-f01",
+      "unit": "word",
+      "text": "si-sumah-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生衣蝨",
+          "en": "to have body lice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sumah",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f02",
+      "source": "pazih-dict",
+      "localId": "p274-05-f02",
+      "unit": "word",
+      "text": "si-pusus-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生瘡",
+          "en": "to have boils",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "pusus",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f03",
+      "source": "pazih-dict",
+      "localId": "p274-05-f03",
+      "unit": "word",
+      "text": "si-kusu-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長虱子",
+          "en": "to have lice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kusu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f04",
+      "source": "pazih-dict",
+      "localId": "p274-05-f04",
+      "unit": "word",
+      "text": "si-kuhih-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶皮膚癢的病",
+          "en": "to have itchy skin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kuhih",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f05",
+      "source": "pazih-dict",
+      "localId": "p274-05-f05",
+      "unit": "word",
+      "text": "si-sinat-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有痣",
+          "en": "to have moles",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sinat",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-05-f06",
+      "source": "pazih-dict",
+      "localId": "p274-05-f06",
+      "unit": "word",
+      "text": "si-supizang-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生痱子",
+          "en": "to have prickly heat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "supizang",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-05",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，si-…-an 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06",
+      "source": "pazih-dict",
+      "localId": "p274-06",
+      "unit": "word",
+      "text": "sia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第三人稱（單數，主格，視界外）",
+          "en": "3rd person (sg, Nom, invisible)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-f01",
+      "source": "pazih-dict",
+      "localId": "p274-06-f01",
+      "unit": "word",
+      "text": "isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個",
+          "en": "that (remote)",
+          "nan": null
+        },
+        {
+          "zh": "那邊",
+          "en": "that yonder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x01",
+      "source": "pazih-dict",
+      "localId": "p274-06-x01",
+      "unit": "sentence",
+      "text": "mikita ki naki a baba, isia ka tula haimini, mataaru a tula kaidini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我那個舅舅看見這就是鰻魚，好大的鰻魚在這裡",
+          "en": "My uncle saw that is was an eel, a very big one.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x02",
+      "source": "pazih-dict",
+      "localId": "p274-06-x02",
+      "unit": "sentence",
+      "text": "isia a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個（遠的）人",
+          "en": "that person (farther)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x03",
+      "source": "pazih-dict",
+      "localId": "p274-06-x03",
+      "unit": "phrase",
+      "text": "ina isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個母親",
+          "en": "that mother",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x04",
+      "source": "pazih-dict",
+      "localId": "p274-06-x04",
+      "unit": "sentence",
+      "text": "saw a isia lia ka aidi babaw pungu kahuy mangesen lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在樹上的男人害怕",
+          "en": "The man on the tree was frightened.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x05",
+      "source": "pazih-dict",
+      "localId": "p274-06-x05",
+      "unit": "sentence",
+      "text": "isia lia ki awi ka maxakekela parisan a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "於是阿維他想念生母",
+          "en": "Thus Awi missed his own mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x06",
+      "source": "pazih-dict",
+      "localId": "p274-06-x06",
+      "unit": "sentence",
+      "text": "laila ki isia mududu ki apuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長輩他講話",
+          "en": "Then the elder gave a talk.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-f02",
+      "source": "pazih-dict",
+      "localId": "p274-06-f02",
+      "unit": "word",
+      "text": "isiaan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個",
+          "en": "that (invisible)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x07",
+      "source": "pazih-dict",
+      "localId": "p274-06-x07",
+      "unit": "sentence",
+      "text": "lasu aduun di isiaan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把米放在那兒",
+          "en": "Put the rice there.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-f03",
+      "source": "pazih-dict",
+      "localId": "p274-06-f03",
+      "unit": "word",
+      "text": "masia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他",
+          "en": "he",
+          "nan": null
+        },
+        {
+          "zh": "她",
+          "en": "she",
+          "nan": null
+        },
+        {
+          "zh": "它，牠",
+          "en": "it",
+          "nan": null
+        },
+        {
+          "zh": "（較近的）那個",
+          "en": "that (near)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x08",
+      "source": "pazih-dict",
+      "localId": "p274-06-x08",
+      "unit": "sentence",
+      "text": "masia paakaraxan ka nahada nu saw a xuma rikibul ilia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在寬闊的地方那個人家有穀倉",
+          "en": "There was a (granary) hut of a family in the broad space.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-f04",
+      "source": "pazih-dict",
+      "localId": "p274-06-f04",
+      "unit": "word",
+      "text": "nisia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他的（屬格，視界外）",
+          "en": "his, her (Gen, invisible)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下派生詞",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x09",
+      "source": "pazih-dict",
+      "localId": "p274-06-x09",
+      "unit": "sentence",
+      "text": "nisia rubang mamais a langat ka sabung sen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她的姑娘名叫 Sabung",
+          "en": "Her girl's name was Sabung.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p274-06-x10",
+      "source": "pazih-dict",
+      "localId": "p274-06-x10",
+      "unit": "sentence",
+      "text": "mukusa talima xumak maakuas nisia ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她自己回家去告訴她母親",
+          "en": "She went home by herself to tell her mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p274-06",
+        "role": "example",
+        "parent": "pazih-dict:p274-06-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.274，sia 條下例句",
+        "page": 274,
+        "pages": [
+          274
+        ],
+        "row": null,
+        "code": "p274-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p274.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

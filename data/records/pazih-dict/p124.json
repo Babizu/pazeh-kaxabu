@@ -1,0 +1,2575 @@
+{
+  "source": "pazih-dict",
+  "shard": "p124",
+  "label": "p.124",
+  "groups": [
+    {
+      "id": "pazih-dict:p124-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hihip-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihip- 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hihung-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihung- 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hilut",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hinareban",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinareban 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hinaw (haw?)",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinaw (haw?) 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hinis",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p124-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "hipet",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hipet 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p124-01",
+      "source": "pazih-dict",
+      "localId": "p124-01",
+      "unit": "affix",
+      "text": "hihip-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihip- 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-01-f01",
+      "source": "pazih-dict",
+      "localId": "p124-01-f01",
+      "unit": "word",
+      "text": "muhihip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吸吮",
+          "en": "to suck",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihip- 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-01-f02",
+      "source": "pazih-dict",
+      "localId": "p124-01-f02",
+      "unit": "word",
+      "text": "hihipi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吸",
+          "en": "Suck!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-01",
+        "role": "form",
+        "parent": "pazih-dict:p124-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihip- 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-01-x01",
+      "source": "pazih-dict",
+      "localId": "p124-01-x01",
+      "unit": "sentence",
+      "text": "muhihip kakamut ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嬰兒吸手指",
+          "en": "The baby sucked a finger.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-01",
+        "role": "example",
+        "parent": "pazih-dict:p124-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihip- 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-02",
+      "source": "pazih-dict",
+      "localId": "p124-02",
+      "unit": "affix",
+      "text": "hihung-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihung- 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-02-x01",
+      "source": "pazih-dict",
+      "localId": "p124-02-x01",
+      "unit": "sentence",
+      "text": "pazeng a hihung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "亂來的人，好色之徒",
+          "en": "bawdy, obscene (person)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihung- 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-02-f01",
+      "source": "pazih-dict",
+      "localId": "p124-02-f01",
+      "unit": "word",
+      "text": "muhihung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "設陷阱（埋設尖刺於路徑）",
+          "en": "to set up a type of trap",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hihung- 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03",
+      "source": "pazih-dict",
+      "localId": "p124-03",
+      "unit": "word",
+      "text": "hilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "尿",
+          "en": "urine",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f01",
+      "source": "pazih-dict",
+      "localId": "p124-03-f01",
+      "unit": "word",
+      "text": "muhilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "排尿",
+          "en": "to urinate",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f02",
+      "source": "pazih-dict",
+      "localId": "p124-03-f02",
+      "unit": "word",
+      "text": "hihilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在排尿",
+          "en": "is urinating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": "pazih-dict:p124-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f03",
+      "source": "pazih-dict",
+      "localId": "p124-03-f03",
+      "unit": "word",
+      "text": "papihilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把尿",
+          "en": "to make a baby urinate",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-x01",
+      "source": "pazih-dict",
+      "localId": "p124-03-x01",
+      "unit": "sentence",
+      "text": "papihilut rakihan ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親給嬰兒把尿",
+          "en": "Mother makes the baby urinate.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "example",
+        "parent": "pazih-dict:p124-03-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f04",
+      "source": "pazih-dict",
+      "localId": "p124-03-f04",
+      "unit": "word",
+      "text": "pihilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小便",
+          "en": "to urinate",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-x02",
+      "source": "pazih-dict",
+      "localId": "p124-03-x02",
+      "unit": "phrase",
+      "text": "pihilut mupayak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "尿濕了",
+          "en": "to urinate and get wet",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "example",
+        "parent": "pazih-dict:p124-03-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-x03",
+      "source": "pazih-dict",
+      "localId": "p124-03-x03",
+      "unit": "sentence",
+      "text": "usa pihilut!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去排尿！",
+          "en": "Go to urinate!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "example",
+        "parent": "pazih-dict:p124-03-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f05",
+      "source": "pazih-dict",
+      "localId": "p124-03-f05",
+      "unit": "word",
+      "text": "paihilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在小便",
+          "en": "is urinating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": "pazih-dict:p124-03-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-x04",
+      "source": "pazih-dict",
+      "localId": "p124-03-x04",
+      "unit": "sentence",
+      "text": "paihilut ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩在排尿",
+          "en": "The child is urinating.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "example",
+        "parent": "pazih-dict:p124-03-f04",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-03-f06",
+      "source": "pazih-dict",
+      "localId": "p124-03-f06",
+      "unit": "word",
+      "text": "taxapihilut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想尿",
+          "en": "to feel like urinating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-03",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hilut 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-04",
+      "source": "pazih-dict",
+      "localId": "p124-04",
+      "unit": "word",
+      "text": "hinareban",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被燒過",
+          "en": "has been burned",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "harep-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinareban 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-05",
+      "source": "pazih-dict",
+      "localId": "p124-05",
+      "unit": "phrase",
+      "text": "hinaw (haw?)",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很",
+          "en": "very",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinaw (haw?) 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-05-f01",
+      "source": "pazih-dict",
+      "localId": "p124-05-f01",
+      "unit": "word",
+      "text": "hinawriak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "美麗的，漂亮的",
+          "en": "beautiful, pretty, handsome, dear, lovely",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinaw (haw?) 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-05-x01",
+      "source": "pazih-dict",
+      "localId": "p124-05-x01",
+      "unit": "sentence",
+      "text": "hinaw riak a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "漂亮的人",
+          "en": "a pretty person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-05",
+        "role": "example",
+        "parent": "pazih-dict:p124-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinaw (haw?) 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-05-x02",
+      "source": "pazih-dict",
+      "localId": "p124-05-x02",
+      "unit": "sentence",
+      "text": "hinaw riak a rubang mamais ka, ini apa'en ni saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她是）很漂亮的女子，但卻沒人揹",
+          "en": "The young lady was very pretty, yet (she) was not carried by anybody.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-05",
+        "role": "example",
+        "parent": "pazih-dict:p124-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinaw (haw?) 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06",
+      "source": "pazih-dict",
+      "localId": "p124-06",
+      "unit": "word",
+      "text": "hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "心理",
+          "en": "heart (mind)",
+          "nan": null
+        },
+        {
+          "zh": "氣息",
+          "en": "breath",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x01",
+      "source": "pazih-dict",
+      "localId": "p124-06-x01",
+      "unit": "sentence",
+      "text": "mutukah a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "心開了",
+          "en": "in a good mood",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x02",
+      "source": "pazih-dict",
+      "localId": "p124-06-x02",
+      "unit": "phrase",
+      "text": "pakitay hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "任意想",
+          "en": "to wander",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x03",
+      "source": "pazih-dict",
+      "localId": "p124-06-x03",
+      "unit": "sentence",
+      "text": "ini riak a hinis lia ki aubin a tata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "後母心不好",
+          "en": "The stepmother did not have a kind heart.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x04",
+      "source": "pazih-dict",
+      "localId": "p124-06-x04",
+      "unit": "sentence",
+      "text": "riak a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "好心",
+          "en": "good will",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x05",
+      "source": "pazih-dict",
+      "localId": "p124-06-x05",
+      "unit": "sentence",
+      "text": "saziah a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "壞心",
+          "en": "ill will",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x06",
+      "source": "pazih-dict",
+      "localId": "p124-06-x06",
+      "unit": "sentence",
+      "text": "muzumut a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嘆氣",
+          "en": "to sigh",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x07",
+      "source": "pazih-dict",
+      "localId": "p124-06-x07",
+      "unit": "sentence",
+      "text": "mataru a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吐大氣",
+          "en": "to have a heavy exhalation",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f01",
+      "source": "pazih-dict",
+      "localId": "p124-06-f01",
+      "unit": "word",
+      "text": "hahinisan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "囟門",
+          "en": "fontanel (the soft and boneless area in the skull of a newly-born baby)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f02",
+      "source": "pazih-dict",
+      "localId": "p124-06-f02",
+      "unit": "word",
+      "text": "kaihinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想",
+          "en": "to think, doubt, suspect",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x08",
+      "source": "pazih-dict",
+      "localId": "p124-06-x08",
+      "unit": "sentence",
+      "text": "haw lia kaihinis lia ki rubang mamaleng a isia hinis a'i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "男青年在心裡想",
+          "en": "The young man thought in his mind.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f03",
+      "source": "pazih-dict",
+      "localId": "p124-06-f03",
+      "unit": "word",
+      "text": "maapuhinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相戀",
+          "en": "to fall in love with each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x09",
+      "source": "pazih-dict",
+      "localId": "p124-06-x09",
+      "unit": "sentence",
+      "text": "maapuhinis a gagam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "中意的樣子",
+          "en": "It looks like (she) is in love.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f03",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f04",
+      "source": "pazih-dict",
+      "localId": "p124-06-f04",
+      "unit": "word",
+      "text": "mihinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "呼吸",
+          "en": "to breathe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x10",
+      "source": "pazih-dict",
+      "localId": "p124-06-x10",
+      "unit": "phrase",
+      "text": "ini mihinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒呼吸",
+          "en": "not to breathe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x11",
+      "source": "pazih-dict",
+      "localId": "p124-06-x11",
+      "unit": "sentence",
+      "text": "ana mihinis!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別呼吸！",
+          "en": "Don't breathe!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f04",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x12",
+      "source": "pazih-dict",
+      "localId": "p124-06-x12",
+      "unit": "sentence",
+      "text": "hinisi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "呼吸！",
+          "en": "Breathe!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f04",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x13",
+      "source": "pazih-dict",
+      "localId": "p124-06-x13",
+      "unit": "sentence",
+      "text": "hinisina!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "呼吸一下！",
+          "en": "Breathe!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f04",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f05",
+      "source": "pazih-dict",
+      "localId": "p124-06-f05",
+      "unit": "word",
+      "text": "muhinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "喘氣",
+          "en": "to breathe, to gasp, to pant",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x14",
+      "source": "pazih-dict",
+      "localId": "p124-06-x14",
+      "unit": "phrase",
+      "text": "ini muhinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒呼吸",
+          "en": "not to breathe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f05",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x15",
+      "source": "pazih-dict",
+      "localId": "p124-06-x15",
+      "unit": "phrase",
+      "text": "tahayak muhinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "喘氣，喘息",
+          "en": "to pant",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f05",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-x16",
+      "source": "pazih-dict",
+      "localId": "p124-06-x16",
+      "unit": "word",
+      "text": "hiihinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在喘氣，在呼吸",
+          "en": "is breathing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "example",
+        "parent": "pazih-dict:p124-06-f05",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下例句",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-06-f06",
+      "source": "pazih-dict",
+      "localId": "p124-06-f06",
+      "unit": "word",
+      "text": "puhinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "中意",
+          "en": "to fall in love",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-06",
+        "role": "form",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hinis 條下派生詞",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p124-07",
+      "source": "pazih-dict",
+      "localId": "p124-07",
+      "unit": "word",
+      "text": "hipet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蟑螂",
+          "en": "cockroach",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p124-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.124，hipet 條",
+        "page": 124,
+        "pages": [
+          124
+        ],
+        "row": null,
+        "code": "p124-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p124.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

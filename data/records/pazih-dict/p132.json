@@ -1,0 +1,2460 @@
+{
+  "source": "pazih-dict",
+  "shard": "p132",
+  "label": "p.132",
+  "groups": [
+    {
+      "id": "pazih-dict:p132-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isia",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isia",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isiaan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiaan 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isit",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiw 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p132-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "isiwan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiwan 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p132-01",
+      "source": "pazih-dict",
+      "localId": "p132-01",
+      "unit": "affix",
+      "text": "isat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-f01",
+      "source": "pazih-dict",
+      "localId": "p132-01-f01",
+      "unit": "word",
+      "text": "kaisat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "罵",
+          "en": "to scold somebody",
+          "nan": null
+        },
+        {
+          "zh": "發怒",
+          "en": "to get angry, usually with a member of one's family",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x01",
+      "source": "pazih-dict",
+      "localId": "p132-01-x01",
+      "unit": "sentence",
+      "text": "kaisadi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "罵他！",
+          "en": "Scold him!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-f02",
+      "source": "pazih-dict",
+      "localId": "p132-01-f02",
+      "unit": "word",
+      "text": "maisat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "罵",
+          "en": "to scold somebody",
+          "nan": null
+        },
+        {
+          "zh": "發怒",
+          "en": "to get angry, usually with a member of one's family",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x02",
+      "source": "pazih-dict",
+      "localId": "p132-01-x02",
+      "unit": "phrase",
+      "text": "maisat saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "罵人",
+          "en": "to scold someone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x03",
+      "source": "pazih-dict",
+      "localId": "p132-01-x03",
+      "unit": "sentence",
+      "text": "maisat rakihan ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親罵小孩",
+          "en": "The mother scolded a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x04",
+      "source": "pazih-dict",
+      "localId": "p132-01-x04",
+      "unit": "sentence",
+      "text": "yaku ini maisat imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒罵他",
+          "en": "I did not scold him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x05",
+      "source": "pazih-dict",
+      "localId": "p132-01-x05",
+      "unit": "sentence",
+      "text": "maisat lia ki aba kaibabaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "天神震怒",
+          "en": "Gods in heaven were enraged.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-x06",
+      "source": "pazih-dict",
+      "localId": "p132-01-x06",
+      "unit": "sentence",
+      "text": "maisat baxala siw ka, maikixiay nimisiw a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如果你罵 Baxala ，我就要告訴他媽媽",
+          "en": "If you scold Baxala, I'll tell his mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "example",
+        "parent": "pazih-dict:p132-01-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-01-f03",
+      "source": "pazih-dict",
+      "localId": "p132-01-f03",
+      "unit": "word",
+      "text": "maxaisaisat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "發怒",
+          "en": "to get angry haphazardly",
+          "nan": null
+        },
+        {
+          "zh": "相罵",
+          "en": "to scold each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-01",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isat- 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02",
+      "source": "pazih-dict",
+      "localId": "p132-02",
+      "unit": "word",
+      "text": "isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那時",
+          "en": "then",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p132-02-x01",
+      "source": "pazih-dict",
+      "localId": "p132-02-x01",
+      "unit": "sentence",
+      "text": "isia lia ka ini mikita lia ka awi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那時她瞧不起 Awi",
+          "en": "Then (she) paid no attention to Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-f01",
+      "source": "pazih-dict",
+      "localId": "p132-02-f01",
+      "unit": "phrase",
+      "text": "isia rezaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "總是，常常",
+          "en": "always, very often",
+          "nan": null
+        },
+        {
+          "zh": "時常",
+          "en": "often",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x02",
+      "source": "pazih-dict",
+      "localId": "p132-02-x02",
+      "unit": "sentence",
+      "text": "isia rezaw meken alaw ki abuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Abuk 常吃魚",
+          "en": "Abuk eats fish very often.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x03",
+      "source": "pazih-dict",
+      "localId": "p132-02-x03",
+      "unit": "sentence",
+      "text": "isia rezaw mupuzah mikita yaku misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他時常來見我",
+          "en": "He often comes to see me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x04",
+      "source": "pazih-dict",
+      "localId": "p132-02-x04",
+      "unit": "sentence",
+      "text": "isia rezaw mupuzah dini imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他常來這",
+          "en": "He comes here very often.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x05",
+      "source": "pazih-dict",
+      "localId": "p132-02-x05",
+      "unit": "sentence",
+      "text": "isia rezaw mukusa imisiwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "常去他處",
+          "en": "often go to his place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x06",
+      "source": "pazih-dict",
+      "localId": "p132-02-x06",
+      "unit": "sentence",
+      "text": "isia rezaw puzah yakuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "常來我處",
+          "en": "often come to my place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-02-x07",
+      "source": "pazih-dict",
+      "localId": "p132-02-x07",
+      "unit": "sentence",
+      "text": "imisiw a saw ka isia rezaw daadaux tamaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那人總是在抽菸",
+          "en": "That man is always smoking a cigarette.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-02",
+        "role": "example",
+        "parent": "pazih-dict:p132-02-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-03",
+      "source": "pazih-dict",
+      "localId": "p132-03",
+      "unit": "word",
+      "text": "isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個",
+          "en": "that (remote)",
+          "nan": null
+        },
+        {
+          "zh": "那邊",
+          "en": "that yonder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sia",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isia 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p132-04",
+      "source": "pazih-dict",
+      "localId": "p132-04",
+      "unit": "word",
+      "text": "isiaan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個",
+          "en": "that (invisible)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sia",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiaan 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05",
+      "source": "pazih-dict",
+      "localId": "p132-05",
+      "unit": "word",
+      "text": "isit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十",
+          "en": "ten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f01",
+      "source": "pazih-dict",
+      "localId": "p132-05-f01",
+      "unit": "word",
+      "text": "mata'isit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十次",
+          "en": "ten times",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f02",
+      "source": "pazih-dict",
+      "localId": "p132-05-f02",
+      "unit": "phrase",
+      "text": "isid u adang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十一",
+          "en": "eleven",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f03",
+      "source": "pazih-dict",
+      "localId": "p132-05-f03",
+      "unit": "phrase",
+      "text": "isid u dusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十二",
+          "en": "twelve",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f04",
+      "source": "pazih-dict",
+      "localId": "p132-05-f04",
+      "unit": "phrase",
+      "text": "isid u supat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十四",
+          "en": "fourteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f05",
+      "source": "pazih-dict",
+      "localId": "p132-05-f05",
+      "unit": "phrase",
+      "text": "isid u turu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十三",
+          "en": "thirteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f06",
+      "source": "pazih-dict",
+      "localId": "p132-05-f06",
+      "unit": "phrase",
+      "text": "isid u xaseb",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十五",
+          "en": "fifteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f07",
+      "source": "pazih-dict",
+      "localId": "p132-05-f07",
+      "unit": "phrase",
+      "text": "isid u xasebidusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十七",
+          "en": "seventeen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f08",
+      "source": "pazih-dict",
+      "localId": "p132-05-f08",
+      "unit": "phrase",
+      "text": "isid u xasebisupat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十九",
+          "en": "nineteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f09",
+      "source": "pazih-dict",
+      "localId": "p132-05-f09",
+      "unit": "phrase",
+      "text": "isid u xasebituru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十八",
+          "en": "eighteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-x01",
+      "source": "pazih-dict",
+      "localId": "p132-05-x01",
+      "unit": "sentence",
+      "text": "isit a xaseb a turu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十八年了",
+          "en": "eighteen (years ago)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "example",
+        "parent": "pazih-dict:p132-05-f09",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下例句",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f10",
+      "source": "pazih-dict",
+      "localId": "p132-05-f10",
+      "unit": "phrase",
+      "text": "isid u xasebuza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十六",
+          "en": "sixteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f11",
+      "source": "pazih-dict",
+      "localId": "p132-05-f11",
+      "unit": "phrase",
+      "text": "isit ida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十一",
+          "en": "eleven",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f12",
+      "source": "pazih-dict",
+      "localId": "p132-05-f12",
+      "unit": "phrase",
+      "text": "isit dusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十二",
+          "en": "twelve",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f13",
+      "source": "pazih-dict",
+      "localId": "p132-05-f13",
+      "unit": "phrase",
+      "text": "isit supat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十四",
+          "en": "fourteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f14",
+      "source": "pazih-dict",
+      "localId": "p132-05-f14",
+      "unit": "phrase",
+      "text": "isit turu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十三",
+          "en": "thirteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f15",
+      "source": "pazih-dict",
+      "localId": "p132-05-f15",
+      "unit": "phrase",
+      "text": "isit xasebidusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十七",
+          "en": "seventeen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f16",
+      "source": "pazih-dict",
+      "localId": "p132-05-f16",
+      "unit": "phrase",
+      "text": "isit xasebituru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十八",
+          "en": "eighteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f17",
+      "source": "pazih-dict",
+      "localId": "p132-05-f17",
+      "unit": "phrase",
+      "text": "isit xasebuza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十六",
+          "en": "sixteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-05-f18",
+      "source": "pazih-dict",
+      "localId": "p132-05-f18",
+      "unit": "phrase",
+      "text": "isit xasep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "十五",
+          "en": "fifteen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-05",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isit 條下派生詞",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p132-06",
+      "source": "pazih-dict",
+      "localId": "p132-06",
+      "unit": "word",
+      "text": "isiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你",
+          "en": "you (sg.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "siw",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiw 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. isu (Ogawa, Thomas)"
+      ]
+    },
+    {
+      "id": "pazih-dict:p132-07",
+      "source": "pazih-dict",
+      "localId": "p132-07",
+      "unit": "word",
+      "text": "isiwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你（處格）",
+          "en": "you (sg., Loc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "siw",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p132-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.132，isiwan 條",
+        "page": 132,
+        "pages": [
+          132
+        ],
+        "row": null,
+        "code": "p132-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p132.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. isuwan (Ogawa)"
+      ]
+    }
+  ]
+}

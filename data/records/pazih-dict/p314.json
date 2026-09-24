@@ -1,0 +1,657 @@
+{
+  "source": "pazih-dict",
+  "shard": "p314",
+  "label": "p.314",
+  "groups": [
+    {
+      "id": "pazih-dict:p314-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "uta-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p314-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "uulaulai",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uulaulai 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p314-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "uxat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxat 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p314-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "uxung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxung 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p314-01",
+      "source": "pazih-dict",
+      "localId": "p314-01",
+      "unit": "affix",
+      "text": "uta-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-01-f01",
+      "source": "pazih-dict",
+      "localId": "p314-01-f01",
+      "unit": "word",
+      "text": "muta",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嘔吐，吐",
+          "en": "to vomit, to puke",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條下派生詞",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-01-x01",
+      "source": "pazih-dict",
+      "localId": "p314-01-x01",
+      "unit": "sentence",
+      "text": "uta'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吐！",
+          "en": "Throw out!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-01",
+        "role": "example",
+        "parent": "pazih-dict:p314-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條下例句",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-01-f02",
+      "source": "pazih-dict",
+      "localId": "p314-01-f02",
+      "unit": "word",
+      "text": "mauta",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在吐",
+          "en": "is vomiting",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-01",
+        "role": "form",
+        "parent": "pazih-dict:p314-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條下派生詞",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-01-x02",
+      "source": "pazih-dict",
+      "localId": "p314-01-x02",
+      "unit": "sentence",
+      "text": "uta'en dadua lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "都吐完了",
+          "en": "All has been thrown out.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-01",
+        "role": "example",
+        "parent": "pazih-dict:p314-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uta- 條下例句",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-02",
+      "source": "pazih-dict",
+      "localId": "p314-02",
+      "unit": "word",
+      "text": "uulaulai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "準備",
+          "en": "to prepare",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uulaulai 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-02-x01",
+      "source": "pazih-dict",
+      "localId": "p314-02-x01",
+      "unit": "sentence",
+      "text": "nahani ka uulaulai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "若要來就準備",
+          "en": "If (you) want to come, (you) just prepare.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uulaulai 條下例句",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-03",
+      "source": "pazih-dict",
+      "localId": "p314-03",
+      "unit": "word",
+      "text": "uxat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "甘蔗渣",
+          "en": "sugar cane after chewing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxat 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-04",
+      "source": "pazih-dict",
+      "localId": "p314-04",
+      "unit": "word",
+      "text": "uxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "角（鹿、牛、羊）",
+          "en": "horn of deer, cow or goat, which is still covered with skin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxung 條",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-04-x01",
+      "source": "pazih-dict",
+      "localId": "p314-04-x01",
+      "unit": "sentence",
+      "text": "nuang a uxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牛角",
+          "en": "horn of a cow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxung 條下例句",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p314-04-f01",
+      "source": "pazih-dict",
+      "localId": "p314-04-f01",
+      "unit": "word",
+      "text": "maka'uxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長角之鹿＝公鹿",
+          "en": "stag, a full-grown male deer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p314-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.314，uxung 條下派生詞",
+        "page": 314,
+        "pages": [
+          314
+        ],
+        "row": null,
+        "code": "p314-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p314.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

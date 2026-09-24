@@ -1,0 +1,619 @@
+{
+  "source": "pazih-dict",
+  "shard": "p327",
+  "label": "p.327",
+  "groups": [
+    {
+      "id": "pazih-dict:p327-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xuruxuru",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xuruxuru 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p327-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xusuxus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xusuxus- 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p327-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xutaxa",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutaxa 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p327-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xutu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p327-01",
+      "source": "pazih-dict",
+      "localId": "p327-01",
+      "unit": "word",
+      "text": "xuruxuru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "雞或鳥籠子",
+          "en": "a chicken or bird cage",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xuruxuru 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-02",
+      "source": "pazih-dict",
+      "localId": "p327-02",
+      "unit": "affix",
+      "text": "xusuxus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xusuxus- 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-02-f01",
+      "source": "pazih-dict",
+      "localId": "p327-02-f01",
+      "unit": "word",
+      "text": "muxusuxus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "削（瓜皮），刨",
+          "en": "to plane (a board)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xusuxus- 條下派生詞",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-02-x01",
+      "source": "pazih-dict",
+      "localId": "p327-02-x01",
+      "unit": "phrase",
+      "text": "xausuxus pu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "削竹節",
+          "en": "to scrape bamboo knots",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-02",
+        "role": "example",
+        "parent": "pazih-dict:p327-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xusuxus- 條下例句",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-03",
+      "source": "pazih-dict",
+      "localId": "p327-03",
+      "unit": "word",
+      "text": "xutaxa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "等",
+          "en": "to wait",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "taxa-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutaxa 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-04",
+      "source": "pazih-dict",
+      "localId": "p327-04",
+      "unit": "affix",
+      "text": "xutu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-04-f01",
+      "source": "pazih-dict",
+      "localId": "p327-04-f01",
+      "unit": "word",
+      "text": "muxutu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堆積",
+          "en": "to pile up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條下派生詞",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-04-f02",
+      "source": "pazih-dict",
+      "localId": "p327-04-f02",
+      "unit": "word",
+      "text": "xutu'un",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被堆積",
+          "en": "piled up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-04",
+        "role": "form",
+        "parent": "pazih-dict:p327-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條下派生詞",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-04-f03",
+      "source": "pazih-dict",
+      "localId": "p327-04-f03",
+      "unit": "word",
+      "text": "xinutu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堆，疊",
+          "en": "to pile",
+          "nan": null
+        },
+        {
+          "zh": "稻草堆",
+          "en": "straws of rice-plants collected and piled up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條下派生詞",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p327-04-x01",
+      "source": "pazih-dict",
+      "localId": "p327-04-x01",
+      "unit": "sentence",
+      "text": "xinutu a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堆積的石頭",
+          "en": "piled stones",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p327-04",
+        "role": "example",
+        "parent": "pazih-dict:p327-04-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.327，xutu- 條下例句",
+        "page": 327,
+        "pages": [
+          327
+        ],
+        "row": null,
+        "code": "p327-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p327.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

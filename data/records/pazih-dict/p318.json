@@ -1,0 +1,1600 @@
+{
+  "source": "pazih-dict",
+  "shard": "p318",
+  "label": "p.318",
+  "groups": [
+    {
+      "id": "pazih-dict:p318-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xamaxam-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p318-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xames",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xames 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p318-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xamuk-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamuk- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p318-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xamut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p318-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xanis-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p318-01",
+      "source": "pazih-dict",
+      "localId": "p318-01",
+      "unit": "affix",
+      "text": "xamaxam-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-f01",
+      "source": "pazih-dict",
+      "localId": "p318-01-f01",
+      "unit": "word",
+      "text": "muxamaxam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "觸，摸",
+          "en": "to touch and fumble",
+          "nan": null
+        },
+        {
+          "zh": "暗中摸索",
+          "en": "to grope in the dark",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x01",
+      "source": "pazih-dict",
+      "localId": "p318-01-x01",
+      "unit": "sentence",
+      "text": "xamaxami!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "摸！",
+          "en": "Touch it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x02",
+      "source": "pazih-dict",
+      "localId": "p318-01-x02",
+      "unit": "sentence",
+      "text": "kita sen, xamaxam sen isia malaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他看著它，摸她，而她不動",
+          "en": "He looked at her, touched her, and she did not move.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x03",
+      "source": "pazih-dict",
+      "localId": "p318-01-x03",
+      "unit": "sentence",
+      "text": "muaxamaxam yaku misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他摸我",
+          "en": "He touched me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-f02",
+      "source": "pazih-dict",
+      "localId": "p318-01-f02",
+      "unit": "word",
+      "text": "maaxamaxam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相摸",
+          "en": "to touch each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "form",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x04",
+      "source": "pazih-dict",
+      "localId": "p318-01-x04",
+      "unit": "sentence",
+      "text": "xamaxamen ni rakihan ki wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩摸狗",
+          "en": "The child touched the dog.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x05",
+      "source": "pazih-dict",
+      "localId": "p318-01-x05",
+      "unit": "sentence",
+      "text": "xamaxamen rakihan ki wazu ka tangiti",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗被小孩摸了發怒",
+          "en": "The dog that was touched by child was angry.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-01-x06",
+      "source": "pazih-dict",
+      "localId": "p318-01-x06",
+      "unit": "sentence",
+      "text": "kita sen riniux a daran ka xamaxamen ka kuingex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他看爬行過的路，用手一摸是黏黏的",
+          "en": "When he saw the path on which it had slidden, he touched it and it was sticky.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-01",
+        "role": "example",
+        "parent": "pazih-dict:p318-01-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamaxam- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-02",
+      "source": "pazih-dict",
+      "localId": "p318-02",
+      "unit": "word",
+      "text": "xames",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "細根",
+          "en": "root (small)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xames 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-03",
+      "source": "pazih-dict",
+      "localId": "p318-03",
+      "unit": "affix",
+      "text": "xamuk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamuk- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-03-f01",
+      "source": "pazih-dict",
+      "localId": "p318-03-f01",
+      "unit": "word",
+      "text": "muxamuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蓋",
+          "en": "to cover with a basket or a cap and the like (as when catching a chicken, an insect, etc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamuk- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-03-f02",
+      "source": "pazih-dict",
+      "localId": "p318-03-f02",
+      "unit": "word",
+      "text": "xaaxamuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在（用土）覆蓋種子或是肥料",
+          "en": "is covering seeds or manure with soil",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-03",
+        "role": "form",
+        "parent": "pazih-dict:p318-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamuk- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-03-f03",
+      "source": "pazih-dict",
+      "localId": "p318-03-f03",
+      "unit": "word",
+      "text": "saxamuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蓋的東西（如雞籠子）",
+          "en": "a cover",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamuk- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-04",
+      "source": "pazih-dict",
+      "localId": "p318-04",
+      "unit": "affix",
+      "text": "xamut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-04-f01",
+      "source": "pazih-dict",
+      "localId": "p318-04-f01",
+      "unit": "word",
+      "text": "maxamut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遺失",
+          "en": "lost",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-04-x01",
+      "source": "pazih-dict",
+      "localId": "p318-04-x01",
+      "unit": "sentence",
+      "text": "maxamud a tadaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遺失的刀子",
+          "en": "the lost knife",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-04",
+        "role": "example",
+        "parent": "pazih-dict:p318-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-04-x02",
+      "source": "pazih-dict",
+      "localId": "p318-04-x02",
+      "unit": "phrase",
+      "text": "maxamut lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遺失了",
+          "en": "to have been lost",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-04",
+        "role": "example",
+        "parent": "pazih-dict:p318-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-04-x03",
+      "source": "pazih-dict",
+      "localId": "p318-04-x03",
+      "unit": "sentence",
+      "text": "alih maxamut lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "差不多要消失了",
+          "en": "(The tradition) is nearly (almost) lost.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-04",
+        "role": "example",
+        "parent": "pazih-dict:p318-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318，xamut- 條下例句",
+        "page": 318,
+        "pages": [
+          318
+        ],
+        "row": null,
+        "code": "p318-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05",
+      "source": "pazih-dict",
+      "localId": "p318-05",
+      "unit": "affix",
+      "text": "xanis-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-f01",
+      "source": "pazih-dict",
+      "localId": "p318-05-f01",
+      "unit": "word",
+      "text": "mataxanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "多少次",
+          "en": "how many times",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x01",
+      "source": "pazih-dict",
+      "localId": "p318-05-x01",
+      "unit": "sentence",
+      "text": "mataxanisay a mukusa di mataru a retel?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你去埔里幾次？",
+          "en": "How many times did you go to the big village (Puli)?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-f02",
+      "source": "pazih-dict",
+      "localId": "p318-05-f02",
+      "unit": "word",
+      "text": "xanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "多少（人或物）",
+          "en": "how many (people, things)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "hanisay",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x02",
+      "source": "pazih-dict",
+      "localId": "p318-05-x02",
+      "unit": "phrase",
+      "text": "sungusungi xanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "數數看多少",
+          "en": "Count to see how many there are.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x03",
+      "source": "pazih-dict",
+      "localId": "p318-05-x03",
+      "unit": "sentence",
+      "text": "sungusungi na xanisay saw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "數數看有多少人！",
+          "en": "Count how many people there are!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x04",
+      "source": "pazih-dict",
+      "localId": "p318-05-x04",
+      "unit": "sentence",
+      "text": "xanisay a saw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有多少人？",
+          "en": "How many people are there?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x05",
+      "source": "pazih-dict",
+      "localId": "p318-05-x05",
+      "unit": "sentence",
+      "text": "isiw ka xanisay a kawas?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你幾歲？",
+          "en": "How old are you?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-f03",
+      "source": "pazih-dict",
+      "localId": "p318-05-f03",
+      "unit": "word",
+      "text": "xanixanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幾個",
+          "en": "several",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下派生詞",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p318-05-x06",
+      "source": "pazih-dict",
+      "localId": "p318-05-x06",
+      "unit": "sentence",
+      "text": "mata si xanixanisay a binayu lia xanixanisay a raxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "從一座山翻過一座山，一條河又過一條河",
+          "en": "It flew over several mountains and rivers.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p318-05",
+        "role": "example",
+        "parent": "pazih-dict:p318-05-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.318–319，xanis- 條下例句",
+        "page": 318,
+        "pages": [
+          318,
+          319
+        ],
+        "row": null,
+        "code": "p318-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p318.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

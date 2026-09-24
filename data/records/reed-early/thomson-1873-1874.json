@@ -1,0 +1,2426 @@
+{
+  "source": "reed-early",
+  "shard": "thomson-1873-1874",
+  "label": "Thomson 1873–1874",
+  "groups": [
+    {
+      "id": "reed-early:src-thomson-1873-1874",
+      "source": "reed-early",
+      "type": "list",
+      "title": "Thomson 1873–1874",
+      "subtitle": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "citation": null,
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "reed-early:w0001",
+      "source": "reed-early",
+      "localId": "w0001",
+      "unit": "word",
+      "text": "satdeal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Bad",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #1（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 2,
+        "code": "1",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0002",
+      "source": "reed-early",
+      "localId": "w0002",
+      "unit": "word",
+      "text": "polekat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Die",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #2（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 3,
+        "code": "2",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0003",
+      "source": "reed-early",
+      "localId": "w0003",
+      "unit": "word",
+      "text": "mudauch",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Drink",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #3（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 4,
+        "code": "3",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0004",
+      "source": "reed-early",
+      "localId": "w0004",
+      "unit": "phrase",
+      "text": "mudauch inunsat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Drink wine",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #4（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 5,
+        "code": "4",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0005",
+      "source": "reed-early",
+      "localId": "w0005",
+      "unit": "word",
+      "text": "makan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Eat",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #5（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 6,
+        "code": "5",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0006",
+      "source": "reed-early",
+      "localId": "w0006",
+      "unit": "word",
+      "text": "makan-somai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Eat rice",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #6（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 7,
+        "code": "6",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0007",
+      "source": "reed-early",
+      "localId": "w0007",
+      "unit": "word",
+      "text": "katxaney",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Free",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #7（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 8,
+        "code": "7",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0008",
+      "source": "reed-early",
+      "localId": "w0008",
+      "unit": "word",
+      "text": "riak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Good",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #8（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 9,
+        "code": "8",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0009",
+      "source": "reed-early",
+      "localId": "w0009",
+      "unit": "word",
+      "text": "matalah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Great",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #9（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 10,
+        "code": "9",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0010",
+      "source": "reed-early",
+      "localId": "w0010",
+      "unit": "word",
+      "text": "baban",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "High",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #10（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 11,
+        "code": "10",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0019",
+      "source": "reed-early",
+      "localId": "w0019",
+      "unit": "word",
+      "text": "iakok",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "I, me",
+          "nan": null
+        }
+      ],
+      "pos": "pronoun",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #19（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 20,
+        "code": "19",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0020",
+      "source": "reed-early",
+      "localId": "w0020",
+      "unit": "word",
+      "text": "meirad",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Live",
+          "nan": null
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #20（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 21,
+        "code": "20",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0021",
+      "source": "reed-early",
+      "localId": "w0021",
+      "unit": "word",
+      "text": "tatenɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Small",
+          "nan": null
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #21（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 22,
+        "code": "21",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0022",
+      "source": "reed-early",
+      "localId": "w0022",
+      "unit": "word",
+      "text": "isu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Thou, ye",
+          "nan": null
+        }
+      ],
+      "pos": "pronoun",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #22（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 23,
+        "code": "22",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0150",
+      "source": "reed-early",
+      "localId": "w0150",
+      "unit": "word",
+      "text": "limat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Arm",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #150（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 151,
+        "code": "150",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0151",
+      "source": "reed-early",
+      "localId": "w0151",
+      "unit": "word",
+      "text": "darik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Eyes",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #151（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 152,
+        "code": "151",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0152",
+      "source": "reed-early",
+      "localId": "w0152",
+      "unit": "word",
+      "text": "bakus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Hair",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #152（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 153,
+        "code": "152",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0153",
+      "source": "reed-early",
+      "localId": "w0153",
+      "unit": "word",
+      "text": "poonat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Head",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #153（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 154,
+        "code": "153",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0154",
+      "source": "reed-early",
+      "localId": "w0154",
+      "unit": "word",
+      "text": "karan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Leg",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #154（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 155,
+        "code": "154",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0155",
+      "source": "reed-early",
+      "localId": "w0155",
+      "unit": "word",
+      "text": "lahar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Mouth",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #155（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 156,
+        "code": "155",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0156",
+      "source": "reed-early",
+      "localId": "w0156",
+      "unit": "word",
+      "text": "moodinɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Nose",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #156（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 157,
+        "code": "156",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0259",
+      "source": "reed-early",
+      "localId": "w0259",
+      "unit": "word",
+      "text": "babu-kanas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Heaven",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #259（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 260,
+        "code": "259",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0260",
+      "source": "reed-early",
+      "localId": "w0260",
+      "unit": "word",
+      "text": "illas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Moon",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #260（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 261,
+        "code": "260",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0261",
+      "source": "reed-early",
+      "localId": "w0261",
+      "unit": "word",
+      "text": "binaiss",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Mountain",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #261（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 262,
+        "code": "261",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0262",
+      "source": "reed-early",
+      "localId": "w0262",
+      "unit": "word",
+      "text": "anass",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Sea",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #262（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 263,
+        "code": "262",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0263",
+      "source": "reed-early",
+      "localId": "w0263",
+      "unit": "word",
+      "text": "bintool",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Star",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #263（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 264,
+        "code": "263",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0264",
+      "source": "reed-early",
+      "localId": "w0264",
+      "unit": "word",
+      "text": "liddock",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Sun",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #264（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 265,
+        "code": "264",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0301",
+      "source": "reed-early",
+      "localId": "w0301",
+      "unit": "word",
+      "text": "ida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "001, One",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #301（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 302,
+        "code": "301",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0305",
+      "source": "reed-early",
+      "localId": "w0305",
+      "unit": "word",
+      "text": "doosah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "002, two",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #305（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 306,
+        "code": "305",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0309",
+      "source": "reed-early",
+      "localId": "w0309",
+      "unit": "word",
+      "text": "tooro",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "003, Three",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #309（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 310,
+        "code": "309",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0313",
+      "source": "reed-early",
+      "localId": "w0313",
+      "unit": "word",
+      "text": "supat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "004, Four",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #313（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 314,
+        "code": "313",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0317",
+      "source": "reed-early",
+      "localId": "w0317",
+      "unit": "word",
+      "text": "hassub",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "005, Five",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #317（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 318,
+        "code": "317",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0321",
+      "source": "reed-early",
+      "localId": "w0321",
+      "unit": "word",
+      "text": "boodah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "006, Six",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #321（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 322,
+        "code": "321",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0326",
+      "source": "reed-early",
+      "localId": "w0326",
+      "unit": "word",
+      "text": "bi-doosut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "007, Seven",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #326（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 327,
+        "code": "326",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0330",
+      "source": "reed-early",
+      "localId": "w0330",
+      "unit": "word",
+      "text": "bi-tooro",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "008, Eight",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #330（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 331,
+        "code": "330",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0334",
+      "source": "reed-early",
+      "localId": "w0334",
+      "unit": "word",
+      "text": "bi-supat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "009, Nine",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #334（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 335,
+        "code": "334",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0338",
+      "source": "reed-early",
+      "localId": "w0338",
+      "unit": "word",
+      "text": "isid",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "010, Ten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #338（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 339,
+        "code": "338",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0346",
+      "source": "reed-early",
+      "localId": "w0346",
+      "unit": "word",
+      "text": "lakehan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Child",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "person",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #346（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 347,
+        "code": "346",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0347",
+      "source": "reed-early",
+      "localId": "w0347",
+      "unit": "word",
+      "text": "mamalunɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Man",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "person",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #347（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 348,
+        "code": "347",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0348",
+      "source": "reed-early",
+      "localId": "w0348",
+      "unit": "word",
+      "text": "mameoss",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Woman",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "person",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #348（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 349,
+        "code": "348",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0403",
+      "source": "reed-early",
+      "localId": "w0403",
+      "unit": "word",
+      "text": "mamaop",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Daughter or girl",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #403（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 404,
+        "code": "403",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0404",
+      "source": "reed-early",
+      "localId": "w0404",
+      "unit": "word",
+      "text": "abusan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Elder brother",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #404（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 405,
+        "code": "404",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0405",
+      "source": "reed-early",
+      "localId": "w0405",
+      "unit": "word",
+      "text": "aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Father",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #405（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 406,
+        "code": "405",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0406",
+      "source": "reed-early",
+      "localId": "w0406",
+      "unit": "word",
+      "text": "inna",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Mother",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #406（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 407,
+        "code": "406",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0407",
+      "source": "reed-early",
+      "localId": "w0407",
+      "unit": "word",
+      "text": "mamaop",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Sister",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #407（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 408,
+        "code": "407",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0408",
+      "source": "reed-early",
+      "localId": "w0408",
+      "unit": "word",
+      "text": "soaip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Younger brother",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #408（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 409,
+        "code": "408",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0424",
+      "source": "reed-early",
+      "localId": "w0424",
+      "unit": "phrase",
+      "text": "lakehan mamalunɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "son",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #424（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 425,
+        "code": "424",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0443",
+      "source": "reed-early",
+      "localId": "w0443",
+      "unit": "word",
+      "text": "lahan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Day",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "time",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #443（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 444,
+        "code": "443",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0444",
+      "source": "reed-early",
+      "localId": "w0444",
+      "unit": "word",
+      "text": "hinien",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Shekhoan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "Night",
+          "nan": null
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "time",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-thomson-1873-1874",
+        "role": "item",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #444（Thomson 1873–1874）",
+        "page": null,
+        "pages": [],
+        "row": 445,
+        "code": "444",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Thomson, John. \"Short Vocabularies of the dialects spoken by the aboriginies of Formosa.\" Appendix [5 tables] in: The Straits of Malacca, Indo-China and China ot Ten years' travels, adventures and residence abroad. London: Sampson Low, Marston, Low, & Searle, 1873-1874",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

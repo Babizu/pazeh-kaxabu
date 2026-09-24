@@ -1,0 +1,636 @@
+{
+  "source": "pazih-dict",
+  "shard": "p095",
+  "label": "p.95",
+  "groups": [
+    {
+      "id": "pazih-dict:p095-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "buxuan",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p095-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "buxuan",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p095-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "buxux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxux- 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p095-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "buzing",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buzing 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p095-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "buzux",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buzux 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p095-01",
+      "source": "pazih-dict",
+      "localId": "p095-01",
+      "unit": "word",
+      "text": "buxuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "種子（菜種子，稻種子）",
+          "en": "seed (of vegetable/rice/millet) for sowing",
+          "nan": null
+        },
+        {
+          "zh": "核仁",
+          "en": "kernel of fruit",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p095-01-f01",
+      "source": "pazih-dict",
+      "localId": "p095-01-f01",
+      "unit": "word",
+      "text": "bubuxuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長芽",
+          "en": "is budding",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條下派生詞",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-02",
+      "source": "pazih-dict",
+      "localId": "p095-02",
+      "unit": "word",
+      "text": "buxuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p095-02-f01",
+      "source": "pazih-dict",
+      "localId": "p095-02-f01",
+      "unit": "word",
+      "text": "tabuxuanan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "豬槽",
+          "en": "trough, pig feeder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條下派生詞",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-02-x01",
+      "source": "pazih-dict",
+      "localId": "p095-02-x01",
+      "unit": "sentence",
+      "text": "tabuxuanan a paranah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "槽船",
+          "en": "a small boat for fishing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-02",
+        "role": "example",
+        "parent": "pazih-dict:p095-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxuan 條下例句",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-03",
+      "source": "pazih-dict",
+      "localId": "p095-03",
+      "unit": "affix",
+      "text": "buxux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxux- 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-03-f01",
+      "source": "pazih-dict",
+      "localId": "p095-03-f01",
+      "unit": "word",
+      "text": "mubuxux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "孵（卵），小雞、鴨破殼而出",
+          "en": "to hatch (eggs)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxux- 條下派生詞",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-03-x01",
+      "source": "pazih-dict",
+      "localId": "p095-03-x01",
+      "unit": "sentence",
+      "text": "mubuxux lia ki pataru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小雞破殼而出",
+          "en": "The chick was born.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-03",
+        "role": "example",
+        "parent": "pazih-dict:p095-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buxux- 條下例句",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-04",
+      "source": "pazih-dict",
+      "localId": "p095-04",
+      "unit": "word",
+      "text": "buzing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "褐吻蝦虎，小魚名“狗干仔”",
+          "en": "fish sp., (small), Rhinogobius brunneus (Temminck et Schlegel)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buzing 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p095-05",
+      "source": "pazih-dict",
+      "localId": "p095-05",
+      "unit": "word",
+      "text": "buzux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "箭",
+          "en": "arrow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p095-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.95，buzux 條",
+        "page": 95,
+        "pages": [
+          95
+        ],
+        "row": null,
+        "code": "p095-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p095.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

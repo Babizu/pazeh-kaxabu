@@ -1,0 +1,795 @@
+{
+  "source": "pazih-dict",
+  "shard": "p081",
+  "label": "p.81",
+  "groups": [
+    {
+      "id": "pazih-dict:p081-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bakuay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bakuay 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bakung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bakung 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bal",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bal 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "balabal",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balabal 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "balan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balan 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "balas",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p081-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "balas",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p081-01",
+      "source": "pazih-dict",
+      "localId": "p081-01",
+      "unit": "word",
+      "text": "bakuay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "甲狀腺腫",
+          "en": "goiter",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bakuay 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-02",
+      "source": "pazih-dict",
+      "localId": "p081-02",
+      "unit": "word",
+      "text": "bakung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "喉嚨",
+          "en": "throat",
+          "nan": null
+        },
+        {
+          "zh": "喉節",
+          "en": "Adam's apple",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bakung 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-02-x01",
+      "source": "pazih-dict",
+      "localId": "p081-02-x01",
+      "unit": "sentence",
+      "text": "makrid a bakung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "口渴",
+          "en": "thirsty",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bakung 條下例句",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-03",
+      "source": "pazih-dict",
+      "localId": "p081-03",
+      "unit": "word",
+      "text": "bal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "上短衣（穿在最外面）",
+          "en": "upper short dress",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "ban",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，bal 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-04",
+      "source": "pazih-dict",
+      "localId": "p081-04",
+      "unit": "word",
+      "text": "balabal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "棕櫚（長在溪邊，從前用來清掃屋頂）",
+          "en": "palm tree, plant sp., Trachycarpus wagnerianus Becc.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balabal 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-05",
+      "source": "pazih-dict",
+      "localId": "p081-05",
+      "unit": "word",
+      "text": "balan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "貓",
+          "en": "cat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balan 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-06",
+      "source": "pazih-dict",
+      "localId": "p081-06",
+      "unit": "word",
+      "text": "balas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "雄的（豬、狗、貓等）",
+          "en": "male (animals such as pigs, dogs and cats)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. xipu",
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p081-06-x01",
+      "source": "pazih-dict",
+      "localId": "p081-06-x01",
+      "unit": "phrase",
+      "text": "balas wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "公狗",
+          "en": "male dog",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條下例句",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-06-x02",
+      "source": "pazih-dict",
+      "localId": "p081-06-x02",
+      "unit": "phrase",
+      "text": "balas nuang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "公牛",
+          "en": "ox",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條下例句",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-07",
+      "source": "pazih-dict",
+      "localId": "p081-07",
+      "unit": "word",
+      "text": "balas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工",
+          "en": "labor",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p081-07-x01",
+      "source": "pazih-dict",
+      "localId": "p081-07-x01",
+      "unit": "phrase",
+      "text": "maapapenget balas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "換工",
+          "en": "to exchange labor",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條下例句",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p081-07-f01",
+      "source": "pazih-dict",
+      "localId": "p081-07-f01",
+      "unit": "phrase",
+      "text": "balas pauzi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "赤狗",
+          "en": "(?) plant sp., Castanopsis borneensis King (?)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p081-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.81，balas 條下派生詞",
+        "page": 81,
+        "pages": [
+          81
+        ],
+        "row": null,
+        "code": "p081-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p081.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

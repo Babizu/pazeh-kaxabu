@@ -1,0 +1,6745 @@
+{
+  "source": "kaxabu-classified",
+  "shard": "c06",
+  "label": "第 06 類",
+  "groups": [
+    {
+      "id": "kaxabu-classified:cat-06",
+      "source": "kaxabu-classified",
+      "type": "category",
+      "title": "類別 06",
+      "subtitle": null,
+      "citation": null,
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "kaxabu-classified:06-001",
+      "source": "kaxabu-classified",
+      "localId": "06-001",
+      "unit": "word",
+      "text": "balax",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ba lax"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工具",
+          "en": null,
+          "nan": "tsò-kang ê ke-si-thâu"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-001",
+        "page": null,
+        "pages": [],
+        "row": 1295,
+        "code": "06-001",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-002",
+      "source": "kaxabu-classified",
+      "localId": "06-002",
+      "unit": "word",
+      "text": "liliwngan",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鏡子",
+          "en": null,
+          "nan": "kiàn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:13-038",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-002",
+        "page": null,
+        "pages": [],
+        "row": 1296,
+        "code": "06-002",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見13-038條liliwngan映照著"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-003",
+      "source": "kaxabu-classified",
+      "localId": "06-003",
+      "unit": "word",
+      "text": "paxililiungan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "pa xi li liu ngan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鏡子，照鏡子",
+          "en": null,
+          "nan": "kiàn，chiò-kiàn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-003",
+        "page": null,
+        "pages": [],
+        "row": 1297,
+        "code": "06-003",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-004",
+      "source": "kaxabu-classified",
+      "localId": "06-004",
+      "unit": "word",
+      "text": "lingu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "lì-ngu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "照，反射；影子；靈魂；鬼的委婉詞",
+          "en": null,
+          "nan": "chiò，hoán-siā"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-004",
+        "page": null,
+        "pages": [],
+        "row": 1298,
+        "code": "06-004",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-005",
+      "source": "kaxabu-classified",
+      "localId": "06-005",
+      "unit": "word",
+      "text": "salaman",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sà lā man"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "飯碗",
+          "en": null,
+          "nan": "oán，té-pn̄g ê oán"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-005",
+        "page": null,
+        "pages": [],
+        "row": 1299,
+        "code": "06-005",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-006",
+      "source": "kaxabu-classified",
+      "localId": "06-006",
+      "unit": "word",
+      "text": "sibulu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sì bū lu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "茶杯",
+          "en": null,
+          "nan": "au-á，tê-poe，tê-au"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-006",
+        "page": null,
+        "pages": [],
+        "row": 1300,
+        "code": "06-006",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-007",
+      "source": "kaxabu-classified",
+      "localId": "06-007",
+      "unit": "word",
+      "text": "baraw",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bà rau"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "籐籃；碗公",
+          "en": null,
+          "nan": "tîn-nâ"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-007",
+        "page": null,
+        "pages": [],
+        "row": 1301,
+        "code": "06-007",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-008",
+      "source": "kaxabu-classified",
+      "localId": "06-008",
+      "unit": "word",
+      "text": "sibaw",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sì bau"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "藤盤",
+          "en": null,
+          "nan": "pôan，iōng tîn chò--ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-008",
+        "page": null,
+        "pages": [],
+        "row": 1302,
+        "code": "06-008",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-009",
+      "source": "kaxabu-classified",
+      "localId": "06-009",
+      "unit": "word",
+      "text": "musitak",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù sī tak"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "裂縫",
+          "en": null,
+          "nan": "lı̍h-hûn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-009",
+        "page": null,
+        "pages": [],
+        "row": 1303,
+        "code": "06-009",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-010",
+      "source": "kaxabu-classified",
+      "localId": "06-010",
+      "unit": "word",
+      "text": "muluzuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù lu zuk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "深底的容器",
+          "en": null,
+          "nan": "chhim-té ê khì-khū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-010",
+        "page": null,
+        "pages": [],
+        "row": 1304,
+        "code": "06-010",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-011",
+      "source": "kaxabu-classified",
+      "localId": "06-011",
+      "unit": "word",
+      "text": "makubabia",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mà ku bà bia"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "凹陷的，變形的",
+          "en": null,
+          "nan": "lap-lo̍h，au-au，bái-bái"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-011",
+        "page": null,
+        "pages": [],
+        "row": 1305,
+        "code": "06-011",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-012",
+      "source": "kaxabu-classified",
+      "localId": "06-012",
+      "unit": "word",
+      "text": "ulux",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ù lux"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "瓷製品，杯子（有把手的）",
+          "en": null,
+          "nan": "hûi-á tsò ê khì-khū，poe-á (ū hīn ê)"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-012",
+        "page": null,
+        "pages": [],
+        "row": 1306,
+        "code": "06-012",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-013",
+      "source": "kaxabu-classified",
+      "localId": "06-013",
+      "unit": "word",
+      "text": "sibulu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sì bu lu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "杯子（無把手的）",
+          "en": null,
+          "nan": "poe-á (bô hīn ê)"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-013",
+        "page": null,
+        "pages": [],
+        "row": 1307,
+        "code": "06-013",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-014",
+      "source": "kaxabu-classified",
+      "localId": "06-014",
+      "unit": "word",
+      "text": "sibulu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sì bu lu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "杯子",
+          "en": null,
+          "nan": "poe-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-014",
+        "page": null,
+        "pages": [],
+        "row": 1308,
+        "code": "06-014",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "另有一詞sibuung語意相同"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-015",
+      "source": "kaxabu-classified",
+      "localId": "06-015",
+      "unit": "word",
+      "text": "tindu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tīn du"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "瓶子（上方開口小的，如：保特瓶）",
+          "en": null,
+          "nan": "khan，chiú-koàn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-015",
+        "page": null,
+        "pages": [],
+        "row": 1309,
+        "code": "06-015",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-016",
+      "source": "kaxabu-classified",
+      "localId": "06-016",
+      "unit": "word",
+      "text": "baanban",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bân ban"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水缸",
+          "en": null,
+          "nan": "tsúi-kng，toā-hêng--ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-016",
+        "page": null,
+        "pages": [],
+        "row": 1310,
+        "code": "06-016",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-017",
+      "source": "kaxabu-classified",
+      "localId": "06-017",
+      "unit": "word",
+      "text": "kaumux",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kâu mux"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "茶壺（圓圓的容器-中間可裝物）",
+          "en": null,
+          "nan": "tê-ô•，tê-kó•"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-017",
+        "page": null,
+        "pages": [],
+        "row": 1311,
+        "code": "06-017",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-018",
+      "source": "kaxabu-classified",
+      "localId": "06-018",
+      "unit": "word",
+      "text": "kalitik",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà li tik"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "球(中間空心，不可裝物)",
+          "en": null,
+          "nan": "kiû (tiong-ng khang-sim， bē-sái chng mi̍h-kiān)"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-018",
+        "page": null,
+        "pages": [],
+        "row": 1312,
+        "code": "06-018",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-019",
+      "source": "kaxabu-classified",
+      "localId": "06-019",
+      "unit": "word",
+      "text": "mizazuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mì za zuk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "開水壺",
+          "en": null,
+          "nan": "un-tsúi-koàn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-019",
+        "page": null,
+        "pages": [],
+        "row": 1313,
+        "code": "06-019",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-020",
+      "source": "kaxabu-classified",
+      "localId": "06-020",
+      "unit": "word",
+      "text": "bulian",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bù lian"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鼎（鍋具，鍋子）",
+          "en": null,
+          "nan": "tián，oe，tsú-mı̍h ê khì-khū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-020",
+        "page": null,
+        "pages": [],
+        "row": 1314,
+        "code": "06-020",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-021",
+      "source": "kaxabu-classified",
+      "localId": "06-021",
+      "unit": "word",
+      "text": "gunugun",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "gù nū gun"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桶子",
+          "en": null,
+          "nan": "tháng，chhâ-tháng"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-021",
+        "page": null,
+        "pages": [],
+        "row": 1315,
+        "code": "06-021",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-022",
+      "source": "kaxabu-classified",
+      "localId": "06-022",
+      "unit": "word",
+      "text": "taidura",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tai dù ra"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桶腳架（有腳的桶子）",
+          "en": null,
+          "nan": "tháng-kha，tháng-kè"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-022",
+        "page": null,
+        "pages": [],
+        "row": 1316,
+        "code": "06-022",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-023",
+      "source": "kaxabu-classified",
+      "localId": "06-023",
+      "unit": "word",
+      "text": "mudius",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù dius"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舀出",
+          "en": null,
+          "nan": "iún-chhut"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-023",
+        "page": null,
+        "pages": [],
+        "row": 1317,
+        "code": "06-023",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-024",
+      "source": "kaxabu-classified",
+      "localId": "06-024",
+      "unit": "word",
+      "text": "dadius",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "dà dius"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "湯匙",
+          "en": null,
+          "nan": "thng-sî"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-024",
+        "page": null,
+        "pages": [],
+        "row": 1318,
+        "code": "06-024",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-025",
+      "source": "kaxabu-classified",
+      "localId": "06-025",
+      "unit": "word",
+      "text": "mixabaxap",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mì xa bà xap"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "杓子，水瓢",
+          "en": null,
+          "nan": "hia，tsúi-hia，pû-hia"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-025",
+        "page": null,
+        "pages": [],
+        "row": 1319,
+        "code": "06-025",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-026",
+      "source": "kaxabu-classified",
+      "localId": "06-026",
+      "unit": "word",
+      "text": "mukuléh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù kū leh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（舀）杓",
+          "en": null,
+          "nan": "iún，ko•，hia"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-026",
+        "page": null,
+        "pages": [],
+        "row": 1320,
+        "code": "06-026",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-027",
+      "source": "kaxabu-classified",
+      "localId": "06-027",
+      "unit": "word",
+      "text": "kuléh'i",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kù leh i"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（舀）杓",
+          "en": null,
+          "nan": "iún，ko•，hia"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-027",
+        "page": null,
+        "pages": [],
+        "row": 1321,
+        "code": "06-027",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-028",
+      "source": "kaxabu-classified",
+      "localId": "06-028",
+      "unit": "word",
+      "text": "tahim",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tà him"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斟，倒下（茶水）",
+          "en": null,
+          "nan": "thîn，thîn-tê，thîn-tsúi"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-028",
+        "page": null,
+        "pages": [],
+        "row": 1322,
+        "code": "06-028",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-029",
+      "source": "kaxabu-classified",
+      "localId": "06-029",
+      "unit": "word",
+      "text": "téhéngi",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tè he ngi"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "加上（茶水）",
+          "en": null,
+          "nan": "thîn-tê，thîn-tsúi"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-029",
+        "page": null,
+        "pages": [],
+        "row": 1323,
+        "code": "06-029",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-030",
+      "source": "kaxabu-classified",
+      "localId": "06-030",
+      "unit": "word",
+      "text": "medekets",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mə̀ də kəts"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "淋熱水",
+          "en": null,
+          "nan": "lâm-tsúi，sio ê tsúi"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-030",
+        "page": null,
+        "pages": [],
+        "row": 1324,
+        "code": "06-030",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-031",
+      "source": "kaxabu-classified",
+      "localId": "06-031",
+      "unit": "word",
+      "text": "muxo'axo",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù xo à xo"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刮除獸毛",
+          "en": null,
+          "nan": "khau，iōng to khau-mô•"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-031",
+        "page": null,
+        "pages": [],
+        "row": 1325,
+        "code": "06-031",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-032",
+      "source": "kaxabu-classified",
+      "localId": "06-032",
+      "unit": "word",
+      "text": "mubulats",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù bu lats"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "潑熱水，澆水",
+          "en": null,
+          "nan": "phoah，phoah sio-tsúi"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-032",
+        "page": null,
+        "pages": [],
+        "row": 1326,
+        "code": "06-032",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-033",
+      "source": "kaxabu-classified",
+      "localId": "06-033",
+      "unit": "word",
+      "text": "baiku",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bāi ku"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舀匙，大湯匙",
+          "en": null,
+          "nan": "ám-sia̍h-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-033",
+        "page": null,
+        "pages": [],
+        "row": 1327,
+        "code": "06-033",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-034",
+      "source": "kaxabu-classified",
+      "localId": "06-034",
+      "unit": "word",
+      "text": "tababaux",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tà bā baux"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "上方開口的匏仔殼",
+          "en": null,
+          "nan": "pû-á óe-chí，thang té mi̍h ê khì-khū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-034",
+        "page": null,
+        "pages": [],
+        "row": 1328,
+        "code": "06-034",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-035",
+      "source": "kaxabu-classified",
+      "localId": "06-035",
+      "unit": "word",
+      "text": "saa'ixu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa ì xu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "棒樁，大的攪拌棒",
+          "en": null,
+          "nan": "kiáu-lā，kóe-khı̍t"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-035",
+        "page": null,
+        "pages": [],
+        "row": 1329,
+        "code": "06-035",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "用途：攪粿"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-036",
+      "source": "kaxabu-classified",
+      "localId": "06-036",
+      "unit": "word",
+      "text": "mu'ulap",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù u lap"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "溢出",
+          "en": null,
+          "nan": "boán-chhut ê mi̍h"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-036",
+        "page": null,
+        "pages": [],
+        "row": 1330,
+        "code": "06-036",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-037",
+      "source": "kaxabu-classified",
+      "localId": "06-037",
+      "unit": "word",
+      "text": "musuax",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù soax"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洩，滲出",
+          "en": null,
+          "nan": "sôe，tih，kā-soa，phah-kā-soa"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-037",
+        "page": null,
+        "pages": [],
+        "row": 1331,
+        "code": "06-037",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-038",
+      "source": "kaxabu-classified",
+      "localId": "06-038",
+      "unit": "word",
+      "text": "suaxsuax",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "soax soax"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "浪費",
+          "en": null,
+          "nan": "lōng-hùi"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-038",
+        "page": null,
+        "pages": [],
+        "row": 1332,
+        "code": "06-038",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-039",
+      "source": "kaxabu-classified",
+      "localId": "06-039",
+      "unit": "word",
+      "text": "luzung",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "lù zung"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "臼",
+          "en": null,
+          "nan": "cheng-khū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-039",
+        "page": null,
+        "pages": [],
+        "row": 1333,
+        "code": "06-039",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-040",
+      "source": "kaxabu-classified",
+      "localId": "06-040",
+      "unit": "word",
+      "text": "su'u",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sù-u"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "樁，杵",
+          "en": null,
+          "nan": "cheng-chhí，cheng-môa-chî ê chhí"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-040",
+        "page": null,
+        "pages": [],
+        "row": 1334,
+        "code": "06-040",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-041",
+      "source": "kaxabu-classified",
+      "localId": "06-041",
+      "unit": "word",
+      "text": "maxapux",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mà xa pux"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "石磨",
+          "en": null,
+          "nan": "chio̍h-bō，boâ-chiun ê chio̍h-bō"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-041",
+        "page": null,
+        "pages": [],
+        "row": 1335,
+        "code": "06-041",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-042",
+      "source": "kaxabu-classified",
+      "localId": "06-042",
+      "unit": "word",
+      "text": "muhé'éhé",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù he è he"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "礪磨",
+          "en": null,
+          "nan": "géng，boâ，ēng chio̍h-bō"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-042",
+        "page": null,
+        "pages": [],
+        "row": 1336,
+        "code": "06-042",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-043",
+      "source": "kaxabu-classified",
+      "localId": "06-043",
+      "unit": "phrase",
+      "text": "mu'i'it haiéhé",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù i it hai è he"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "推磨",
+          "en": null,
+          "nan": "ti teh géng，teh e"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-043",
+        "page": null,
+        "pages": [],
+        "row": 1337,
+        "code": "06-043",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-044",
+      "source": "kaxabu-classified",
+      "localId": "06-044",
+      "unit": "word",
+      "text": "satektek",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa tək tək"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鎚子",
+          "en": null,
+          "nan": "thûi-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-044",
+        "page": null,
+        "pages": [],
+        "row": 1338,
+        "code": "06-044",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-045",
+      "source": "kaxabu-classified",
+      "localId": "06-045",
+      "unit": "word",
+      "text": "kaxa",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà-xa"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鐵",
+          "en": null,
+          "nan": "thih"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-045",
+        "page": null,
+        "pages": [],
+        "row": 1339,
+        "code": "06-045",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-046",
+      "source": "kaxabu-classified",
+      "localId": "06-046",
+      "unit": "word",
+      "text": "karikir",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà ri kì r"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鋸子",
+          "en": null,
+          "nan": "kì-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-046",
+        "page": null,
+        "pages": [],
+        "row": 1340,
+        "code": "06-046",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-047",
+      "source": "kaxabu-classified",
+      "localId": "06-047",
+      "unit": "word",
+      "text": "saapaakalohong",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sā pa kà lō hong"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用來鑿洞的東西",
+          "en": null,
+          "nan": "thang hó chha̍k-khang ê mi̍h-kiān"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-047",
+        "page": null,
+        "pages": [],
+        "row": 1341,
+        "code": "06-047",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-048",
+      "source": "kaxabu-classified",
+      "localId": "06-048",
+      "unit": "word",
+      "text": "zuhak",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "zù hak"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鑿子",
+          "en": null,
+          "nan": "chha̍k-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-048",
+        "page": null,
+        "pages": [],
+        "row": 1342,
+        "code": "06-048",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-049",
+      "source": "kaxabu-classified",
+      "localId": "06-049",
+      "unit": "word",
+      "text": "mukuxuts",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù ku xuts"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刨平",
+          "en": null,
+          "nan": "khau-to，khau-pên ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-049",
+        "page": null,
+        "pages": [],
+        "row": 1343,
+        "code": "06-049",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-050",
+      "source": "kaxabu-classified",
+      "localId": "06-050",
+      "unit": "word",
+      "text": "kuxutsi",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kù xut si"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刮平(命令式)",
+          "en": null,
+          "nan": "chhoah hō•- i pên"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-050",
+        "page": null,
+        "pages": [],
+        "row": 1344,
+        "code": "06-050",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-051",
+      "source": "kaxabu-classified",
+      "localId": "06-051",
+      "unit": "word",
+      "text": "saakuxut",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa kù xut"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刮刀",
+          "en": null,
+          "nan": "khau-to"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-051",
+        "page": null,
+        "pages": [],
+        "row": 1345,
+        "code": "06-051",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-052",
+      "source": "kaxabu-classified",
+      "localId": "06-052",
+      "unit": "word",
+      "text": "iasam",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ia sám"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斧頭",
+          "en": null,
+          "nan": "pó•-thâu，phoà-chhâ ê khì-kū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 52
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-052",
+        "page": null,
+        "pages": [],
+        "row": 1346,
+        "code": "06-052",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-053",
+      "source": "kaxabu-classified",
+      "localId": "06-053",
+      "unit": "word",
+      "text": "tatak",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ta-tak"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鋤頭",
+          "en": null,
+          "nan": "tî-thâu"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:01F-002",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 53
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-053",
+        "page": null,
+        "pages": [],
+        "row": 1347,
+        "code": "06-053",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見01F-002條tatak a lepeng門牙，前排牙齒"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-054",
+      "source": "kaxabu-classified",
+      "localId": "06-054",
+      "unit": "word",
+      "text": "mudaxan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù da xan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掘子",
+          "en": null,
+          "nan": "ku̍t-á，oé-thô•--ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-054",
+        "page": null,
+        "pages": [],
+        "row": 1348,
+        "code": "06-054",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-055",
+      "source": "kaxabu-classified",
+      "localId": "06-055",
+      "unit": "phrase",
+      "text": "dakus a kaxa",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "dà kus ā kà xa"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鐵耙",
+          "en": null,
+          "nan": "thih-pê，thih-tsa̍h"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-055",
+        "page": null,
+        "pages": [],
+        "row": 1349,
+        "code": "06-055",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-056",
+      "source": "kaxabu-classified",
+      "localId": "06-056",
+      "unit": "word",
+      "text": "sauki",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sau-ki"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鐮刀",
+          "en": null,
+          "nan": "liâm-to，chháu-keh"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 56
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-056",
+        "page": null,
+        "pages": [],
+        "row": 1350,
+        "code": "06-056",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-057",
+      "source": "kaxabu-classified",
+      "localId": "06-057",
+      "unit": "word",
+      "text": "xaxaor",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "xà xā or"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鋸齒小鐮刀",
+          "en": null,
+          "nan": "liâm-le̍k-á，koah-tiū iōng ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 57
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-057",
+        "page": null,
+        "pages": [],
+        "row": 1351,
+        "code": "06-057",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-058",
+      "source": "kaxabu-classified",
+      "localId": "06-058",
+      "unit": "word",
+      "text": "sasia",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sà sia"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "手耙，整平農具",
+          "en": null,
+          "nan": "chhiú-pē"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-058",
+        "page": null,
+        "pages": [],
+        "row": 1352,
+        "code": "06-058",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-059",
+      "source": "kaxabu-classified",
+      "localId": "06-059",
+      "unit": "word",
+      "text": "mukizu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù ki zu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鏟子",
+          "en": null,
+          "nan": "chhiám-á，oé-khang ê khì-kū"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 59
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-059",
+        "page": null,
+        "pages": [],
+        "row": 1353,
+        "code": "06-059",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-060",
+      "source": "kaxabu-classified",
+      "localId": "06-060",
+      "unit": "word",
+      "text": "saakizu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa kì zu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鏟土的工具",
+          "en": null,
+          "nan": "chhiám-á ê ke-si"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 60
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-060",
+        "page": null,
+        "pages": [],
+        "row": 1354,
+        "code": "06-060",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-061",
+      "source": "kaxabu-classified",
+      "localId": "06-061",
+      "unit": "word",
+      "text": "saakari",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sā kà ri"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "挖具，鐵棒",
+          "en": null,
+          "nan": "khut-pāng，thih-kiāu"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 61
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-061",
+        "page": null,
+        "pages": [],
+        "row": 1355,
+        "code": "06-061",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-062",
+      "source": "kaxabu-classified",
+      "localId": "06-062",
+      "unit": "word",
+      "text": "zuuzupai",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "zu zù pai"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨",
+          "en": null,
+          "nan": "bôa"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 62
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-062",
+        "page": null,
+        "pages": [],
+        "row": 1356,
+        "code": "06-062",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-063",
+      "source": "kaxabu-classified",
+      "localId": "06-063",
+      "unit": "word",
+      "text": "saazupayan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa zù pā yan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨刀石",
+          "en": null,
+          "nan": "bôa-to-chio̍h"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 63
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-063",
+        "page": null,
+        "pages": [],
+        "row": 1357,
+        "code": "06-063",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-064",
+      "source": "kaxabu-classified",
+      "localId": "06-064",
+      "unit": "word",
+      "text": "buabor",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bù a bor"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "塵埃",
+          "en": null,
+          "nan": "tîn-ai，lah-sap"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 64
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-064",
+        "page": null,
+        "pages": [],
+        "row": 1358,
+        "code": "06-064",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-065",
+      "source": "kaxabu-classified",
+      "localId": "06-065",
+      "unit": "word",
+      "text": "siburoh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sì bu roh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "煙塵",
+          "en": null,
+          "nan": "ian-tîn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 65
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-065",
+        "page": null,
+        "pages": [],
+        "row": 1359,
+        "code": "06-065",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-066",
+      "source": "kaxabu-classified",
+      "localId": "06-066",
+      "unit": "word",
+      "text": "lalapun",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "là lā pun"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "垃圾",
+          "en": null,
+          "nan": "pùn-sò"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 66
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-066",
+        "page": null,
+        "pages": [],
+        "row": 1360,
+        "code": "06-066",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-067",
+      "source": "kaxabu-classified",
+      "localId": "06-067",
+      "unit": "word",
+      "text": "mudidis",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù di dis"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擦",
+          "en": null,
+          "nan": "chhit，chhit chheng-khì"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 67
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-067",
+        "page": null,
+        "pages": [],
+        "row": 1361,
+        "code": "06-067",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-068",
+      "source": "kaxabu-classified",
+      "localId": "06-068",
+      "unit": "word",
+      "text": "xaxipoh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "xà xī poh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用掃具掃乾淨",
+          "en": null,
+          "nan": "iōng sàu-siú sàu chheng-khì"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 68
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-068",
+        "page": null,
+        "pages": [],
+        "row": 1362,
+        "code": "06-068",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-069",
+      "source": "kaxabu-classified",
+      "localId": "06-069",
+      "unit": "word",
+      "text": "saasapoh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa sà poh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "清；掃具",
+          "en": null,
+          "nan": "iōng sàu-siú chhéng chhéng chheng-khì"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 69
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-069",
+        "page": null,
+        "pages": [],
+        "row": 1363,
+        "code": "06-069",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-070",
+      "source": "kaxabu-classified",
+      "localId": "06-070",
+      "unit": "word",
+      "text": "alipoh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "à li poh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以手拍打乾淨",
+          "en": null,
+          "nan": "pōan，pōan lah-sap"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 70
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-070",
+        "page": null,
+        "pages": [],
+        "row": 1364,
+        "code": "06-070",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-071",
+      "source": "kaxabu-classified",
+      "localId": "06-071",
+      "unit": "word",
+      "text": "taita'en",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tai tà ən"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用器物拍打（如雞毛撢子拍打）",
+          "en": null,
+          "nan": "pōan，pōan chheng-khì"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 71
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-071",
+        "page": null,
+        "pages": [],
+        "row": 1365,
+        "code": "06-071",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-072",
+      "source": "kaxabu-classified",
+      "localId": "06-072",
+      "unit": "word",
+      "text": "masezaw",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mà sə zau"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "乾淨",
+          "en": null,
+          "nan": "chheng-khì"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 72
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-072",
+        "page": null,
+        "pages": [],
+        "row": 1366,
+        "code": "06-072",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-073",
+      "source": "kaxabu-classified",
+      "localId": "06-073",
+      "unit": "word",
+      "text": "musapoh",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù sa poh"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掃把",
+          "en": null,
+          "nan": "thang sàu-tè--ê，thang iōng ê mi̍h"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 73
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-073",
+        "page": null,
+        "pages": [],
+        "row": 1367,
+        "code": "06-073",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-074",
+      "source": "kaxabu-classified",
+      "localId": "06-074",
+      "unit": "word",
+      "text": "tatapuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tà tā puk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蓋子",
+          "en": null,
+          "nan": "kòa，khàm-kòa"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 74
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-074",
+        "page": null,
+        "pages": [],
+        "row": 1368,
+        "code": "06-074",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-075",
+      "source": "kaxabu-classified",
+      "localId": "06-075",
+      "unit": "word",
+      "text": "muzumut",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mù zu mut"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "塞住",
+          "en": null,
+          "nan": "beh that-ba̍t ê ì-sù"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 75
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-075",
+        "page": null,
+        "pages": [],
+        "row": 1369,
+        "code": "06-075",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-076",
+      "source": "kaxabu-classified",
+      "localId": "06-076",
+      "unit": "word",
+      "text": "saazumut",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa zù mut"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "塞物，栓子",
+          "en": null,
+          "nan": "that-á，that"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 76
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-076",
+        "page": null,
+        "pages": [],
+        "row": 1370,
+        "code": "06-076",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-077",
+      "source": "kaxabu-classified",
+      "localId": "06-077",
+      "unit": "word",
+      "text": "takin",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tak-kin"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "竹籠，揹籠",
+          "en": null,
+          "nan": "phāin ê láng-á，nâ"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 77
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-077",
+        "page": null,
+        "pages": [],
+        "row": 1371,
+        "code": "06-077",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-078",
+      "source": "kaxabu-classified",
+      "localId": "06-078",
+      "unit": "word",
+      "text": "siisi",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sī si"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（裝衣服用的）籐籃",
+          "en": null,
+          "nan": "té-san ê nâ-á，tîn-tsò-ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 78
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-078",
+        "page": null,
+        "pages": [],
+        "row": 1372,
+        "code": "06-078",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-079",
+      "source": "kaxabu-classified",
+      "localId": "06-079",
+      "unit": "word",
+      "text": "karaha",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà rā há"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "籃子",
+          "en": null,
+          "nan": "nâ-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 79
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-079",
+        "page": null,
+        "pages": [],
+        "row": 1373,
+        "code": "06-079",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-080",
+      "source": "kaxabu-classified",
+      "localId": "06-080",
+      "unit": "phrase",
+      "text": "palalu a karaha",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "pà la lù a kà rā ha"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "搖籃",
+          "en": null,
+          "nan": "nâ-á，thang iōng-lâi iô gín-á--ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 80
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-080",
+        "page": null,
+        "pages": [],
+        "row": 1374,
+        "code": "06-080",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-081",
+      "source": "kaxabu-classified",
+      "localId": "06-081",
+      "unit": "word",
+      "text": "xaxari",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "xà xā ri"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "米篩",
+          "en": null,
+          "nan": "bí-thai，pùn-thai，thai-soán"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 81
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-081",
+        "page": null,
+        "pages": [],
+        "row": 1375,
+        "code": "06-081",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-082",
+      "source": "kaxabu-classified",
+      "localId": "06-082",
+      "unit": "word",
+      "text": "xinu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "xī nú"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "深底的竹製品，畚箕",
+          "en": null,
+          "nan": "pùn-ki，kám-ô•，ba̍t-té ê mi̍h"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 82
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-082",
+        "page": null,
+        "pages": [],
+        "row": 1376,
+        "code": "06-082",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-083",
+      "source": "kaxabu-classified",
+      "localId": "06-083",
+      "unit": "word",
+      "text": "huuxuu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "hù u xù u"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放置物品的工具（吊置的廚房的大儲存方籃）",
+          "en": null,
+          "nan": "tû-khì，khǹg mi̍h ê nâ-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 83
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-083",
+        "page": null,
+        "pages": [],
+        "row": 1377,
+        "code": "06-083",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-084",
+      "source": "kaxabu-classified",
+      "localId": "06-084",
+      "unit": "word",
+      "text": "lalubuts",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "là lū buts"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "布袋",
+          "en": null,
+          "nan": "pò•-tē"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 84
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-084",
+        "page": null,
+        "pages": [],
+        "row": 1378,
+        "code": "06-084",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-085",
+      "source": "kaxabu-classified",
+      "localId": "06-085",
+      "unit": "word",
+      "text": "kaakaway",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ka kà way"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "繩編的背袋，軟袋",
+          "en": null,
+          "nan": "nńg ê soh-á pian-chit ê phāin-tē"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 85
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-085",
+        "page": null,
+        "pages": [],
+        "row": 1379,
+        "code": "06-085",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-086",
+      "source": "kaxabu-classified",
+      "localId": "06-086",
+      "unit": "word",
+      "text": "saits",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "繩子，線",
+          "en": null,
+          "nan": "soh-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 86
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-086",
+        "page": null,
+        "pages": [],
+        "row": 1380,
+        "code": "06-086",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-087",
+      "source": "kaxabu-classified",
+      "localId": "06-087",
+      "unit": "word",
+      "text": "sasiper",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sà si pər"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "網子，漁網",
+          "en": null,
+          "nan": "hî-hia，sió-hî-hia-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 87
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-087",
+        "page": null,
+        "pages": [],
+        "row": 1381,
+        "code": "06-087",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-088",
+      "source": "kaxabu-classified",
+      "localId": "06-088",
+      "unit": "word",
+      "text": "sasipue",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sà si pûə"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "網子，漁網",
+          "en": null,
+          "nan": "hî-hia，bāng-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 88
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-088",
+        "page": null,
+        "pages": [],
+        "row": 1382,
+        "code": "06-088",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-089",
+      "source": "kaxabu-classified",
+      "localId": "06-089",
+      "unit": "word",
+      "text": "tatuku",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tà tū ku"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拐杖",
+          "en": null,
+          "nan": "koái-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 89
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-089",
+        "page": null,
+        "pages": [],
+        "row": 1383,
+        "code": "06-089",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-090",
+      "source": "kaxabu-classified",
+      "localId": "06-090",
+      "unit": "word",
+      "text": "tauting",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tâu ting"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打人的藤條、錘、蔞子、撞球杆",
+          "en": null,
+          "nan": "chhôe，chhôe-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 90
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-090",
+        "page": null,
+        "pages": [],
+        "row": 1384,
+        "code": "06-090",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-091",
+      "source": "kaxabu-classified",
+      "localId": "06-091",
+      "unit": "word",
+      "text": "atalat",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "à tā lat"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "梯子",
+          "en": null,
+          "nan": "thui，chiūn-lo̍h ê thui"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 91
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-091",
+        "page": null,
+        "pages": [],
+        "row": 1385,
+        "code": "06-091",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-092",
+      "source": "kaxabu-classified",
+      "localId": "06-092",
+      "unit": "word",
+      "text": "tuzuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tù zuk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "樓梯",
+          "en": null,
+          "nan": "chiūn lâu ê lâu-thui，thui-gám"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 92
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-092",
+        "page": null,
+        "pages": [],
+        "row": 1386,
+        "code": "06-092",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-093",
+      "source": "kaxabu-classified",
+      "localId": "06-093",
+      "unit": "word",
+      "text": "saatikipu",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa tì ki pu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "梯層",
+          "en": null,
+          "nan": "thui-tsân"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 93
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-093",
+        "page": null,
+        "pages": [],
+        "row": 1387,
+        "code": "06-093",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-094",
+      "source": "kaxabu-classified",
+      "localId": "06-094",
+      "unit": "word",
+      "text": "saakakela",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "sa kà k̄ə la"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腳踏板",
+          "en": null,
+          "nan": "ta̍h-pán"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 94
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-094",
+        "page": null,
+        "pages": [],
+        "row": 1388,
+        "code": "06-094",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-095",
+      "source": "kaxabu-classified",
+      "localId": "06-095",
+      "unit": "word",
+      "text": "tauketekan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tau kə̀ t̄ə kan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "砧板，菜砧",
+          "en": null,
+          "nan": "chhài-tiam"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 95
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-095",
+        "page": null,
+        "pages": [],
+        "row": 1389,
+        "code": "06-095",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-096",
+      "source": "kaxabu-classified",
+      "localId": "06-096",
+      "unit": "word",
+      "text": "kabat",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà bat"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木板",
+          "en": null,
+          "nan": "bo̍k-pang，chhâ-pang-á"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 96
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-096",
+        "page": null,
+        "pages": [],
+        "row": 1390,
+        "code": "06-096",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-097",
+      "source": "kaxabu-classified",
+      "localId": "06-097",
+      "unit": "phrase",
+      "text": "tutu patakan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "tū tu pà ta kan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "短的竹管（放菜、放肉等）",
+          "en": null,
+          "nan": "té-té ê tek-kóng，khǹg chhài、khǹg bah"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 97
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-097",
+        "page": null,
+        "pages": [],
+        "row": 1391,
+        "code": "06-097",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-098",
+      "source": "kaxabu-classified",
+      "localId": "06-098",
+      "unit": "word",
+      "text": "bukubuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bù ku buk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長的竹管，裝水用水容器",
+          "en": null,
+          "nan": "tn̂g ê tek-kóng，ji̍p-tsúi sú-iōng--ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 98
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-098",
+        "page": null,
+        "pages": [],
+        "row": 1392,
+        "code": "06-098",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-099",
+      "source": "kaxabu-classified",
+      "localId": "06-099",
+      "unit": "phrase",
+      "text": "miliw bukubuk",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mì liu bù ku buk"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿取裝水容器，抬水管",
+          "en": null,
+          "nan": "giâ，ūn-tsúi ê tek kóng"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 99
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-099",
+        "page": null,
+        "pages": [],
+        "row": 1393,
+        "code": "06-099",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-100",
+      "source": "kaxabu-classified",
+      "localId": "06-100",
+      "unit": "word",
+      "text": "miliw",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "mì liu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擔在肩上",
+          "en": null,
+          "nan": "tan tī keng-thâu"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 100
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-100",
+        "page": null,
+        "pages": [],
+        "row": 1394,
+        "code": "06-100",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-101",
+      "source": "kaxabu-classified",
+      "localId": "06-101",
+      "unit": "word",
+      "text": "iliw",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ì liu"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擔在肩上",
+          "en": null,
+          "nan": "tan-teh"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 101
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-101",
+        "page": null,
+        "pages": [],
+        "row": 1395,
+        "code": "06-101",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-102",
+      "source": "kaxabu-classified",
+      "localId": "06-102",
+      "unit": "phrase",
+      "text": "kalu isilaw batu patuk hapuy",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kā lu ì si lau bā tu pā tuk hà puy"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打火石",
+          "en": null,
+          "nan": "phah-hóe-chio̍h，ēng pe̍h chio̍h thâu khí hóe"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 102
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-102",
+        "page": null,
+        "pages": [],
+        "row": 1396,
+        "code": "06-102",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "白石頭為生火用的"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-103",
+      "source": "kaxabu-classified",
+      "localId": "06-103",
+      "unit": "word",
+      "text": "paupar",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "pâu par"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "火種紙",
+          "en": null,
+          "nan": "tsoá thang ín-hóe"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 103
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-103",
+        "page": null,
+        "pages": [],
+        "row": 1397,
+        "code": "06-103",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-104",
+      "source": "kaxabu-classified",
+      "localId": "06-104",
+      "unit": "word",
+      "text": "kakapit",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "kà ka pit"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "握柄",
+          "en": null,
+          "nan": "chhiú-pèn，ni the̍h ê"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 104
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-104",
+        "page": null,
+        "pages": [],
+        "row": 1398,
+        "code": "06-104",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-105",
+      "source": "kaxabu-classified",
+      "localId": "06-105",
+      "unit": "word",
+      "text": "baabaran",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ba bà ran"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抓魚的手拉網-八卦網",
+          "en": null,
+          "nan": "chhiú-bāng，giú，khiú"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 105
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-105",
+        "page": null,
+        "pages": [],
+        "row": 1399,
+        "code": "06-105",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-106",
+      "source": "kaxabu-classified",
+      "localId": "06-106",
+      "unit": "word",
+      "text": "taati'ilan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ta tì ī lan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鉤子，鉤針",
+          "en": null,
+          "nan": "hî-kau，kau chiam"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 106
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-106",
+        "page": null,
+        "pages": [],
+        "row": 1400,
+        "code": "06-106",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-107",
+      "source": "kaxabu-classified",
+      "localId": "06-107",
+      "unit": "word",
+      "text": "karumux",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "茶壺",
+          "en": null,
+          "nan": "tê-kó•"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:16-001",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 107
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-107",
+        "page": null,
+        "pages": [],
+        "row": 1401,
+        "code": "06-107",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "田",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見16-001條karumux圓的"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-108",
+      "source": "kaxabu-classified",
+      "localId": "06-108",
+      "unit": "word",
+      "text": "saabizu",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "筆",
+          "en": null,
+          "nan": "pit"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:23-031",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 108
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-108",
+        "page": null,
+        "pages": [],
+        "row": 1402,
+        "code": "06-108",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "田",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見23-031條23類文教類sabizu筆"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-109",
+      "source": "kaxabu-classified",
+      "localId": "06-109",
+      "unit": "word",
+      "text": "tualay",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "菜櫥",
+          "en": null,
+          "nan": "chhài-tû"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 109
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-109",
+        "page": null,
+        "pages": [],
+        "row": 1403,
+        "code": "06-109",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-110",
+      "source": "kaxabu-classified",
+      "localId": "06-110",
+      "unit": "phrase",
+      "text": "taating a tukaxa",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "手錶",
+          "en": null,
+          "nan": "chhiú-pió"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 110
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-110",
+        "page": null,
+        "pages": [],
+        "row": 1404,
+        "code": "06-110",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-111",
+      "source": "kaxabu-classified",
+      "localId": "06-111",
+      "unit": "word",
+      "text": "tukaxa",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "時鐘",
+          "en": null,
+          "nan": "sî-cheng"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 111
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-111",
+        "page": null,
+        "pages": [],
+        "row": 1405,
+        "code": "06-111",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-112",
+      "source": "kaxabu-classified",
+      "localId": "06-112",
+      "unit": "phrase",
+      "text": "tek tek kaxa",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "時鐘整點報時聲",
+          "en": null,
+          "nan": "sî-cheng chéng-tiám pò-sî ê sian"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 112
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-112",
+        "page": null,
+        "pages": [],
+        "row": 1406,
+        "code": "06-112",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-113",
+      "source": "kaxabu-classified",
+      "localId": "06-113",
+      "unit": "word",
+      "text": "kalaha",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簍子",
+          "en": null,
+          "nan": "táu-láng"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 113
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-113",
+        "page": null,
+        "pages": [],
+        "row": 1407,
+        "code": "06-113",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-114",
+      "source": "kaxabu-classified",
+      "localId": "06-114",
+      "unit": "word",
+      "text": "saakakawas",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可以講話的東西，指電話",
+          "en": null,
+          "nan": "thang hó kóng ê mı̍h-kiān, tiān-ōe"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:06-115",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 114
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-114",
+        "page": null,
+        "pages": [],
+        "row": 1408,
+        "code": "06-114",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見06-115條sakakawas通話機"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-115",
+      "source": "kaxabu-classified",
+      "localId": "06-115",
+      "unit": "word",
+      "text": "saakakawas",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "通話機",
+          "en": null,
+          "nan": "thong-ōe-ki"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [
+        {
+          "type": "see-also",
+          "target": "kaxabu-classified:06-114",
+          "label": null
+        }
+      ],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 115
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-115",
+        "page": null,
+        "pages": [],
+        "row": 1409,
+        "code": "06-115",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "參見06-114條sakakawas可以講話的東西，指電話"
+      ]
+    },
+    {
+      "id": "kaxabu-classified:06-116",
+      "source": "kaxabu-classified",
+      "localId": "06-116",
+      "unit": "word",
+      "text": "baubau'iak",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "bau bà ū iak"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "設施；裝設",
+          "en": null,
+          "nan": "siat-si，tsng-siat"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 116
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-116",
+        "page": null,
+        "pages": [],
+        "row": 1410,
+        "code": "06-116",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-117",
+      "source": "kaxabu-classified",
+      "localId": "06-117",
+      "unit": "word",
+      "text": "aizasaysay",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "āi za say say"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很多很多；每個地方都有",
+          "en": null,
+          "nan": "móa sì-kè"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 117
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-117",
+        "page": null,
+        "pages": [],
+        "row": 1411,
+        "code": "06-117",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "九",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "kaxabu-classified:06-118",
+      "source": "kaxabu-classified",
+      "localId": "06-118",
+      "unit": "phrase",
+      "text": "usa pasuwan",
+      "altTexts": [
+        {
+          "system": "pan-yongli",
+          "text": "ù sa pà sū wan"
+        }
+      ],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去翻一翻，整理整理；去換一換",
+          "en": null,
+          "nan": "piàn，khì chéng-lí-lí chı̍t--ē"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "06",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "kaxabu-classified:cat-06",
+        "role": "item",
+        "parent": null,
+        "seq": 118
+      },
+      "citation": {
+        "label": "《噶哈巫語分類辭典》06-118",
+        "page": null,
+        "pages": [],
+        "row": 1412,
+        "code": "06-118",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "潘",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "(1)將衣服翻一翻，摺一摺、收一收，整理整理；將田裡的土翻一翻、整理整理。\r\n(2)如：衣服髒了去換一換；工具拿錯去換一換。"
+      ]
+    }
+  ]
+}

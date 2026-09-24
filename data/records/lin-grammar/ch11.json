@@ -1,0 +1,3619 @@
+{
+  "source": "lin-grammar",
+  "shard": "ch11",
+  "label": "CH11子句類型",
+  "groups": [
+    {
+      "id": "lin-grammar:ch11",
+      "source": "lin-grammar",
+      "type": "list",
+      "title": "CH11子句類型",
+      "subtitle": null,
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "lin-grammar:ch11-11.1b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.1b",
+      "unit": "sentence",
+      "text": "imini ka dukun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是芋頭。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.1b)（潘德興 2020/12/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.1b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.1b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/12/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.2b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.2b",
+      "unit": "sentence",
+      "text": "dukun haki imini.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是芋頭。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.2b)（潘德興 2020/12/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.2b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.2b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/12/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.3a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.3a",
+      "unit": "sentence",
+      "text": "atun ka kaxabu a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 是噶哈巫人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.3a)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.3a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.3a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch11-11.4a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.4a",
+      "unit": "sentence",
+      "text": "kaxabu a saw ki atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 是噶哈巫人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.4a)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.4a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.4a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch11-11.5a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.5a",
+      "unit": "sentence",
+      "text": "ita ka tatawan a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們是臺灣人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.5a)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.5a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.5a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.5b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.5b",
+      "unit": "sentence",
+      "text": "yaku ka mamaneng a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我是男人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.5b)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.5b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.5b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.5c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.5c",
+      "unit": "sentence",
+      "text": "imisiw ka takat.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他是老師。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.5c)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.5c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.5c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.6a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.6a",
+      "unit": "sentence",
+      "text": "imini ka dukun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是芋頭。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.6a)（潘德興 2018/05/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.6a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.6a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.6b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.6b",
+      "unit": "sentence",
+      "text": "imini a eten ka sianglukus.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個村莊是守城。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.6b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.6b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.6b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.6c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.6c",
+      "unit": "sentence",
+      "text": "imisiw a saw ka atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個人是 Atun。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.6c)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.6c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.6c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.7a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.7a",
+      "unit": "sentence",
+      "text": "imini ka yaku a tatoko.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是我的拐杖。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.7a)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.7a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.7a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.7b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.7b",
+      "unit": "sentence",
+      "text": "imini ka yaku a aba.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是我的爸爸。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.7b)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.7b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.7b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.7c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.7c",
+      "unit": "sentence",
+      "text": "imini ka yaku a aba a siatu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是我爸爸的衣服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.7c)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.7c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.7c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.8a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.8a",
+      "unit": "sentence",
+      "text": "yaku (ka) mupuza lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我來了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.8a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.8a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.8a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.8b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.8b",
+      "unit": "sentence",
+      "text": "atun (ka) mututing yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 打我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.8b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.8b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.8b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.8a’",
+      "source": "lin-grammar",
+      "localId": "ch11-11.8a’",
+      "unit": "sentence",
+      "text": "mupuza haki yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我來了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.8a’)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.8a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.8a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.8b’",
+      "source": "lin-grammar",
+      "localId": "ch11-11.8b’",
+      "unit": "sentence",
+      "text": "mututing yaku haki atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 打我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.8b’)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.8b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.8b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.8c’",
+      "source": "lin-grammar",
+      "localId": "ch11-11.8c’",
+      "unit": "sentence",
+      "text": "baget haki imini.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他很胖。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.8c’)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.8c’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.8c_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.10a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.10a",
+      "unit": "sentence",
+      "text": "balan mungazip titay lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "貓咬老鼠了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.10a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.10a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.10a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.11a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.11a",
+      "unit": "sentence",
+      "text": "mungazip titay liaki balan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "貓咬老鼠了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.11a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.11a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.11a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.12a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.12a",
+      "unit": "sentence",
+      "text": "yaku a balax ka sakaw’en saw lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的工具被人拿了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.12a)（潘德興 2018/12/12）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.12a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.12a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/12/12"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.12b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.12b",
+      "unit": "sentence",
+      "text": "titay ngazip’en ni balan lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老鼠被貓咬了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.12b)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.12b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.12b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.12c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.12c",
+      "unit": "sentence",
+      "text": "yaku a pai deken’en naki a baba lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的錢被我的伯父撿了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.12c)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.12c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.12c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch11-11.13a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.13a",
+      "unit": "sentence",
+      "text": "salaman maa’en saw lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "碗被人拿了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.13a)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.13a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.13a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.13b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.13b",
+      "unit": "sentence",
+      "text": "maa’en saw liaki salaman.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "碗被人拿了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.13b)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.13b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.13b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.14",
+      "source": "lin-grammar",
+      "localId": "ch11-11.14",
+      "unit": "sentence",
+      "text": "hébut’en saw liaki atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 被人打了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.14)（潘德興 2021/01/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.14",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.14.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.16a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.16a",
+      "unit": "sentence",
+      "text": "yaku a pai sakaw’en sahat lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的錢被小偷偷了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.16a)（潘德興 2020/03/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.16a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.16a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/03/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.18a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.18a",
+      "unit": "sentence",
+      "text": "titay ngazip’en ni balan lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老鼠被貓咬了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.18a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.18a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.18a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.19a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.19a",
+      "unit": "sentence",
+      "text": "tuting’en ni aba liaki yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被爸爸打了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.19a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.19a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.19a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.20a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.20a",
+      "unit": "sentence",
+      "text": "yaku mupuza lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我來了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.20a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.20a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.20a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.20b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.20b",
+      "unit": "sentence",
+      "text": "yaku kaidini mituku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在這裡坐。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.20b)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.20b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.20b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.20c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.20c",
+      "unit": "sentence",
+      "text": "imini a kato ka mainu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這李子是酸的喔。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.20c)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.20c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.20c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.20d",
+      "source": "lin-grammar",
+      "localId": "ch11-11.20d",
+      "unit": "sentence",
+      "text": "imini a tatoko hateken.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這支枴杖很短。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.20d)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.20d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.20d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.20e",
+      "source": "lin-grammar",
+      "localId": "ch11-11.20e",
+      "unit": "sentence",
+      "text": "imini a tulala ka isilaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這朵花是白色的。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.20e)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.20e",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.20e.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.21a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.21a",
+      "unit": "sentence",
+      "text": "atun mututing yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 打我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.21a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.21a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.21a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.21b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.21b",
+      "unit": "sentence",
+      "text": "isiw haaput tulala bo?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你想要花嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.21b)（潘德興 2020/08/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.21b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.21b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.24a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.24a",
+      "unit": "sentence",
+      "text": "atun ka kaxabu a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 是噶哈巫人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.24a)（潘德興 2020/11/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.24a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.24a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.25a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.25a",
+      "unit": "sentence",
+      "text": "atun (ka) mututing yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 沒有打我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.25a)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.25a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.25a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch11-11.26a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.26a",
+      "unit": "sentence",
+      "text": "laladan nahaza saaken.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桌子（上）有菜餚。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.26a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.26a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.26a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.26b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.26b",
+      "unit": "sentence",
+      "text": "binayu nahaza binayu a bauzak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "山（上）有山豬。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.26b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.26b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.26b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.27a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.27a",
+      "unit": "sentence",
+      "text": "umamah nahaza dadas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "田（裡）有番薯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.27a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.27a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.27a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.28a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.28a",
+      "unit": "sentence",
+      "text": "paka isiw paluzuakzuak’i, nahaza ali akhéhén!",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓你多子多孫，有孫子、小孩！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.28a)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.28a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.28a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.28b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.28b",
+      "unit": "sentence",
+      "text": "yaku iu nahaza pai.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我也有錢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.28b)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.28b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.28b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.29",
+      "source": "lin-grammar",
+      "localId": "ch11-11.29",
+      "unit": "sentence",
+      "text": "nahaza saix haki nisiw a humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們家有屎。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.29)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.29",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.29.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.30a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.30a",
+      "unit": "sentence",
+      "text": "umamah kuang a dadas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "田（裡）沒有番薯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.30a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.30a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.30a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.30b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.30b",
+      "unit": "sentence",
+      "text": "binayu kuang a bauzak lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "山（上）沒有豬了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.30b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.30b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.30b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.32a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.32a",
+      "unit": "sentence",
+      "text": "yaku nahaza pai.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我有錢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.32a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.32a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.32a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.32b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.32b",
+      "unit": "sentence",
+      "text": "yaku nahaza mama iu iah.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我有哥哥和姐姐。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.32b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.32b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.32b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.33a’",
+      "source": "lin-grammar",
+      "localId": "ch11-11.33a’",
+      "unit": "sentence",
+      "text": "yaku meken lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.33a’)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.33a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.33a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.33b’",
+      "source": "lin-grammar",
+      "localId": "ch11-11.33b’",
+      "unit": "sentence",
+      "text": "imini a akhéhén mamay ka hinawiak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這小女孩很漂亮。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.33b’)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.33b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.33b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.34",
+      "source": "lin-grammar",
+      "localId": "ch11-11.34",
+      "unit": "sentence",
+      "text": "yaku kuang a pai.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒有錢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.34)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.34",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.34.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.35a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.35a",
+      "unit": "sentence",
+      "text": "yaku a apu kaidi angasat.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖母在床（上）。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 52
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.35a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.35a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.35a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.35b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.35b",
+      "unit": "sentence",
+      "text": "dadas kaidi umamah.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "番薯在田（裡）。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 53
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.35b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.35b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.35b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.35c",
+      "source": "lin-grammar",
+      "localId": "ch11-11.35c",
+      "unit": "sentence",
+      "text": "saaken kaidi laladan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "菜在桌（上）。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.35c)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.35c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.35c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.36a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.36a",
+      "unit": "sentence",
+      "text": "yaku a apu kaidi angasat midem.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖母在床上睡覺。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.36a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.36a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.36a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.36b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.36b",
+      "unit": "sentence",
+      "text": "yaku a apu midem kaidi angasat.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖母在床上睡覺。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 56
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.36b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.36b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.36b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.37a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.37a",
+      "unit": "sentence",
+      "text": "angasat nahaza wazu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "床上有狗。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 57
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.37a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.37a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.37a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.37b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.37b",
+      "unit": "sentence",
+      "text": "angasat nahaza wazu kaidisiw midem.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "床上有狗在那邊睡覺。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.37b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.37b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.37b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.38a",
+      "source": "lin-grammar",
+      "localId": "ch11-11.38a",
+      "unit": "sentence",
+      "text": "dadas kuang a kaidi umamah.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "番薯沒有在田（裡）。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 59
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.38a)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.38a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.38a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch11-11.38b",
+      "source": "lin-grammar",
+      "localId": "ch11-11.38b",
+      "unit": "sentence",
+      "text": "kuang a saaken kaidi laladan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒有菜餚在桌（上）。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch11",
+        "role": "example",
+        "parent": null,
+        "seq": 60
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH11子句類型 例 (11.38b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "11.38b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch11-11.38b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    }
+  ]
+}

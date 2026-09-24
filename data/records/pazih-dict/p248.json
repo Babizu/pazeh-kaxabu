@@ -1,0 +1,1698 @@
+{
+  "source": "pazih-dict",
+  "shard": "p248",
+  "label": "p.248",
+  "groups": [
+    {
+      "id": "pazih-dict:p248-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riapisiaw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riapisiaw 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p248-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riariakan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riariakan 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p248-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riat-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p248-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riat-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p248-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riat-",
+      "subtitle": "同頁同形第 3 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p248-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riax-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p248-01",
+      "source": "pazih-dict",
+      "localId": "p248-01",
+      "unit": "word",
+      "text": "riapisiaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一種魚",
+          "en": "a type of freshwater fish, considered to be the best in taste",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riapisiaw 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-02",
+      "source": "pazih-dict",
+      "localId": "p248-02",
+      "unit": "word",
+      "text": "riariakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幸好",
+          "en": "fortunate",
+          "nan": null
+        },
+        {
+          "zh": "好",
+          "en": "good",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "riak",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riariakan 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-03",
+      "source": "pazih-dict",
+      "localId": "p248-03",
+      "unit": "affix",
+      "text": "riat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p248-03-f01",
+      "source": "pazih-dict",
+      "localId": "p248-03-f01",
+      "unit": "word",
+      "text": "maariariat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "競爭",
+          "en": "to compete (as in a race)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-03-f02",
+      "source": "pazih-dict",
+      "localId": "p248-03-f02",
+      "unit": "word",
+      "text": "muriat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打勝",
+          "en": "to beat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-03-x01",
+      "source": "pazih-dict",
+      "localId": "p248-03-x01",
+      "unit": "sentence",
+      "text": "muriat isiw aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我贏你了",
+          "en": "I beat you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-03",
+        "role": "example",
+        "parent": "pazih-dict:p248-03-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下例句",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-04",
+      "source": "pazih-dict",
+      "localId": "p248-04",
+      "unit": "affix",
+      "text": "riat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p248-04-f01",
+      "source": "pazih-dict",
+      "localId": "p248-04-f01",
+      "unit": "word",
+      "text": "tiriat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "漏水",
+          "en": "to leak (as a container)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-05",
+      "source": "pazih-dict",
+      "localId": "p248-05",
+      "unit": "affix",
+      "text": "riat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 3 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p248-05-f01",
+      "source": "pazih-dict",
+      "localId": "p248-05-f01",
+      "unit": "word",
+      "text": "maariat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "都市",
+          "en": "city",
+          "nan": null
+        },
+        {
+          "zh": "平原",
+          "en": "plains (as against mountainous region)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-05-x01",
+      "source": "pazih-dict",
+      "localId": "p248-05-x01",
+      "unit": "phrase",
+      "text": "mukusa maariat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到都市去",
+          "en": "to go to a city",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-05",
+        "role": "example",
+        "parent": "pazih-dict:p248-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248，riat- 條下例句",
+        "page": 248,
+        "pages": [
+          248
+        ],
+        "row": null,
+        "code": "p248-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06",
+      "source": "pazih-dict",
+      "localId": "p248-06",
+      "unit": "affix",
+      "text": "riax-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-f01",
+      "source": "pazih-dict",
+      "localId": "p248-06-f01",
+      "unit": "word",
+      "text": "maariariax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "玩捉迷藏",
+          "en": "to play hide-and-seek",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-f02",
+      "source": "pazih-dict",
+      "localId": "p248-06-f02",
+      "unit": "word",
+      "text": "maariax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相找",
+          "en": "to seek each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-f03",
+      "source": "pazih-dict",
+      "localId": "p248-06-f03",
+      "unit": "word",
+      "text": "maturiariax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "找",
+          "en": "to search",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x01",
+      "source": "pazih-dict",
+      "localId": "p248-06-x01",
+      "unit": "sentence",
+      "text": "maturiariax lai a siaa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們到處找",
+          "en": "They searched everywhere.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-f04",
+      "source": "pazih-dict",
+      "localId": "p248-06-f04",
+      "unit": "word",
+      "text": "muriax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "找",
+          "en": "to seek, to search",
+          "nan": null
+        },
+        {
+          "zh": "尋回",
+          "en": "to retrieve",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x02",
+      "source": "pazih-dict",
+      "localId": "p248-06-x02",
+      "unit": "sentence",
+      "text": "riaxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "找！",
+          "en": "Look for it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x03",
+      "source": "pazih-dict",
+      "localId": "p248-06-x03",
+      "unit": "sentence",
+      "text": "usa riariaxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去一直找！",
+          "en": "Go and keep looking for it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x04",
+      "source": "pazih-dict",
+      "localId": "p248-06-x04",
+      "unit": "phrase",
+      "text": "riaxen rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "找到孩子",
+          "en": "to have found a child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x05",
+      "source": "pazih-dict",
+      "localId": "p248-06-x05",
+      "unit": "sentence",
+      "text": "yaku riaxen u saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被人找到了",
+          "en": "I have been found by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x06",
+      "source": "pazih-dict",
+      "localId": "p248-06-x06",
+      "unit": "sentence",
+      "text": "isia lia ki aba ka mupuzah muriax awi lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那時父親來找阿維",
+          "en": "Then father came to look for Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x07",
+      "source": "pazih-dict",
+      "localId": "p248-06-x07",
+      "unit": "sentence",
+      "text": "musay muriax naki a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要去找我的生母",
+          "en": "I shall go looking for my mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x08",
+      "source": "pazih-dict",
+      "localId": "p248-06-x08",
+      "unit": "sentence",
+      "text": "mukusa muriaxriax ka daxe lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去找地方",
+          "en": "(He) went looking for a place (to live).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x09",
+      "source": "pazih-dict",
+      "localId": "p248-06-x09",
+      "unit": "sentence",
+      "text": "taririaxaw mata (di) rahut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我們從下游開始找起",
+          "en": "Let's look for it starting from the downstream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-f05",
+      "source": "pazih-dict",
+      "localId": "p248-06-f05",
+      "unit": "word",
+      "text": "riiriax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在找",
+          "en": "is seeking, is looking for, is searching for",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下派生詞",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x10",
+      "source": "pazih-dict",
+      "localId": "p248-06-x10",
+      "unit": "sentence",
+      "text": "riiriax nisia rakihan nia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在找她的孩子",
+          "en": "looking for her child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f05",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x11",
+      "source": "pazih-dict",
+      "localId": "p248-06-x11",
+      "unit": "sentence",
+      "text": "imisiw ka riiriax yami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他正在找我們",
+          "en": "He is looking for us.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f05",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x12",
+      "source": "pazih-dict",
+      "localId": "p248-06-x12",
+      "unit": "sentence",
+      "text": "riiriax u saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在找人",
+          "en": "is looking for someone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f05",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p248-06-x13",
+      "source": "pazih-dict",
+      "localId": "p248-06-x13",
+      "unit": "sentence",
+      "text": "riiriax naki a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在找我媽",
+          "en": "(I) am looking for my mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p248-06",
+        "role": "example",
+        "parent": "pazih-dict:p248-06-f05",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.248–249，riax- 條下例句",
+        "page": 248,
+        "pages": [
+          248,
+          249
+        ],
+        "row": null,
+        "code": "p248-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p248.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

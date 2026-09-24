@@ -1,0 +1,667 @@
+{
+  "source": "pan-dexing-corpus",
+  "shard": "20200103",
+  "label": "2020-01-03",
+  "groups": [
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659",
+      "source": "pan-dexing-corpus",
+      "type": "recording",
+      "title": "IMG_2659.MOV",
+      "subtitle": "2020-01-03 · 潘德興",
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": "IMG_2659.MOV",
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2670",
+      "source": "pan-dexing-corpus",
+      "type": "recording",
+      "title": "IMG_2670.MOV",
+      "subtitle": "2020-01-03 · NTP",
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2670.MOV",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": "IMG_2670.MOV",
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-01",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-01",
+      "unit": "word",
+      "text": "tamako",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斗笠",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "tamako",
+          "gloss": "斗笠"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 01:12.56–01:13.60",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#1",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 72.56,
+          "end": 73.6
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_1.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_1_tamako.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_1_tamako.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-02",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-02",
+      "unit": "sentence",
+      "text": "yaku Ma maaisiiay",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我也一樣",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "yaku",
+          "gloss": "我.自由格"
+        },
+        {
+          "form": "ma",
+          "gloss": "也"
+        },
+        {
+          "form": "maaisiay",
+          "gloss": "一樣"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 01:25.77–01:27.48",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#2",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 85.77,
+          "end": 87.48
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_2.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_2_yaku Ma maaisiiay.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_2_yaku Ma maaisiiay.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-03",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-03",
+      "unit": "sentence",
+      "text": "mades ini mikita imu",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很久沒看到你們了",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "ma-des",
+          "gloss": "狀態-久"
+        },
+        {
+          "form": "ini",
+          "gloss": "不"
+        },
+        {
+          "form": "mi-kita",
+          "gloss": "主事-看"
+        },
+        {
+          "form": "imu",
+          "gloss": "你們、他們.自由格"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 01:28.67–01:31.69",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#3",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 88.67,
+          "end": 91.69
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_3.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_3_mades ini mikita imu.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_3_mades ini mikita imu.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-04",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-04",
+      "unit": "sentence",
+      "text": "ima liao? haka mupuza.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來的是誰啊？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "ima",
+          "gloss": "誰"
+        },
+        {
+          "form": "liao",
+          "gloss": "語助詞"
+        },
+        {
+          "form": "ha=ka",
+          "gloss": "強調=主題"
+        },
+        {
+          "form": "mu-puza",
+          "gloss": "主事-來"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 01:32.75–01:38.27",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#4",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 92.75,
+          "end": 98.27
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_4.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_4_ima liao haka mupuza.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_4_ima liao haka mupuza.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-05",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-05",
+      "unit": "sentence",
+      "text": "imini ka kaidi tshay a akhéhan mamai lia?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是哪位女孩子啊？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "imini",
+          "gloss": "這"
+        },
+        {
+          "form": "ka",
+          "gloss": "主題標記"
+        },
+        {
+          "form": "kaidi",
+          "gloss": "在"
+        },
+        {
+          "form": "tshay=a",
+          "gloss": "哪裡=連"
+        },
+        {
+          "form": "akhéhan",
+          "gloss": "小孩"
+        },
+        {
+          "form": "mamai=lia",
+          "gloss": "女生=了"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 01:39.14–01:43.12",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#5",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 99.14,
+          "end": 103.12
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_5.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_5_imini ka kaidi tshay a akhehan mamai lia.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_5_imini ka kaidi tshay a akhehan mamai lia.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2659-06",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2659-06",
+      "unit": "sentence",
+      "text": "kuang a aitukuan",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒有椅子",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "kuang=a",
+          "gloss": "沒有=連"
+        },
+        {
+          "form": "aitukuan",
+          "gloss": "椅子"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2659",
+        "role": "segment",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2659.MOV 02:02.12–02:03.17",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2659#6",
+        "file": "IMG_2659.MOV",
+        "timecode": {
+          "start": 122.12,
+          "end": 123.17
+        },
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/pan-dexing-corpus/20200103/IMG_2659_6.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "IMG_2659_6_kuang a aitukuan.mp3"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "音檔：IMG_2659_6_kuang a aitukuan.mp3"
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2670-01",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2670-01",
+      "unit": "sentence",
+      "text": "maakux haka haaput 這個 tamako",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "天氣熱就要斗笠",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "maakux",
+          "gloss": "狀態-熱"
+        },
+        {
+          "form": "ha=ka",
+          "gloss": "強調=主題"
+        },
+        {
+          "form": "ha-aput",
+          "gloss": "狀態-要；愛"
+        },
+        {
+          "form": "這個",
+          "gloss": "這個"
+        },
+        {
+          "form": "tamako",
+          "gloss": "斗笠"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2670",
+        "role": "segment",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2670.MOV 02:12.57–02:19.00",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2670#1",
+        "file": "IMG_2670.MOV",
+        "timecode": {
+          "start": 132.57,
+          "end": 139
+        },
+        "scan": null
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": "NTP",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pan-dexing-corpus:20200103-IMG_2670-02",
+      "source": "pan-dexing-corpus",
+      "localId": "20200103-IMG_2670-02",
+      "unit": "sentence",
+      "text": "palizak ka paka niam a hazian a punu lia, asiki a punu",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曬太陽對我們的頭不好，會頭痛",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [
+        {
+          "form": "pa-lizak",
+          "gloss": "使役-曬太陽"
+        },
+        {
+          "form": "ka",
+          "gloss": "主題標記"
+        },
+        {
+          "form": "paka",
+          "gloss": "讓"
+        },
+        {
+          "form": "niam=a",
+          "gloss": "我們的.屬格=連"
+        },
+        {
+          "form": "ha-zian=a",
+          "gloss": "狀態-壞=連"
+        },
+        {
+          "form": "punu=lia",
+          "gloss": "頭=了"
+        },
+        {
+          "form": "asiki=a",
+          "gloss": "=連"
+        },
+        {
+          "form": "punu",
+          "gloss": "頭"
+        }
+      ],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pan-dexing-corpus:20200103-IMG_2670",
+        "role": "segment",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "潘德興語料 2020-01-03 IMG_2670.MOV 02:24.27–02:30.54",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "IMG_2670#2",
+        "file": "IMG_2670.MOV",
+        "timecode": {
+          "start": 144.27,
+          "end": 150.54
+        },
+        "scan": null
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": "NTP",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

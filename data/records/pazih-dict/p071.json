@@ -1,0 +1,2689 @@
+{
+  "source": "pazih-dict",
+  "shard": "p071",
+  "label": "p.71",
+  "groups": [
+    {
+      "id": "pazih-dict:p071-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "arukat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arukat 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p071-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "arung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arung 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p071-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "arux",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arux 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p071-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "asai",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p071-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "asay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p071-01",
+      "source": "pazih-dict",
+      "localId": "p071-01",
+      "unit": "word",
+      "text": "arukat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "出去",
+          "en": "to go out",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rukat-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arukat 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-02",
+      "source": "pazih-dict",
+      "localId": "p071-02",
+      "unit": "word",
+      "text": "arung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "重聽",
+          "en": "hard of hearing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "adeng",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "dadeng",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "makare",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arung 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-02-x01",
+      "source": "pazih-dict",
+      "localId": "p071-02-x01",
+      "unit": "sentence",
+      "text": "arung a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "重聽的人",
+          "en": "a person hard of hearing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arung 條下例句",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-03",
+      "source": "pazih-dict",
+      "localId": "p071-03",
+      "unit": "word",
+      "text": "arux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "岸裡社，大社",
+          "en": "place name",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arux 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-03-x01",
+      "source": "pazih-dict",
+      "localId": "p071-03-x01",
+      "unit": "sentence",
+      "text": "arux a saw isiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是岸裡社人",
+          "en": "You are from Arux.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，arux 條下例句",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04",
+      "source": "pazih-dict",
+      "localId": "p071-04",
+      "unit": "word",
+      "text": "asai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼",
+          "en": "what",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "sasain",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "sasay",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "asay",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "axay",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04-x01",
+      "source": "pazih-dict",
+      "localId": "p071-04-x01",
+      "unit": "sentence",
+      "text": "imini ka asai?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是什麼？",
+          "en": "What is this?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條下例句",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04-x02",
+      "source": "pazih-dict",
+      "localId": "p071-04-x02",
+      "unit": "sentence",
+      "text": "asai pai ini?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是什麼？",
+          "en": "What is this?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條下例句",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04-f01",
+      "source": "pazih-dict",
+      "localId": "p071-04-f01",
+      "unit": "word",
+      "text": "mu'asai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為什麼",
+          "en": "why",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條下派生詞",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04-f02",
+      "source": "pazih-dict",
+      "localId": "p071-04-f02",
+      "unit": "word",
+      "text": "si'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去哪",
+          "en": "Where to go?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條下派生詞",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-04-x03",
+      "source": "pazih-dict",
+      "localId": "p071-04-x03",
+      "unit": "sentence",
+      "text": "si'asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你到哪裡去了？",
+          "en": "Where have you been?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-04",
+        "role": "example",
+        "parent": "pazih-dict:p071-04-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71，asai 條下例句",
+        "page": 71,
+        "pages": [
+          71
+        ],
+        "row": null,
+        "code": "p071-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05",
+      "source": "pazih-dict",
+      "localId": "p071-05",
+      "unit": "word",
+      "text": "asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼",
+          "en": "what",
+          "nan": null
+        },
+        {
+          "zh": "何地",
+          "en": "where",
+          "nan": null
+        },
+        {
+          "zh": "為什麼，疑問詞（如動詞之變化）",
+          "en": "why",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "sasay",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "sasain",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        },
+        {
+          "relation": "=",
+          "text": "asai",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x01",
+      "source": "pazih-dict",
+      "localId": "p071-05-x01",
+      "unit": "sentence",
+      "text": "asay pai (i)ni?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是什麼？",
+          "en": "What is this?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x02",
+      "source": "pazih-dict",
+      "localId": "p071-05-x02",
+      "unit": "sentence",
+      "text": "taubas ka nisiw a asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Taubas 是你的什麼人？",
+          "en": "What is the relationship between Taubas and you?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x03",
+      "source": "pazih-dict",
+      "localId": "p071-05-x03",
+      "unit": "sentence",
+      "text": "pauzah asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你從何處來？",
+          "en": "Where do you come from?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x04",
+      "source": "pazih-dict",
+      "localId": "p071-05-x04",
+      "unit": "sentence",
+      "text": "pauzah di asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你從哪裡來？",
+          "en": "Where do you come from?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x05",
+      "source": "pazih-dict",
+      "localId": "p071-05-x05",
+      "unit": "sentence",
+      "text": "mausay asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去那兒？",
+          "en": "Where will you go?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x06",
+      "source": "pazih-dict",
+      "localId": "p071-05-x06",
+      "unit": "sentence",
+      "text": "usa asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要到那兒？",
+          "en": "Where will you go?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x07",
+      "source": "pazih-dict",
+      "localId": "p071-05-x07",
+      "unit": "sentence",
+      "text": "asay maxa'ini mupuzah?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "何故沒來？",
+          "en": "Why didn't (he) come?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x08",
+      "source": "pazih-dict",
+      "localId": "p071-05-x08",
+      "unit": "sentence",
+      "text": "mausay di asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要到哪裡去？",
+          "en": "Where would you like to go?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x09",
+      "source": "pazih-dict",
+      "localId": "p071-05-x09",
+      "unit": "sentence",
+      "text": "Atun lia asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哪一個是 Atun ？",
+          "en": "Which one is Atun?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x10",
+      "source": "pazih-dict",
+      "localId": "p071-05-x10",
+      "unit": "sentence",
+      "text": "asay ki nisiw a kakanen?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你吃什麼？",
+          "en": "What do you eat?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x11",
+      "source": "pazih-dict",
+      "localId": "p071-05-x11",
+      "unit": "sentence",
+      "text": "mabaza siw asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你懂什麼？",
+          "en": "What do you understand?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x12",
+      "source": "pazih-dict",
+      "localId": "p071-05-x12",
+      "unit": "sentence",
+      "text": "mupuzah asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你來做什麼？",
+          "en": "Why did you come here?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x13",
+      "source": "pazih-dict",
+      "localId": "p071-05-x13",
+      "unit": "sentence",
+      "text": "asay ini mupuzah pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你為何沒來？",
+          "en": "Why you did not come?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x14",
+      "source": "pazih-dict",
+      "localId": "p071-05-x14",
+      "unit": "sentence",
+      "text": "nisiw a rakihan ka aidi asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的孩子在哪兒？",
+          "en": "Where is your child?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f01",
+      "source": "pazih-dict",
+      "localId": "p071-05-f01",
+      "unit": "word",
+      "text": "dua'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "發生什麼",
+          "en": "What happened?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x15",
+      "source": "pazih-dict",
+      "localId": "p071-05-x15",
+      "unit": "phrase",
+      "text": "dua'asay lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "發生什麼了？",
+          "en": "What has happened?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f01",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f02",
+      "source": "pazih-dict",
+      "localId": "p071-05-f02",
+      "unit": "word",
+      "text": "duasasayay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要做什麼？",
+          "en": "What is it for?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x16",
+      "source": "pazih-dict",
+      "localId": "p071-05-x16",
+      "unit": "sentence",
+      "text": "mikita yaka ka duasasayay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看我做什麼？",
+          "en": "What did you look at me for?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f02",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f03",
+      "source": "pazih-dict",
+      "localId": "p071-05-f03",
+      "unit": "word",
+      "text": "kaisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要怎麼了",
+          "en": "what to happen, how it will be",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kay + asay",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x17",
+      "source": "pazih-dict",
+      "localId": "p071-05-x17",
+      "unit": "sentence",
+      "text": "mausay kaysay lia laiki naki a ina aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）要去（見）我父母，且看他們會怎樣",
+          "en": "I'll go to see my parents and see what they will say.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f03",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f04",
+      "source": "pazih-dict",
+      "localId": "p071-05-f04",
+      "unit": "word",
+      "text": "matu'asa'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "無聊",
+          "en": "bored (as when having nothing to do)",
+          "nan": null
+        },
+        {
+          "zh": "心煩",
+          "en": "disturbed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x18",
+      "source": "pazih-dict",
+      "localId": "p071-05-x18",
+      "unit": "sentence",
+      "text": "matu'asa'asay a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "心煩，焦慮，悶悶不樂",
+          "en": "to have mixed feelings, to be disturbed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f04",
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f05",
+      "source": "pazih-dict",
+      "localId": "p071-05-f05",
+      "unit": "word",
+      "text": "mia'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哪個",
+          "en": "which (object)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x19",
+      "source": "pazih-dict",
+      "localId": "p071-05-x19",
+      "unit": "sentence",
+      "text": "isiw ka haapet mia'asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你喜歡哪個？",
+          "en": "Which do you like?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f05",
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x20",
+      "source": "pazih-dict",
+      "localId": "p071-05-x20",
+      "unit": "sentence",
+      "text": "mia'asay ki nisiw a tadaw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哪一把是你的剪刀？",
+          "en": "Which is your knife?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f05",
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f06",
+      "source": "pazih-dict",
+      "localId": "p071-05-f06",
+      "unit": "word",
+      "text": "mu'asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如何",
+          "en": "how",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x21",
+      "source": "pazih-dict",
+      "localId": "p071-05-x21",
+      "unit": "sentence",
+      "text": "mu'asay mukusa di binayu pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你如何去山上？",
+          "en": "How do you go to the mountian?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 27
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x22",
+      "source": "pazih-dict",
+      "localId": "p071-05-x22",
+      "unit": "sentence",
+      "text": "hapet mu'asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要什麼？",
+          "en": "What do you want?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 28
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x23",
+      "source": "pazih-dict",
+      "localId": "p071-05-x23",
+      "unit": "sentence",
+      "text": "mausay mu'asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要去那裡做什麼？",
+          "en": "What will you go there for?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 29
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x24",
+      "source": "pazih-dict",
+      "localId": "p071-05-x24",
+      "unit": "sentence",
+      "text": "namisiw ina ka, \"haapet mu'asay pai siw?\"",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她的母親問，“妳要做什麼？”",
+          "en": "Her mother (asked), “What do you want?”",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 30
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x25",
+      "source": "pazih-dict",
+      "localId": "p071-05-x25",
+      "unit": "sentence",
+      "text": "takita'aw mu'asay ki maluhuni",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我們看看為什麼那是這樣",
+          "en": "Let's see why that is so.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 31
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x26",
+      "source": "pazih-dict",
+      "localId": "p071-05-x26",
+      "unit": "sentence",
+      "text": "makuas ka nisia mamaleng mu'asay riak haki rubang mamaleng a isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他告訴她的丈夫如此這般，那個青年好",
+          "en": "She told her husband so and so and that the young man was a good guy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f06",
+        "seq": 32
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f07",
+      "source": "pazih-dict",
+      "localId": "p071-05-f07",
+      "unit": "word",
+      "text": "nukasayan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "何時（過去）",
+          "en": "when (past)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "~",
+          "text": "nukuasayan",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x27",
+      "source": "pazih-dict",
+      "localId": "p071-05-x27",
+      "unit": "sentence",
+      "text": "nukasayan a parisan?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你何時生的？",
+          "en": "When were you born?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f07",
+        "seq": 34
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-x28",
+      "source": "pazih-dict",
+      "localId": "p071-05-x28",
+      "unit": "sentence",
+      "text": "nukasayan lia?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼時候？",
+          "en": "When was it?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "example",
+        "parent": "pazih-dict:p071-05-f07",
+        "seq": 35
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下例句",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p071-05-f08",
+      "source": "pazih-dict",
+      "localId": "p071-05-f08",
+      "unit": "word",
+      "text": "saasayay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我該怎麼辦？",
+          "en": "What shall I do?",
+          "nan": null
+        },
+        {
+          "zh": "我能為你做什麼？",
+          "en": "What can I do for you?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p071-05",
+        "role": "form",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.71–72，asay 條下派生詞",
+        "page": 71,
+        "pages": [
+          71,
+          72
+        ],
+        "row": null,
+        "code": "p071-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p071.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "source": "pazih-dict",
+  "shard": "p217",
+  "label": "p.217",
+  "groups": [
+    {
+      "id": "pazih-dict:p217-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nunu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunu- 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p217-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nunuh",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p217-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nunux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunux- 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p217-01",
+      "source": "pazih-dict",
+      "localId": "p217-01",
+      "unit": "affix",
+      "text": "nunu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunu- 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-01-f01",
+      "source": "pazih-dict",
+      "localId": "p217-01-f01",
+      "unit": "word",
+      "text": "manunu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到處跑",
+          "en": "to fool around",
+          "nan": null
+        },
+        {
+          "zh": "到處亂跑",
+          "en": "(a person who) goes from place to place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunu- 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-01-x01",
+      "source": "pazih-dict",
+      "localId": "p217-01-x01",
+      "unit": "sentence",
+      "text": "si'axay manunu pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你跑哪裡去玩了？",
+          "en": "Where did you go to fool around?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-01",
+        "role": "example",
+        "parent": "pazih-dict:p217-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunu- 條下例句",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-01-x02",
+      "source": "pazih-dict",
+      "localId": "p217-01-x02",
+      "unit": "sentence",
+      "text": "manunu a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到處亂跑的人",
+          "en": "a person going from place to place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-01",
+        "role": "example",
+        "parent": "pazih-dict:p217-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunu- 條下例句",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02",
+      "source": "pazih-dict",
+      "localId": "p217-02",
+      "unit": "word",
+      "text": "nunuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "乳房",
+          "en": "breast (woman)",
+          "nan": null
+        },
+        {
+          "zh": "奶",
+          "en": "milk",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-f01",
+      "source": "pazih-dict",
+      "localId": "p217-02-f01",
+      "unit": "word",
+      "text": "mununuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吸奶",
+          "en": "(of a baby) to suck milk",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-f02",
+      "source": "pazih-dict",
+      "localId": "p217-02-f02",
+      "unit": "word",
+      "text": "nununuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在吸奶",
+          "en": "is sucking milk",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "form",
+        "parent": "pazih-dict:p217-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-x01",
+      "source": "pazih-dict",
+      "localId": "p217-02-x01",
+      "unit": "sentence",
+      "text": "hapet u mununuh ka mangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想要吃奶就哭",
+          "en": "When he wants to drink milk, he cries.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "example",
+        "parent": "pazih-dict:p217-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下例句",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-f03",
+      "source": "pazih-dict",
+      "localId": "p217-02-f03",
+      "unit": "word",
+      "text": "naunuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在吸奶",
+          "en": "is sucking milk",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-f04",
+      "source": "pazih-dict",
+      "localId": "p217-02-f04",
+      "unit": "word",
+      "text": "panunuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餵奶",
+          "en": "to nurse",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-02-x02",
+      "source": "pazih-dict",
+      "localId": "p217-02-x02",
+      "unit": "sentence",
+      "text": "pakizih isiw panunuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）解下你餵你奶",
+          "en": "I Unfastened you (and) nursed (you).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-02",
+        "role": "example",
+        "parent": "pazih-dict:p217-02-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunuh 條下例句",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-03",
+      "source": "pazih-dict",
+      "localId": "p217-03",
+      "unit": "affix",
+      "text": "nunux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunux- 條",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p217-03-f01",
+      "source": "pazih-dict",
+      "localId": "p217-03-f01",
+      "unit": "word",
+      "text": "manunux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鈍",
+          "en": "dull, not sharp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p217-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.217，nunux- 條下派生詞",
+        "page": 217,
+        "pages": [
+          217
+        ],
+        "row": null,
+        "code": "p217-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p217.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    }
+  ]
+}

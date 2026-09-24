@@ -1,0 +1,2966 @@
+{
+  "source": "pazih-dict",
+  "shard": "p066",
+  "label": "p.66",
+  "groups": [
+    {
+      "id": "pazih-dict:p066-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "amulu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，amulu 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-an",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，-an 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ana",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anan 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anay 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p066-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "angit-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p066-01",
+      "source": "pazih-dict",
+      "localId": "p066-01",
+      "unit": "word",
+      "text": "amulu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "檸檬",
+          "en": "lemon",
+          "nan": null
+        },
+        {
+          "zh": "柑",
+          "en": "orange",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，amulu 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-02",
+      "source": "pazih-dict",
+      "localId": "p066-02",
+      "unit": "affix",
+      "text": "-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "位置",
+          "en": "location",
+          "nan": null
+        },
+        {
+          "zh": "處格",
+          "en": "Locative-focus",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，-an 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-02-f01",
+      "source": "pazih-dict",
+      "localId": "p066-02-f01",
+      "unit": "word",
+      "text": "taderek-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "食道",
+          "en": "food passage",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，-an 條下派生詞",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. muderek"
+      ]
+    },
+    {
+      "id": "pazih-dict:p066-02-f02",
+      "source": "pazih-dict",
+      "localId": "p066-02-f02",
+      "unit": "word",
+      "text": "pasisaik-an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "肛門",
+          "en": "anus",
+          "nan": null
+        },
+        {
+          "zh": "廁所",
+          "en": "toilet, lavatory",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "saik",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，-an 條下派生詞",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03",
+      "source": "pazih-dict",
+      "localId": "p066-03",
+      "unit": "word",
+      "text": "ana",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別",
+          "en": "don't",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x01",
+      "source": "pazih-dict",
+      "localId": "p066-03-x01",
+      "unit": "sentence",
+      "text": "ana kizex! ituku dini!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別站！坐這兒！",
+          "en": "Don't stand! Sit here!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x02",
+      "source": "pazih-dict",
+      "localId": "p066-03-x02",
+      "unit": "sentence",
+      "text": "ana meken sumay!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別吃飯！",
+          "en": "Don't eat rice!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x03",
+      "source": "pazih-dict",
+      "localId": "p066-03-x03",
+      "unit": "sentence",
+      "text": "ana mudaux inusat!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別喝酒！",
+          "en": "Don't drink!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x04",
+      "source": "pazih-dict",
+      "localId": "p066-03-x04",
+      "unit": "sentence",
+      "text": "ana mubaket rakihan!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別打孩子！",
+          "en": "Don't beat children!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x05",
+      "source": "pazih-dict",
+      "localId": "p066-03-x05",
+      "unit": "sentence",
+      "text": "ana mataru wa rahan!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別大聲！",
+          "en": "Don't speak loudly!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x06",
+      "source": "pazih-dict",
+      "localId": "p066-03-x06",
+      "unit": "sentence",
+      "text": "ana mupuzah!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別來！",
+          "en": "Don't come!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x07",
+      "source": "pazih-dict",
+      "localId": "p066-03-x07",
+      "unit": "sentence",
+      "text": "pikadeng ka ana mupuzah!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "若病，就別來！",
+          "en": "If you are sick, don't come!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x08",
+      "source": "pazih-dict",
+      "localId": "p066-03-x08",
+      "unit": "sentence",
+      "text": "ana di dini midem!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別在此地睡！",
+          "en": "Don't sleep here!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x09",
+      "source": "pazih-dict",
+      "localId": "p066-03-x09",
+      "unit": "sentence",
+      "text": "ana meken dukul!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別吃芋！",
+          "en": "Don't eat taros!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-03-x10",
+      "source": "pazih-dict",
+      "localId": "p066-03-x10",
+      "unit": "sentence",
+      "text": "mudan ka ana mukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下雨就不要去",
+          "en": "If it rains, don't go.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-03",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，ana 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-04",
+      "source": "pazih-dict",
+      "localId": "p066-04",
+      "unit": "word",
+      "text": "anan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "右",
+          "en": "right (side)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anan 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05",
+      "source": "pazih-dict",
+      "localId": "p066-05",
+      "unit": "affix",
+      "text": "anat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-f01",
+      "source": "pazih-dict",
+      "localId": "p066-05-f01",
+      "unit": "word",
+      "text": "maanat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "燒，火在著",
+          "en": "is burning (stative)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x01",
+      "source": "pazih-dict",
+      "localId": "p066-05-x01",
+      "unit": "sentence",
+      "text": "maanad a hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "火燒",
+          "en": "a burning fire",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x02",
+      "source": "pazih-dict",
+      "localId": "p066-05-x02",
+      "unit": "sentence",
+      "text": "hapuy a maanat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "火燒",
+          "en": "a burning fire",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-f02",
+      "source": "pazih-dict",
+      "localId": "p066-05-f02",
+      "unit": "word",
+      "text": "manat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "著火，燒著",
+          "en": "to catch fire, to burn (stative)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x03",
+      "source": "pazih-dict",
+      "localId": "p066-05-x03",
+      "unit": "phrase",
+      "text": "manat hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木柴燒著",
+          "en": "The wood caught fire.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x04",
+      "source": "pazih-dict",
+      "localId": "p066-05-x04",
+      "unit": "phrase",
+      "text": "manat bahah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木炭燒著",
+          "en": "The charcoal caught fire.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x05",
+      "source": "pazih-dict",
+      "localId": "p066-05-x05",
+      "unit": "sentence",
+      "text": "manad a bahah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "燒著的木炭",
+          "en": "The charcoal that is burning.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-f03",
+      "source": "pazih-dict",
+      "localId": "p066-05-f03",
+      "unit": "word",
+      "text": "paanat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "燒（及物）",
+          "en": "to burn (causative)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x06",
+      "source": "pazih-dict",
+      "localId": "p066-05-x06",
+      "unit": "sentence",
+      "text": "paanat!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使燒！",
+          "en": "Burn it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-05-x07",
+      "source": "pazih-dict",
+      "localId": "p066-05-x07",
+      "unit": "phrase",
+      "text": "paanat hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在點火",
+          "en": "is kindling fire",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-05",
+        "role": "example",
+        "parent": "pazih-dict:p066-05-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anat- 條下例句",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-06",
+      "source": "pazih-dict",
+      "localId": "p066-06",
+      "unit": "word",
+      "text": "anay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父母之弟",
+          "en": "parent's younger brother",
+          "nan": null
+        },
+        {
+          "zh": "父母之妹夫",
+          "en": "husband of parent's younger sister",
+          "nan": null
+        },
+        {
+          "zh": "妹婿",
+          "en": "husband of one's younger sister",
+          "nan": null
+        },
+        {
+          "zh": "妻之弟妹",
+          "en": "wife's younger brother or sister",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66，anay 條",
+        "page": 66,
+        "pages": [
+          66
+        ],
+        "row": null,
+        "code": "p066-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07",
+      "source": "pazih-dict",
+      "localId": "p066-07",
+      "unit": "affix",
+      "text": "angit-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f01",
+      "source": "pazih-dict",
+      "localId": "p066-07-f01",
+      "unit": "word",
+      "text": "kali'angidan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "愛哭鬼",
+          "en": "crybaby, blubberer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x01",
+      "source": "pazih-dict",
+      "localId": "p066-07-x01",
+      "unit": "sentence",
+      "text": "kali'angidan ka maxiarese",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "愛哭鬼流淚",
+          "en": "The one who cries easily shed tears.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f02",
+      "source": "pazih-dict",
+      "localId": "p066-07-f02",
+      "unit": "word",
+      "text": "mangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭",
+          "en": "to weep",
+          "nan": null
+        },
+        {
+          "zh": "哭叫",
+          "en": "to cry, to yelp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f03",
+      "source": "pazih-dict",
+      "localId": "p066-07-f03",
+      "unit": "word",
+      "text": "minangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭了",
+          "en": "to have cried",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x02",
+      "source": "pazih-dict",
+      "localId": "p066-07-x02",
+      "unit": "sentence",
+      "text": "angidi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭！",
+          "en": "Cry!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x03",
+      "source": "pazih-dict",
+      "localId": "p066-07-x03",
+      "unit": "sentence",
+      "text": "angiden lia ka, ririakay lia?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你哭了就會好嗎？",
+          "en": "Will it do any good that you cried?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x04",
+      "source": "pazih-dict",
+      "localId": "p066-07-x04",
+      "unit": "sentence",
+      "text": "inangidan ka mairaday inang say?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭了難道會再活嗎？",
+          "en": "Will crying make him live again?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f04",
+      "source": "pazih-dict",
+      "localId": "p066-07-f04",
+      "unit": "word",
+      "text": "angiden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在哭",
+          "en": "is weeping, is crying",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x05",
+      "source": "pazih-dict",
+      "localId": "p066-07-x05",
+      "unit": "sentence",
+      "text": "puriahad a saw ka angiden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "死人得要哭",
+          "en": "When there is a dead, it is necessary to cry.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x06",
+      "source": "pazih-dict",
+      "localId": "p066-07-x06",
+      "unit": "sentence",
+      "text": "ana mangit!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別哭！",
+          "en": "Don't Cry!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x07",
+      "source": "pazih-dict",
+      "localId": "p066-07-x07",
+      "unit": "phrase",
+      "text": "mangit mu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們在哭",
+          "en": "You cried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x08",
+      "source": "pazih-dict",
+      "localId": "p066-07-x08",
+      "unit": "sentence",
+      "text": "mangit puriahad a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭死人",
+          "en": "to cry for the dead",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x09",
+      "source": "pazih-dict",
+      "localId": "p066-07-x09",
+      "unit": "sentence",
+      "text": "mangit lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩在哭了",
+          "en": "The child is crying.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x10",
+      "source": "pazih-dict",
+      "localId": "p066-07-x10",
+      "unit": "sentence",
+      "text": "mataru a mangit lia muhuni lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她哭的很大聲",
+          "en": "She cried very loudly.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x11",
+      "source": "pazih-dict",
+      "localId": "p066-07-x11",
+      "unit": "sentence",
+      "text": "lia ka mangit liaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後我哭了",
+          "en": "Then I cried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x12",
+      "source": "pazih-dict",
+      "localId": "p066-07-x12",
+      "unit": "sentence",
+      "text": "lia ka mangit lia ki rakihan lia la",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後小孩哭了",
+          "en": "Then the baby cried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x13",
+      "source": "pazih-dict",
+      "localId": "p066-07-x13",
+      "unit": "sentence",
+      "text": "mikita ka mangiday",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看了就要哭",
+          "en": "Seeing (them) would (make me) cry.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f02",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f05",
+      "source": "pazih-dict",
+      "localId": "p066-07-f05",
+      "unit": "word",
+      "text": "maxamangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭泣",
+          "en": "to cry, to sob",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x14",
+      "source": "pazih-dict",
+      "localId": "p066-07-x14",
+      "unit": "sentence",
+      "text": "asay maxamangit?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為什麼在哭？",
+          "en": "Why are (you) crying?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f05",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f06",
+      "source": "pazih-dict",
+      "localId": "p066-07-f06",
+      "unit": "word",
+      "text": "maxia'angi'angit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直哭",
+          "en": "to keep crying",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x15",
+      "source": "pazih-dict",
+      "localId": "p066-07-x15",
+      "unit": "sentence",
+      "text": "maxia'angi'angit lia ki rakihan, mataru a singax lia la",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩一直哭得很凶，聲音很大",
+          "en": "The baby kept crying very loudly.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f06",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f07",
+      "source": "pazih-dict",
+      "localId": "p066-07-f07",
+      "unit": "word",
+      "text": "pa'angit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使哭",
+          "en": "to make someone cry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x16",
+      "source": "pazih-dict",
+      "localId": "p066-07-x16",
+      "unit": "sentence",
+      "text": "hakezeng a saw pa'angiden ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老人使小孩哭了",
+          "en": "The old person made the child cry.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f07",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-f08",
+      "source": "pazih-dict",
+      "localId": "p066-07-f08",
+      "unit": "word",
+      "text": "taangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "愛哭的人",
+          "en": "someone who cries easily",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "form",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下派生詞",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p066-07-x17",
+      "source": "pazih-dict",
+      "localId": "p066-07-x17",
+      "unit": "sentence",
+      "text": "isiw ka taangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你很愛哭",
+          "en": "You kept crying.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p066-07",
+        "role": "example",
+        "parent": "pazih-dict:p066-07-f08",
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.66–67，angit- 條下例句",
+        "page": 66,
+        "pages": [
+          66,
+          67
+        ],
+        "row": null,
+        "code": "p066-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p066.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,2252 @@
+{
+  "source": "pazih-dict",
+  "shard": "p156",
+  "label": "p.156",
+  "groups": [
+    {
+      "id": "pazih-dict:p156-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuadeng-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuadeng- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuah",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuang",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuang 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuari-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuari- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuas-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuay-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuay-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kubabix",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kubabix 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p156-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kubukup",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kubukup 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p156-01",
+      "source": "pazih-dict",
+      "localId": "p156-01",
+      "unit": "affix",
+      "text": "kuadeng-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "驚訝",
+          "en": "surprised and frightened",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuadeng- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-01-x01",
+      "source": "pazih-dict",
+      "localId": "p156-01-x01",
+      "unit": "sentence",
+      "text": "ananikuadeng yaka!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我嚇了一跳！",
+          "en": "I was surprised.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuadeng- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "(*mukuadeng, *ana kuadeng, *kuangen, cf. dahil-)"
+      ]
+    },
+    {
+      "id": "pazih-dict:p156-02",
+      "source": "pazih-dict",
+      "localId": "p156-02",
+      "unit": "word",
+      "text": "kuah",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "沒有",
+          "en": "not exist, not have, there is not",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "kuang",
+          "attribution": null,
+          "dialects": [
+            "auran"
+          ],
+          "dialectRaw": "[A]"
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x01",
+      "source": "pazih-dict",
+      "localId": "p156-02-x01",
+      "unit": "sentence",
+      "text": "yaku uhuni ka kuah a tauxumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我現在沒有妻子",
+          "en": "I do not have a wife now.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x02",
+      "source": "pazih-dict",
+      "localId": "p156-02-x02",
+      "unit": "sentence",
+      "text": "kuah a adang a karaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她）少了一條腿",
+          "en": "One leg was missing.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x03",
+      "source": "pazih-dict",
+      "localId": "p156-02-x03",
+      "unit": "sentence",
+      "text": "kuah a rezaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "忙，沒空",
+          "en": "busy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x04",
+      "source": "pazih-dict",
+      "localId": "p156-02-x04",
+      "unit": "sentence",
+      "text": "kuah a dautuxan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "做不完，令人失望",
+          "en": "disappointing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x05",
+      "source": "pazih-dict",
+      "localId": "p156-02-x05",
+      "unit": "sentence",
+      "text": "kuah a bared a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "寡婦 widow ，鰥夫",
+          "en": "widower (lit. ‘not to have another half’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x06",
+      "source": "pazih-dict",
+      "localId": "p156-02-x06",
+      "unit": "sentence",
+      "text": "kuah a ina-aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "孤兒",
+          "en": "orphan (lit., ‘not have a mother or father’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x07",
+      "source": "pazih-dict",
+      "localId": "p156-02-x07",
+      "unit": "sentence",
+      "text": "kuah a adang a karaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她）少了一條腿",
+          "en": "One leg was missing.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x08",
+      "source": "pazih-dict",
+      "localId": "p156-02-x08",
+      "unit": "phrase",
+      "text": "kuah aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒有",
+          "en": "I don't have.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x09",
+      "source": "pazih-dict",
+      "localId": "p156-02-x09",
+      "unit": "phrase",
+      "text": "kuah kakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒吃的",
+          "en": "no food",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x10",
+      "source": "pazih-dict",
+      "localId": "p156-02-x10",
+      "unit": "sentence",
+      "text": "adang a dali, kuah di xumak ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一天，趁母親不在家",
+          "en": "On a certain day, his mother was not home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x11",
+      "source": "pazih-dict",
+      "localId": "p156-02-x11",
+      "unit": "sentence",
+      "text": "idekedek lia, isia lia kuah lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "它下沈不見了",
+          "en": "It sank and was gone.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x12",
+      "source": "pazih-dict",
+      "localId": "p156-02-x12",
+      "unit": "phrase",
+      "text": "kuah, kuah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒有，沒有",
+          "en": "There is none.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-02-x13",
+      "source": "pazih-dict",
+      "localId": "p156-02-x13",
+      "unit": "sentence",
+      "text": "kukuahay ki sumay lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "飯快沒了",
+          "en": "The rice will be gone.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-02",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuah 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-03",
+      "source": "pazih-dict",
+      "localId": "p156-03",
+      "unit": "word",
+      "text": "kuang",
+      "altTexts": [],
+      "dialects": [
+        "auran"
+      ],
+      "dialectRaw": "[A]",
+      "senses": [
+        {
+          "zh": "沒有",
+          "en": "not exist, not have, there is not",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "kuah",
+          "attribution": null,
+          "dialects": [
+            "pazeh"
+          ],
+          "dialectRaw": "[K]"
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuang 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-03-x01",
+      "source": "pazih-dict",
+      "localId": "p156-03-x01",
+      "unit": "sentence",
+      "text": "yaku ka kuang a paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒有錢",
+          "en": "I have no money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuang 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-03-x02",
+      "source": "pazih-dict",
+      "localId": "p156-03-x02",
+      "unit": "sentence",
+      "text": "imisiw ka kuang a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我沒有小孩",
+          "en": "I have no child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuang 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-03-x03",
+      "source": "pazih-dict",
+      "localId": "p156-03-x03",
+      "unit": "sentence",
+      "text": "Kuang a udal ka, rakihan mukusa mahadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒雨的時候，小孩就出去玩",
+          "en": "When there is no rain, the child will go to play.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-03",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuang 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-04",
+      "source": "pazih-dict",
+      "localId": "p156-04",
+      "unit": "affix",
+      "text": "kuari-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuari- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-04-f01",
+      "source": "pazih-dict",
+      "localId": "p156-04-f01",
+      "unit": "word",
+      "text": "maasikuari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "中意",
+          "en": "to fall in love",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuari- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05",
+      "source": "pazih-dict",
+      "localId": "p156-05",
+      "unit": "affix",
+      "text": "kuas-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. kawas-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p156-05-f01",
+      "source": "pazih-dict",
+      "localId": "p156-05-f01",
+      "unit": "word",
+      "text": "maakuas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（一個人在）說",
+          "en": "to be speaking, to say, to be talking alone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-f02",
+      "source": "pazih-dict",
+      "localId": "p156-05-f02",
+      "unit": "word",
+      "text": "makuas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴",
+          "en": "to tell",
+          "nan": null
+        },
+        {
+          "zh": "說",
+          "en": "to say",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x01",
+      "source": "pazih-dict",
+      "localId": "p156-05-x01",
+      "unit": "sentence",
+      "text": "makuas ki ima?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "誰說的？",
+          "en": "Who say?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x02",
+      "source": "pazih-dict",
+      "localId": "p156-05-x02",
+      "unit": "phrase",
+      "text": "makuas isiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴你",
+          "en": "to tell you",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x03",
+      "source": "pazih-dict",
+      "localId": "p156-05-x03",
+      "unit": "sentence",
+      "text": "ana makuas!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別說！",
+          "en": "Don't say it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-f03",
+      "source": "pazih-dict",
+      "localId": "p156-05-f03",
+      "unit": "word",
+      "text": "pakuas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴",
+          "en": "to tell",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x04",
+      "source": "pazih-dict",
+      "localId": "p156-05-x04",
+      "unit": "sentence",
+      "text": "pakuas di imisiwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴他",
+          "en": "Tell him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x05",
+      "source": "pazih-dict",
+      "localId": "p156-05-x05",
+      "unit": "sentence",
+      "text": "pakuasi(na)!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴（他）！",
+          "en": "Tell (him)!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-05-x06",
+      "source": "pazih-dict",
+      "localId": "p156-05-x06",
+      "unit": "sentence",
+      "text": "pakuasi tabaxa'aw anu nisia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告訴他咱們有意（把女兒嫁）給他",
+          "en": "Tell him that we want our daughter to marry him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-05",
+        "role": "example",
+        "parent": "pazih-dict:p156-05-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuas- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-06",
+      "source": "pazih-dict",
+      "localId": "p156-06",
+      "unit": "affix",
+      "text": "kuay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p156-06-f01",
+      "source": "pazih-dict",
+      "localId": "p156-06-f01",
+      "unit": "word",
+      "text": "kaakuay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "容易",
+          "en": "easy, not difficult",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-06-x01",
+      "source": "pazih-dict",
+      "localId": "p156-06-x01",
+      "unit": "sentence",
+      "text": "kaakuay mubabaza hurahur a kakawas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "日文容易學",
+          "en": "Japanese is easy to learn.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-06",
+        "role": "example",
+        "parent": "pazih-dict:p156-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-07",
+      "source": "pazih-dict",
+      "localId": "p156-07",
+      "unit": "affix",
+      "text": "kuay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p156-07-f01",
+      "source": "pazih-dict",
+      "localId": "p156-07-f01",
+      "unit": "word",
+      "text": "maakuay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "男術士",
+          "en": "sorcerer",
+          "nan": null
+        },
+        {
+          "zh": "女巫",
+          "en": "priest-shaman",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kuay- 條下派生詞",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-08",
+      "source": "pazih-dict",
+      "localId": "p156-08",
+      "unit": "word",
+      "text": "kubabix",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "歪",
+          "en": "twisted",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kubabix 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-08-x01",
+      "source": "pazih-dict",
+      "localId": "p156-08-x01",
+      "unit": "sentence",
+      "text": "kubabix a rahan imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他歪嘴",
+          "en": "He has a twisted mouth.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-08",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kubabix 條下例句",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p156-09",
+      "source": "pazih-dict",
+      "localId": "p156-09",
+      "unit": "word",
+      "text": "kubukup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蚊帳",
+          "en": "mosquito net",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p156-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.156，kubukup 條",
+        "page": 156,
+        "pages": [
+          156
+        ],
+        "row": null,
+        "code": "p156-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p156.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

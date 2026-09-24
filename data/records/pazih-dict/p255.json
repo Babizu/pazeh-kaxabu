@@ -1,0 +1,2335 @@
+{
+  "source": "pazih-dict",
+  "shard": "p255",
+  "label": "p.255",
+  "groups": [
+    {
+      "id": "pazih-dict:p255-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rixaw-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rixi-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixi- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rixis-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rixit-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizaw-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaw- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizax",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizaxan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaxan 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizi-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p255-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizik",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizik 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p255-01",
+      "source": "pazih-dict",
+      "localId": "p255-01",
+      "unit": "affix",
+      "text": "rixaw-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-f01",
+      "source": "pazih-dict",
+      "localId": "p255-01-f01",
+      "unit": "word",
+      "text": "marixaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（煮）爛，（煮）軟",
+          "en": "overcooked and soft (of cooked rice)",
+          "nan": null
+        },
+        {
+          "zh": "破爛",
+          "en": "torn out, ragged",
+          "nan": null
+        },
+        {
+          "zh": "腐爛",
+          "en": "tattered (as of food)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-x01",
+      "source": "pazih-dict",
+      "localId": "p255-01-x01",
+      "unit": "sentence",
+      "text": "marixaw lia ki rumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "肉爛掉了",
+          "en": "The meat was well cooked.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "example",
+        "parent": "pazih-dict:p255-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-x02",
+      "source": "pazih-dict",
+      "localId": "p255-01-x02",
+      "unit": "sentence",
+      "text": "marixaw a sumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "煮爛的飯",
+          "en": "over-cooked rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "example",
+        "parent": "pazih-dict:p255-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-x03",
+      "source": "pazih-dict",
+      "localId": "p255-01-x03",
+      "unit": "sentence",
+      "text": "rumut dengedengen marixaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "肉煮的很爛",
+          "en": "The meat was well cooked.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "example",
+        "parent": "pazih-dict:p255-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-x04",
+      "source": "pazih-dict",
+      "localId": "p255-01-x04",
+      "unit": "sentence",
+      "text": "marixaw lia ki ringxaw, durayen pakamarixawen, rimaden pahar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他把稀飯揉爛了再加鹽巴",
+          "en": "He massed the rice gruel and mixed it with a little salt.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "example",
+        "parent": "pazih-dict:p255-01-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-f02",
+      "source": "pazih-dict",
+      "localId": "p255-01-f02",
+      "unit": "word",
+      "text": "ringxaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "稀飯",
+          "en": "rice gruel, congee",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-01-x05",
+      "source": "pazih-dict",
+      "localId": "p255-01-x05",
+      "unit": "sentence",
+      "text": "marixaw lia ki ringxaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "稀飯已（煮）爛了",
+          "en": "The rice gruel was overcooked (and became pappy)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-01",
+        "role": "example",
+        "parent": "pazih-dict:p255-01-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-02",
+      "source": "pazih-dict",
+      "localId": "p255-02",
+      "unit": "affix",
+      "text": "rixi-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixi- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-02-f01",
+      "source": "pazih-dict",
+      "localId": "p255-02-f01",
+      "unit": "word",
+      "text": "pakarixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜眼看",
+          "en": "cross-eyed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixi- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-03",
+      "source": "pazih-dict",
+      "localId": "p255-03",
+      "unit": "affix",
+      "text": "rixis-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "rixit-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-03-f01",
+      "source": "pazih-dict",
+      "localId": "p255-03-f01",
+      "unit": "word",
+      "text": "masurixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滑倒",
+          "en": "to slide and fall",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-03-x01",
+      "source": "pazih-dict",
+      "localId": "p255-03-x01",
+      "unit": "sentence",
+      "text": "hekezeng a saw masurixis lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老人無意中滑倒了",
+          "en": "The old man slid accidentally.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-03",
+        "role": "example",
+        "parent": "pazih-dict:p255-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-03-f02",
+      "source": "pazih-dict",
+      "localId": "p255-03-f02",
+      "unit": "word",
+      "text": "misurixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滑倒",
+          "en": "to slide and fall",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-03-x02",
+      "source": "pazih-dict",
+      "localId": "p255-03-x02",
+      "unit": "sentence",
+      "text": "maxaringa misurixis lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩玩著滑梯",
+          "en": "The child played and slid.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-03",
+        "role": "example",
+        "parent": "pazih-dict:p255-03-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixis- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04",
+      "source": "pazih-dict",
+      "localId": "p255-04",
+      "unit": "affix",
+      "text": "rixit-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "rixis-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04-f01",
+      "source": "pazih-dict",
+      "localId": "p255-04-f01",
+      "unit": "word",
+      "text": "masurixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "歪斜，滑倒，斜放",
+          "en": "to slide, to slip off",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04-f02",
+      "source": "pazih-dict",
+      "localId": "p255-04-f02",
+      "unit": "word",
+      "text": "pasurixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滑倒",
+          "en": "to slip off, to slide",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04-f03",
+      "source": "pazih-dict",
+      "localId": "p255-04-f03",
+      "unit": "word",
+      "text": "pisurixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滑倒",
+          "en": "to slide, to slip off",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04-x01",
+      "source": "pazih-dict",
+      "localId": "p255-04-x01",
+      "unit": "sentence",
+      "text": "tatumaumauwan ka pisurixit di sungut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Tatumaumauwan 在橋上滑倒了",
+          "en": "Tatumaumauwan slipped off on the bridge.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "example",
+        "parent": "pazih-dict:p255-04-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-04-f04",
+      "source": "pazih-dict",
+      "localId": "p255-04-f04",
+      "unit": "word",
+      "text": "surixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滑倒",
+          "en": "to slide and fall",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rixit- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-05",
+      "source": "pazih-dict",
+      "localId": "p255-05",
+      "unit": "affix",
+      "text": "rizaw-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaw- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-05-f01",
+      "source": "pazih-dict",
+      "localId": "p255-05-f01",
+      "unit": "word",
+      "text": "marizaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "頭暈，暈眩",
+          "en": "to feel dizzy",
+          "nan": null
+        },
+        {
+          "zh": "宿醉",
+          "en": "to suffering from a hangover",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaw- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-05-x01",
+      "source": "pazih-dict",
+      "localId": "p255-05-x01",
+      "unit": "sentence",
+      "text": "marizaw a punu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "頭暈",
+          "en": "to feel dizzy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-05",
+        "role": "example",
+        "parent": "pazih-dict:p255-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaw- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06",
+      "source": "pazih-dict",
+      "localId": "p255-06",
+      "unit": "word",
+      "text": "rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽",
+          "en": "sun",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-x01",
+      "source": "pazih-dict",
+      "localId": "p255-06-x01",
+      "unit": "phrase",
+      "text": "marukat rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "出太陽",
+          "en": "The sun rises.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-f01",
+      "source": "pazih-dict",
+      "localId": "p255-06-f01",
+      "unit": "word",
+      "text": "murizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "出太陽",
+          "en": "to have sunshine",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-x02",
+      "source": "pazih-dict",
+      "localId": "p255-06-x02",
+      "unit": "phrase",
+      "text": "murizax lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "出太陽了",
+          "en": "There is sunshine.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "example",
+        "parent": "pazih-dict:p255-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-f02",
+      "source": "pazih-dict",
+      "localId": "p255-06-f02",
+      "unit": "word",
+      "text": "parizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曬",
+          "en": "to expose to the sun, to dry by the sun",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-x03",
+      "source": "pazih-dict",
+      "localId": "p255-06-x03",
+      "unit": "sentence",
+      "text": "paarizax siatu ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親在曬衣服",
+          "en": "Mother is drying clothes by the sun.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "example",
+        "parent": "pazih-dict:p255-06-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-f03",
+      "source": "pazih-dict",
+      "localId": "p255-06-f03",
+      "unit": "phrase",
+      "text": "rizaxan or rizaxen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曬到太陽",
+          "en": "to get sunshine",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-f04",
+      "source": "pazih-dict",
+      "localId": "p255-06-f04",
+      "unit": "word",
+      "text": "tularizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "煩悶",
+          "en": "unsettled, depressed (mind)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-06-x04",
+      "source": "pazih-dict",
+      "localId": "p255-06-x04",
+      "unit": "phrase",
+      "text": "tularizax hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "心煩",
+          "en": "unsettled mind",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-06",
+        "role": "example",
+        "parent": "pazih-dict:p255-06-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizax 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-07",
+      "source": "pazih-dict",
+      "localId": "p255-07",
+      "unit": "word",
+      "text": "rizaxan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曬到太陽",
+          "en": "to get sunshine",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rizax",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizaxan 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-08",
+      "source": "pazih-dict",
+      "localId": "p255-08",
+      "unit": "affix",
+      "text": "rizi-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-08-f01",
+      "source": "pazih-dict",
+      "localId": "p255-08-f01",
+      "unit": "word",
+      "text": "maaparizi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "交換",
+          "en": "to exchange",
+          "nan": null
+        },
+        {
+          "zh": "易物",
+          "en": "to barter, to trade",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-08-x01",
+      "source": "pazih-dict",
+      "localId": "p255-08-x01",
+      "unit": "sentence",
+      "text": "maaparizi mukukusa laita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們換工",
+          "en": "Let's exchange labor.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-08",
+        "role": "example",
+        "parent": "pazih-dict:p255-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-08-f02",
+      "source": "pazih-dict",
+      "localId": "p255-08-f02",
+      "unit": "word",
+      "text": "paaparizi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "易物",
+          "en": "to exchange, to barter, to trade",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-08",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條下派生詞",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-08-x02",
+      "source": "pazih-dict",
+      "localId": "p255-08-x02",
+      "unit": "phrase",
+      "text": "paaparizi'ay langat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "改名字",
+          "en": "to change one's name",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-08",
+        "role": "example",
+        "parent": "pazih-dict:p255-08-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizi- 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-09",
+      "source": "pazih-dict",
+      "localId": "p255-09",
+      "unit": "word",
+      "text": "rizik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "底部",
+          "en": "bottom",
+          "nan": null
+        },
+        {
+          "zh": "在…裡面",
+          "en": "inside (box, drawer, etc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizik 條",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p255-09-x01",
+      "source": "pazih-dict",
+      "localId": "p255-09-x01",
+      "unit": "sentence",
+      "text": "rizik a binayu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在山裡，在山谷",
+          "en": "inside a mountain, in the valley",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p255-09",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.255，rizik 條下例句",
+        "page": 255,
+        "pages": [
+          255
+        ],
+        "row": null,
+        "code": "p255-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p255.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

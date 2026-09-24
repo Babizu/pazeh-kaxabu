@@ -1,0 +1,2085 @@
+{
+  "source": "pazih-dict",
+  "shard": "p065",
+  "label": "p.65",
+  "groups": [
+    {
+      "id": "pazih-dict:p065-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "alup-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65，alup- 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p065-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ama",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ama 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p065-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "amamu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amamu 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p065-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ami",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p065-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "amisan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amisan 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p065-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "amisiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p065-01",
+      "source": "pazih-dict",
+      "localId": "p065-01",
+      "unit": "affix",
+      "text": "alup-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，alup- 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-01-f01",
+      "source": "pazih-dict",
+      "localId": "p065-01-f01",
+      "unit": "word",
+      "text": "malup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用狗打獵",
+          "en": "to hunt with dogs",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，alup- 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-01-x01",
+      "source": "pazih-dict",
+      "localId": "p065-01-x01",
+      "unit": "sentence",
+      "text": "yaku u taw ki minalup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我和 Taw 打獵了",
+          "en": "Taw and I went hunting.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-01",
+        "role": "example",
+        "parent": "pazih-dict:p065-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，alup- 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-02",
+      "source": "pazih-dict",
+      "localId": "p065-02",
+      "unit": "word",
+      "text": "ama",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "妻妹之夫",
+          "en": "husband of one's wife's younger sister",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ama 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "cf. mahu 姊夫，妻姊之夫 husband of one's wife's older sister"
+      ]
+    },
+    {
+      "id": "pazih-dict:p065-03",
+      "source": "pazih-dict",
+      "localId": "p065-03",
+      "unit": "word",
+      "text": "amamu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "啞",
+          "en": "dumb",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "mamu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amamu 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. tamanu"
+      ]
+    },
+    {
+      "id": "pazih-dict:p065-04",
+      "source": "pazih-dict",
+      "localId": "p065-04",
+      "unit": "word",
+      "text": "ami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們",
+          "en": "we (excl.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f01",
+      "source": "pazih-dict",
+      "localId": "p065-04-f01",
+      "unit": "word",
+      "text": "niam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們的",
+          "en": "our, ours (1st pers. pl. excl. Gen./ poss.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x01",
+      "source": "pazih-dict",
+      "localId": "p065-04-x01",
+      "unit": "sentence",
+      "text": "ayan ka niam a pinaturay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿焉是我們唱的",
+          "en": "Ayan is what we sang.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x02",
+      "source": "pazih-dict",
+      "localId": "p065-04-x02",
+      "unit": "sentence",
+      "text": "niam a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們之子",
+          "en": "the son of ours, our son",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x03",
+      "source": "pazih-dict",
+      "localId": "p065-04-x03",
+      "unit": "sentence",
+      "text": "baxai yami aunu dali uhuni kakanen niam!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "給我們讓我們今天吃！",
+          "en": "Give it to us for us to eat it today.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f02",
+      "source": "pazih-dict",
+      "localId": "p065-04-f02",
+      "unit": "word",
+      "text": "yami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們",
+          "en": "we (1st pers. pl. excl., neutral.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x04",
+      "source": "pazih-dict",
+      "localId": "p065-04-x04",
+      "unit": "phrase",
+      "text": "mukawas yami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們說話了",
+          "en": "We talked.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x05",
+      "source": "pazih-dict",
+      "localId": "p065-04-x05",
+      "unit": "sentence",
+      "text": "abasan suadi mausay ha yami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們姊妹兩人要去",
+          "en": "We two sisters shall go.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f03",
+      "source": "pazih-dict",
+      "localId": "p065-04-f03",
+      "unit": "word",
+      "text": "yamian",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "我們，我們這兒",
+          "en": "we (excl., Loc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "yaminan",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x06",
+      "source": "pazih-dict",
+      "localId": "p065-04-x06",
+      "unit": "sentence",
+      "text": "maki yamian malaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要跟我們住",
+          "en": "(You can) stay with us.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x07",
+      "source": "pazih-dict",
+      "localId": "p065-04-x07",
+      "unit": "phrase",
+      "text": "alu yamian",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來我們這兒",
+          "en": "Come over to our place.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x08",
+      "source": "pazih-dict",
+      "localId": "p065-04-x08",
+      "unit": "sentence",
+      "text": "naki a aba mausay mikiliw saw puzah (di) yamian",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我父親將邀人來我們家",
+          "en": "My father is going to ask people to come to our house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f04",
+      "source": "pazih-dict",
+      "localId": "p065-04-f04",
+      "unit": "word",
+      "text": "yamin",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們",
+          "en": "we (excl., Loc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "yaminan",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x09",
+      "source": "pazih-dict",
+      "localId": "p065-04-x09",
+      "unit": "sentence",
+      "text": "alu kita'i yamin!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來看我們！",
+          "en": "Come to see us!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x10",
+      "source": "pazih-dict",
+      "localId": "p065-04-x10",
+      "unit": "sentence",
+      "text": "imu kikita yamin",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們在看我們",
+          "en": "You (pl) are looking at us.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x11",
+      "source": "pazih-dict",
+      "localId": "p065-04-x11",
+      "unit": "sentence",
+      "text": "imisiw makawas yamin",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他在說我們",
+          "en": "He is talking about us.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f04",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x12",
+      "source": "pazih-dict",
+      "localId": "p065-04-x12",
+      "unit": "sentence",
+      "text": "naki a ina mamah mubaxa yamin tula rumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舅舅給了我們鰻魚肉",
+          "en": "The uncle gave us eel meat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f04",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f05",
+      "source": "pazih-dict",
+      "localId": "p065-04-f05",
+      "unit": "word",
+      "text": "yaminan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們",
+          "en": "we (excl., Loc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "yamian",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-x13",
+      "source": "pazih-dict",
+      "localId": "p065-04-x13",
+      "unit": "sentence",
+      "text": "alu yaminan mara paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來我們處拿錢",
+          "en": "Come to our place to take money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "example",
+        "parent": "pazih-dict:p065-04-f05",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-04-f06",
+      "source": "pazih-dict",
+      "localId": "p065-04-f06",
+      "unit": "word",
+      "text": "haiyami",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們",
+          "en": "we (exc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-04",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，ami 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-05",
+      "source": "pazih-dict",
+      "localId": "p065-05",
+      "unit": "word",
+      "text": "amisan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "北",
+          "en": "north",
+          "nan": null
+        },
+        {
+          "zh": "冬",
+          "en": "winter",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amisan 條",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-05-x01",
+      "source": "pazih-dict",
+      "localId": "p065-05-x01",
+      "unit": "phrase",
+      "text": "amisan dali",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "冬天",
+          "en": "winter",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amisan 條下例句",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-05-f01",
+      "source": "pazih-dict",
+      "localId": "p065-05-f01",
+      "unit": "word",
+      "text": "miaamisan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向北",
+          "en": "to go north",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65，amisan 條下派生詞",
+        "page": 65,
+        "pages": [
+          65
+        ],
+        "row": null,
+        "code": "p065-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06",
+      "source": "pazih-dict",
+      "localId": "p065-06",
+      "unit": "word",
+      "text": "amisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們（主格，遠）",
+          "en": "they (3rd person, pl., Nom, distant)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-f01",
+      "source": "pazih-dict",
+      "localId": "p065-06-f01",
+      "unit": "word",
+      "text": "namisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們的",
+          "en": "theirs (3rd person, pl., Gen)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下派生詞",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-x01",
+      "source": "pazih-dict",
+      "localId": "p065-06-x01",
+      "unit": "sentence",
+      "text": "dineken namisiw hai siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是他們揀來的",
+          "en": "You were picked up by them.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "example",
+        "parent": "pazih-dict:p065-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下例句",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-x02",
+      "source": "pazih-dict",
+      "localId": "p065-06-x02",
+      "unit": "sentence",
+      "text": "naki a tata ka mukusa di namisiw a reten maakuas lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我舅媽去告訴他們村中的人",
+          "en": "My aunt told people in their villages.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "example",
+        "parent": "pazih-dict:p065-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下例句",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-f02",
+      "source": "pazih-dict",
+      "localId": "p065-06-f02",
+      "unit": "word",
+      "text": "yamisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們（中性）",
+          "en": "they (3rd pers. pl., neutral)",
+          "nan": null
+        },
+        {
+          "zh": "那些（遠處）",
+          "en": "those (distant)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下派生詞",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-x03",
+      "source": "pazih-dict",
+      "localId": "p065-06-x03",
+      "unit": "sentence",
+      "text": "yamisiw dadua nahaniyay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們全都要來",
+          "en": "They will all come.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "example",
+        "parent": "pazih-dict:p065-06-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下例句",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-f03",
+      "source": "pazih-dict",
+      "localId": "p065-06-f03",
+      "unit": "word",
+      "text": "yamisiwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們（中性，遠處）",
+          "en": "they (neutral, distant)",
+          "nan": null
+        },
+        {
+          "zh": "那些（遠處）",
+          "en": "those (distant)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下派生詞",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-x04",
+      "source": "pazih-dict",
+      "localId": "p065-06-x04",
+      "unit": "sentence",
+      "text": "ita di adi yamisiwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們到他們那邊去",
+          "en": "We (inc.) went to their place.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "example",
+        "parent": "pazih-dict:p065-06-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下例句",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p065-06-x05",
+      "source": "pazih-dict",
+      "localId": "p065-06-x05",
+      "unit": "sentence",
+      "text": "atun maara'ay mamais, yaku ka mausay di yamisiwan maabezebet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿敦要娶太太，我要去他們家幫忙",
+          "en": "Atun is getting married, I shall go to their house to help.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p065-06",
+        "role": "example",
+        "parent": "pazih-dict:p065-06-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.65–66，amisiw 條下例句",
+        "page": 65,
+        "pages": [
+          65,
+          66
+        ],
+        "row": null,
+        "code": "p065-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p065.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

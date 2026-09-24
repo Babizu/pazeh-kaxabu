@@ -1,0 +1,2034 @@
+{
+  "source": "pazih-dict",
+  "shard": "p073",
+  "label": "p.73",
+  "groups": [
+    {
+      "id": "pazih-dict:p073-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "asu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p073-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ata-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p073-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "atan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.73，atan 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p073-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "atanay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.73，atanay 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p073-01",
+      "source": "pazih-dict",
+      "localId": "p073-01",
+      "unit": "affix",
+      "text": "asu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-f01",
+      "source": "pazih-dict",
+      "localId": "p073-01-f01",
+      "unit": "word",
+      "text": "aarasui",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶來",
+          "en": "bring it",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x01",
+      "source": "pazih-dict",
+      "localId": "p073-01-x01",
+      "unit": "sentence",
+      "text": "aarasui ka naki na imisiw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個為我帶過來！",
+          "en": "Please bring it for me!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x02",
+      "source": "pazih-dict",
+      "localId": "p073-01-x02",
+      "unit": "sentence",
+      "text": "aarasui ki dauguar!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿斗笠來！",
+          "en": "Bring the cap!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-f02",
+      "source": "pazih-dict",
+      "localId": "p073-01-f02",
+      "unit": "word",
+      "text": "masu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶",
+          "en": "to bring someone or something with oneself",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x03",
+      "source": "pazih-dict",
+      "localId": "p073-01-x03",
+      "unit": "sentence",
+      "text": "asui!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶來！",
+          "en": "Bring it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x04",
+      "source": "pazih-dict",
+      "localId": "p073-01-x04",
+      "unit": "sentence",
+      "text": "masu daran ki wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗帶路",
+          "en": "The dog leads the way.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x05",
+      "source": "pazih-dict",
+      "localId": "p073-01-x05",
+      "unit": "sentence",
+      "text": "yaku makuas ka asui a belebel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我叫他帶香蕉來",
+          "en": "I asked him to bring bananas.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x06",
+      "source": "pazih-dict",
+      "localId": "p073-01-x06",
+      "unit": "sentence",
+      "text": "asui ki nisiw a sabusaw, siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶你的被子、衣服",
+          "en": "Take your coverlet and clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x07",
+      "source": "pazih-dict",
+      "localId": "p073-01-x07",
+      "unit": "sentence",
+      "text": "asui rakihan naki a xumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶孩子來我家",
+          "en": "Bring the child to my house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x08",
+      "source": "pazih-dict",
+      "localId": "p073-01-x08",
+      "unit": "sentence",
+      "text": "usa asui a dauguar; maudalay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶著斗笠一道，可能會下雨",
+          "en": "Take a bamboo hat with you; it might rain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x09",
+      "source": "pazih-dict",
+      "localId": "p073-01-x09",
+      "unit": "phrase",
+      "text": "masu rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶小孩",
+          "en": "to take along with children",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x10",
+      "source": "pazih-dict",
+      "localId": "p073-01-x10",
+      "unit": "sentence",
+      "text": "imisiw ka masu belebel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他拿香蕉來",
+          "en": "He brought bananas.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x11",
+      "source": "pazih-dict",
+      "localId": "p073-01-x11",
+      "unit": "phrase",
+      "text": "masu liaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我拿來了",
+          "en": "I brought it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x12",
+      "source": "pazih-dict",
+      "localId": "p073-01-x12",
+      "unit": "sentence",
+      "text": "rakihan ka masu wazu, mahadas di binayu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩帶著狗在山上玩",
+          "en": "The child brought a dog and played in the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x13",
+      "source": "pazih-dict",
+      "localId": "p073-01-x13",
+      "unit": "sentence",
+      "text": "masu patus a misiw ka naki a aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個帶鎗的是我父親",
+          "en": "The one carrying a gun is my father.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x14",
+      "source": "pazih-dict",
+      "localId": "p073-01-x14",
+      "unit": "sentence",
+      "text": "masu'ay niam a balax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要帶走我們這些東西",
+          "en": "We shall take these stuffs with us.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x15",
+      "source": "pazih-dict",
+      "localId": "p073-01-x15",
+      "unit": "sentence",
+      "text": "wazu ka asu'un rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗被小孩帶走了",
+          "en": "The dog was taken away by a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x16",
+      "source": "pazih-dict",
+      "localId": "p073-01-x16",
+      "unit": "sentence",
+      "text": "namisiw a ina mupudah mikita namisiw a rakihan ini asu'un ni saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她的母親來看見她的孩子，沒人帶走",
+          "en": "Her mother came back to find that her girl was not carried away by anybody.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x17",
+      "source": "pazih-dict",
+      "localId": "p073-01-x17",
+      "unit": "sentence",
+      "text": "asuen di nisia xuma lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他把他帶回家了",
+          "en": "He brought it home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f02",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-f03",
+      "source": "pazih-dict",
+      "localId": "p073-01-f03",
+      "unit": "word",
+      "text": "maxamasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶去",
+          "en": "to take or bring along",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "form",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x18",
+      "source": "pazih-dict",
+      "localId": "p073-01-x18",
+      "unit": "sentence",
+      "text": "maxamasu'ay babisibisi arim haimini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他）要把這些桃種子帶去",
+          "en": "(He) will bring along these seeds of peach.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f03",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x19",
+      "source": "pazih-dict",
+      "localId": "p073-01-x19",
+      "unit": "sentence",
+      "text": "makamaxasu'ay wazu takereban",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他）要帶狗去",
+          "en": "(He) will take a dog named takereban with him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f03",
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-f04",
+      "source": "pazih-dict",
+      "localId": "p073-01-f04",
+      "unit": "word",
+      "text": "paasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "寄（信）",
+          "en": "to send (as a letter)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "form",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-01-x20",
+      "source": "pazih-dict",
+      "localId": "p073-01-x20",
+      "unit": "phrase",
+      "text": "mausay paasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "寄（信）",
+          "en": "send (as a letter)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-01",
+        "role": "example",
+        "parent": "pazih-dict:p073-01-f04",
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，asu- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02",
+      "source": "pazih-dict",
+      "localId": "p073-02",
+      "unit": "affix",
+      "text": "ata-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-f01",
+      "source": "pazih-dict",
+      "localId": "p073-02-f01",
+      "unit": "word",
+      "text": "mu'ata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼",
+          "en": "to chew",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x01",
+      "source": "pazih-dict",
+      "localId": "p073-02-x01",
+      "unit": "sentence",
+      "text": "ata'-i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼！",
+          "en": "Chew!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-f02",
+      "source": "pazih-dict",
+      "localId": "p073-02-f02",
+      "unit": "word",
+      "text": "ata'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼了",
+          "en": "to have chewed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "form",
+        "parent": "pazih-dict:p073-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-f03",
+      "source": "pazih-dict",
+      "localId": "p073-02-f03",
+      "unit": "word",
+      "text": "mu'ata'ata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直嚼",
+          "en": "to keep chewing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "muta'ata",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-f04",
+      "source": "pazih-dict",
+      "localId": "p073-02-f04",
+      "unit": "word",
+      "text": "muta'ata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼",
+          "en": "to chew",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "mu'ata'ata",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下派生詞",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x02",
+      "source": "pazih-dict",
+      "localId": "p073-02-x02",
+      "unit": "sentence",
+      "text": "muta'ata mader a tawtaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼硬花生",
+          "en": "to chew hard peanuts",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x03",
+      "source": "pazih-dict",
+      "localId": "p073-02-x03",
+      "unit": "sentence",
+      "text": "ta'ata!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼！",
+          "en": "Chew!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x04",
+      "source": "pazih-dict",
+      "localId": "p073-02-x04",
+      "unit": "sentence",
+      "text": "ta'ata'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼！",
+          "en": "Chew!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x05",
+      "source": "pazih-dict",
+      "localId": "p073-02-x05",
+      "unit": "sentence",
+      "text": "ta'ata'i ki rumut!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚼肉",
+          "en": "! Chew the meat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f04",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-02-x06",
+      "source": "pazih-dict",
+      "localId": "p073-02-x06",
+      "unit": "sentence",
+      "text": "ta'ata'en nisiw a rumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "肉被你嚼了",
+          "en": "The meat was chewed by you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-02",
+        "role": "example",
+        "parent": "pazih-dict:p073-02-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，ata- 條下例句",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-03",
+      "source": "pazih-dict",
+      "localId": "p073-03",
+      "unit": "word",
+      "text": "atan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嫂",
+          "en": "elder sister-in-law",
+          "nan": null
+        },
+        {
+          "zh": "妯娌",
+          "en": "husband's elder brother's wife",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，atan 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p073-04",
+      "source": "pazih-dict",
+      "localId": "p073-04",
+      "unit": "word",
+      "text": "atanay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蚱蜢",
+          "en": "grasshopper",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p073-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.73，atanay 條",
+        "page": 73,
+        "pages": [
+          73
+        ],
+        "row": null,
+        "code": "p073-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p073.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

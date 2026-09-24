@@ -1,0 +1,1289 @@
+{
+  "source": "pazih-dict",
+  "shard": "p134",
+  "label": "p.134",
+  "groups": [
+    {
+      "id": "pazih-dict:p134-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ixi",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixi 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p134-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ixis-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixis- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p134-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ixu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p134-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "izer-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p134-01",
+      "source": "pazih-dict",
+      "localId": "p134-01",
+      "unit": "word",
+      "text": "ixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "左",
+          "en": "left (side)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixi 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-01-f01",
+      "source": "pazih-dict",
+      "localId": "p134-01-f01",
+      "unit": "word",
+      "text": "paixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "左撇子",
+          "en": "left-handed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixi 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-01-x01",
+      "source": "pazih-dict",
+      "localId": "p134-01-x01",
+      "unit": "phrase",
+      "text": "paixi aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我是左撇子",
+          "en": "I am left-handed.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-01",
+        "role": "example",
+        "parent": "pazih-dict:p134-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixi 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-01-f02",
+      "source": "pazih-dict",
+      "localId": "p134-01-f02",
+      "unit": "word",
+      "text": "tuixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "左撇子",
+          "en": "left-handed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixi 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-02",
+      "source": "pazih-dict",
+      "localId": "p134-02",
+      "unit": "affix",
+      "text": "ixis-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixis- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-02-f01",
+      "source": "pazih-dict",
+      "localId": "p134-02-f01",
+      "unit": "word",
+      "text": "maixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剝麻",
+          "en": "to hemp",
+          "nan": null
+        },
+        {
+          "zh": "剝麻皮",
+          "en": "to strip off the hemp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixis- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-02-x01",
+      "source": "pazih-dict",
+      "localId": "p134-02-x01",
+      "unit": "phrase",
+      "text": "maixis kixiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剝麻皮",
+          "en": "to strip off the hemp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-02",
+        "role": "example",
+        "parent": "pazih-dict:p134-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixis- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03",
+      "source": "pazih-dict",
+      "localId": "p134-03",
+      "unit": "affix",
+      "text": "ixu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-f01",
+      "source": "pazih-dict",
+      "localId": "p134-03-f01",
+      "unit": "word",
+      "text": "aixu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "船槳",
+          "en": "oar",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-f02",
+      "source": "pazih-dict",
+      "localId": "p134-03-f02",
+      "unit": "word",
+      "text": "maixu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "翻攪",
+          "en": "to stir up",
+          "nan": null
+        },
+        {
+          "zh": "划船",
+          "en": "to row a boat",
+          "nan": null
+        },
+        {
+          "zh": "舂（米）",
+          "en": "to pound (rice)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf.mixu"
+      ]
+    },
+    {
+      "id": "pazih-dict:p134-03-x01",
+      "source": "pazih-dict",
+      "localId": "p134-03-x01",
+      "unit": "sentence",
+      "text": "ixu'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "翻攪！",
+          "en": "Stir it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "example",
+        "parent": "pazih-dict:p134-03-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-f03",
+      "source": "pazih-dict",
+      "localId": "p134-03-f03",
+      "unit": "word",
+      "text": "ixu'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被翻攪了",
+          "en": "to hae been stirred",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "form",
+        "parent": "pazih-dict:p134-03-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書英文作 hae，疑為 have 之誤植，依 5.1 不修正"
+      ]
+    },
+    {
+      "id": "pazih-dict:p134-03-x02",
+      "source": "pazih-dict",
+      "localId": "p134-03-x02",
+      "unit": "phrase",
+      "text": "maixu paranah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "划船",
+          "en": "to row a boat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "example",
+        "parent": "pazih-dict:p134-03-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-x03",
+      "source": "pazih-dict",
+      "localId": "p134-03-x03",
+      "unit": "phrase",
+      "text": "maixu lasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舂米",
+          "en": "to pound rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "example",
+        "parent": "pazih-dict:p134-03-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-x04",
+      "source": "pazih-dict",
+      "localId": "p134-03-x04",
+      "unit": "sentence",
+      "text": "muixu maasi ki mamais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女人攪麻糬",
+          "en": "The woman mixed rice cake.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "example",
+        "parent": "pazih-dict:p134-03-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-03-f04",
+      "source": "pazih-dict",
+      "localId": "p134-03-f04",
+      "unit": "word",
+      "text": "saa'ixu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大飯勺",
+          "en": "spatula (a large, long up wooden scoop, used for stirring rice or millet when cooking)",
+          "nan": null
+        },
+        {
+          "zh": "船槳",
+          "en": "oar",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-03",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，ixu- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04",
+      "source": "pazih-dict",
+      "localId": "p134-04",
+      "unit": "affix",
+      "text": "izer-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-f01",
+      "source": "pazih-dict",
+      "localId": "p134-04-f01",
+      "unit": "word",
+      "text": "mizer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "上吊",
+          "en": "to hang oneself to death",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-x01",
+      "source": "pazih-dict",
+      "localId": "p134-04-x01",
+      "unit": "sentence",
+      "text": "mizer lai misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他上吊自殺",
+          "en": "He has hanged himself.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "example",
+        "parent": "pazih-dict:p134-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-x02",
+      "source": "pazih-dict",
+      "localId": "p134-04-x02",
+      "unit": "phrase",
+      "text": "mizer talima",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他上吊自殺",
+          "en": "He hanged himself.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "example",
+        "parent": "pazih-dict:p134-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-x03",
+      "source": "pazih-dict",
+      "localId": "p134-04-x03",
+      "unit": "sentence",
+      "text": "izeri!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吊死他！",
+          "en": "Hang him to death!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "example",
+        "parent": "pazih-dict:p134-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-f02",
+      "source": "pazih-dict",
+      "localId": "p134-04-f02",
+      "unit": "word",
+      "text": "paizer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吊死（他人）",
+          "en": "to hang someone to death",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下派生詞",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p134-04-x04",
+      "source": "pazih-dict",
+      "localId": "p134-04-x04",
+      "unit": "sentence",
+      "text": "paizer saw misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他吊死那個人",
+          "en": "He hanged that person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p134-04",
+        "role": "example",
+        "parent": "pazih-dict:p134-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.134，izer- 條下例句",
+        "page": 134,
+        "pages": [
+          134
+        ],
+        "row": null,
+        "code": "p134-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p134.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

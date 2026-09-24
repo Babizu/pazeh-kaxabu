@@ -1,0 +1,2519 @@
+{
+  "source": "pazih-dict",
+  "shard": "p322",
+  "label": "p.322",
+  "groups": [
+    {
+      "id": "pazih-dict:p322-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xazay-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xazing-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xedang-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xedang- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xepes-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepes- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xepexep-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepexep- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xe'el-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xe'el- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p322-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xe'et-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p322-01",
+      "source": "pazih-dict",
+      "localId": "p322-01",
+      "unit": "affix",
+      "text": "xazay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. xari"
+      ]
+    },
+    {
+      "id": "pazih-dict:p322-01-f01",
+      "source": "pazih-dict",
+      "localId": "p322-01-f01",
+      "unit": "word",
+      "text": "muxazay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簸穀",
+          "en": "to winnow grains",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-01-x01",
+      "source": "pazih-dict",
+      "localId": "p322-01-x01",
+      "unit": "phrase",
+      "text": "muxazay zumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簸穀粒",
+          "en": "to winnow unhusked grains",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-01",
+        "role": "example",
+        "parent": "pazih-dict:p322-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-01-f02",
+      "source": "pazih-dict",
+      "localId": "p322-01-f02",
+      "unit": "word",
+      "text": "xaaxazay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在簸穀粒",
+          "en": "is winnowing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-01",
+        "role": "form",
+        "parent": "pazih-dict:p322-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-01-f03",
+      "source": "pazih-dict",
+      "localId": "p322-01-f03",
+      "unit": "word",
+      "text": "saxazay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簸具",
+          "en": "dustpan",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazay- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02",
+      "source": "pazih-dict",
+      "localId": "p322-02",
+      "unit": "affix",
+      "text": "xazing-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-f01",
+      "source": "pazih-dict",
+      "localId": "p322-02-f01",
+      "unit": "word",
+      "text": "muxazing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "丟",
+          "en": "to throw",
+          "nan": null
+        },
+        {
+          "zh": "丟棄（廢物）",
+          "en": "to throw away",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x01",
+      "source": "pazih-dict",
+      "localId": "p322-02-x01",
+      "unit": "sentence",
+      "text": "xazingi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "丟棄！",
+          "en": "Throw it away!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-f02",
+      "source": "pazih-dict",
+      "localId": "p322-02-f02",
+      "unit": "word",
+      "text": "xaaxazing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在丟棄",
+          "en": "is throwing away",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "form",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-f03",
+      "source": "pazih-dict",
+      "localId": "p322-02-f03",
+      "unit": "word",
+      "text": "xazingen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被丟棄",
+          "en": "is thrown away",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "form",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x02",
+      "source": "pazih-dict",
+      "localId": "p322-02-x02",
+      "unit": "sentence",
+      "text": "aba mudadal dadas xazingen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親挖出地瓜丟棄了",
+          "en": "Father dug up sweet potatoes and threw them away.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x03",
+      "source": "pazih-dict",
+      "localId": "p322-02-x03",
+      "unit": "sentence",
+      "text": "mataturu xazingen di nisia pungu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第三次他丟她的頭",
+          "en": "The third time he threw (a branch) at her head.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x04",
+      "source": "pazih-dict",
+      "localId": "p322-02-x04",
+      "unit": "sentence",
+      "text": "imini balax ka xaxazingen saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個東西會被人丟棄",
+          "en": "This stuff will be thrown away by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x05",
+      "source": "pazih-dict",
+      "localId": "p322-02-x05",
+      "unit": "sentence",
+      "text": "xinazingan ni saw ki dadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "地瓜是人家丟棄的",
+          "en": "The sweet potato was thrown away by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-f04",
+      "source": "pazih-dict",
+      "localId": "p322-02-f04",
+      "unit": "word",
+      "text": "paxazing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "丟失",
+          "en": "to lose, to miss",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-02-x06",
+      "source": "pazih-dict",
+      "localId": "p322-02-x06",
+      "unit": "sentence",
+      "text": "ana u paxazing apuan nu yu rahan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長輩的話別丟失了",
+          "en": "Don't forget about the elders' words.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-02",
+        "role": "example",
+        "parent": "pazih-dict:p322-02-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xazing- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-03",
+      "source": "pazih-dict",
+      "localId": "p322-03",
+      "unit": "affix",
+      "text": "xedang-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xedang- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-03-f01",
+      "source": "pazih-dict",
+      "localId": "p322-03-f01",
+      "unit": "word",
+      "text": "maxedang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（稻穀）飽滿（“飽米”）",
+          "en": "full (of a rice grain), not empty",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xedang- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-03-x01",
+      "source": "pazih-dict",
+      "localId": "p322-03-x01",
+      "unit": "sentence",
+      "text": "maxedang a mulasi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "稻子結實",
+          "en": "The rice grains grow solid.",
+          "nan": null
+        },
+        {
+          "zh": "穀粒豐滿",
+          "en": "fully grown as of a grain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-03",
+        "role": "example",
+        "parent": "pazih-dict:p322-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xedang- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-04",
+      "source": "pazih-dict",
+      "localId": "p322-04",
+      "unit": "affix",
+      "text": "xepes-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepes- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-04-f01",
+      "source": "pazih-dict",
+      "localId": "p322-04-f01",
+      "unit": "word",
+      "text": "tixepes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吐痰",
+          "en": "to spit",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepes- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-04-x01",
+      "source": "pazih-dict",
+      "localId": "p322-04-x01",
+      "unit": "sentence",
+      "text": "tixepesi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吐痰！",
+          "en": "Spit!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-04",
+        "role": "example",
+        "parent": "pazih-dict:p322-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepes- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-04-f02",
+      "source": "pazih-dict",
+      "localId": "p322-04-f02",
+      "unit": "word",
+      "text": "taixepes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在吐痰",
+          "en": "is spiting",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-04",
+        "role": "form",
+        "parent": "pazih-dict:p322-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepes- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-05",
+      "source": "pazih-dict",
+      "localId": "p322-05",
+      "unit": "affix",
+      "text": "xepexep-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepexep- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-05-f01",
+      "source": "pazih-dict",
+      "localId": "p322-05-f01",
+      "unit": "word",
+      "text": "mexepexep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "加衣，添衣，疊米包",
+          "en": "to put on more clothes, to pile up (rice sacks)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepexep- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-05-x01",
+      "source": "pazih-dict",
+      "localId": "p322-05-x01",
+      "unit": "sentence",
+      "text": "xepexebi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "增添！",
+          "en": "Put on more (clothes or rice sacks)!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-05",
+        "role": "example",
+        "parent": "pazih-dict:p322-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepexep- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-05-x02",
+      "source": "pazih-dict",
+      "localId": "p322-05-x02",
+      "unit": "phrase",
+      "text": "mexepexep siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "添衣",
+          "en": "to put on more clothes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-05",
+        "role": "example",
+        "parent": "pazih-dict:p322-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xepexep- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-06",
+      "source": "pazih-dict",
+      "localId": "p322-06",
+      "unit": "affix",
+      "text": "xe'el-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xe'el- 條",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-06-f01",
+      "source": "pazih-dict",
+      "localId": "p322-06-f01",
+      "unit": "word",
+      "text": "mexe'el",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用力",
+          "en": "to apply force to exert, to bear down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xe'el- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-06-x01",
+      "source": "pazih-dict",
+      "localId": "p322-06-x01",
+      "unit": "sentence",
+      "text": "xe'eli!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用力！",
+          "en": "Apply force!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-06",
+        "role": "example",
+        "parent": "pazih-dict:p322-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xe'el- 條下例句",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-06-f02",
+      "source": "pazih-dict",
+      "localId": "p322-06-f02",
+      "unit": "word",
+      "text": "xeexe'el",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在用力（大便，生子）",
+          "en": "is bearing down (as when defecating or giving birth)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-06",
+        "role": "form",
+        "parent": "pazih-dict:p322-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322，xe'el- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322
+        ],
+        "row": null,
+        "code": "p322-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07",
+      "source": "pazih-dict",
+      "localId": "p322-07",
+      "unit": "affix",
+      "text": "xe'et-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-f01",
+      "source": "pazih-dict",
+      "localId": "p322-07-f01",
+      "unit": "word",
+      "text": "maaxe'et",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捆，綁在一起",
+          "en": "to tie with each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-f02",
+      "source": "pazih-dict",
+      "localId": "p322-07-f02",
+      "unit": "word",
+      "text": "mexe'et",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捆，綁",
+          "en": "to tie (up), to fasten",
+          "nan": null
+        },
+        {
+          "zh": "連接",
+          "en": "to connect",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x01",
+      "source": "pazih-dict",
+      "localId": "p322-07-x01",
+      "unit": "sentence",
+      "text": "mexe'et nuang ki yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我綁牛",
+          "en": "I tied carabaos.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x02",
+      "source": "pazih-dict",
+      "localId": "p322-07-x02",
+      "unit": "sentence",
+      "text": "yaku kalu saris mexe'et nuang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我用繩子綁牛",
+          "en": "I tied carabaos with ropes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x03",
+      "source": "pazih-dict",
+      "localId": "p322-07-x03",
+      "unit": "sentence",
+      "text": "xe'edi di abaxa ki dapas!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "糞斗綁在肩上！",
+          "en": "Tie the dustbin unto the shoulders!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-f03",
+      "source": "pazih-dict",
+      "localId": "p322-07-f03",
+      "unit": "word",
+      "text": "xeexe'et",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在捆",
+          "en": "is tying",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "form",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x04",
+      "source": "pazih-dict",
+      "localId": "p322-07-x04",
+      "unit": "sentence",
+      "text": "xaaxe'eden naki ki nuang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牛將被我綁起來",
+          "en": "The cow will be tied by me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x05",
+      "source": "pazih-dict",
+      "localId": "p322-07-x05",
+      "unit": "sentence",
+      "text": "awi sarawan xexe'eday wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿維明天將綁狗",
+          "en": "Awi will tie the dog tomorrow.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-f04",
+      "source": "pazih-dict",
+      "localId": "p322-07-f04",
+      "unit": "word",
+      "text": "xe'eden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "綁住",
+          "en": "to tie up an animal to a stake or the like",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "form",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x06",
+      "source": "pazih-dict",
+      "localId": "p322-07-x06",
+      "unit": "sentence",
+      "text": "xe'eden naki lia ki nuang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牛被我綁了",
+          "en": "The carabaos were tied by me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x07",
+      "source": "pazih-dict",
+      "localId": "p322-07-x07",
+      "unit": "sentence",
+      "text": "xe'eden ni awi lia ki wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗被阿維綁了",
+          "en": "The dog was tied by Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x08",
+      "source": "pazih-dict",
+      "localId": "p322-07-x08",
+      "unit": "sentence",
+      "text": "xine'edan ni awi lia ki wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗已被阿維綁了",
+          "en": "The dog has been tied by Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f02",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-f05",
+      "source": "pazih-dict",
+      "localId": "p322-07-f05",
+      "unit": "word",
+      "text": "saaxe'et",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用來捆綁",
+          "en": "(something) used to tie something else (Instrumental-focus)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下派生詞",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p322-07-x09",
+      "source": "pazih-dict",
+      "localId": "p322-07-x09",
+      "unit": "sentence",
+      "text": "saaxe'et nuang ki kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "樹用來綁牛",
+          "en": "The trees are used to tie carabaos.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p322-07",
+        "role": "example",
+        "parent": "pazih-dict:p322-07-f05",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.322–323，xe'et- 條下例句",
+        "page": 322,
+        "pages": [
+          322,
+          323
+        ],
+        "row": null,
+        "code": "p322-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p322.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

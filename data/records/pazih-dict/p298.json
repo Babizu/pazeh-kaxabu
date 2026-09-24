@@ -1,0 +1,1752 @@
+{
+  "source": "pazih-dict",
+  "shard": "p298",
+  "label": "p.298",
+  "groups": [
+    {
+      "id": "pazih-dict:p298-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "tenep-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p298-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "tengap-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p298-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "te'eng-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p298-01",
+      "source": "pazih-dict",
+      "localId": "p298-01",
+      "unit": "affix",
+      "text": "tenep-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-f01",
+      "source": "pazih-dict",
+      "localId": "p298-01-f01",
+      "unit": "word",
+      "text": "mutenep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "淹沒",
+          "en": "to drown, to submerge, to inundate",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-x01",
+      "source": "pazih-dict",
+      "localId": "p298-01-x01",
+      "unit": "sentence",
+      "text": "mutenep xumak ki dalum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水淹了房屋",
+          "en": "The water inundated the house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "example",
+        "parent": "pazih-dict:p298-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-x02",
+      "source": "pazih-dict",
+      "localId": "p298-01-x02",
+      "unit": "sentence",
+      "text": "isia lia maka tetenebay awas, binibini lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後海水淹起來，滿滿地（溢出陸地）",
+          "en": "The sea was full, overflowed, and inundated all the lands.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "example",
+        "parent": "pazih-dict:p298-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-f02",
+      "source": "pazih-dict",
+      "localId": "p298-01-f02",
+      "unit": "phrase",
+      "text": "makatenep (pakatenep)",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使淹沒",
+          "en": "to inundate, overflow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-x03",
+      "source": "pazih-dict",
+      "localId": "p298-01-x03",
+      "unit": "sentence",
+      "text": "makatetenebay ki awas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "海水淹起來",
+          "en": "The sea is inundating.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "example",
+        "parent": "pazih-dict:p298-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-01-x04",
+      "source": "pazih-dict",
+      "localId": "p298-01-x04",
+      "unit": "sentence",
+      "text": "isia lia makatetenebay ki awas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "海水淹起來了",
+          "en": "Then the sea was going to inundate it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-01",
+        "role": "example",
+        "parent": "pazih-dict:p298-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tenep- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02",
+      "source": "pazih-dict",
+      "localId": "p298-02",
+      "unit": "affix",
+      "text": "tengap-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-f01",
+      "source": "pazih-dict",
+      "localId": "p298-02-f01",
+      "unit": "word",
+      "text": "metengap",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（日）出",
+          "en": "to rise (of the sun)",
+          "nan": null
+        },
+        {
+          "zh": "浮出，露出",
+          "en": "to surface",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x01",
+      "source": "pazih-dict",
+      "localId": "p298-02-x01",
+      "unit": "sentence",
+      "text": "deetengap a rizax ki uhuni",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "現在正在出太陽",
+          "en": "The sun is rising now.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x02",
+      "source": "pazih-dict",
+      "localId": "p298-02-x02",
+      "unit": "phrase",
+      "text": "deetengap rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽在出來",
+          "en": "The sun is rising.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x03",
+      "source": "pazih-dict",
+      "localId": "p298-02-x03",
+      "unit": "sentence",
+      "text": "metengap lia ki rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽出來了",
+          "en": "The sun has risen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x04",
+      "source": "pazih-dict",
+      "localId": "p298-02-x04",
+      "unit": "sentence",
+      "text": "metengap rizax lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽出來了",
+          "en": "The sun is rising.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x05",
+      "source": "pazih-dict",
+      "localId": "p298-02-x05",
+      "unit": "sentence",
+      "text": "metengap lia ki punu di babaw danum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他的頭浮出水面了",
+          "en": "His head surfaced above the water.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-f02",
+      "source": "pazih-dict",
+      "localId": "p298-02-f02",
+      "unit": "word",
+      "text": "tatengap",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "出來",
+          "en": "to come out, to go out",
+          "nan": null
+        },
+        {
+          "zh": "（日）出處，浮出處，露出處",
+          "en": "the place where the sun rises or something surfaces",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x06",
+      "source": "pazih-dict",
+      "localId": "p298-02-x06",
+      "unit": "sentence",
+      "text": "tatengap nu rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽出來",
+          "en": "The sun rises.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-02-x07",
+      "source": "pazih-dict",
+      "localId": "p298-02-x07",
+      "unit": "sentence",
+      "text": "maxamasakelay tatengaban rizax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他快到日出處了",
+          "en": "He will arrive at where the sun rises.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-02",
+        "role": "example",
+        "parent": "pazih-dict:p298-02-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298，tengap- 條下例句",
+        "page": 298,
+        "pages": [
+          298
+        ],
+        "row": null,
+        "code": "p298-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03",
+      "source": "pazih-dict",
+      "localId": "p298-03",
+      "unit": "affix",
+      "text": "te'eng-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. bulu-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p298-03-f01",
+      "source": "pazih-dict",
+      "localId": "p298-03-f01",
+      "unit": "word",
+      "text": "mete'eng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擲",
+          "en": "to throw at someone with something",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x01",
+      "source": "pazih-dict",
+      "localId": "p298-03-x01",
+      "unit": "sentence",
+      "text": "rakihan ka mara batu mete'eng wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩用石頭擲狗",
+          "en": "The child threw at the dog with a stone.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x02",
+      "source": "pazih-dict",
+      "localId": "p298-03-x02",
+      "unit": "sentence",
+      "text": "imini batu ka rakihan mete'eng wazu wa batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "此石頭小孩用來擲狗",
+          "en": "The stone is used to throw at a dog by children.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x03",
+      "source": "pazih-dict",
+      "localId": "p298-03-x03",
+      "unit": "sentence",
+      "text": "atun kalu batu mete'eng wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 用石子丟狗",
+          "en": "Atun threw at a dog with stones.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x04",
+      "source": "pazih-dict",
+      "localId": "p298-03-x04",
+      "unit": "sentence",
+      "text": "te'eng sen ki daurik, ini marikazay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擲她的眼睛，但她不動",
+          "en": "(He) threw it at her eyes, and she did not move.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-f02",
+      "source": "pazih-dict",
+      "localId": "p298-03-f02",
+      "unit": "word",
+      "text": "te'engen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被擲",
+          "en": "be thrown",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "form",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x05",
+      "source": "pazih-dict",
+      "localId": "p298-03-x05",
+      "unit": "sentence",
+      "text": "tete'eng ima ki rakihan?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩在擲誰？",
+          "en": "Who is the child throwing at?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-f03",
+      "source": "pazih-dict",
+      "localId": "p298-03-f03",
+      "unit": "word",
+      "text": "sate'eng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用來丟擲",
+          "en": "used to throw",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x06",
+      "source": "pazih-dict",
+      "localId": "p298-03-x06",
+      "unit": "sentence",
+      "text": "batu ka sate'eng nisiw a punu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "石頭（可）用來丟擲你的頭",
+          "en": "The stone was used to throw at your head.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-f04",
+      "source": "pazih-dict",
+      "localId": "p298-03-f04",
+      "unit": "word",
+      "text": "site'eng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用來丟擲",
+          "en": "used to throw (IF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下派生詞",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x07",
+      "source": "pazih-dict",
+      "localId": "p298-03-x07",
+      "unit": "sentence",
+      "text": "site'eng ima?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被誰擲？",
+          "en": "Who was thrown at?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f04",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x08",
+      "source": "pazih-dict",
+      "localId": "p298-03-x08",
+      "unit": "sentence",
+      "text": "site'eng wazu ki batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用石頭擲狗",
+          "en": "to throw a dog with a stone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f04",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x09",
+      "source": "pazih-dict",
+      "localId": "p298-03-x09",
+      "unit": "sentence",
+      "text": "site'eng ni rakihan wazu ki bata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩用石投擲狗",
+          "en": "The child throws at the dog with a stone.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x10",
+      "source": "pazih-dict",
+      "localId": "p298-03-x10",
+      "unit": "sentence",
+      "text": "site'eng wazu (w)a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擲狗的石頭",
+          "en": "the stone used to throw at a dog",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p298-03-x11",
+      "source": "pazih-dict",
+      "localId": "p298-03-x11",
+      "unit": "sentence",
+      "text": "site'eng wazu ni rakihan ki batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這石頭被小孩用來丟狗",
+          "en": "The stone was used to throw at a dog by the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p298-03",
+        "role": "example",
+        "parent": "pazih-dict:p298-03-f04",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.298–299，te'eng- 條下例句",
+        "page": 298,
+        "pages": [
+          298,
+          299
+        ],
+        "row": null,
+        "code": "p298-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p298.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,2097 @@
+{
+  "source": "pazih-dict",
+  "shard": "p069",
+  "label": "p.69",
+  "groups": [
+    {
+      "id": "pazih-dict:p069-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apuan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apuan 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apui",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apui 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apu'apu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu'apu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apu'apuwan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu'apuwan 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apux",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apuzu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apuzu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p069-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ara-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p069-01",
+      "source": "pazih-dict",
+      "localId": "p069-01",
+      "unit": "word",
+      "text": "apu",
+      "altTexts": [],
+      "dialects": [
+        "auran"
+      ],
+      "dialectRaw": "[A]",
+      "senses": [
+        {
+          "zh": "人名",
+          "en": "personal name",
+          "nan": null
+        },
+        {
+          "zh": "九芎",
+          "en": "plant sp., Lagerstroenia subcostata Koehne",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-02",
+      "source": "pazih-dict",
+      "localId": "p069-02",
+      "unit": "word",
+      "text": "apuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長輩",
+          "en": "elderly people",
+          "nan": null
+        },
+        {
+          "zh": "老太婆",
+          "en": "old woman",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "apu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apuan 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-03",
+      "source": "pazih-dict",
+      "localId": "p069-03",
+      "unit": "word",
+      "text": "apui",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿婆（呼格）",
+          "en": "Grandma!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "apu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apui 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-04",
+      "source": "pazih-dict",
+      "localId": "p069-04",
+      "unit": "word",
+      "text": "apu'apu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曾祖母",
+          "en": "great grandmother",
+          "nan": null
+        },
+        {
+          "zh": "祖先，祖宗",
+          "en": "ancestors",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "apu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu'apu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-05",
+      "source": "pazih-dict",
+      "localId": "p069-05",
+      "unit": "word",
+      "text": "apu'apuwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "祖先",
+          "en": "ancestors",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "apu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apu'apuwan 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06",
+      "source": "pazih-dict",
+      "localId": "p069-06",
+      "unit": "word",
+      "text": "apux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "碎米（把米炒熟再搗碎，再用來調配醃生魚）",
+          "en": "small broken pieces of rice to mix with salted fish",
+          "nan": null
+        },
+        {
+          "zh": "搗碎米",
+          "en": "to pound rice into very small pieces to mix with salted fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06-x01",
+      "source": "pazih-dict",
+      "localId": "p069-06-x01",
+      "unit": "sentence",
+      "text": "apuxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "粉碎它！",
+          "en": "Pound rice into pieces! (used to salt meat)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條下例句",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06-f01",
+      "source": "pazih-dict",
+      "localId": "p069-06-f01",
+      "unit": "word",
+      "text": "maxapux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "粉碎，變成粉末",
+          "en": "to pulverize by pounding",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條下派生詞",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06-x02",
+      "source": "pazih-dict",
+      "localId": "p069-06-x02",
+      "unit": "sentence",
+      "text": "maxapux lia ki lasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "米搗碎",
+          "en": "The rice has been pounded into small pieces.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "example",
+        "parent": "pazih-dict:p069-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條下例句",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06-f02",
+      "source": "pazih-dict",
+      "localId": "p069-06-f02",
+      "unit": "word",
+      "text": "maxa'apux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "粉碎的米",
+          "en": "small broken pieces of rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條下派生詞",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-06-x03",
+      "source": "pazih-dict",
+      "localId": "p069-06-x03",
+      "unit": "sentence",
+      "text": "maxa'apux ki lasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "米成為碎米了",
+          "en": "The rice has become small broken pieces.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-06",
+        "role": "example",
+        "parent": "pazih-dict:p069-06-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apux 條下例句",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-07",
+      "source": "pazih-dict",
+      "localId": "p069-07",
+      "unit": "word",
+      "text": "apuzu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "膽",
+          "en": "gall bladder",
+          "nan": null
+        },
+        {
+          "zh": "膽汁",
+          "en": "bile",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69，apuzu 條",
+        "page": 69,
+        "pages": [
+          69
+        ],
+        "row": null,
+        "code": "p069-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08",
+      "source": "pazih-dict",
+      "localId": "p069-08",
+      "unit": "affix",
+      "text": "ara-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-f01",
+      "source": "pazih-dict",
+      "localId": "p069-08-f01",
+      "unit": "word",
+      "text": "mara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿",
+          "en": "to take, to get, to obtain",
+          "nan": null
+        },
+        {
+          "zh": "娶",
+          "en": "to marry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下派生詞",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x01",
+      "source": "pazih-dict",
+      "localId": "p069-08-x01",
+      "unit": "sentence",
+      "text": "ara'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿！",
+          "en": "Take!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x02",
+      "source": "pazih-dict",
+      "localId": "p069-08-x02",
+      "unit": "sentence",
+      "text": "ara'i a dapas!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿畚箕！",
+          "en": "Take a dustpan!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x03",
+      "source": "pazih-dict",
+      "localId": "p069-08-x03",
+      "unit": "sentence",
+      "text": "ara'i a dapas! kexedi a dapas! xe'edi abaxa ki dapas!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿糞箕！把它劈成兩半！綁在肩上！",
+          "en": "Take a dustpan, cut it into two, (and then) tie them unto the shoulders!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x04",
+      "source": "pazih-dict",
+      "localId": "p069-08-x04",
+      "unit": "sentence",
+      "text": "ara'i adang a tauxumak, aunu sarapun awi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "娶個繼室好照顧阿維",
+          "en": "Take another girl to wife, so that she can take care of Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x05",
+      "source": "pazih-dict",
+      "localId": "p069-08-x05",
+      "unit": "sentence",
+      "text": "ara la minah, te'eng sen, ini marikazay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他又拿了根（樹枝）丟她，她依然不動",
+          "en": "He took (a branch) again and threw it at it, she still did not move.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x06",
+      "source": "pazih-dict",
+      "localId": "p069-08-x06",
+      "unit": "sentence",
+      "text": "arasui salaman!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿碗來！",
+          "en": "Bring a bowl!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-f02",
+      "source": "pazih-dict",
+      "localId": "p069-08-f02",
+      "unit": "word",
+      "text": "ara'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被拿",
+          "en": "be received, accepted",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "form",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下派生詞",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x07",
+      "source": "pazih-dict",
+      "localId": "p069-08-x07",
+      "unit": "sentence",
+      "text": "ara'en ni saw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被拿了",
+          "en": "It was taken by somebody.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x08",
+      "source": "pazih-dict",
+      "localId": "p069-08-x08",
+      "unit": "sentence",
+      "text": "xasebuz a dali ka ara'en lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "六天後他娶了她",
+          "en": "Six days later, he married her.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x09",
+      "source": "pazih-dict",
+      "localId": "p069-08-x09",
+      "unit": "sentence",
+      "text": "mara turu a luxut ka, dusa a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他們）捉到三隻鹿，卻有兩個人",
+          "en": "(They) caught three deer, but (there were) two people.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x10",
+      "source": "pazih-dict",
+      "localId": "p069-08-x10",
+      "unit": "sentence",
+      "text": "asay ki mara rangarang pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你如何抓到豹的？",
+          "en": "How did you catch the leopards?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x11",
+      "source": "pazih-dict",
+      "localId": "p069-08-x11",
+      "unit": "sentence",
+      "text": "usa mara dalum aunu nisiw a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去拿水給你母親",
+          "en": "Go and get water for your mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x12",
+      "source": "pazih-dict",
+      "localId": "p069-08-x12",
+      "unit": "phrase",
+      "text": "mara maxiasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "娶新娘，娶媳婦",
+          "en": "to marry, to get a daughter-in-law",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x13",
+      "source": "pazih-dict",
+      "localId": "p069-08-x13",
+      "unit": "sentence",
+      "text": "lia ka mara tauxumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "就娶了太太了",
+          "en": "Then (he) married a woman.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x14",
+      "source": "pazih-dict",
+      "localId": "p069-08-x14",
+      "unit": "sentence",
+      "text": "mara imini a mamais ka riak a mamais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他在此地娶的女子是好女子",
+          "en": "The girl he married here was a good one.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x15",
+      "source": "pazih-dict",
+      "localId": "p069-08-x15",
+      "unit": "sentence",
+      "text": "usa mara dalum aunu nisiw a ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去那並取一些水給你母親",
+          "en": "Go and get some water for your mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-f03",
+      "source": "pazih-dict",
+      "localId": "p069-08-f03",
+      "unit": "word",
+      "text": "maara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在拿",
+          "en": "is taking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "form",
+        "parent": "pazih-dict:p069-08-f01",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下派生詞",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-f04",
+      "source": "pazih-dict",
+      "localId": "p069-08-f04",
+      "unit": "word",
+      "text": "maxamara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿",
+          "en": "to take",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下派生詞",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x16",
+      "source": "pazih-dict",
+      "localId": "p069-08-x16",
+      "unit": "phrase",
+      "text": "maxamara'ay lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要拿了",
+          "en": "will take it",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f04",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x17",
+      "source": "pazih-dict",
+      "localId": "p069-08-x17",
+      "unit": "sentence",
+      "text": "rikibulay dini maxamara'ay paridaxay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要在這裡圍起來，拿（小米）去曬",
+          "en": "They encircled here and took the millet to dry in the sun.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f04",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-f05",
+      "source": "pazih-dict",
+      "localId": "p069-08-f05",
+      "unit": "word",
+      "text": "tara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們娶吧",
+          "en": "Let's marry…",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "form",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下派生詞",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p069-08-x18",
+      "source": "pazih-dict",
+      "localId": "p069-08-x18",
+      "unit": "sentence",
+      "text": "tara'ay di dini ya mamais, haw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在這兒娶太太，好吧？",
+          "en": "How about getting married here?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p069-08",
+        "role": "example",
+        "parent": "pazih-dict:p069-08-f05",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.69–70，ara- 條下例句",
+        "page": 69,
+        "pages": [
+          69,
+          70
+        ],
+        "row": null,
+        "code": "p069-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p069.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

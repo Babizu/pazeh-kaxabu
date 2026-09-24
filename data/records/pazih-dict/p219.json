@@ -1,0 +1,1988 @@
+{
+  "source": "pazih-dict",
+  "shard": "p219",
+  "label": "p.219",
+  "groups": [
+    {
+      "id": "pazih-dict:p219-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngayah-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p219-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngayah-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p219-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngazep-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p219-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngaziben",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngaziben 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p219-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngazip-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p219-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngazus",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazus 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p219-01",
+      "source": "pazih-dict",
+      "localId": "p219-01",
+      "unit": "affix",
+      "text": "ngayah-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p219-01-f01",
+      "source": "pazih-dict",
+      "localId": "p219-01-f01",
+      "unit": "word",
+      "text": "kumangayah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生吃",
+          "en": "to eat raw",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-01-x01",
+      "source": "pazih-dict",
+      "localId": "p219-01-x01",
+      "unit": "sentence",
+      "text": "kumangayah alaw yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我生吃魚",
+          "en": "I eat fish raw.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "example",
+        "parent": "pazih-dict:p219-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-01-f02",
+      "source": "pazih-dict",
+      "localId": "p219-01-f02",
+      "unit": "word",
+      "text": "mangayah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生的（未熟）",
+          "en": "raw, unpripe",
+          "nan": null
+        },
+        {
+          "zh": "藍",
+          "en": "blue",
+          "nan": null
+        },
+        {
+          "zh": "綠",
+          "en": "green",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-01-x02",
+      "source": "pazih-dict",
+      "localId": "p219-01-x02",
+      "unit": "sentence",
+      "text": "mangayah a alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生的魚",
+          "en": "raw fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "example",
+        "parent": "pazih-dict:p219-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-01-x03",
+      "source": "pazih-dict",
+      "localId": "p219-01-x03",
+      "unit": "sentence",
+      "text": "kiikita'ay mangayah rumaw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他正在看藍色的湖",
+          "en": "He was looking at a blue lake.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "example",
+        "parent": "pazih-dict:p219-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-01-f03",
+      "source": "pazih-dict",
+      "localId": "p219-01-f03",
+      "unit": "word",
+      "text": "minangayangayah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很生",
+          "en": "very unripe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-01",
+        "role": "form",
+        "parent": "pazih-dict:p219-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-02",
+      "source": "pazih-dict",
+      "localId": "p219-02",
+      "unit": "affix",
+      "text": "ngayah-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p219-02-f01",
+      "source": "pazih-dict",
+      "localId": "p219-02-f01",
+      "unit": "word",
+      "text": "manatatangayah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "仰臥",
+          "en": "to lie on one's back; in normal position",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngayah- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03",
+      "source": "pazih-dict",
+      "localId": "p219-03",
+      "unit": "affix",
+      "text": "ngazep-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-f01",
+      "source": "pazih-dict",
+      "localId": "p219-03-f01",
+      "unit": "word",
+      "text": "mangazep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "多",
+          "en": "plus",
+          "nan": null
+        },
+        {
+          "zh": "多餘",
+          "en": "more than, remain",
+          "nan": null
+        },
+        {
+          "zh": "剩餘",
+          "en": "leftover (Syn. ngapi)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-x01",
+      "source": "pazih-dict",
+      "localId": "p219-03-x01",
+      "unit": "sentence",
+      "text": "adang a kawas mangazep, parisan adang a rakihan a mamaleng, langat ka awi seng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一年多，生了一個男孩，名叫",
+          "en": "Awi In a little more than a year, (they) had a baby boy named Awi.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "example",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-x02",
+      "source": "pazih-dict",
+      "localId": "p219-03-x02",
+      "unit": "sentence",
+      "text": "mangazeb a paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剩下的錢",
+          "en": "small changes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "example",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-x03",
+      "source": "pazih-dict",
+      "localId": "p219-03-x03",
+      "unit": "sentence",
+      "text": "mangazeb a sumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剩飯",
+          "en": "leftover rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "example",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-x04",
+      "source": "pazih-dict",
+      "localId": "p219-03-x04",
+      "unit": "sentence",
+      "text": "mangazep kinan naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃剩的",
+          "en": "It's what I left over.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "example",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-x05",
+      "source": "pazih-dict",
+      "localId": "p219-03-x05",
+      "unit": "sentence",
+      "text": "mangazep ki saysay binaxa ni babaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "各種東西都有剩餘，是上天所賜",
+          "en": "There are all sorts of things and more than enough of them, bestowed by God.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "example",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-03-f02",
+      "source": "pazih-dict",
+      "localId": "p219-03-f02",
+      "unit": "word",
+      "text": "ngazeben",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "留下的",
+          "en": "left over",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-03",
+        "role": "form",
+        "parent": "pazih-dict:p219-03-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazep- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-04",
+      "source": "pazih-dict",
+      "localId": "p219-04",
+      "unit": "word",
+      "text": "ngaziben",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬",
+          "en": "to bite",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "ngazip-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngaziben 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05",
+      "source": "pazih-dict",
+      "localId": "p219-05",
+      "unit": "affix",
+      "text": "ngazip-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-f01",
+      "source": "pazih-dict",
+      "localId": "p219-05-f01",
+      "unit": "word",
+      "text": "mungazip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬",
+          "en": "to bite",
+          "nan": null
+        },
+        {
+          "zh": "輕咬",
+          "en": "to nibble, to hold in the mouth between the teeth (as a dog with a bone)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x01",
+      "source": "pazih-dict",
+      "localId": "p219-05-x01",
+      "unit": "sentence",
+      "text": "wazu mungazip rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗咬小孩",
+          "en": "The dog bit a child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x02",
+      "source": "pazih-dict",
+      "localId": "p219-05-x02",
+      "unit": "sentence",
+      "text": "ngaziben wazu lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩曾被狗咬過",
+          "en": "The child has been biten by a dog.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x03",
+      "source": "pazih-dict",
+      "localId": "p219-05-x03",
+      "unit": "sentence",
+      "text": "balan ka mungazib u adus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "貓咬老鼠",
+          "en": "The cat bit a mouse",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x04",
+      "source": "pazih-dict",
+      "localId": "p219-05-x04",
+      "unit": "sentence",
+      "text": "kalu rahan mungazip tubus ki xauxi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Xauxi 用口咬甘蔗",
+          "en": "Xauxi uses his mouth to bite sugarcane",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x05",
+      "source": "pazih-dict",
+      "localId": "p219-05-x05",
+      "unit": "phrase",
+      "text": "mungazip adus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬鼠",
+          "en": "bite a mouse",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x06",
+      "source": "pazih-dict",
+      "localId": "p219-05-x06",
+      "unit": "sentence",
+      "text": "ngazibi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬！",
+          "en": "Bite it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x07",
+      "source": "pazih-dict",
+      "localId": "p219-05-x07",
+      "unit": "sentence",
+      "text": "ngazip!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬！",
+          "en": "Bite!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x08",
+      "source": "pazih-dict",
+      "localId": "p219-05-x08",
+      "unit": "sentence",
+      "text": "nginazipan wazu ka kaidi assai?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗咬的地方在哪裡？",
+          "en": "Where did the dog bite you?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x09",
+      "source": "pazih-dict",
+      "localId": "p219-05-x09",
+      "unit": "sentence",
+      "text": "nginaziban u wazu ka kaidi karaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗咬的地方是腳",
+          "en": "It was the leg that was bitten by the dog.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x10",
+      "source": "pazih-dict",
+      "localId": "p219-05-x10",
+      "unit": "sentence",
+      "text": "ngazipun ezet imisiw haki puriahat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他被蛇咬所以死了",
+          "en": "He was bitten by a snake, so he died.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f01",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-f02",
+      "source": "pazih-dict",
+      "localId": "p219-05-f02",
+      "unit": "word",
+      "text": "ngaziben",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬",
+          "en": "to bite",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x11",
+      "source": "pazih-dict",
+      "localId": "p219-05-x11",
+      "unit": "sentence",
+      "text": "ngaziben lia!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬了",
+          "en": "has been bitten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f02",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-x12",
+      "source": "pazih-dict",
+      "localId": "p219-05-x12",
+      "unit": "sentence",
+      "text": "ngaziben wazu lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩被狗咬了",
+          "en": "The child was bitten by a dog.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "example",
+        "parent": "pazih-dict:p219-05-f02",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-05-f03",
+      "source": "pazih-dict",
+      "localId": "p219-05-f03",
+      "unit": "word",
+      "text": "paangazip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弓的兩端（指鉤住弓弦的地方）",
+          "en": "the upper end of a bow where the bowstring is hooked, to get hooked",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-05",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazip- 條下派生詞",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-06",
+      "source": "pazih-dict",
+      "localId": "p219-06",
+      "unit": "word",
+      "text": "ngazus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "尾端，兩端",
+          "en": "treetop, the top of a tree, bamboo, etc.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "ngadus",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazus 條",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p219-06-x01",
+      "source": "pazih-dict",
+      "localId": "p219-06-x01",
+      "unit": "sentence",
+      "text": "tenebteneb dalum maxamaxatukulay ngazus batakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水逐漸淹上來，要升高到竹子的末端了",
+          "en": "The water arose gradually and reached to the top of the bamboo.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p219-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.219，ngazus 條下例句",
+        "page": 219,
+        "pages": [
+          219
+        ],
+        "row": null,
+        "code": "p219-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p219.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

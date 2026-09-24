@@ -1,0 +1,1940 @@
+{
+  "source": "pazih-dict",
+  "shard": "p214",
+  "label": "p.214（N）",
+  "groups": [
+    {
+      "id": "pazih-dict:p214-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "na",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "na",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "na",
+      "subtitle": "同頁同形第 3 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "naamanam",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.214，naamanam 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nah",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nahada",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p214-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nahani",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p214-01",
+      "source": "pazih-dict",
+      "localId": "p214-01",
+      "unit": "word",
+      "text": "na",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "祈求口氣",
+          "en": "polite request (This is a clitic that appears after an imperative suffix -i or hortative ta-…-ay)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p214-01-x01",
+      "source": "pazih-dict",
+      "localId": "p214-01-x01",
+      "unit": "sentence",
+      "text": "kita'i na yaku!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請看看我吧！（對醫生說）",
+          "en": "Please look at me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x02",
+      "source": "pazih-dict",
+      "localId": "p214-01-x02",
+      "unit": "sentence",
+      "text": "kita'i na isiw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請你看仔細吧！",
+          "en": "Please look at (him) carefully. (Ts Text 1-102)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x03",
+      "source": "pazih-dict",
+      "localId": "p214-01-x03",
+      "unit": "sentence",
+      "text": "katuri na yaku!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請刮我吧！",
+          "en": "Please shave me!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x04",
+      "source": "pazih-dict",
+      "localId": "p214-01-x04",
+      "unit": "sentence",
+      "text": "sungusungi na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請數！",
+          "en": "Please count it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x05",
+      "source": "pazih-dict",
+      "localId": "p214-01-x05",
+      "unit": "sentence",
+      "text": "sazeki na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請洗！",
+          "en": "Please wash it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x06",
+      "source": "pazih-dict",
+      "localId": "p214-01-x06",
+      "unit": "sentence",
+      "text": "sinawi na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請聞聞看！",
+          "en": "Please smell it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x07",
+      "source": "pazih-dict",
+      "localId": "p214-01-x07",
+      "unit": "sentence",
+      "text": "ta-sekedi na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們休息吧",
+          "en": "Let's rest, please!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-01-x08",
+      "source": "pazih-dict",
+      "localId": "p214-01-x08",
+      "unit": "sentence",
+      "text": "ta-usa'ay na ha",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）得要走了",
+          "en": "(I) have to go. (Ts Text 1-113)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-01",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-02",
+      "source": "pazih-dict",
+      "localId": "p214-02",
+      "unit": "word",
+      "text": "na",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "假如，若（借台語）",
+          "en": "if (loan from Taiwanese)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p214-02-x01",
+      "source": "pazih-dict",
+      "localId": "p214-02-x01",
+      "unit": "sentence",
+      "text": "na haapet mikita yaku a saw ka...",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "倘若要看我的人",
+          "en": "… If people want to see me...",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-02-x02",
+      "source": "pazih-dict",
+      "localId": "p214-02-x02",
+      "unit": "sentence",
+      "text": "na kuah ka, wailu alu xumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如果沒有，趕快回家",
+          "en": "If there is none, come home quickly.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-02",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-03",
+      "source": "pazih-dict",
+      "localId": "p214-03",
+      "unit": "word",
+      "text": "na",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 3 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p214-03-x01",
+      "source": "pazih-dict",
+      "localId": "p214-03-x01",
+      "unit": "sentence",
+      "text": "aa, asay ki na magizem a saw pai siw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你真是能幹的人啊！",
+          "en": "What a capable person you are!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，na 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-04",
+      "source": "pazih-dict",
+      "localId": "p214-04",
+      "unit": "word",
+      "text": "naamanam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "喃喃自語",
+          "en": "is talking by oneself in a low voice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "namanam-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，naamanam 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05",
+      "source": "pazih-dict",
+      "localId": "p214-05",
+      "unit": "word",
+      "text": "nah",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "不要",
+          "en": "not necessary, not to want",
+          "nan": null
+        },
+        {
+          "zh": "討厭",
+          "en": "dislike, do not like",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "nang",
+          "attribution": null,
+          "dialects": [
+            "auran"
+          ],
+          "dialectRaw": "[A]"
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x01",
+      "source": "pazih-dict",
+      "localId": "p214-05-x01",
+      "unit": "phrase",
+      "text": "nah paburiak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不要讓他做",
+          "en": "not to want to let him work",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x02",
+      "source": "pazih-dict",
+      "localId": "p214-05-x02",
+      "unit": "sentence",
+      "text": "yaku nah mudaux dalum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不要喝水",
+          "en": "I don't want to drink water.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x03",
+      "source": "pazih-dict",
+      "localId": "p214-05-x03",
+      "unit": "sentence",
+      "text": "itih ka mikadeng ka nah mupuzah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Itih 生病，她就不要來",
+          "en": "Because Itih is sick, she won't come.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x04",
+      "source": "pazih-dict",
+      "localId": "p214-05-x04",
+      "unit": "sentence",
+      "text": "nah pakita saw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不叫人看見（她）",
+          "en": "(She) did not want people to see her.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x05",
+      "source": "pazih-dict",
+      "localId": "p214-05-x05",
+      "unit": "sentence",
+      "text": "nah mikitia ni saw a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）不要看人家的孩子",
+          "en": "(I) did not want to see other people's children.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-05-x06",
+      "source": "pazih-dict",
+      "localId": "p214-05-x06",
+      "unit": "sentence",
+      "text": "yaku nah/maliak meken diaaray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我討厭吃芝麻",
+          "en": "I don't like to eat sesame.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-05",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nah 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-06",
+      "source": "pazih-dict",
+      "localId": "p214-06",
+      "unit": "word",
+      "text": "nahada",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有",
+          "en": "exist, there is, there are",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "hada",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-06-x01",
+      "source": "pazih-dict",
+      "localId": "p214-06-x01",
+      "unit": "sentence",
+      "text": "yaku ka nahada paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我有錢",
+          "en": "I have money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-06-x02",
+      "source": "pazih-dict",
+      "localId": "p214-06-x02",
+      "unit": "sentence",
+      "text": "babaw laladan ka nahada tamaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桌上有根煙",
+          "en": "There is a cigarette on the table.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-06-x03",
+      "source": "pazih-dict",
+      "localId": "p214-06-x03",
+      "unit": "sentence",
+      "text": "tamaku a ruburubu ka nahada hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "香菸下面有火柴",
+          "en": "Underneath the cigarettes are matches.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-06",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-06-x04",
+      "source": "pazih-dict",
+      "localId": "p214-06-x04",
+      "unit": "sentence",
+      "text": "ruburubu lalada ka nahada balan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一隻貓在桌子下",
+          "en": "There is a cat under the table.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-06",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214，nahada 條下例句",
+        "page": 214,
+        "pages": [
+          214
+        ],
+        "row": null,
+        "code": "p214-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07",
+      "source": "pazih-dict",
+      "localId": "p214-07",
+      "unit": "word",
+      "text": "nahani",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在來",
+          "en": "is coming, here comes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x01",
+      "source": "pazih-dict",
+      "localId": "p214-07-x01",
+      "unit": "sentence",
+      "text": "mangid a rakihan nahani lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在哭的孩子來了",
+          "en": "The crying child is coming.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x02",
+      "source": "pazih-dict",
+      "localId": "p214-07-x02",
+      "unit": "sentence",
+      "text": "nahani ki mangid a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在哭的孩子來了",
+          "en": "The crying child is coming.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x03",
+      "source": "pazih-dict",
+      "localId": "p214-07-x03",
+      "unit": "sentence",
+      "text": "nahani laiki rubang mamais pauzah di namisiw a xuma ka disiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這女孩子從她家來到那裡",
+          "en": "The girl got there from her own house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x04",
+      "source": "pazih-dict",
+      "localId": "p214-07-x04",
+      "unit": "sentence",
+      "text": "yamisiw dadua nahani'ay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們都要來",
+          "en": "They will all come.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x05",
+      "source": "pazih-dict",
+      "localId": "p214-07-x05",
+      "unit": "sentence",
+      "text": "mabaza yaku nahani'ay siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道你會來",
+          "en": "I know you will come.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x06",
+      "source": "pazih-dict",
+      "localId": "p214-07-x06",
+      "unit": "sentence",
+      "text": "sibaden sarawan ka nahani'ay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "排好了明天再來",
+          "en": "(They) are scheduled to come tomorrow.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p214-07-x07",
+      "source": "pazih-dict",
+      "localId": "p214-07-x07",
+      "unit": "sentence",
+      "text": "imisiw ka naahani'ay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他要來",
+          "en": "He will come.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p214-07",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.214–215，nahani 條下例句",
+        "page": 214,
+        "pages": [
+          214,
+          215
+        ],
+        "row": null,
+        "code": "p214-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p214.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

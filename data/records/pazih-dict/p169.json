@@ -1,0 +1,2235 @@
+{
+  "source": "pazih-dict",
+  "shard": "p169",
+  "label": "p.169",
+  "groups": [
+    {
+      "id": "pazih-dict:p169-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lipat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipat 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lipit-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "liut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，liut- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luak-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luak- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lualu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lualu- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luba-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luba- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lubahing",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubahing 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lubik-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p169-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lubulup-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p169-01",
+      "source": "pazih-dict",
+      "localId": "p169-01",
+      "unit": "word",
+      "text": "lipat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鯽魚",
+          "en": "crucian, crucian carp, fish sp., Carassius auratus Linnaeus",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipat 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-02",
+      "source": "pazih-dict",
+      "localId": "p169-02",
+      "unit": "affix",
+      "text": "lipit-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-02-f01",
+      "source": "pazih-dict",
+      "localId": "p169-02-f01",
+      "unit": "word",
+      "text": "halipit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "薄的",
+          "en": "thin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-02-x01",
+      "source": "pazih-dict",
+      "localId": "p169-02-x01",
+      "unit": "sentence",
+      "text": "halipit a dalum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "淺水",
+          "en": "shallow (water)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-02",
+        "role": "example",
+        "parent": "pazih-dict:p169-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-02-x02",
+      "source": "pazih-dict",
+      "localId": "p169-02-x02",
+      "unit": "sentence",
+      "text": "halipit ki parepar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "紙薄",
+          "en": "The paper is thin.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-02",
+        "role": "example",
+        "parent": "pazih-dict:p169-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-02-x03",
+      "source": "pazih-dict",
+      "localId": "p169-02-x03",
+      "unit": "sentence",
+      "text": "muriax halipida kaxa xanixanisay, zupayen kamalang xanixanisay haiki tadaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他找了幾根薄鐵，把它們磨利像刀一樣",
+          "en": "He found some thin iron and whetted it as sharp as a knife.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-02",
+        "role": "example",
+        "parent": "pazih-dict:p169-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lipit- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-03",
+      "source": "pazih-dict",
+      "localId": "p169-03",
+      "unit": "affix",
+      "text": "liut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，liut- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-03-f01",
+      "source": "pazih-dict",
+      "localId": "p169-03-f01",
+      "unit": "word",
+      "text": "muliut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擰",
+          "en": "to pinch and twist",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，liut- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-04",
+      "source": "pazih-dict",
+      "localId": "p169-04",
+      "unit": "affix",
+      "text": "luak-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luak- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-04-f01",
+      "source": "pazih-dict",
+      "localId": "p169-04-f01",
+      "unit": "word",
+      "text": "maxaluak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "窮",
+          "en": "poor",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luak- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-04-x01",
+      "source": "pazih-dict",
+      "localId": "p169-04-x01",
+      "unit": "sentence",
+      "text": "maxaluak a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "窮人",
+          "en": "a poor person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-04",
+        "role": "example",
+        "parent": "pazih-dict:p169-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luak- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-05",
+      "source": "pazih-dict",
+      "localId": "p169-05",
+      "unit": "affix",
+      "text": "lualu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lualu- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-05-f01",
+      "source": "pazih-dict",
+      "localId": "p169-05-f01",
+      "unit": "word",
+      "text": "taxalualu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蹲（坐於地）",
+          "en": "to squat or sit on the ground",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lualu- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-05-x01",
+      "source": "pazih-dict",
+      "localId": "p169-05-x01",
+      "unit": "sentence",
+      "text": "taxalualu'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蹲！",
+          "en": "Squat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-05",
+        "role": "example",
+        "parent": "pazih-dict:p169-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lualu- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-05-x02",
+      "source": "pazih-dict",
+      "localId": "p169-05-x02",
+      "unit": "phrase",
+      "text": "taxalualu (y)aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我蹲著",
+          "en": "I squat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-05",
+        "role": "example",
+        "parent": "pazih-dict:p169-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lualu- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-06",
+      "source": "pazih-dict",
+      "localId": "p169-06",
+      "unit": "affix",
+      "text": "luba-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luba- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-06-f01",
+      "source": "pazih-dict",
+      "localId": "p169-06-f01",
+      "unit": "word",
+      "text": "haluba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "輕",
+          "en": "light in weight",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luba- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-06-x01",
+      "source": "pazih-dict",
+      "localId": "p169-06-x01",
+      "unit": "sentence",
+      "text": "haluba ki kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木柴輕",
+          "en": "The wood is light.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-06",
+        "role": "example",
+        "parent": "pazih-dict:p169-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luba- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-06-x02",
+      "source": "pazih-dict",
+      "localId": "p169-06-x02",
+      "unit": "sentence",
+      "text": "kitaan saw haluba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被人看輕",
+          "en": "to be looked down upon by people",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-06",
+        "role": "example",
+        "parent": "pazih-dict:p169-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，luba- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-07",
+      "source": "pazih-dict",
+      "localId": "p169-07",
+      "unit": "word",
+      "text": "lubahing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "紅",
+          "en": "red",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubahing 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-07-x01",
+      "source": "pazih-dict",
+      "localId": "p169-07-x01",
+      "unit": "sentence",
+      "text": "nita reten mamaleng ka purarilak lubahing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們村的少年穿閃亮的紅衣",
+          "en": "The youth in our village wear shiny red clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubahing 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-07-f01",
+      "source": "pazih-dict",
+      "localId": "p169-07-f01",
+      "unit": "phrase",
+      "text": "lubaxibaxing, lubaibaing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很紅",
+          "en": "very red",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubahing 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08",
+      "source": "pazih-dict",
+      "localId": "p169-08",
+      "unit": "affix",
+      "text": "lubik-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-f01",
+      "source": "pazih-dict",
+      "localId": "p169-08-f01",
+      "unit": "word",
+      "text": "patalubik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使掉落",
+          "en": "to make something fall or drop",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x01",
+      "source": "pazih-dict",
+      "localId": "p169-08-x01",
+      "unit": "sentence",
+      "text": "patalubiki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使落下！",
+          "en": "Drop it! Make it fall!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x02",
+      "source": "pazih-dict",
+      "localId": "p169-08-x02",
+      "unit": "sentence",
+      "text": "ana patalubiki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別使掉下！",
+          "en": "Don't make it drop!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-f02",
+      "source": "pazih-dict",
+      "localId": "p169-08-f02",
+      "unit": "word",
+      "text": "patalubiken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剔牙",
+          "en": "to release a thing held between the teeth",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-f03",
+      "source": "pazih-dict",
+      "localId": "p169-08-f03",
+      "unit": "word",
+      "text": "talubik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（自動）掉落",
+          "en": "to fall or drop",
+          "nan": null
+        },
+        {
+          "zh": "失落",
+          "en": "to drop (something)",
+          "nan": null
+        },
+        {
+          "zh": "（孕婦）流產",
+          "en": "to have a miscarriage",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x03",
+      "source": "pazih-dict",
+      "localId": "p169-08-x03",
+      "unit": "sentence",
+      "text": "talubik ki arim",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桃子落下",
+          "en": "The peach dropped.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x04",
+      "source": "pazih-dict",
+      "localId": "p169-08-x04",
+      "unit": "sentence",
+      "text": "bilisen naki ka talubik lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我拿卻掉下了",
+          "en": "When I took it, it dropped.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x05",
+      "source": "pazih-dict",
+      "localId": "p169-08-x05",
+      "unit": "sentence",
+      "text": "talubik naki a paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的錢掉了",
+          "en": "I lost my money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x06",
+      "source": "pazih-dict",
+      "localId": "p169-08-x06",
+      "unit": "sentence",
+      "text": "talubig a paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掉錢",
+          "en": "dropped money",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-f04",
+      "source": "pazih-dict",
+      "localId": "p169-08-f04",
+      "unit": "word",
+      "text": "tinalubik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掉落的東西",
+          "en": "something being dropped or fallen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "form",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-08-x07",
+      "source": "pazih-dict",
+      "localId": "p169-08-x07",
+      "unit": "sentence",
+      "text": "mamais ka talubik lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這女人流產了",
+          "en": "The woman had a miscarriage.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-08",
+        "role": "example",
+        "parent": "pazih-dict:p169-08-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169，lubik- 條下例句",
+        "page": 169,
+        "pages": [
+          169
+        ],
+        "row": null,
+        "code": "p169-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09",
+      "source": "pazih-dict",
+      "localId": "p169-09",
+      "unit": "affix",
+      "text": "lubulup-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09-f01",
+      "source": "pazih-dict",
+      "localId": "p169-09-f01",
+      "unit": "word",
+      "text": "mulubulup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "跟隨",
+          "en": "to follow, to trace",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09-x01",
+      "source": "pazih-dict",
+      "localId": "p169-09-x01",
+      "unit": "sentence",
+      "text": "lubulubi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "跟隨！",
+          "en": "Follow him!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "example",
+        "parent": "pazih-dict:p169-09-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條下例句",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09-x02",
+      "source": "pazih-dict",
+      "localId": "p169-09-x02",
+      "unit": "sentence",
+      "text": "mukusa di asay siw, yaku mausay mulubulup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "無論你到哪裡，我都會跟著",
+          "en": "Wherever you go, I shall follow.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "example",
+        "parent": "pazih-dict:p169-09-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條下例句",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09-f02",
+      "source": "pazih-dict",
+      "localId": "p169-09-f02",
+      "unit": "word",
+      "text": "palubulup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶",
+          "en": "to bring, to take along",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條下派生詞",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p169-09-x03",
+      "source": "pazih-dict",
+      "localId": "p169-09-x03",
+      "unit": "sentence",
+      "text": "imini a ina u pataru ka palubulup u xasebi supat sipisip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這母雞帶著九隻小雞",
+          "en": "The hen brought nine chicks.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p169-09",
+        "role": "example",
+        "parent": "pazih-dict:p169-09-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.169–170，lubulup- 條下例句",
+        "page": 169,
+        "pages": [
+          169,
+          170
+        ],
+        "row": null,
+        "code": "p169-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p169.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

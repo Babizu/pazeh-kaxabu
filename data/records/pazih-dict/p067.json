@@ -1,0 +1,2125 @@
+{
+  "source": "pazih-dict",
+  "shard": "p067",
+  "label": "p.67",
+  "groups": [
+    {
+      "id": "pazih-dict:p067-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p067-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p067-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anuna",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuna 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p067-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "anuy",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuy 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p067-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apa-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p067-01",
+      "source": "pazih-dict",
+      "localId": "p067-01",
+      "unit": "word",
+      "text": "anu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為了",
+          "en": "for (the sake of), in order to",
+          "nan": null
+        },
+        {
+          "zh": "可以",
+          "en": "may, can",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "aunu",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x01",
+      "source": "pazih-dict",
+      "localId": "p067-01-x01",
+      "unit": "sentence",
+      "text": "anu di daran a kakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為了在路上吃",
+          "en": "in order to eat on the way.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x02",
+      "source": "pazih-dict",
+      "localId": "p067-01-x02",
+      "unit": "sentence",
+      "text": "aba mutahan paray anu rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親為小孩賺錢",
+          "en": "The father makes money for the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x03",
+      "source": "pazih-dict",
+      "localId": "p067-01-x03",
+      "unit": "sentence",
+      "text": "ina musais siatu anu sabung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親為 Sabung 縫衣服",
+          "en": "The mother sews clothes for Sabung.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x04",
+      "source": "pazih-dict",
+      "localId": "p067-01-x04",
+      "unit": "sentence",
+      "text": "anu riak a babaret mukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（娶一個）好做伴和工作呀！",
+          "en": "(A wife) will be your good companion and co-worker.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x05",
+      "source": "pazih-dict",
+      "localId": "p067-01-x05",
+      "unit": "sentence",
+      "text": "xakela'an ka anu say?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想有什麼用？",
+          "en": "What use is to think?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x06",
+      "source": "pazih-dict",
+      "localId": "p067-01-x06",
+      "unit": "sentence",
+      "text": "imini ka anu naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是給我的",
+          "en": "This is for me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x07",
+      "source": "pazih-dict",
+      "localId": "p067-01-x07",
+      "unit": "sentence",
+      "text": "imini ka anu nisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個現在要給你",
+          "en": "This is for you (now).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x08",
+      "source": "pazih-dict",
+      "localId": "p067-01-x08",
+      "unit": "sentence",
+      "text": "imini ka aunu nisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個以後要給你",
+          "en": "Later this will be for you",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-01-x09",
+      "source": "pazih-dict",
+      "localId": "p067-01-x09",
+      "unit": "sentence",
+      "text": "miitul, mamaleng ka mukusa mapa anu mamais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她）站起來，男人就去揹女的",
+          "en": "(As a girl) stood up, a young man (who loved her) would go over to carry the girl on his back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-01",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02",
+      "source": "pazih-dict",
+      "localId": "p067-02",
+      "unit": "affix",
+      "text": "anu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02-f01",
+      "source": "pazih-dict",
+      "localId": "p067-02-f01",
+      "unit": "word",
+      "text": "maanu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遠",
+          "en": "far",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02-x01",
+      "source": "pazih-dict",
+      "localId": "p067-02-x01",
+      "unit": "sentence",
+      "text": "yaaku ka paudah di maanu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我從遠處來",
+          "en": "I come from a place far away.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "example",
+        "parent": "pazih-dict:p067-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02-x02",
+      "source": "pazih-dict",
+      "localId": "p067-02-x02",
+      "unit": "sentence",
+      "text": "maanu a babaw binayu kikita'en a ilas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遠處山上看到月亮",
+          "en": "Far above the mountain we could see the moon.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "example",
+        "parent": "pazih-dict:p067-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02-x03",
+      "source": "pazih-dict",
+      "localId": "p067-02-x03",
+      "unit": "sentence",
+      "text": "musay di maanu a binayu lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去深山",
+          "en": "She went to a mountain far away.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "example",
+        "parent": "pazih-dict:p067-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-02-x04",
+      "source": "pazih-dict",
+      "localId": "p067-02-x04",
+      "unit": "sentence",
+      "text": "ayan nu ayan, tadudu yu maanu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們談到根源，那是很久遠以前的事",
+          "en": "When we talk about the origin of our ancestors, it is a long time ago.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-02",
+        "role": "example",
+        "parent": "pazih-dict:p067-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anu- 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-03",
+      "source": "pazih-dict",
+      "localId": "p067-03",
+      "unit": "word",
+      "text": "anuna",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "破布子",
+          "en": "plant sp., Cordia myxa sensu auct. Taiwan",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuna 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-04",
+      "source": "pazih-dict",
+      "localId": "p067-04",
+      "unit": "word",
+      "text": "anuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可惜",
+          "en": "what a pity",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuy 條",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-04-x01",
+      "source": "pazih-dict",
+      "localId": "p067-04-x01",
+      "unit": "sentence",
+      "text": "anuy aa kuaadeng a alaw a imini!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "何等的魚！",
+          "en": "What a fish!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuy 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-04-x02",
+      "source": "pazih-dict",
+      "localId": "p067-04-x02",
+      "unit": "phrase",
+      "text": "anuy lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "真浪費",
+          "en": "wasteful, what a waste",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-04",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67，anuy 條下例句",
+        "page": 67,
+        "pages": [
+          67
+        ],
+        "row": null,
+        "code": "p067-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05",
+      "source": "pazih-dict",
+      "localId": "p067-05",
+      "unit": "affix",
+      "text": "apa-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-f01",
+      "source": "pazih-dict",
+      "localId": "p067-05-f01",
+      "unit": "word",
+      "text": "mapa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揹",
+          "en": "to carry on one's back",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x01",
+      "source": "pazih-dict",
+      "localId": "p067-05-x01",
+      "unit": "sentence",
+      "text": "ina ka mapa rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親揹孩子",
+          "en": "Mother carried a child on her back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x02",
+      "source": "pazih-dict",
+      "localId": "p067-05-x02",
+      "unit": "sentence",
+      "text": "ina ka mapa mangid a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親揹哭的孩子",
+          "en": "Mother carried a crying child on her back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x03",
+      "source": "pazih-dict",
+      "localId": "p067-05-x03",
+      "unit": "sentence",
+      "text": "isiw mapa rakihan ka, yaku maapa'ay rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如果你揹小孩，我也揹",
+          "en": "If you carry a child on your back, I'll do so.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x04",
+      "source": "pazih-dict",
+      "localId": "p067-05-x04",
+      "unit": "sentence",
+      "text": "maapa rakihan a ina ka mangit lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揹著孩子的母親哭了",
+          "en": "The mother who was carrying a child cried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-f02",
+      "source": "pazih-dict",
+      "localId": "p067-05-f02",
+      "unit": "word",
+      "text": "inapa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "已攜帶",
+          "en": "to have carried",
+          "nan": null
+        },
+        {
+          "zh": "揹",
+          "en": "to carry on one's back",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "form",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x05",
+      "source": "pazih-dict",
+      "localId": "p067-05-x05",
+      "unit": "sentence",
+      "text": "ina inapa rakihan ka riak a midem lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親揹著的孩子很好睡",
+          "en": "The child who was carried by her mother easily fell asleep.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x06",
+      "source": "pazih-dict",
+      "localId": "p067-05-x06",
+      "unit": "sentence",
+      "text": "ahuan inapa a hahihahimai a paranah ka paizah u raxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "傍晚裝貨的船順流而下",
+          "en": "In the evening the boat carrying cargo was going down the stream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x07",
+      "source": "pazih-dict",
+      "localId": "p067-05-x07",
+      "unit": "sentence",
+      "text": "apa'en ni ina rakihan ka midem lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親揹著的孩子睡了",
+          "en": "The child who was carried by her mother slept.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x08",
+      "source": "pazih-dict",
+      "localId": "p067-05-x08",
+      "unit": "sentence",
+      "text": "isiw ka apa'en naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你由我揹著",
+          "en": "You were being carried on my back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x09",
+      "source": "pazih-dict",
+      "localId": "p067-05-x09",
+      "unit": "sentence",
+      "text": "isia lia ki saw a isia'e, ara'en laiki rangarang a isia ka apa'en di aubil lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後那男人就把豹揹在他背上",
+          "en": "Then that man carried the leopard on his back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x10",
+      "source": "pazih-dict",
+      "localId": "p067-05-x10",
+      "unit": "sentence",
+      "text": "nahada adang a rubang mamais, apa'en namisiw a ina mukusa di taubur a mituku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一個女孩，由她的媽媽揹著去會場坐",
+          "en": "There was a young lady, carried on back by her mother to go to the gathering place (and) dit (there).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt",
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書英文作 (and) dit (there)，疑為 sit 之誤植，依 5.1 不修正"
+      ]
+    },
+    {
+      "id": "pazih-dict:p067-05-x11",
+      "source": "pazih-dict",
+      "localId": "p067-05-x11",
+      "unit": "sentence",
+      "text": "mapa'ay namisiw a rakihan, muxalit namisiw a rima",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她）要揹他的孩子時，牽她的手",
+          "en": "Before carrying her child, she took her hands.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x12",
+      "source": "pazih-dict",
+      "localId": "p067-05-x12",
+      "unit": "sentence",
+      "text": "maapa'ay buzux rawil lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他要揹著弓和箭",
+          "en": "He was going to carry a bow and arrows.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f01",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-f03",
+      "source": "pazih-dict",
+      "localId": "p067-05-f03",
+      "unit": "word",
+      "text": "mupa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揹",
+          "en": "to carry on one's back, to bear a child on the back",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-f04",
+      "source": "pazih-dict",
+      "localId": "p067-05-f04",
+      "unit": "word",
+      "text": "paapa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "跨騎",
+          "en": "to ride astride on the back (of a cow, etc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "form",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-f05",
+      "source": "pazih-dict",
+      "localId": "p067-05-f05",
+      "unit": "word",
+      "text": "saapa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揹巾",
+          "en": "straps for a baby",
+          "nan": null
+        },
+        {
+          "zh": "皮帶",
+          "en": "belt",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "form",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下派生詞",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p067-05-x13",
+      "source": "pazih-dict",
+      "localId": "p067-05-x13",
+      "unit": "sentence",
+      "text": "ina kalu saapa mapa rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親用揹巾揹小孩",
+          "en": "Mother uses traps to carry a child on her back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p067-05",
+        "role": "example",
+        "parent": "pazih-dict:p067-05-f05",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.67–68，apa- 條下例句",
+        "page": 67,
+        "pages": [
+          67,
+          68
+        ],
+        "row": null,
+        "code": "p067-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p067.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書英文作 traps，疑為 straps 之誤植，依 5.1 不修正"
+      ]
+    }
+  ]
+}

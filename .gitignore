@@ -1,0 +1,13 @@
+# 依賴與建置產物（搜尋索引、manifest 都在建置時由 data/ 產生）
+node_modules/
+dist/
+.babizu/
+
+# 測試輸出
+test-results/
+playwright-report/
+
+# 編輯器與系統
+.DS_Store
+Thumbs.db
+*.log

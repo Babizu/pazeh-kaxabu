@@ -1,0 +1,1196 @@
+{
+  "source": "pazih-dict",
+  "shard": "p068",
+  "label": "p.68",
+  "groups": [
+    {
+      "id": "pazih-dict:p068-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "aparu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.68，aparu 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p068-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p068-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apaus",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apaus 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p068-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "apu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p068-01",
+      "source": "pazih-dict",
+      "localId": "p068-01",
+      "unit": "word",
+      "text": "aparu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "漂流木",
+          "en": "driftwood",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，aparu 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-01-x01",
+      "source": "pazih-dict",
+      "localId": "p068-01-x01",
+      "unit": "sentence",
+      "text": "deedekel aparu misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他正在撿流木",
+          "en": "He is picking up driftwood.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，aparu 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02",
+      "source": "pazih-dict",
+      "localId": "p068-02",
+      "unit": "affix",
+      "text": "apat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-f01",
+      "source": "pazih-dict",
+      "localId": "p068-02-f01",
+      "unit": "word",
+      "text": "ma'apat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堆，疊",
+          "en": "to pile up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下派生詞",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-x01",
+      "source": "pazih-dict",
+      "localId": "p068-02-x01",
+      "unit": "sentence",
+      "text": "ma'apat lia ki kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木柴在疊了",
+          "en": "(He) is piling up firewood.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "example",
+        "parent": "pazih-dict:p068-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-f02",
+      "source": "pazih-dict",
+      "localId": "p068-02-f02",
+      "unit": "word",
+      "text": "mu'apat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堆，疊",
+          "en": "to pile up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下派生詞",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-x02",
+      "source": "pazih-dict",
+      "localId": "p068-02-x02",
+      "unit": "sentence",
+      "text": "apadi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "疊起來！",
+          "en": "Pile up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "example",
+        "parent": "pazih-dict:p068-02-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-x03",
+      "source": "pazih-dict",
+      "localId": "p068-02-x03",
+      "unit": "sentence",
+      "text": "apadi ki kahuy!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "疊木柴！",
+          "en": "Pile up the wood!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "example",
+        "parent": "pazih-dict:p068-02-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-x04",
+      "source": "pazih-dict",
+      "localId": "p068-02-x04",
+      "unit": "sentence",
+      "text": "inapad a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "疊石",
+          "en": "Piled stones or rocks.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "example",
+        "parent": "pazih-dict:p068-02-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-02-x05",
+      "source": "pazih-dict",
+      "localId": "p068-02-x05",
+      "unit": "phrase",
+      "text": "apaden lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "疊了",
+          "en": "It has been piled up.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-02",
+        "role": "example",
+        "parent": "pazih-dict:p068-02-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apat- 條下例句",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-03",
+      "source": "pazih-dict",
+      "localId": "p068-03",
+      "unit": "word",
+      "text": "apaus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "霉",
+          "en": "mold",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apaus 條",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-03-f01",
+      "source": "pazih-dict",
+      "localId": "p068-03-f01",
+      "unit": "word",
+      "text": "maxa'apaus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生苔",
+          "en": "molded, mildewed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68，apaus 條下派生詞",
+        "page": 68,
+        "pages": [
+          68
+        ],
+        "row": null,
+        "code": "p068-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04",
+      "source": "pazih-dict",
+      "localId": "p068-04",
+      "unit": "word",
+      "text": "apu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "祖母",
+          "en": "grandmother",
+          "nan": null
+        },
+        {
+          "zh": "祖父",
+          "en": "grandfather",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-f01",
+      "source": "pazih-dict",
+      "localId": "p068-04-f01",
+      "unit": "word",
+      "text": "apuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長輩",
+          "en": "elderly people",
+          "nan": null
+        },
+        {
+          "zh": "老太婆",
+          "en": "old woman",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下派生詞",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-x01",
+      "source": "pazih-dict",
+      "localId": "p068-04-x01",
+      "unit": "sentence",
+      "text": "mukawas ki apuan, \"kuang saysay, masikat.\"",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老太婆說，“沒什麼，不好意思。”",
+          "en": "The old woman said, “There is nothing, and it's embarassing.”",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "example",
+        "parent": "pazih-dict:p068-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下例句",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-x02",
+      "source": "pazih-dict",
+      "localId": "p068-04-x02",
+      "unit": "sentence",
+      "text": "adang a dali, dusa a dali, puzah a adang a apu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第二天來了一個老太婆",
+          "en": "On the second day, an old woman came along.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "example",
+        "parent": "pazih-dict:p068-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下例句",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-x03",
+      "source": "pazih-dict",
+      "localId": "p068-04-x03",
+      "unit": "sentence",
+      "text": "\"haw,\" laila ki apu a isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老太婆說，“好。",
+          "en": "”The old woman said, “Yes.”",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "example",
+        "parent": "pazih-dict:p068-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下例句",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-x04",
+      "source": "pazih-dict",
+      "localId": "p068-04-x04",
+      "unit": "phrase",
+      "text": "apu samian",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "神明（媽祖）",
+          "en": "Chinese Godness",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "example",
+        "parent": "pazih-dict:p068-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下例句",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書英文作 Godness，疑為 Goddess 之誤植，依 5.1 不修正"
+      ]
+    },
+    {
+      "id": "pazih-dict:p068-04-f02",
+      "source": "pazih-dict",
+      "localId": "p068-04-f02",
+      "unit": "word",
+      "text": "apui",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿婆（呼格）",
+          "en": "Grandma!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下派生詞",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-f03",
+      "source": "pazih-dict",
+      "localId": "p068-04-f03",
+      "unit": "word",
+      "text": "apu'apu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "曾祖母",
+          "en": "great grandmother",
+          "nan": null
+        },
+        {
+          "zh": "祖先，祖宗",
+          "en": "ancestors",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下派生詞",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p068-04-f04",
+      "source": "pazih-dict",
+      "localId": "p068-04-f04",
+      "unit": "word",
+      "text": "apu'apuwan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "祖先",
+          "en": "ancestors",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p068-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.68–69，apu 條下派生詞",
+        "page": 68,
+        "pages": [
+          68,
+          69
+        ],
+        "row": null,
+        "code": "p068-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p068.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

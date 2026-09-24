@@ -1,0 +1,1871 @@
+{
+  "source": "pazih-dict",
+  "shard": "p326",
+  "label": "p.326",
+  "groups": [
+    {
+      "id": "pazih-dict:p326-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xumak",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumak 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xumuk-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xu'ul-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xurat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurat- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xuriuk",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xuriuk 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xurum-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurum- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p326-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xuruma-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p326-01",
+      "source": "pazih-dict",
+      "localId": "p326-01",
+      "unit": "word",
+      "text": "xumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "房屋",
+          "en": "house (loan from Atayalic lgs)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "xuma",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumak 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "huumak"
+      ]
+    },
+    {
+      "id": "pazih-dict:p326-01-f01",
+      "source": "pazih-dict",
+      "localId": "p326-01-f01",
+      "unit": "phrase",
+      "text": "xumak ayam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "“家的鳥”",
+          "en": "a small bird, a little larger than a sparrow (lit. ‘house bird’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumak 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-02",
+      "source": "pazih-dict",
+      "localId": "p326-02",
+      "unit": "affix",
+      "text": "xumuk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-02-f01",
+      "source": "pazih-dict",
+      "localId": "p326-02-f01",
+      "unit": "word",
+      "text": "manaxaxumuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "上下顛倒，倒置",
+          "en": "upside-down",
+          "nan": null
+        },
+        {
+          "zh": "混亂不堪",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-02-f02",
+      "source": "pazih-dict",
+      "localId": "p326-02-f02",
+      "unit": "word",
+      "text": "muxumuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蓋",
+          "en": "to cover",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-02-x01",
+      "source": "pazih-dict",
+      "localId": "p326-02-x01",
+      "unit": "sentence",
+      "text": "xumuki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蓋起來（如把杯子倒過來）！",
+          "en": "Cover it (upside down)!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-02",
+        "role": "example",
+        "parent": "pazih-dict:p326-02-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-02-x02",
+      "source": "pazih-dict",
+      "localId": "p326-02-x02",
+      "unit": "sentence",
+      "text": "muxumuk midem misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他扒著睡",
+          "en": "He sleeps facing down.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-02",
+        "role": "example",
+        "parent": "pazih-dict:p326-02-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xumuk- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03",
+      "source": "pazih-dict",
+      "localId": "p326-03",
+      "unit": "affix",
+      "text": "xu'ul-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-f01",
+      "source": "pazih-dict",
+      "localId": "p326-03-f01",
+      "unit": "word",
+      "text": "muxu'ul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拔（草、菜）出來",
+          "en": "to weed in dry fields, to pluck, to pull out a plant (as a small tree or vegetables)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-x01",
+      "source": "pazih-dict",
+      "localId": "p326-03-x01",
+      "unit": "sentence",
+      "text": "xu'uli!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拔！",
+          "en": "Pull it up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "example",
+        "parent": "pazih-dict:p326-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-f02",
+      "source": "pazih-dict",
+      "localId": "p326-03-f02",
+      "unit": "word",
+      "text": "xu'ulun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被拔（草、菜）出來",
+          "en": "It has been pulled up.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "form",
+        "parent": "pazih-dict:p326-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-f03",
+      "source": "pazih-dict",
+      "localId": "p326-03-f03",
+      "unit": "word",
+      "text": "xuuxu'ul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在拔草",
+          "en": "is weeding in dry fields with hands",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "form",
+        "parent": "pazih-dict:p326-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-x02",
+      "source": "pazih-dict",
+      "localId": "p326-03-x02",
+      "unit": "sentence",
+      "text": "xinu'ulan naki ki xalam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "菜被我拔起來了",
+          "en": "The vegetable was pulled out by me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "example",
+        "parent": "pazih-dict:p326-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-03-x03",
+      "source": "pazih-dict",
+      "localId": "p326-03-x03",
+      "unit": "sentence",
+      "text": "mausay ribu a muxu'ul semer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去菜園拔草",
+          "en": "is going to weed in the vegetable garden",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-03",
+        "role": "example",
+        "parent": "pazih-dict:p326-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xu'ul- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-04",
+      "source": "pazih-dict",
+      "localId": "p326-04",
+      "unit": "affix",
+      "text": "xurat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurat- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-04-f01",
+      "source": "pazih-dict",
+      "localId": "p326-04-f01",
+      "unit": "word",
+      "text": "muxurat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（自己）醒",
+          "en": "to awake, to wake up (by oneself)",
+          "nan": null
+        },
+        {
+          "zh": "睜開眼睛",
+          "en": "to open one's eyes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurat- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-04-x01",
+      "source": "pazih-dict",
+      "localId": "p326-04-x01",
+      "unit": "sentence",
+      "text": "xuradi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "醒來！",
+          "en": "Wake up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-04",
+        "role": "example",
+        "parent": "pazih-dict:p326-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurat- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-05",
+      "source": "pazih-dict",
+      "localId": "p326-05",
+      "unit": "word",
+      "text": "xuriuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "笛子",
+          "en": "flute",
+          "nan": null
+        },
+        {
+          "zh": "哨子",
+          "en": "whistle",
+          "nan": null
+        },
+        {
+          "zh": "口琴",
+          "en": "jew's harp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xuriuk 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-05-x01",
+      "source": "pazih-dict",
+      "localId": "p326-05-x01",
+      "unit": "sentence",
+      "text": "mara namisiw a xuriuk ka pauhuni xuriuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拿起他的笛子來吹",
+          "en": "(He) took out his flute to play it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xuriuk 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-05-f01",
+      "source": "pazih-dict",
+      "localId": "p326-05-f01",
+      "unit": "word",
+      "text": "puxuriuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吹笛",
+          "en": "to play a flute",
+          "nan": null
+        },
+        {
+          "zh": "吹口哨",
+          "en": "to whistle",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xuriuk 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-06",
+      "source": "pazih-dict",
+      "localId": "p326-06",
+      "unit": "affix",
+      "text": "xurum-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurum- 條",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-06-f01",
+      "source": "pazih-dict",
+      "localId": "p326-06-f01",
+      "unit": "word",
+      "text": "maxurum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天",
+          "en": "cloudy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurum- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-06-f02",
+      "source": "pazih-dict",
+      "localId": "p326-06-f02",
+      "unit": "word",
+      "text": "muxurum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天",
+          "en": "cloudy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurum- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-06-x01",
+      "source": "pazih-dict",
+      "localId": "p326-06-x01",
+      "unit": "phrase",
+      "text": "muxurum lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天了",
+          "en": "It is cloudy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-06",
+        "role": "example",
+        "parent": "pazih-dict:p326-06-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326，xurum- 條下例句",
+        "page": 326,
+        "pages": [
+          326
+        ],
+        "row": null,
+        "code": "p326-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07",
+      "source": "pazih-dict",
+      "localId": "p326-07",
+      "unit": "affix",
+      "text": "xuruma-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-f01",
+      "source": "pazih-dict",
+      "localId": "p326-07-f01",
+      "unit": "word",
+      "text": "paxuruma",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "播田，種",
+          "en": "to plant (rice)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下派生詞",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x01",
+      "source": "pazih-dict",
+      "localId": "p326-07-x01",
+      "unit": "sentence",
+      "text": "paxuruma'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "種！",
+          "en": "Plant it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x02",
+      "source": "pazih-dict",
+      "localId": "p326-07-x02",
+      "unit": "sentence",
+      "text": "paxuruma'i na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請種！",
+          "en": "Please plant it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x03",
+      "source": "pazih-dict",
+      "localId": "p326-07-x03",
+      "unit": "sentence",
+      "text": "mausay paxuruma delem, xaidang, dukul lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去種玉米、豆、芋頭",
+          "en": "(They) were going to plant corn, beans and taro.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x04",
+      "source": "pazih-dict",
+      "localId": "p326-07-x04",
+      "unit": "sentence",
+      "text": "alu paxuruma aingaingar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來種各種蔬菜水果",
+          "en": "Come to plant various vegetables and fruits.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x05",
+      "source": "pazih-dict",
+      "localId": "p326-07-x05",
+      "unit": "phrase",
+      "text": "pinaxuruma semer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "栽種的草坪",
+          "en": "planted grassland or lawn",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x06",
+      "source": "pazih-dict",
+      "localId": "p326-07-x06",
+      "unit": "sentence",
+      "text": "yamini ki naki a paxuruman dadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這些是我種蕃薯之處",
+          "en": "These are the places where I plant sweet potatoes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p326-07-x07",
+      "source": "pazih-dict",
+      "localId": "p326-07-x07",
+      "unit": "sentence",
+      "text": "imini a dukul ka naki a pinaxuruma",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這芋頭是我種的",
+          "en": "This taro was planted by me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p326-07",
+        "role": "example",
+        "parent": "pazih-dict:p326-07-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.326–327，xuruma- 條下例句",
+        "page": 326,
+        "pages": [
+          326,
+          327
+        ],
+        "row": null,
+        "code": "p326-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p326.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

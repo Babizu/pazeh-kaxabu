@@ -1,0 +1,1025 @@
+{
+  "source": "pazih-dict",
+  "shard": "p102",
+  "label": "p.102",
+  "groups": [
+    {
+      "id": "pazih-dict:p102-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dawan-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p102-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "daxa",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxa 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p102-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "daxadaxa'an",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxadaxa'an 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p102-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "daxal-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p102-01",
+      "source": "pazih-dict",
+      "localId": "p102-01",
+      "unit": "affix",
+      "text": "dawan-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-x01",
+      "source": "pazih-dict",
+      "localId": "p102-01-x01",
+      "unit": "sentence",
+      "text": "dawanen ni ina ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親給小孩洗澡了",
+          "en": "The mother bathed the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-f01",
+      "source": "pazih-dict",
+      "localId": "p102-01-f01",
+      "unit": "word",
+      "text": "madawan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗澡",
+          "en": "to wash one's body, to bathe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-x02",
+      "source": "pazih-dict",
+      "localId": "p102-01-x02",
+      "unit": "phrase",
+      "text": "madawan aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在洗澡",
+          "en": "I'm bathing.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "example",
+        "parent": "pazih-dict:p102-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-x03",
+      "source": "pazih-dict",
+      "localId": "p102-01-x03",
+      "unit": "sentence",
+      "text": "rakihan madawan di raxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩在溪中洗澡",
+          "en": "The child is bathing in the stream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "example",
+        "parent": "pazih-dict:p102-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-f02",
+      "source": "pazih-dict",
+      "localId": "p102-01-f02",
+      "unit": "word",
+      "text": "padawan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "給他洗澡",
+          "en": "to bathe someone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-01-f03",
+      "source": "pazih-dict",
+      "localId": "p102-01-f03",
+      "unit": "word",
+      "text": "paadawanan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗澡盆、槽",
+          "en": "bathroom, the room at the center of the house",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-01",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，dawan- 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-02",
+      "source": "pazih-dict",
+      "localId": "p102-02",
+      "unit": "word",
+      "text": "daxa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女子名",
+          "en": "female name",
+          "nan": null
+        },
+        {
+          "zh": "楓",
+          "en": "maple tree, plant sp., Liquidambar formosana",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxa 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-02-f01",
+      "source": "pazih-dict",
+      "localId": "p102-02-f01",
+      "unit": "word",
+      "text": "daxadaxa'an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "楓林",
+          "en": "maple trees",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxa 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-03",
+      "source": "pazih-dict",
+      "localId": "p102-03",
+      "unit": "word",
+      "text": "daxadaxa'an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "楓林",
+          "en": "maple trees",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "daxa",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxadaxa'an 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04",
+      "source": "pazih-dict",
+      "localId": "p102-04",
+      "unit": "affix",
+      "text": "daxal-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-f01",
+      "source": "pazih-dict",
+      "localId": "p102-04-f01",
+      "unit": "word",
+      "text": "mudaxal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "挖掘",
+          "en": "to dig (earth), to dig with a hoe, to dig the ground with a hoe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-f02",
+      "source": "pazih-dict",
+      "localId": "p102-04-f02",
+      "unit": "word",
+      "text": "daadaxal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在鋤地",
+          "en": "is cultivating (paddy rice-fields)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "form",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下派生詞",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-x01",
+      "source": "pazih-dict",
+      "localId": "p102-04-x01",
+      "unit": "sentence",
+      "text": "daxali!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掘！",
+          "en": "Dig it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "example",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-x02",
+      "source": "pazih-dict",
+      "localId": "p102-04-x02",
+      "unit": "phrase",
+      "text": "daadaxal daxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在掘土",
+          "en": "is digging earth",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "example",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-x03",
+      "source": "pazih-dict",
+      "localId": "p102-04-x03",
+      "unit": "sentence",
+      "text": "daadaxal daxe paxuruma'en xalam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在掘土種菜",
+          "en": "is digging the ground to plant vegetables",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "example",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-x04",
+      "source": "pazih-dict",
+      "localId": "p102-04-x04",
+      "unit": "sentence",
+      "text": "mudaxal daxe yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我掘土",
+          "en": "I dug the ground.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "example",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p102-04-x05",
+      "source": "pazih-dict",
+      "localId": "p102-04-x05",
+      "unit": "sentence",
+      "text": "aba mudaxal dadas zazingen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親挖的馬鈴薯被丟了",
+          "en": "The sweet potato Father dug up was thrown away.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p102-04",
+        "role": "example",
+        "parent": "pazih-dict:p102-04-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.102，daxal- 條下例句",
+        "page": 102,
+        "pages": [
+          102
+        ],
+        "row": null,
+        "code": "p102-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p102.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

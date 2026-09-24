@@ -1,0 +1,5 @@
+{
+  "filter": {
+    "fuzzinessHint": "“Standard” finds cross-dialect sound correspondences (such as a dropped r or final l→n) and small spelling differences; “Exact” only matches identical normalised spellings. Either way, words that start with or contain your query are also listed."
+  }
+}

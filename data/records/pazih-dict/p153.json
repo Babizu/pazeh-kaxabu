@@ -1,0 +1,695 @@
+{
+  "source": "pazih-dict",
+  "shard": "p153",
+  "label": "p.153",
+  "groups": [
+    {
+      "id": "pazih-dict:p153-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kiti-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiti- 條",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p153-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kiur-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiur- 條",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p153-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kius-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p153-01",
+      "source": "pazih-dict",
+      "localId": "p153-01",
+      "unit": "affix",
+      "text": "kiti-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiti- 條",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-01-f01",
+      "source": "pazih-dict",
+      "localId": "p153-01-f01",
+      "unit": "word",
+      "text": "kakiti",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蜂巢",
+          "en": "beehive",
+          "nan": null
+        },
+        {
+          "zh": "小蜂",
+          "en": "a type of small bee",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiti- 條下派生詞",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-02",
+      "source": "pazih-dict",
+      "localId": "p153-02",
+      "unit": "affix",
+      "text": "kiur-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiur- 條",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-02-f01",
+      "source": "pazih-dict",
+      "localId": "p153-02-f01",
+      "unit": "word",
+      "text": "matikiur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餓",
+          "en": "hungry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153，kiur- 條下派生詞",
+        "page": 153,
+        "pages": [
+          153
+        ],
+        "row": null,
+        "code": "p153-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03",
+      "source": "pazih-dict",
+      "localId": "p153-03",
+      "unit": "affix",
+      "text": "kius-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-f01",
+      "source": "pazih-dict",
+      "localId": "p153-03-f01",
+      "unit": "word",
+      "text": "mukius",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "挾走",
+          "en": "to seize",
+          "nan": null
+        },
+        {
+          "zh": "米斗",
+          "en": "measure of smaller size",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下派生詞",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-x01",
+      "source": "pazih-dict",
+      "localId": "p153-03-x01",
+      "unit": "sentence",
+      "text": "nahada rahuay paudah di babaw, mukius isiw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有老鷹從高處下來挾走你",
+          "en": "There came a hawk from above to seize you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "example",
+        "parent": "pazih-dict:p153-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下例句",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-x02",
+      "source": "pazih-dict",
+      "localId": "p153-03-x02",
+      "unit": "sentence",
+      "text": "lia ka kiusen asun di maanu lia la",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後嬰兒就被挾走了，帶到很遠的地方去了",
+          "en": "Then the baby was seized and taken far away.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "example",
+        "parent": "pazih-dict:p153-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下例句",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-x03",
+      "source": "pazih-dict",
+      "localId": "p153-03-x03",
+      "unit": "sentence",
+      "text": "nimu a dini ka nahada rakihan kiusun a rahuay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們這兒有孩子被老鷹挾走嗎？",
+          "en": "Did you here have a child seized by a hawk?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "example",
+        "parent": "pazih-dict:p153-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下例句",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-x04",
+      "source": "pazih-dict",
+      "localId": "p153-03-x04",
+      "unit": "sentence",
+      "text": "yaku ki kiniusun u rahuay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被老鷹挾走了",
+          "en": "I was seized by a hawk.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "example",
+        "parent": "pazih-dict:p153-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下例句",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-x05",
+      "source": "pazih-dict",
+      "localId": "p153-03-x05",
+      "unit": "sentence",
+      "text": "kita sen naki ka, kinius rahuay adun di pinaxuruma dadas dida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看是老鷹挾來放在（我所）種的蕃薯那邊",
+          "en": "I believe you were seized by a hawk and left in my sweet potato field.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "example",
+        "parent": "pazih-dict:p153-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下例句",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p153-03-f02",
+      "source": "pazih-dict",
+      "localId": "p153-03-f02",
+      "unit": "word",
+      "text": "sakius",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小量杯",
+          "en": "a dry or liquid measure of small size",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p153-03",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.153–154，kius- 條下派生詞",
+        "page": 153,
+        "pages": [
+          153,
+          154
+        ],
+        "row": null,
+        "code": "p153-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p153.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

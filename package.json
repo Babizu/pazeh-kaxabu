@@ -1,0 +1,24 @@
+{
+  "name": "pazeh-kaxabu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "巴宰–噶哈巫語數位辭典：以 babizu 框架建置的靜態網站（站台設定＋標準格式資料）",
+  "type": "module",
+  "scripts": {
+    "dev": "babizu dev",
+    "build": "babizu build",
+    "preview": "babizu preview",
+    "check": "babizu check",
+    "locales": "babizu locales",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "babizu": "github:Babizu/babizu#v0.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

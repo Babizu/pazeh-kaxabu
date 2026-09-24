@@ -1,0 +1,2176 @@
+{
+  "source": "pazih-dict",
+  "shard": "p265",
+  "label": "p.265",
+  "groups": [
+    {
+      "id": "pazih-dict:p265-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sais-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "saisim-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "saisiman",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisiman 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "saisiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisiw 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sakaw-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sakaxat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaxat 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p265-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sakel-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p265-01",
+      "source": "pazih-dict",
+      "localId": "p265-01",
+      "unit": "affix",
+      "text": "sais-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-f01",
+      "source": "pazih-dict",
+      "localId": "p265-01-f01",
+      "unit": "word",
+      "text": "musais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "縫",
+          "en": "to sew",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-x01",
+      "source": "pazih-dict",
+      "localId": "p265-01-x01",
+      "unit": "sentence",
+      "text": "saisi na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請縫！",
+          "en": "Please sew it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "example",
+        "parent": "pazih-dict:p265-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-f02",
+      "source": "pazih-dict",
+      "localId": "p265-01-f02",
+      "unit": "word",
+      "text": "saasais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在縫",
+          "en": "is sewing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "form",
+        "parent": "pazih-dict:p265-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-f03",
+      "source": "pazih-dict",
+      "localId": "p265-01-f03",
+      "unit": "word",
+      "text": "sinais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "縫過的",
+          "en": "sewed seam (of cloth)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "form",
+        "parent": "pazih-dict:p265-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-x02",
+      "source": "pazih-dict",
+      "localId": "p265-01-x02",
+      "unit": "phrase",
+      "text": "mupudah musais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來縫了",
+          "en": "to come to sew",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "example",
+        "parent": "pazih-dict:p265-01-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-01-x03",
+      "source": "pazih-dict",
+      "localId": "p265-01-x03",
+      "unit": "sentence",
+      "text": "ina musais siatu anu sabung sapasiatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親縫衣服給 Sabung 穿",
+          "en": "Mother sewed clothes for Sabung to wear.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-01",
+        "role": "example",
+        "parent": "pazih-dict:p265-01-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sais- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02",
+      "source": "pazih-dict",
+      "localId": "p265-02",
+      "unit": "affix",
+      "text": "saisim-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-f01",
+      "source": "pazih-dict",
+      "localId": "p265-02-f01",
+      "unit": "word",
+      "text": "kaaxasaisimen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "惹人憐愛",
+          "en": "pitiful",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-f02",
+      "source": "pazih-dict",
+      "localId": "p265-02-f02",
+      "unit": "word",
+      "text": "kasaisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可憐",
+          "en": "pitiful",
+          "nan": null
+        },
+        {
+          "zh": "惹人憐愛",
+          "en": "lovely",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-f03",
+      "source": "pazih-dict",
+      "localId": "p265-02-f03",
+      "unit": "word",
+      "text": "kaxasaisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可愛",
+          "en": "lovely",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x01",
+      "source": "pazih-dict",
+      "localId": "p265-02-x01",
+      "unit": "sentence",
+      "text": "kita sen ka rubang mamaleng, kaxasaisiman rabex a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一看是個男孩，很可愛的男孩",
+          "en": "He found that it was a baby boy, a very lovely one.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x02",
+      "source": "pazih-dict",
+      "localId": "p265-02-x02",
+      "unit": "sentence",
+      "text": "tia takita'i kaxasaisiman adang a saw rezaw mudeken adang a rakihan!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們去看一個人揀到一個可愛的嬰兒！",
+          "en": "Let's go and look at a cute baby picked up by someone!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f03",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-f04",
+      "source": "pazih-dict",
+      "localId": "p265-02-f04",
+      "unit": "word",
+      "text": "saisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "愛",
+          "en": "to love",
+          "nan": null
+        },
+        {
+          "zh": "疼",
+          "en": "to treat with affection",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x03",
+      "source": "pazih-dict",
+      "localId": "p265-02-x03",
+      "unit": "sentence",
+      "text": "saisiman naki a ali",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）疼愛我孫",
+          "en": "(I) love my grandchild.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x04",
+      "source": "pazih-dict",
+      "localId": "p265-02-x04",
+      "unit": "sentence",
+      "text": "saisiman a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（她）愛她的小孩",
+          "en": "(She) loved her baby.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x05",
+      "source": "pazih-dict",
+      "localId": "p265-02-x05",
+      "unit": "sentence",
+      "text": "ka ini saisiman imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（繼母）不疼她",
+          "en": "(The stepmother) did not love her.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f04",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x06",
+      "source": "pazih-dict",
+      "localId": "p265-02-x06",
+      "unit": "sentence",
+      "text": "dusa mamais mamaleng saisiman atun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "夫妻兩人都疼",
+          "en": "Atun The couple loved Atun.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-02-x07",
+      "source": "pazih-dict",
+      "localId": "p265-02-x07",
+      "unit": "sentence",
+      "text": "minedekel yaaku a ina saisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揀到我的母親也疼我",
+          "en": "The mother who picked me up also cherishes me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-02",
+        "role": "example",
+        "parent": "pazih-dict:p265-02-f04",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisim- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-03",
+      "source": "pazih-dict",
+      "localId": "p265-03",
+      "unit": "word",
+      "text": "saisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "愛",
+          "en": "to love",
+          "nan": null
+        },
+        {
+          "zh": "疼",
+          "en": "to treat with affection",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "saisim-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisiman 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-04",
+      "source": "pazih-dict",
+      "localId": "p265-04",
+      "unit": "word",
+      "text": "saisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "人名",
+          "en": "personal name",
+          "nan": null
+        },
+        {
+          "zh": "相思樹",
+          "en": "plant sp. Acacia confusa Merr.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，saisiw 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05",
+      "source": "pazih-dict",
+      "localId": "p265-05",
+      "unit": "affix",
+      "text": "sakaw-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-f01",
+      "source": "pazih-dict",
+      "localId": "p265-05-f01",
+      "unit": "word",
+      "text": "masakaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷",
+          "en": "to steal",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa massakau",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x01",
+      "source": "pazih-dict",
+      "localId": "p265-05-x01",
+      "unit": "sentence",
+      "text": "sakawi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷！",
+          "en": "Steal!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-f02",
+      "source": "pazih-dict",
+      "localId": "p265-05-f02",
+      "unit": "word",
+      "text": "sasakaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在偷",
+          "en": "is stealing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "form",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x02",
+      "source": "pazih-dict",
+      "localId": "p265-05-x02",
+      "unit": "sentence",
+      "text": "naki a paray ka sakawen ni saw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的錢被人偷了",
+          "en": "My money was stolen by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x03",
+      "source": "pazih-dict",
+      "localId": "p265-05-x03",
+      "unit": "phrase",
+      "text": "musay masakaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "將偷",
+          "en": "will steal",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x04",
+      "source": "pazih-dict",
+      "localId": "p265-05-x04",
+      "unit": "phrase",
+      "text": "masakaw mangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷哭",
+          "en": "to cry secretly",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x05",
+      "source": "pazih-dict",
+      "localId": "p265-05-x05",
+      "unit": "phrase",
+      "text": "masakaw mahatan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷笑",
+          "en": "to giggle",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x06",
+      "source": "pazih-dict",
+      "localId": "p265-05-x06",
+      "unit": "sentence",
+      "text": "lalu imisiw minasakaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拉路他偷了",
+          "en": "Lalu has stolen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-05-x07",
+      "source": "pazih-dict",
+      "localId": "p265-05-x07",
+      "unit": "sentence",
+      "text": "ina ka mabaza nimisiw a rakihan masakaw paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親知道她的小孩偷錢",
+          "en": "The mother knows that her child stole money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-05",
+        "role": "example",
+        "parent": "pazih-dict:p265-05-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaw- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-06",
+      "source": "pazih-dict",
+      "localId": "p265-06",
+      "unit": "word",
+      "text": "sakaxat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "削瓜皮的工具",
+          "en": "a tool to scrape",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kaxat-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakaxat 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07",
+      "source": "pazih-dict",
+      "localId": "p265-07",
+      "unit": "affix",
+      "text": "sakel-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "saken-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-f01",
+      "source": "pazih-dict",
+      "localId": "p265-07-f01",
+      "unit": "word",
+      "text": "maxamasakel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到達",
+          "en": "to arrive",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-x01",
+      "source": "pazih-dict",
+      "localId": "p265-07-x01",
+      "unit": "sentence",
+      "text": "maxamasakel ruburubu a daxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們要到達下面的陸地上",
+          "en": "They are going to arrive on the land beneath.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "example",
+        "parent": "pazih-dict:p265-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-x02",
+      "source": "pazih-dict",
+      "localId": "p265-07-x02",
+      "unit": "sentence",
+      "text": "maxamasakelay pungu banay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他們）將到達柚子樹頭",
+          "en": "(They) will arrive at the stem of a pomelo tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "example",
+        "parent": "pazih-dict:p265-07-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-f02",
+      "source": "pazih-dict",
+      "localId": "p265-07-f02",
+      "unit": "word",
+      "text": "pasakel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到達",
+          "en": "to arrive",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "pasaken",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下派生詞",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-x03",
+      "source": "pazih-dict",
+      "localId": "p265-07-x03",
+      "unit": "sentence",
+      "text": "pasakel lia, ahuan nia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "天黑時（他們）到了那裡",
+          "en": "(They) arrived (there) at night.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "example",
+        "parent": "pazih-dict:p265-07-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p265-07-x04",
+      "source": "pazih-dict",
+      "localId": "p265-07-x04",
+      "unit": "sentence",
+      "text": "pulalawa lia ka pasakel lai ki rangarang a isis'e",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒多久，豹就到了",
+          "en": "In no moment the leopard arrived.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p265-07",
+        "role": "example",
+        "parent": "pazih-dict:p265-07-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.265，sakel- 條下例句",
+        "page": 265,
+        "pages": [
+          265
+        ],
+        "row": null,
+        "code": "p265-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p265.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

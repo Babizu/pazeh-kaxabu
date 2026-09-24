@@ -1,0 +1,2162 @@
+{
+  "source": "pazih-dict",
+  "shard": "p220",
+  "label": "p.220",
+  "groups": [
+    {
+      "id": "pazih-dict:p220-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngesel-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngesen-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesen- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngipar-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngipar- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngirangir-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngirangir- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngiraw-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiraw- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngiringir-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiringir- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngiti-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "nguruh-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p220-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ngurungur-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p220-01",
+      "source": "pazih-dict",
+      "localId": "p220-01",
+      "unit": "affix",
+      "text": "ngesel-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "ngesen-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-f01",
+      "source": "pazih-dict",
+      "localId": "p220-01-f01",
+      "unit": "word",
+      "text": "kangesel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "怕",
+          "en": "to fear, to be afraid of",
+          "nan": null
+        },
+        {
+          "zh": "被嚇到，驚訝",
+          "en": "to be surprised, to get frightened, startled",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-f02",
+      "source": "pazih-dict",
+      "localId": "p220-01-f02",
+      "unit": "word",
+      "text": "kaangesengeselen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "危險的",
+          "en": "dangerous",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "form",
+        "parent": "pazih-dict:p220-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-f03",
+      "source": "pazih-dict",
+      "localId": "p220-01-f03",
+      "unit": "word",
+      "text": "kangesengeselen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚇人",
+          "en": "frightening",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "form",
+        "parent": "pazih-dict:p220-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-f04",
+      "source": "pazih-dict",
+      "localId": "p220-01-f04",
+      "unit": "word",
+      "text": "mangesel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "怕",
+          "en": "to fear, to be afraid of",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-x01",
+      "source": "pazih-dict",
+      "localId": "p220-01-x01",
+      "unit": "sentence",
+      "text": "mamais a imisiw ka mangesel daxedaxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個女人怕鬼",
+          "en": "That woman is not afraid of ghosts.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "example",
+        "parent": "pazih-dict:p220-01-f04",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書中英矛盾（zh：怕鬼／en：is not afraid），疑原書英譯有誤，照抄不改"
+      ]
+    },
+    {
+      "id": "pazih-dict:p220-01-x02",
+      "source": "pazih-dict",
+      "localId": "p220-01-x02",
+      "unit": "sentence",
+      "text": "ini mangesel aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不怕（鬼）",
+          "en": "I am not afraid of ghosts.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "example",
+        "parent": "pazih-dict:p220-01-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-x03",
+      "source": "pazih-dict",
+      "localId": "p220-01-x03",
+      "unit": "sentence",
+      "text": "mangesel lai ki saw a isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那人嚇到了",
+          "en": "The person was frightened.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "example",
+        "parent": "pazih-dict:p220-01-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-f05",
+      "source": "pazih-dict",
+      "localId": "p220-01-f05",
+      "unit": "word",
+      "text": "pakangesel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使怕，恐嚇",
+          "en": "to make fear",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-01-x04",
+      "source": "pazih-dict",
+      "localId": "p220-01-x04",
+      "unit": "sentence",
+      "text": "pakangeseli!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使人怕！",
+          "en": "Make someone frightened.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-01",
+        "role": "example",
+        "parent": "pazih-dict:p220-01-f05",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesel- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-02",
+      "source": "pazih-dict",
+      "localId": "p220-02",
+      "unit": "affix",
+      "text": "ngesen-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "ngesel-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngesen- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-03",
+      "source": "pazih-dict",
+      "localId": "p220-03",
+      "unit": "affix",
+      "text": "ngipar-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngipar- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-03-f01",
+      "source": "pazih-dict",
+      "localId": "p220-03-f01",
+      "unit": "word",
+      "text": "mangipar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "厚的（物）",
+          "en": "thick",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngipar- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-04",
+      "source": "pazih-dict",
+      "localId": "p220-04",
+      "unit": "affix",
+      "text": "ngirangir-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngirangir- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-04-f01",
+      "source": "pazih-dict",
+      "localId": "p220-04-f01",
+      "unit": "word",
+      "text": "mangirangir",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "容易",
+          "en": "easy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngirangir- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-05",
+      "source": "pazih-dict",
+      "localId": "p220-05",
+      "unit": "affix",
+      "text": "ngiraw-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiraw- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-05-f01",
+      "source": "pazih-dict",
+      "localId": "p220-05-f01",
+      "unit": "word",
+      "text": "maxangirangiraw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "臉上髒兮兮",
+          "en": "to have dirt on one's face",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiraw- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-05-f02",
+      "source": "pazih-dict",
+      "localId": "p220-05-f02",
+      "unit": "word",
+      "text": "maxangiraw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嘴上帶殘物（如貓進食後）",
+          "en": "whitish dirt stuck around the mouth, such as of food, nasal mucus, slaver, etc.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiraw- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-06",
+      "source": "pazih-dict",
+      "localId": "p220-06",
+      "unit": "affix",
+      "text": "ngiringir-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiringir- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-06-f01",
+      "source": "pazih-dict",
+      "localId": "p220-06-f01",
+      "unit": "word",
+      "text": "mungiringir",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "輕咬，細嚼，咬",
+          "en": "to nibble (as rats do)",
+          "nan": null
+        },
+        {
+          "zh": "咬牙切齒",
+          "en": "to gnash, to grit the teeth",
+          "nan": null
+        },
+        {
+          "zh": "啃",
+          "en": "to chew on something while holding it in both hands",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiringir- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-06-x01",
+      "source": "pazih-dict",
+      "localId": "p220-06-x01",
+      "unit": "sentence",
+      "text": "ngairingir tubus yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在啃甘蔗",
+          "en": "I am chewing sugarcane.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-06",
+        "role": "example",
+        "parent": "pazih-dict:p220-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiringir- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-06-x02",
+      "source": "pazih-dict",
+      "localId": "p220-06-x02",
+      "unit": "sentence",
+      "text": "pulalawa lia ka ngarangaren lai ki ngairigir u pungu kahuy lia...",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牠立刻一點一點地咬樹幹",
+          "en": "In a moment, she bit and bit the trunk of the tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-06",
+        "role": "example",
+        "parent": "pazih-dict:p220-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiringir- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-07",
+      "source": "pazih-dict",
+      "localId": "p220-07",
+      "unit": "affix",
+      "text": "ngiti-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-07-f01",
+      "source": "pazih-dict",
+      "localId": "p220-07-f01",
+      "unit": "word",
+      "text": "tangiti",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生氣，兇惡",
+          "en": "to get angry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-07-x01",
+      "source": "pazih-dict",
+      "localId": "p220-07-x01",
+      "unit": "phrase",
+      "text": "tangiti saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如人生氣",
+          "en": "to be angry with someone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-07",
+        "role": "example",
+        "parent": "pazih-dict:p220-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-07-x02",
+      "source": "pazih-dict",
+      "localId": "p220-07-x02",
+      "unit": "sentence",
+      "text": "tangiti ki saw a imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個人生氣",
+          "en": "That person is angry.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-07",
+        "role": "example",
+        "parent": "pazih-dict:p220-07-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-07-f02",
+      "source": "pazih-dict",
+      "localId": "p220-07-f02",
+      "unit": "word",
+      "text": "tinangitingiti",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很氣",
+          "en": "very angry; a quick-tempered person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-07",
+        "role": "form",
+        "parent": "pazih-dict:p220-07-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngiti- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08",
+      "source": "pazih-dict",
+      "localId": "p220-08",
+      "unit": "affix",
+      "text": "nguruh-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08-f01",
+      "source": "pazih-dict",
+      "localId": "p220-08-f01",
+      "unit": "word",
+      "text": "maxanguruh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打瞌睡，打盹",
+          "en": "to doze",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08-f02",
+      "source": "pazih-dict",
+      "localId": "p220-08-f02",
+      "unit": "word",
+      "text": "maxanguruhay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他要打瞌睡",
+          "en": "He will doze.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "form",
+        "parent": "pazih-dict:p220-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08-f03",
+      "source": "pazih-dict",
+      "localId": "p220-08-f03",
+      "unit": "word",
+      "text": "paxanguruh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打瞌睡，打盹",
+          "en": "to doze",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08-x01",
+      "source": "pazih-dict",
+      "localId": "p220-08-x01",
+      "unit": "sentence",
+      "text": "paxanguruhi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "表示請去休息一下",
+          "en": "Please rest for a while!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "example",
+        "parent": "pazih-dict:p220-08-f03",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-08-f04",
+      "source": "pazih-dict",
+      "localId": "p220-08-f04",
+      "unit": "word",
+      "text": "taxanguruh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想打瞌睡",
+          "en": "to feel like dozing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-08",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，nguruh- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-09",
+      "source": "pazih-dict",
+      "localId": "p220-09",
+      "unit": "affix",
+      "text": "ngurungur-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-09-f01",
+      "source": "pazih-dict",
+      "localId": "p220-09-f01",
+      "unit": "word",
+      "text": "mangurungur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫罵",
+          "en": "to scold, to grumble and complain to oneself while walking around",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-09",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條下派生詞",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-09-x01",
+      "source": "pazih-dict",
+      "localId": "p220-09-x01",
+      "unit": "phrase",
+      "text": "mangurungur saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "罵人",
+          "en": "to scold a person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-09",
+        "role": "example",
+        "parent": "pazih-dict:p220-09-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-09-x02",
+      "source": "pazih-dict",
+      "localId": "p220-09-x02",
+      "unit": "sentence",
+      "text": "minangurungur saw ukuazixa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "昨天叫罵人了",
+          "en": "to have scolded a person yesterday",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-09",
+        "role": "example",
+        "parent": "pazih-dict:p220-09-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p220-09-x03",
+      "source": "pazih-dict",
+      "localId": "p220-09-x03",
+      "unit": "sentence",
+      "text": "maangurunguray masakaw paray a saw isia yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要罵偷錢的那個人",
+          "en": "I'll scold the person who stole money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p220-09",
+        "role": "example",
+        "parent": "pazih-dict:p220-09-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.220，ngurungur- 條下例句",
+        "page": 220,
+        "pages": [
+          220
+        ],
+        "row": null,
+        "code": "p220-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p220.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

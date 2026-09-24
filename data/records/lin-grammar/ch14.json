@@ -1,0 +1,3786 @@
+{
+  "source": "lin-grammar",
+  "shard": "ch14",
+  "label": "CH14 疑問句",
+  "groups": [
+    {
+      "id": "lin-grammar:ch14",
+      "source": "lin-grammar",
+      "type": "list",
+      "title": "CH14 疑問句",
+      "subtitle": null,
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "lin-grammar:ch14-14.1a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.1a",
+      "unit": "sentence",
+      "text": "imisiw ka nisiw a wazu say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那是你的狗嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.1a)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.1a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.1a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.1b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.1b",
+      "unit": "sentence",
+      "text": "isiw ka kaxabu say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是噶哈巫（族）人嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.1b)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.1b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.1b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.2a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.2a",
+      "unit": "sentence",
+      "text": "isiw musuling dadas say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在烤地瓜嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.2a)（潘德興 2019/08/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.2a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.2a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.2b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.2b",
+      "unit": "sentence",
+      "text": "isiw ka mututing yaku a wazu say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你打我的狗嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.2b)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.2b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.2b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.3a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.3a",
+      "unit": "sentence",
+      "text": "isiw ka tahayak say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你會累嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.3a)（潘德興 2018/05/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.3a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.3a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.3b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.3b",
+      "unit": "sentence",
+      "text": "isiw ka ini tahayak say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你不累嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.3b)（潘德興 2018/05/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.3b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.3b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.5a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.5a",
+      "unit": "sentence",
+      "text": "isiw ka utakay say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是客家人嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.5a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.5a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.5a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.5a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.5a’",
+      "unit": "sentence",
+      "text": "hauay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "是的。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.5a’)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.5a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.5a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.5b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.5b",
+      "unit": "sentence",
+      "text": "isiw ka mukusa mataw eten say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是去街上嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.5b)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.5b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.5b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.5b’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.5b’",
+      "unit": "sentence",
+      "text": "hauay. mukusa mubaiw taating a selem.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "是的。去買一些油。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.5b’)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.5b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.5b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.7a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.7a",
+      "unit": "sentence",
+      "text": "isiw ka nahaza imini bo?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你有這個嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.7a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.7a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.7a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.7b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.7b",
+      "unit": "sentence",
+      "text": "isiw mausay muzakay bo?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要去走路嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.7b)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.7b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.7b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.8b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.8b",
+      "unit": "sentence",
+      "text": "isiw ka kaxabu say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是噶哈巫（族）人嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.8b)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.8b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.8b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.11a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.11a",
+      "unit": "sentence",
+      "text": "isiw ka kaxabu say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是噶哈巫（族）人嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.11a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.11a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.11a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.11b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.11b",
+      "unit": "sentence",
+      "text": "imini ka nimu a beleben say?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是你們的香蕉嗎？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.11b)（潘德興 2018/05/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.11b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.11b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.14a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.14a",
+      "unit": "sentence",
+      "text": "isiw ka haaput meken dadas iu dukun?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要吃番薯還是芋頭？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.14a)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.14a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.14a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.14b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.14b",
+      "unit": "sentence",
+      "text": "yaku haaput mukusa binayu iak, iu ana mukusa iak?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我去山上好，還是別去好？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.14b)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.14b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.14b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.17a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.17a",
+      "unit": "sentence",
+      "text": "imini ka kabas iu uzay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是木板還是不是？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.17a)（潘德興 2016/01/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.17a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.17a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2016/01/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.17b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.17b",
+      "unit": "sentence",
+      "text": "mudawan iak lia iu mayaw?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗好了還是還沒？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.17b)（潘德興 2019/12/10）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.17b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.17b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/12/10"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.17c",
+      "source": "lin-grammar",
+      "localId": "ch14-14.17c",
+      "unit": "sentence",
+      "text": "isiw ka haaput tabako iu nang?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要斗笠還是不要？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.17c)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.17c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.17c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.20a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.20a",
+      "unit": "sentence",
+      "text": "yaku ka tapulu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我是閩南人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.20a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.20a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.20a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.35a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.35a",
+      "unit": "sentence",
+      "text": "ima ki hazian?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "誰不好？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.35a)（潘德興 2020/10/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.35a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.35a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.59a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.59a",
+      "unit": "sentence",
+      "text": "isiw ka malaleng kaidi tshay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你住在哪裡？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.59a)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.59a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.59a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": "(14.59a) isiw ka malaleng kaidi tshay?.wav"
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.59a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.59a’",
+      "unit": "sentence",
+      "text": "yaku malaleng kaidi baisia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我住在牛眠。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.59a’)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.59a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.59a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.59b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.59b",
+      "unit": "sentence",
+      "text": "isiw ka mausay tshay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要去哪裡？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.59b)（潘德興 2020/12/04）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.59b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.59b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/12/04"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.59b’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.59b’",
+      "unit": "sentence",
+      "text": "mausay miadua.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去那邊。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.59b’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.59b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.59b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "2017"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.60a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60a",
+      "unit": "sentence",
+      "text": "isiw ka kaidi tshay mupuza?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你從哪裡來？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60a)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.60a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60a’",
+      "unit": "sentence",
+      "text": "yaku ka mataw eten mupuza.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我從街上來。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60a’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.60b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60b",
+      "unit": "sentence",
+      "text": "nisiw a halam kaidi thsay mubaiw?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在哪裡買菜？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60b)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "字面：你的菜在哪裡買？"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.60b’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60b’",
+      "unit": "sentence",
+      "text": "kaidi mataw eten.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在街上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60b’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.60c",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60c",
+      "unit": "sentence",
+      "text": "isiw ka kaidi thsay maukhehan?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在哪裡出生？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60c)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.60c’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.60c’",
+      "unit": "sentence",
+      "text": "kaidi sianglukus.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在守城。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.60c’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.60c’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.60c_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.61",
+      "source": "lin-grammar",
+      "localId": "ch14-14.61",
+      "unit": "sentence",
+      "text": "imu ka kaidi tshay a saw?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們是哪裡的人？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.61)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.61",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.61.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.64a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.64a",
+      "unit": "sentence",
+      "text": "isiw haima akhéhén?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你有多少小孩？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.64a)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.64a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.64a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.64a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.64a’",
+      "unit": "sentence",
+      "text": "dusa eezaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "兩個而已。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.64a’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.64a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.64a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.64b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.64b",
+      "unit": "sentence",
+      "text": "nisiw a xalam haima pai?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的菜多少錢？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.64b)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.64b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.64b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.65a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.65a",
+      "unit": "sentence",
+      "text": "nisiw a wazu haima?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你有幾隻狗？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.65a)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.65a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.65a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "字面意義：你的狗多少"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.65a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.65a’",
+      "unit": "sentence",
+      "text": "ini mudalum a wazu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒養狗。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.65a’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.65a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.65a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.66a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.66a",
+      "unit": "sentence",
+      "text": "isiw a akhéhén haima mataw lia?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的小孩多大了？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.66a)（潘德興 2020/04/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.66a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.66a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/04/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.66a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.66a’",
+      "unit": "sentence",
+      "text": "mayaw mubaza axaxay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "還不知道什麼。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.66a’)（潘德興 2020/04/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.66a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.66a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/04/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.67a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.67a",
+      "unit": "sentence",
+      "text": "nisiw a ima ka muaxay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的手怎麼了？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.67a)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.67a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.67a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.67a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.67a’",
+      "unit": "sentence",
+      "text": "asikit a ima.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "手痛。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.67a’)（潘德興）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.67a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.67a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch14-14.67b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.67b",
+      "unit": "sentence",
+      "text": "nisiw a sasapo muaxay mubuyak?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你掃把怎麼做的？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.67b)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.67b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.67b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68a",
+      "unit": "sentence",
+      "text": "muaxay haaput mututing yaku a akhéhén?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（你）為什麼要打我的小孩？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68a)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68a’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68a’",
+      "unit": "sentence",
+      "text": "hazian a mukawas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "講不聽。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68a’)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68a’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68a_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "字面意義：難講",
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68b",
+      "unit": "sentence",
+      "text": "muaxay ka nang a meken sumay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為什麼不吃飯？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68b)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68b’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68b’",
+      "unit": "sentence",
+      "text": "téleket lia. nang a meken sumay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "飽了。不要吃飯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68b’)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68b’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68b_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68c",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68c",
+      "unit": "sentence",
+      "text": "muaxay ka nang a mudok dalum?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為什麼不要喝水？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68c)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68c’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68c’",
+      "unit": "sentence",
+      "text": "ini makait a haho.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "脖子沒乾。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68c’)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68c’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68c_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68d",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68d",
+      "unit": "sentence",
+      "text": "muaxay mudan?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "怎麼會下雨？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68d)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.68d’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.68d’",
+      "unit": "sentence",
+      "text": "teehen a babaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "天空黑。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.68d’)（潘德興 2017/08/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.68d’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.68d_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/08/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.69a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.69a",
+      "unit": "sentence",
+      "text": "isiw ka sasay nang a meken sumay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你為什麼不要吃飯？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 52
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.69a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.69a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.69a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.69b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.69b",
+      "unit": "sentence",
+      "text": "sasay ka mututing yaku hann?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為什麼打我呢？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 53
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.69b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.69b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.69b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.70a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.70a",
+      "unit": "sentence",
+      "text": "sasay’en a musinaw?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "怎麼洗？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.70a)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.70a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.70a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.70b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.70b",
+      "unit": "sentence",
+      "text": "imini a saaken ka sasay’en a mutalek?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這菜餚怎麼煮？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.70b)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.70b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.70b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.70c",
+      "source": "lin-grammar",
+      "localId": "ch14-14.70c",
+      "unit": "sentence",
+      "text": "ini asikit sasay’in a mutapik imini?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒有痛怎麼貼這個？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 56
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.70c)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.70c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.70c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.70d",
+      "source": "lin-grammar",
+      "localId": "ch14-14.70d",
+      "unit": "sentence",
+      "text": "sasay’en lia?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "怎麼辦？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 57
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.70d)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.70d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.70d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.73a",
+      "source": "lin-grammar",
+      "localId": "ch14-14.73a",
+      "unit": "sentence",
+      "text": "axay daali haka midem?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼時候你才要睡覺？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.73a)（潘德興 2019/09/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.73a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.73a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.73b",
+      "source": "lin-grammar",
+      "localId": "ch14-14.73b",
+      "unit": "sentence",
+      "text": "axay daali haaput mudawan?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼時候要洗澡？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 59
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.73b)（潘德興 2019/09/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.73b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.73b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.73c",
+      "source": "lin-grammar",
+      "localId": "ch14-14.73c",
+      "unit": "sentence",
+      "text": "axay daali mausay mataw eten mubaiw selem?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "什麼時候要去街上買肉？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 60
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.73c)（潘德興 2019/09/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.73c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.73c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.73d",
+      "source": "lin-grammar",
+      "localId": "ch14-14.73d",
+      "unit": "sentence",
+      "text": "axay daali haaput meken sumay?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你什麼時候要吃飯？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 61
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.73d)（潘德興 2019/09/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.73d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.73d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.73d’",
+      "source": "lin-grammar",
+      "localId": "ch14-14.73d’",
+      "unit": "sentence",
+      "text": "daalian hann.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "中午呀！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 62
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.73d’)（潘德興 2019/09/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.73d’",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.73d_.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/09/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch14-14.74",
+      "source": "lin-grammar",
+      "localId": "ch14-14.74",
+      "unit": "sentence",
+      "text": "isiw ka kuasayan mukusa mukato bekes?",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你什麼時候剪頭髮的？",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch14",
+        "role": "example",
+        "parent": null,
+        "seq": 63
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH14 疑問句 例 (14.74)（潘德興 2020/05/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "14.74",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch14-14.74.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/05/01"
+      ]
+    }
+  ]
+}

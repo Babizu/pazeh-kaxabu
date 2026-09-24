@@ -1,0 +1,2177 @@
+{
+  "source": "pazih-dict",
+  "shard": "p250",
+  "label": "p.250",
+  "groups": [
+    {
+      "id": "pazih-dict:p250-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rihan-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rihing-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rihu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihu- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rikat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "riket-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，riket- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rikibul",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikibul 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rikirik-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rikirik-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p250-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rikit",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikit 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p250-01",
+      "source": "pazih-dict",
+      "localId": "p250-01",
+      "unit": "affix",
+      "text": "rihan-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-f01",
+      "source": "pazih-dict",
+      "localId": "p250-01-f01",
+      "unit": "word",
+      "text": "paxarihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "忘記",
+          "en": "to forget",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x01",
+      "source": "pazih-dict",
+      "localId": "p250-01-x01",
+      "unit": "sentence",
+      "text": "ana paxarihan na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別忘記！",
+          "en": "Don't forget!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x02",
+      "source": "pazih-dict",
+      "localId": "p250-01-x02",
+      "unit": "sentence",
+      "text": "yaku ka paxarihan siw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我以為你忘了",
+          "en": "I thought you had forgot.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x03",
+      "source": "pazih-dict",
+      "localId": "p250-01-x03",
+      "unit": "sentence",
+      "text": "ana paxarihan abababaw binaxa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別忘記上帝的賞賜",
+          "en": "Don’t forget God’s blessings!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x04",
+      "source": "pazih-dict",
+      "localId": "p250-01-x04",
+      "unit": "sentence",
+      "text": "aba ka paxarihan mupuzah dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親忘了來這裡了",
+          "en": "Father forgot to come here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x05",
+      "source": "pazih-dict",
+      "localId": "p250-01-x05",
+      "unit": "sentence",
+      "text": "aba ka paxarihan minupuzah dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親忘了他（之前）曾來過這了",
+          "en": "Father forgot that he had come here (before).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x06",
+      "source": "pazih-dict",
+      "localId": "p250-01-x06",
+      "unit": "sentence",
+      "text": "atun ka paxarihan mubaket rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 忘了打小孩",
+          "en": "Atun forgot to beat a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-01-x07",
+      "source": "pazih-dict",
+      "localId": "p250-01-x07",
+      "unit": "sentence",
+      "text": "atun ka paxarihan minubaket rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 忘了他打過小孩了",
+          "en": "Atun forgot that he had beaten a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-01",
+        "role": "example",
+        "parent": "pazih-dict:p250-01-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihan- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02",
+      "source": "pazih-dict",
+      "localId": "p250-02",
+      "unit": "affix",
+      "text": "rihing-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02-f01",
+      "source": "pazih-dict",
+      "localId": "p250-02-f01",
+      "unit": "word",
+      "text": "karihing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鬆開",
+          "en": "to unwind",
+          "nan": null
+        },
+        {
+          "zh": "分解檢查",
+          "en": "to overhaul (as a machine)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02-x01",
+      "source": "pazih-dict",
+      "localId": "p250-02-x01",
+      "unit": "sentence",
+      "text": "karihingi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "解開！",
+          "en": "Unwind it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "example",
+        "parent": "pazih-dict:p250-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02-f02",
+      "source": "pazih-dict",
+      "localId": "p250-02-f02",
+      "unit": "word",
+      "text": "mukarihing",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "解開",
+          "en": "to untie, to unfasten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02-f03",
+      "source": "pazih-dict",
+      "localId": "p250-02-f03",
+      "unit": "word",
+      "text": "karihingen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "解開了",
+          "en": "It has been untied.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "form",
+        "parent": "pazih-dict:p250-02-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-02-x02",
+      "source": "pazih-dict",
+      "localId": "p250-02-x02",
+      "unit": "sentence",
+      "text": "karihingi ki saris!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "解開繩子！",
+          "en": "Untie the string!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-02",
+        "role": "example",
+        "parent": "pazih-dict:p250-02-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihing- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-03",
+      "source": "pazih-dict",
+      "localId": "p250-03",
+      "unit": "affix",
+      "text": "rihu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihu- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-03-f01",
+      "source": "pazih-dict",
+      "localId": "p250-03-f01",
+      "unit": "word",
+      "text": "marihu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鬆",
+          "en": "loose (of belt, clothes, shoes, hat)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rihu- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04",
+      "source": "pazih-dict",
+      "localId": "p250-04",
+      "unit": "affix",
+      "text": "rikat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-f01",
+      "source": "pazih-dict",
+      "localId": "p250-04-f01",
+      "unit": "word",
+      "text": "murikat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斷掉（完全脫離）",
+          "en": "to break off",
+          "nan": null
+        },
+        {
+          "zh": "彎曲",
+          "en": "to bend",
+          "nan": null
+        },
+        {
+          "zh": "用力使發啪噠聲",
+          "en": "to snap (with force)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-x01",
+      "source": "pazih-dict",
+      "localId": "p250-04-x01",
+      "unit": "sentence",
+      "text": "rikadi na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請折斷！",
+          "en": "Please break it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "example",
+        "parent": "pazih-dict:p250-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-x02",
+      "source": "pazih-dict",
+      "localId": "p250-04-x02",
+      "unit": "phrase",
+      "text": "rikaden lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被折斷了",
+          "en": "It was broken.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "example",
+        "parent": "pazih-dict:p250-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-x03",
+      "source": "pazih-dict",
+      "localId": "p250-04-x03",
+      "unit": "sentence",
+      "text": "rikaden rakihan lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被孩子折斷了",
+          "en": "It was broken by a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "example",
+        "parent": "pazih-dict:p250-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-x04",
+      "source": "pazih-dict",
+      "localId": "p250-04-x04",
+      "unit": "sentence",
+      "text": "rikat panga kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他）折斷一根樹枝",
+          "en": "(He) broke a branch.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "example",
+        "parent": "pazih-dict:p250-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-04-x05",
+      "source": "pazih-dict",
+      "localId": "p250-04-x05",
+      "unit": "sentence",
+      "text": "murikat patakan lia ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親折斷竹子",
+          "en": "Father broke a bamboo.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-04",
+        "role": "example",
+        "parent": "pazih-dict:p250-04-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikat- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-05",
+      "source": "pazih-dict",
+      "localId": "p250-05",
+      "unit": "affix",
+      "text": "riket-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，riket- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-05-f01",
+      "source": "pazih-dict",
+      "localId": "p250-05-f01",
+      "unit": "word",
+      "text": "mariket",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分開，離開",
+          "en": "to be separated, to divorce",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，riket- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-05-x01",
+      "source": "pazih-dict",
+      "localId": "p250-05-x01",
+      "unit": "sentence",
+      "text": "mariket lia dusa saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "兩人離婚了",
+          "en": "The two people were divorced.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-05",
+        "role": "example",
+        "parent": "pazih-dict:p250-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，riket- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-05-x02",
+      "source": "pazih-dict",
+      "localId": "p250-05-x02",
+      "unit": "phrase",
+      "text": "rikeden lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "分開了",
+          "en": "(They) were separated.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-05",
+        "role": "example",
+        "parent": "pazih-dict:p250-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，riket- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-06",
+      "source": "pazih-dict",
+      "localId": "p250-06",
+      "unit": "word",
+      "text": "rikibul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "竹子做的穀倉",
+          "en": "granary (made from bamboos)",
+          "nan": null
+        },
+        {
+          "zh": "圍起來做穀倉",
+          "en": "to encircle",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikibul 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-06-x01",
+      "source": "pazih-dict",
+      "localId": "p250-06-x01",
+      "unit": "sentence",
+      "text": "rikibul a mini ha",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有竹子做的穀倉",
+          "en": "There is a granary hut.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikibul 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-06-x02",
+      "source": "pazih-dict",
+      "localId": "p250-06-x02",
+      "unit": "phrase",
+      "text": "rikibulay dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這裡要圍起來",
+          "en": "to encircle here",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikibul 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-07",
+      "source": "pazih-dict",
+      "localId": "p250-07",
+      "unit": "affix",
+      "text": "rikirik-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p250-07-f01",
+      "source": "pazih-dict",
+      "localId": "p250-07-f01",
+      "unit": "word",
+      "text": "baurikirik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小鳥名",
+          "en": "bird (a type of a small bird)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-07-f02",
+      "source": "pazih-dict",
+      "localId": "p250-07-f02",
+      "unit": "word",
+      "text": "paurikirik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "形容小鳥叫聲",
+          "en": "cries of a very small bird, to chirp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-07-x01",
+      "source": "pazih-dict",
+      "localId": "p250-07-x01",
+      "unit": "sentence",
+      "text": "sipiriw ka paurikirik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "麻雀叫",
+          "en": "The sparrows are chirping.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-07",
+        "role": "example",
+        "parent": "pazih-dict:p250-07-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-08",
+      "source": "pazih-dict",
+      "localId": "p250-08",
+      "unit": "affix",
+      "text": "rikirik-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p250-08-f01",
+      "source": "pazih-dict",
+      "localId": "p250-08-f01",
+      "unit": "word",
+      "text": "purikirik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嬰兒吃後滿口髒亂",
+          "en": "messy mouth of a baby after eating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條下派生詞",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-08-x01",
+      "source": "pazih-dict",
+      "localId": "p250-08-x01",
+      "unit": "sentence",
+      "text": "rakihan a rahan ka purikirik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嬰兒的嘴吃得很髒亂",
+          "en": "The mouth of a baby is messy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-08",
+        "role": "example",
+        "parent": "pazih-dict:p250-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikirik- 條下例句",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p250-09",
+      "source": "pazih-dict",
+      "localId": "p250-09",
+      "unit": "word",
+      "text": "rikit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小指",
+          "en": "little finger",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p250-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.250，rikit 條",
+        "page": 250,
+        "pages": [
+          250
+        ],
+        "row": null,
+        "code": "p250-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p250.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa likit",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

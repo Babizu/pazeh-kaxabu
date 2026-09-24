@@ -1,0 +1,2444 @@
+{
+  "source": "pazih-dict",
+  "shard": "p127",
+  "label": "p.127（I）",
+  "groups": [
+    {
+      "id": "pazih-dict:p127-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-i",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-i",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "iah",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iah 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "iba-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ibalah",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127，ibalah 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "icip",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127，icip 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ida",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127，ida 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p127-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "idahil-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p127-01",
+      "source": "pazih-dict",
+      "localId": "p127-01",
+      "unit": "affix",
+      "text": "-i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "祈使句（受事焦點）",
+          "en": "imperative (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p127-01-x01",
+      "source": "pazih-dict",
+      "localId": "p127-01-x01",
+      "unit": "sentence",
+      "text": "sungusungi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "算！",
+          "en": "Count it! (see sungusung-)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x02",
+      "source": "pazih-dict",
+      "localId": "p127-01-x02",
+      "unit": "sentence",
+      "text": "kexezi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用刀切！",
+          "en": "Cut it with a knife! (see kexet)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x03",
+      "source": "pazih-dict",
+      "localId": "p127-01-x03",
+      "unit": "sentence",
+      "text": "buraxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用斧頭砍！",
+          "en": "Chop it with an axe! (see burah)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x04",
+      "source": "pazih-dict",
+      "localId": "p127-01-x04",
+      "unit": "sentence",
+      "text": "tadauxi lai ta!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們喝吧！",
+          "en": "Let's drink!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x05",
+      "source": "pazih-dict",
+      "localId": "p127-01-x05",
+      "unit": "sentence",
+      "text": "takani lai ta!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們吃吧！",
+          "en": "Let's eat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x06",
+      "source": "pazih-dict",
+      "localId": "p127-01-x06",
+      "unit": "sentence",
+      "text": "takitai!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看吧！",
+          "en": "Look at it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x07",
+      "source": "pazih-dict",
+      "localId": "p127-01-x07",
+      "unit": "sentence",
+      "text": "takani nita sumay imini!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃咱們的飯吧！",
+          "en": "Let's eat our own rice!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "cf. takanaw nita sumay imini! 咱們吃這頓飯吧！Let's eat this rice! (Ogawa)"
+      ]
+    },
+    {
+      "id": "pazih-dict:p127-01-x08",
+      "source": "pazih-dict",
+      "localId": "p127-01-x08",
+      "unit": "sentence",
+      "text": "bakedi nimu ki wazu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們打狗！",
+          "en": "You(pl) beat the dog!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x09",
+      "source": "pazih-dict",
+      "localId": "p127-01-x09",
+      "unit": "sentence",
+      "text": "asui rakihan di naki a xuma!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把小孩帶來我家！",
+          "en": "Bring the child to my house!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-01-x10",
+      "source": "pazih-dict",
+      "localId": "p127-01-x10",
+      "unit": "sentence",
+      "text": "tumala'i ki baxala maaturay!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "聽 Baxala 唱歌！",
+          "en": "Listen to Baxala singing!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-01",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-02",
+      "source": "pazih-dict",
+      "localId": "p127-02",
+      "unit": "affix",
+      "text": "-i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "呼格",
+          "en": "vocative",
+          "nan": null
+        },
+        {
+          "zh": "親屬稱呼（只用在少數親屬稱謂）",
+          "en": "address for a few kinship terms, with restricted usage only to elders",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p127-02-x01",
+      "source": "pazih-dict",
+      "localId": "p127-02-x01",
+      "unit": "phrase",
+      "text": "aba-i '",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "爸爸！ Daddy’ < aba ‘父親",
+          "en": "father’",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-02-x02",
+      "source": "pazih-dict",
+      "localId": "p127-02-x02",
+      "unit": "phrase",
+      "text": "ina-i '",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "媽媽！ Mom’ < ina ‘母親",
+          "en": "mother’",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-02-x03",
+      "source": "pazih-dict",
+      "localId": "p127-02-x03",
+      "unit": "phrase",
+      "text": "apu-i '",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿婆！ Grandma’ < apu ‘老太婆",
+          "en": "old woman, grandmother’",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-02-x04",
+      "source": "pazih-dict",
+      "localId": "p127-02-x04",
+      "unit": "phrase",
+      "text": "atan-i '",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嫂嫂！ Sister-in-law’ < atan ‘嫂嫂",
+          "en": "sister-in-law’",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-02-x05",
+      "source": "pazih-dict",
+      "localId": "p127-02-x05",
+      "unit": "phrase",
+      "text": "iah-i '",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大姊！ Eldest sister’ < iah ‘姊姊",
+          "en": "elder sister’",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-02",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，-i 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-03",
+      "source": "pazih-dict",
+      "localId": "p127-03",
+      "unit": "word",
+      "text": "iah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "姐",
+          "en": "elder sister",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iah 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-03-x01",
+      "source": "pazih-dict",
+      "localId": "p127-03-x01",
+      "unit": "sentence",
+      "text": "iahi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大姊！",
+          "en": "Elder sister! (vocative)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iah 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04",
+      "source": "pazih-dict",
+      "localId": "p127-04",
+      "unit": "affix",
+      "text": "iba-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-f01",
+      "source": "pazih-dict",
+      "localId": "p127-04-f01",
+      "unit": "word",
+      "text": "miba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抱（孩子）",
+          "en": "to hold (a baby) in one's arm",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x01",
+      "source": "pazih-dict",
+      "localId": "p127-04-x01",
+      "unit": "sentence",
+      "text": "miba naki a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抱我的孩子",
+          "en": "to hold my child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x02",
+      "source": "pazih-dict",
+      "localId": "p127-04-x02",
+      "unit": "sentence",
+      "text": "miba rakihan ka mukusa di xuma lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抱著小孩回家",
+          "en": "(They) took the baby home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x03",
+      "source": "pazih-dict",
+      "localId": "p127-04-x03",
+      "unit": "sentence",
+      "text": "miba rakihan ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親抱著嬰孩",
+          "en": "The mother is holding a baby.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-f02",
+      "source": "pazih-dict",
+      "localId": "p127-04-f02",
+      "unit": "word",
+      "text": "maiba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在抱",
+          "en": "is holding in one's arm",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "form",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x04",
+      "source": "pazih-dict",
+      "localId": "p127-04-x04",
+      "unit": "sentence",
+      "text": "iba'en ni ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被母親抱著",
+          "en": "is held by Mother",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x05",
+      "source": "pazih-dict",
+      "localId": "p127-04-x05",
+      "unit": "sentence",
+      "text": "rakihan rabex ka iba'en niki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幼小的嬰兒被母親抱著",
+          "en": "The baby was carried by the mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-04-x06",
+      "source": "pazih-dict",
+      "localId": "p127-04-x06",
+      "unit": "sentence",
+      "text": "apa'en ki azang, iba'en ki adang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（你）背上揹了一隻，手了一隻上又抱",
+          "en": "(You) carried one on the back and held one in the arms.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-04",
+        "role": "example",
+        "parent": "pazih-dict:p127-04-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，iba- 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-05",
+      "source": "pazih-dict",
+      "localId": "p127-05",
+      "unit": "word",
+      "text": "ibalah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鴨母螺",
+          "en": "a type of snail",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，ibalah 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-06",
+      "source": "pazih-dict",
+      "localId": "p127-06",
+      "unit": "word",
+      "text": "icip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "檳榔",
+          "en": "betel nut (Note that c is not a consonant in Pazih)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，icip 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-06-x01",
+      "source": "pazih-dict",
+      "localId": "p127-06-x01",
+      "unit": "phrase",
+      "text": "rabax icip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "檳榔葉",
+          "en": "leaf of betel nut",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，icip 條下例句",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-07",
+      "source": "pazih-dict",
+      "localId": "p127-07",
+      "unit": "word",
+      "text": "ida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一",
+          "en": "one (in counting number)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，ida 條",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-07-f01",
+      "source": "pazih-dict",
+      "localId": "p127-07-f01",
+      "unit": "word",
+      "text": "mia'ida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第一",
+          "en": "first",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127，ida 條下派生詞",
+        "page": 127,
+        "pages": [
+          127
+        ],
+        "row": null,
+        "code": "p127-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. miamula ‘領先 to lead’"
+      ]
+    },
+    {
+      "id": "pazih-dict:p127-08",
+      "source": "pazih-dict",
+      "localId": "p127-08",
+      "unit": "affix",
+      "text": "idahil-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "dahil-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f01",
+      "source": "pazih-dict",
+      "localId": "p127-08-f01",
+      "unit": "word",
+      "text": "masidahil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "驚訝",
+          "en": "to surprise",
+          "nan": null
+        },
+        {
+          "zh": "嚇到",
+          "en": "to frighten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-x01",
+      "source": "pazih-dict",
+      "localId": "p127-08-x01",
+      "unit": "phrase",
+      "text": "dahilen nimisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）被他嚇到",
+          "en": "(I) was surprised by him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "example",
+        "parent": "pazih-dict:p127-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下例句",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f02",
+      "source": "pazih-dict",
+      "localId": "p127-08-f02",
+      "unit": "word",
+      "text": "masidadahil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "驚訝，嚇到",
+          "en": "to surprise, to threaten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": "pazih-dict:p127-08-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f03",
+      "source": "pazih-dict",
+      "localId": "p127-08-f03",
+      "unit": "word",
+      "text": "maasidadahil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互相驚嚇",
+          "en": "to frighten each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": "pazih-dict:p127-08-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f04",
+      "source": "pazih-dict",
+      "localId": "p127-08-f04",
+      "unit": "word",
+      "text": "midahil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "驚訝，嚇到",
+          "en": "to be surprised, to get frightened, startled (as when unexpectedly patted on the shoulder, or when one heard the roaring of a canon)",
+          "nan": null
+        },
+        {
+          "zh": "膽小",
+          "en": "coward",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-x02",
+      "source": "pazih-dict",
+      "localId": "p127-08-x02",
+      "unit": "sentence",
+      "text": "midahil lia aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我嚇一跳",
+          "en": "I was surprised.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "example",
+        "parent": "pazih-dict:p127-08-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下例句",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-x03",
+      "source": "pazih-dict",
+      "localId": "p127-08-x03",
+      "unit": "sentence",
+      "text": "midadihil yamisiw aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我嚇唬他們",
+          "en": "I surprised them.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "example",
+        "parent": "pazih-dict:p127-08-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下例句",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-x04",
+      "source": "pazih-dict",
+      "localId": "p127-08-x04",
+      "unit": "phrase",
+      "text": "ana midahin",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別怕",
+          "en": "! Don't be afraid.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "example",
+        "parent": "pazih-dict:p127-08-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下例句",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f05",
+      "source": "pazih-dict",
+      "localId": "p127-08-f05",
+      "unit": "word",
+      "text": "paa'idahil-ayam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "稻草人",
+          "en": "scarecrow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p127-08-f06",
+      "source": "pazih-dict",
+      "localId": "p127-08-f06",
+      "unit": "word",
+      "text": "saa'idahil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嚇人之事物",
+          "en": "something to fear about",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p127-08",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.127–128，idahil- 條下派生詞",
+        "page": 127,
+        "pages": [
+          127,
+          128
+        ],
+        "row": null,
+        "code": "p127-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p127.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

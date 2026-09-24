@@ -1,0 +1,2130 @@
+{
+  "source": "pazih-dict",
+  "shard": "p253",
+  "label": "p.253",
+  "groups": [
+    {
+      "id": "pazih-dict:p253-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ririx-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rirux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，rirux- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "risan-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "risilaw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "risiris-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risiris- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ritas-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ritas- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p253-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ritay-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.253–254，ritay- 條",
+        "page": 253,
+        "pages": [
+          253,
+          254
+        ],
+        "row": null,
+        "code": "p253-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p253-01",
+      "source": "pazih-dict",
+      "localId": "p253-01",
+      "unit": "affix",
+      "text": "ririx-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-f01",
+      "source": "pazih-dict",
+      "localId": "p253-01-f01",
+      "unit": "word",
+      "text": "miririx",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "巡察陷阱",
+          "en": "to check traps",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-f02",
+      "source": "pazih-dict",
+      "localId": "p253-01-f02",
+      "unit": "word",
+      "text": "muririx",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "巡察陷阱",
+          "en": "to check traps, to go to see if animals are trapped, ensnared",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "miririx",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x01",
+      "source": "pazih-dict",
+      "localId": "p253-01-x01",
+      "unit": "sentence",
+      "text": "ririxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "巡獵！",
+          "en": "Check traps!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-f03",
+      "source": "pazih-dict",
+      "localId": "p253-01-f03",
+      "unit": "word",
+      "text": "riririx",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在巡陷阱",
+          "en": "is checking traps",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "form",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x02",
+      "source": "pazih-dict",
+      "localId": "p253-01-x02",
+      "unit": "sentence",
+      "text": "ririxin dadua lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陷阱都巡過了",
+          "en": "All the traps were checked.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x03",
+      "source": "pazih-dict",
+      "localId": "p253-01-x03",
+      "unit": "sentence",
+      "text": "yaku ka mausay muririx riak a daxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要去找個好地方",
+          "en": "I am going to look for a better place.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x04",
+      "source": "pazih-dict",
+      "localId": "p253-01-x04",
+      "unit": "sentence",
+      "text": "muririx tirikat yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要去巡陷阱",
+          "en": "I shall go to check traps.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x05",
+      "source": "pazih-dict",
+      "localId": "p253-01-x05",
+      "unit": "phrase",
+      "text": "muririx tirikat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "巡陷阱",
+          "en": "to check traps",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x06",
+      "source": "pazih-dict",
+      "localId": "p253-01-x06",
+      "unit": "phrase",
+      "text": "muririx umamah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "巡水田",
+          "en": "to check paddy fields",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-01-x07",
+      "source": "pazih-dict",
+      "localId": "p253-01-x07",
+      "unit": "sentence",
+      "text": "taririxaw mata rahut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我順水而下去找（魚）",
+          "en": "Let's go and search for (the fish) downstream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-01",
+        "role": "example",
+        "parent": "pazih-dict:p253-01-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ririx- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-02",
+      "source": "pazih-dict",
+      "localId": "p253-02",
+      "unit": "affix",
+      "text": "rirux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，rirux- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-02-f01",
+      "source": "pazih-dict",
+      "localId": "p253-02-f01",
+      "unit": "word",
+      "text": "murirux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不正經",
+          "en": "improper",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，rirux- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-02-f02",
+      "source": "pazih-dict",
+      "localId": "p253-02-f02",
+      "unit": "word",
+      "text": "wariruxan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不正經",
+          "en": "improper behavior",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，rirux- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-02-x01",
+      "source": "pazih-dict",
+      "localId": "p253-02-x01",
+      "unit": "phrase",
+      "text": "wariruxan misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他亂講話",
+          "en": "He talks nonsense.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-02",
+        "role": "example",
+        "parent": "pazih-dict:p253-02-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，rirux- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03",
+      "source": "pazih-dict",
+      "localId": "p253-03",
+      "unit": "affix",
+      "text": "risan-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-f01",
+      "source": "pazih-dict",
+      "localId": "p253-03-f01",
+      "unit": "word",
+      "text": "parisan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生",
+          "en": "to give birth (of human or animals), to be born",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x01",
+      "source": "pazih-dict",
+      "localId": "p253-03-x01",
+      "unit": "sentence",
+      "text": "isia liaka ma'isakep adang a kawas parisan rakihan a mamaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "結婚後一年生了一個男孩",
+          "en": "Then a year after the marriage, (they) had a baby boy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x02",
+      "source": "pazih-dict",
+      "localId": "p253-03-x02",
+      "unit": "sentence",
+      "text": "lia ka parisan rakihan a mamaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "於是他們生了一個男孩",
+          "en": "Then they had a son.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x03",
+      "source": "pazih-dict",
+      "localId": "p253-03-x03",
+      "unit": "sentence",
+      "text": "parisan a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生子",
+          "en": "to give birth to a child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x04",
+      "source": "pazih-dict",
+      "localId": "p253-03-x04",
+      "unit": "sentence",
+      "text": "dusa kawas lia ka parisan u rakihan a mamaleng lua, langat ka adaway sen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "過了兩年，又生了一個男孩，名叫",
+          "en": "Adaway Two years later (she) had a baby boy named Adaway.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x05",
+      "source": "pazih-dict",
+      "localId": "p253-03-x05",
+      "unit": "sentence",
+      "text": "uzay nisiw a pinarisan aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不是你生的",
+          "en": "I was not born by you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x06",
+      "source": "pazih-dict",
+      "localId": "p253-03-x06",
+      "unit": "sentence",
+      "text": "tata pinarisan ka meken ringxaw sumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "繼母自己生的吃稀飯",
+          "en": "The stepmother's own child ate rice gruel.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-f02",
+      "source": "pazih-dict",
+      "localId": "p253-03-f02",
+      "unit": "word",
+      "text": "pinarisan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "親生的",
+          "en": "one's own child, one's own flesh, genital parents",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x07",
+      "source": "pazih-dict",
+      "localId": "p253-03-x07",
+      "unit": "sentence",
+      "text": "tata pinarisan ka meken ringxaw sumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "繼母生的吃稀飯",
+          "en": "The step-mother's own-child ate rice gruel.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-03-x08",
+      "source": "pazih-dict",
+      "localId": "p253-03-x08",
+      "unit": "sentence",
+      "text": "mamah ka uzay nisiw pinarisan aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我哥哥）說我不是你生的",
+          "en": "(My) elder (brother) said I had not been born by you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-03",
+        "role": "example",
+        "parent": "pazih-dict:p253-03-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risan- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-04",
+      "source": "pazih-dict",
+      "localId": "p253-04",
+      "unit": "word",
+      "text": "risilaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "白",
+          "en": "white",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-04-x01",
+      "source": "pazih-dict",
+      "localId": "p253-04-x01",
+      "unit": "sentence",
+      "text": "risilaw a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "燧石，打火石",
+          "en": "flint (lit. ‘white stone’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-04-x02",
+      "source": "pazih-dict",
+      "localId": "p253-04-x02",
+      "unit": "phrase",
+      "text": "risilaw bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "白頭髮",
+          "en": "gray hair",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-04",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-04-x03",
+      "source": "pazih-dict",
+      "localId": "p253-04-x03",
+      "unit": "sentence",
+      "text": "minarisilaw ka terehen lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "原先白的變黑",
+          "en": "What was white has become black.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-04",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-04-f01",
+      "source": "pazih-dict",
+      "localId": "p253-04-f01",
+      "unit": "word",
+      "text": "risilasilaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很白",
+          "en": "very whitish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risilaw 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-05",
+      "source": "pazih-dict",
+      "localId": "p253-05",
+      "unit": "affix",
+      "text": "risiris-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risiris- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-05-f01",
+      "source": "pazih-dict",
+      "localId": "p253-05-f01",
+      "unit": "word",
+      "text": "raisiris",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抹灰泥於（牆上等）",
+          "en": "to plaster (as wall)",
+          "nan": null
+        },
+        {
+          "zh": "塗（藥），上藥",
+          "en": "to apply (medicine)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risiris- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-05-x01",
+      "source": "pazih-dict",
+      "localId": "p253-05-x01",
+      "unit": "phrase",
+      "text": "raisiris iu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "塗油，上藥",
+          "en": "to apply ointment",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-05",
+        "role": "example",
+        "parent": "pazih-dict:p253-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，risiris- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-06",
+      "source": "pazih-dict",
+      "localId": "p253-06",
+      "unit": "affix",
+      "text": "ritas-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ritas- 條",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-06-f01",
+      "source": "pazih-dict",
+      "localId": "p253-06-f01",
+      "unit": "word",
+      "text": "pasuritas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "失足而滑倒",
+          "en": "to trip, to miss a step and slide down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ritas- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-06-x01",
+      "source": "pazih-dict",
+      "localId": "p253-06-x01",
+      "unit": "sentence",
+      "text": "maxatukun di babaw kahuy ka pasuritas ki saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "人爬樹而滑倒",
+          "en": "The person climbed a tree, missed a step and slid down.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-06",
+        "role": "example",
+        "parent": "pazih-dict:p253-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253，ritas- 條下例句",
+        "page": 253,
+        "pages": [
+          253
+        ],
+        "row": null,
+        "code": "p253-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-07",
+      "source": "pazih-dict",
+      "localId": "p253-07",
+      "unit": "affix",
+      "text": "ritay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253–254，ritay- 條",
+        "page": 253,
+        "pages": [
+          253,
+          254
+        ],
+        "row": null,
+        "code": "p253-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p253-07-f01",
+      "source": "pazih-dict",
+      "localId": "p253-07-f01",
+      "unit": "word",
+      "text": "maritay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "“冇米”",
+          "en": "rice husk that is empty, in which grain has not yet developed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p253-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.253–254，ritay- 條下派生詞",
+        "page": 253,
+        "pages": [
+          253,
+          254
+        ],
+        "row": null,
+        "code": "p253-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p253.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

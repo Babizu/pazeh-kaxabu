@@ -1,0 +1,1261 @@
+{
+  "source": "pazih-dict",
+  "shard": "p111",
+  "label": "p.111",
+  "groups": [
+    {
+      "id": "pazih-dict:p111-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dudu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudu- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p111-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dudul-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p111-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dudur-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudur- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p111-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dudux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p111-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "duen",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.111，duen 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p111-01",
+      "source": "pazih-dict",
+      "localId": "p111-01",
+      "unit": "affix",
+      "text": "dudu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudu- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-01-f01",
+      "source": "pazih-dict",
+      "localId": "p111-01-f01",
+      "unit": "word",
+      "text": "dauduan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "醬油（要沾的地方）",
+          "en": "soy sauce (lit. ‘a place to dip’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudu- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-01-f02",
+      "source": "pazih-dict",
+      "localId": "p111-01-f02",
+      "unit": "word",
+      "text": "mududu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沾（醬油）",
+          "en": "to dip (in soy sauce)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudu- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-01-x01",
+      "source": "pazih-dict",
+      "localId": "p111-01-x01",
+      "unit": "sentence",
+      "text": "dudu'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沾！",
+          "en": "Dip it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-01",
+        "role": "example",
+        "parent": "pazih-dict:p111-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudu- 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02",
+      "source": "pazih-dict",
+      "localId": "p111-02",
+      "unit": "affix",
+      "text": "dudul-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02-f01",
+      "source": "pazih-dict",
+      "localId": "p111-02-f01",
+      "unit": "word",
+      "text": "mududul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "推",
+          "en": "to push",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02-x01",
+      "source": "pazih-dict",
+      "localId": "p111-02-x01",
+      "unit": "sentence",
+      "text": "duduli!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "推！",
+          "en": "Push!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "example",
+        "parent": "pazih-dict:p111-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02-f02",
+      "source": "pazih-dict",
+      "localId": "p111-02-f02",
+      "unit": "word",
+      "text": "duududul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在推",
+          "en": "is pushing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "form",
+        "parent": "pazih-dict:p111-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02-f03",
+      "source": "pazih-dict",
+      "localId": "p111-02-f03",
+      "unit": "word",
+      "text": "dudulun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被推",
+          "en": "is pushed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "form",
+        "parent": "pazih-dict:p111-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-02-f04",
+      "source": "pazih-dict",
+      "localId": "p111-02-f04",
+      "unit": "word",
+      "text": "maadudul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互推",
+          "en": "to push each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-02",
+        "role": "form",
+        "parent": "pazih-dict:p111-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudul- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-03",
+      "source": "pazih-dict",
+      "localId": "p111-03",
+      "unit": "affix",
+      "text": "dudur-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudur- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-03-f01",
+      "source": "pazih-dict",
+      "localId": "p111-03-f01",
+      "unit": "word",
+      "text": "mududur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（花、枝、葉等）長苞，長芽",
+          "en": "to bud",
+          "nan": null
+        },
+        {
+          "zh": "長樹頭芽",
+          "en": "to sprout (young branches from the stump after cutting down a tree)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudur- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-03-x01",
+      "source": "pazih-dict",
+      "localId": "p111-03-x01",
+      "unit": "sentence",
+      "text": "mududur ki tawtaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "花生長芽了",
+          "en": "The peanut sprouts.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-03",
+        "role": "example",
+        "parent": "pazih-dict:p111-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudur- 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04",
+      "source": "pazih-dict",
+      "localId": "p111-04",
+      "unit": "affix",
+      "text": "dudux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04-f01",
+      "source": "pazih-dict",
+      "localId": "p111-04-f01",
+      "unit": "word",
+      "text": "mududux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "推高，以竿取高之物",
+          "en": "to poke with a stick and let fall (as the fruit of papaya)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04-x01",
+      "source": "pazih-dict",
+      "localId": "p111-04-x01",
+      "unit": "sentence",
+      "text": "duduxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "撐高！",
+          "en": "Poke it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "example",
+        "parent": "pazih-dict:p111-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04-f02",
+      "source": "pazih-dict",
+      "localId": "p111-04-f02",
+      "unit": "word",
+      "text": "duduxen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被堆高",
+          "en": "to be poked",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "form",
+        "parent": "pazih-dict:p111-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04-x02",
+      "source": "pazih-dict",
+      "localId": "p111-04-x02",
+      "unit": "phrase",
+      "text": "mududux banay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以竿取柚子",
+          "en": "to poke pomelo (with a long stick)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "example",
+        "parent": "pazih-dict:p111-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-04-f03",
+      "source": "pazih-dict",
+      "localId": "p111-04-f03",
+      "unit": "word",
+      "text": "muduududux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直推",
+          "en": "to keep poking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-04",
+        "role": "form",
+        "parent": "pazih-dict:p111-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，dudux- 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-05",
+      "source": "pazih-dict",
+      "localId": "p111-05",
+      "unit": "word",
+      "text": "duen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鑼",
+          "en": "gong",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，duen 條",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-05-f01",
+      "source": "pazih-dict",
+      "localId": "p111-05-f01",
+      "unit": "word",
+      "text": "paduen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "敲鑼",
+          "en": "to ring a gong",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，duen 條下派生詞",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p111-05-x01",
+      "source": "pazih-dict",
+      "localId": "p111-05-x01",
+      "unit": "sentence",
+      "text": "apu, apu ka paduen lia duen, duen mahatan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老太婆敲鑼了",
+          "en": null,
+          "nan": null
+        },
+        {
+          "zh": "有鑼聲和笑聲",
+          "en": "The old woman played the gong. There was the noise of the gong and laughter.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p111-05",
+        "role": "example",
+        "parent": "pazih-dict:p111-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.111，duen 條下例句",
+        "page": 111,
+        "pages": [
+          111
+        ],
+        "row": null,
+        "code": "p111-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p111.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

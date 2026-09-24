@@ -1,0 +1,1718 @@
+{
+  "source": "pazih-dict",
+  "shard": "p154",
+  "label": "p.154",
+  "groups": [
+    {
+      "id": "pazih-dict:p154-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kixi-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p154-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kixis-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p154-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kixis-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p154-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kixit-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p154-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kixiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixiw 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p154-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kizengat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kizengat 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p154-01",
+      "source": "pazih-dict",
+      "localId": "p154-01",
+      "unit": "affix",
+      "text": "kixi-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-f01",
+      "source": "pazih-dict",
+      "localId": "p154-01-f01",
+      "unit": "word",
+      "text": "maikixikixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "投訴",
+          "en": "to grumble",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-f02",
+      "source": "pazih-dict",
+      "localId": "p154-01-f02",
+      "unit": "word",
+      "text": "mikixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "閒談，聊天",
+          "en": "to tell on, chatter, tattle",
+          "nan": null
+        },
+        {
+          "zh": "告狀，抱怨，訴苦",
+          "en": "to complain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-x01",
+      "source": "pazih-dict",
+      "localId": "p154-01-x01",
+      "unit": "sentence",
+      "text": "mupudah lia ki ina ka mikixi ina lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "媽媽回來時就告訴她",
+          "en": "When Mother returned home, (he) complained to her.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "example",
+        "parent": "pazih-dict:p154-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-x02",
+      "source": "pazih-dict",
+      "localId": "p154-01-x02",
+      "unit": "phrase",
+      "text": "kixi'en naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我訴苦了",
+          "en": "I complained.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "example",
+        "parent": "pazih-dict:p154-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-x03",
+      "source": "pazih-dict",
+      "localId": "p154-01-x03",
+      "unit": "sentence",
+      "text": "maisat baxala siw ka, maikixiay nimisiw a ina yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你罵 Baxala 的話，我就告訴他母親",
+          "en": "If you scold Baxala, I'll complain to his mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "example",
+        "parent": "pazih-dict:p154-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-01-f03",
+      "source": "pazih-dict",
+      "localId": "p154-01-f03",
+      "unit": "word",
+      "text": "maikiikixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "低語",
+          "en": "to whisper",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-01",
+        "role": "form",
+        "parent": "pazih-dict:p154-01-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixi- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-02",
+      "source": "pazih-dict",
+      "localId": "p154-02",
+      "unit": "affix",
+      "text": "kixis-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p154-02-f01",
+      "source": "pazih-dict",
+      "localId": "p154-02-f01",
+      "unit": "word",
+      "text": "mukixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "割",
+          "en": "to cut with",
+          "nan": null
+        },
+        {
+          "zh": "削皮",
+          "en": "to remove skin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-02-f02",
+      "source": "pazih-dict",
+      "localId": "p154-02-f02",
+      "unit": "word",
+      "text": "saakixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "切",
+          "en": "to cut with",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-02-x01",
+      "source": "pazih-dict",
+      "localId": "p154-02-x01",
+      "unit": "sentence",
+      "text": "saakixis a xalam ki tadaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用來切菜的刀",
+          "en": "The knife was used to cut vegetables.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "example",
+        "parent": "pazih-dict:p154-02-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-02-x02",
+      "source": "pazih-dict",
+      "localId": "p154-02-x02",
+      "unit": "sentence",
+      "text": "saakixis rumud a tadaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "割肉的刀",
+          "en": "The knife was used to cut meat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "example",
+        "parent": "pazih-dict:p154-02-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-02-x03",
+      "source": "pazih-dict",
+      "localId": "p154-02-x03",
+      "unit": "sentence",
+      "text": "tadaw ka saakixis xalam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刀是用來切菜的",
+          "en": "The knife is used to cut vegetables.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-02",
+        "role": "example",
+        "parent": "pazih-dict:p154-02-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-03",
+      "source": "pazih-dict",
+      "localId": "p154-03",
+      "unit": "affix",
+      "text": "kixis-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p154-03-f01",
+      "source": "pazih-dict",
+      "localId": "p154-03-f01",
+      "unit": "word",
+      "text": "takixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜向一邊地",
+          "en": "to lean on one side,",
+          "nan": null
+        },
+        {
+          "zh": "斜視",
+          "en": "to look sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-03-x01",
+      "source": "pazih-dict",
+      "localId": "p154-03-x01",
+      "unit": "phrase",
+      "text": "takixis mikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜看",
+          "en": "to look sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-03",
+        "role": "example",
+        "parent": "pazih-dict:p154-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-03-f02",
+      "source": "pazih-dict",
+      "localId": "p154-03-f02",
+      "unit": "word",
+      "text": "tanakixis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜著走路",
+          "en": "to walk sideways",
+          "nan": null
+        },
+        {
+          "zh": "斜一邊",
+          "en": "to lean on one side",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-03-x02",
+      "source": "pazih-dict",
+      "localId": "p154-03-x02",
+      "unit": "phrase",
+      "text": "tanakixis midem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "側身而睡",
+          "en": "to sleep sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-03",
+        "role": "example",
+        "parent": "pazih-dict:p154-03-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixis- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04",
+      "source": "pazih-dict",
+      "localId": "p154-04",
+      "unit": "affix",
+      "text": "kixit-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "kixis-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-x01",
+      "source": "pazih-dict",
+      "localId": "p154-04-x01",
+      "unit": "sentence",
+      "text": "kixidi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "側躺！",
+          "en": "Lie on your side!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-f01",
+      "source": "pazih-dict",
+      "localId": "p154-04-f01",
+      "unit": "word",
+      "text": "kinixidan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "旁邊",
+          "en": "nearby",
+          "nan": null
+        },
+        {
+          "zh": "旁",
+          "en": "beside, side, flank (of things)",
+          "nan": null
+        },
+        {
+          "zh": "邊緣",
+          "en": "edge, border",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa kinixidan",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-x02",
+      "source": "pazih-dict",
+      "localId": "p154-04-x02",
+      "unit": "sentence",
+      "text": "xumak a kinixidan ka nahada pungu kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "房子旁有一棵樹",
+          "en": "Nearby a house there was a tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "example",
+        "parent": "pazih-dict:p154-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-x03",
+      "source": "pazih-dict",
+      "localId": "p154-04-x03",
+      "unit": "sentence",
+      "text": "rakihal a mamaleng kaidi kinixidan u lubung babaw batu a mataxapis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "男孩在池旁的石頭上釣魚",
+          "en": "A boy was fishing on the rock next to a fishpond",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "example",
+        "parent": "pazih-dict:p154-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-f02",
+      "source": "pazih-dict",
+      "localId": "p154-04-f02",
+      "unit": "word",
+      "text": "mana(ka)kixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜躺",
+          "en": "lying on one's side",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-x04",
+      "source": "pazih-dict",
+      "localId": "p154-04-x04",
+      "unit": "phrase",
+      "text": "manakixit midem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "側躺",
+          "en": "to sleep by lying on one's side",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "example",
+        "parent": "pazih-dict:p154-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-x05",
+      "source": "pazih-dict",
+      "localId": "p154-04-x05",
+      "unit": "phrase",
+      "text": "manakikixit misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他側躺",
+          "en": "He keeps lying on his side.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "example",
+        "parent": "pazih-dict:p154-04-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下例句",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-04-f03",
+      "source": "pazih-dict",
+      "localId": "p154-04-f03",
+      "unit": "word",
+      "text": "taxakixit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "歪頭",
+          "en": "twisted head",
+          "nan": null
+        },
+        {
+          "zh": "斜看",
+          "en": "to look sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixit- 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-05",
+      "source": "pazih-dict",
+      "localId": "p154-05",
+      "unit": "word",
+      "text": "kixiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "苧麻",
+          "en": "hemp fibre",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixiw 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-05-f01",
+      "source": "pazih-dict",
+      "localId": "p154-05-f01",
+      "unit": "phrase",
+      "text": "kixiw tamun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "苧麻（植物）",
+          "en": "hemp plant",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kixiw 條下派生詞",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p154-06",
+      "source": "pazih-dict",
+      "localId": "p154-06",
+      "unit": "word",
+      "text": "kizengat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "靠",
+          "en": "to lean against",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "zengat-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p154-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.154，kizengat 條",
+        "page": 154,
+        "pages": [
+          154
+        ],
+        "row": null,
+        "code": "p154-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p154.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

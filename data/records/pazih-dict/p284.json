@@ -1,0 +1,2158 @@
+{
+  "source": "pazih-dict",
+  "shard": "p284",
+  "label": "p.284",
+  "groups": [
+    {
+      "id": "pazih-dict:p284-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "suru",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suru 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "suruk-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "surusur-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，surusur- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "susu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susu- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "susupat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susupat 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "sutur-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "suusuling",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suusuling 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "suxusux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suxusux- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p284-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "suzuk-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p284-01",
+      "source": "pazih-dict",
+      "localId": "p284-01",
+      "unit": "word",
+      "text": "suru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "杵",
+          "en": "pestle, pounder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suru 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-02",
+      "source": "pazih-dict",
+      "localId": "p284-02",
+      "unit": "affix",
+      "text": "suruk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-02-f01",
+      "source": "pazih-dict",
+      "localId": "p284-02-f01",
+      "unit": "word",
+      "text": "musuruk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "裝入袋中",
+          "en": "to put into a bag",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-02-f02",
+      "source": "pazih-dict",
+      "localId": "p284-02-f02",
+      "unit": "word",
+      "text": "suruki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "裝入袋中",
+          "en": "Put it into a bag!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-02",
+        "role": "form",
+        "parent": "pazih-dict:p284-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-02-f03",
+      "source": "pazih-dict",
+      "localId": "p284-02-f03",
+      "unit": "word",
+      "text": "surusurukun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "裝進去",
+          "en": "packed in",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-02",
+        "role": "form",
+        "parent": "pazih-dict:p284-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-02-x01",
+      "source": "pazih-dict",
+      "localId": "p284-02-x01",
+      "unit": "sentence",
+      "text": "surusuruki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "都裝入袋中！",
+          "en": "Put them all into a bag!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-02",
+        "role": "example",
+        "parent": "pazih-dict:p284-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suruk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-03",
+      "source": "pazih-dict",
+      "localId": "p284-03",
+      "unit": "affix",
+      "text": "surusur-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，surusur- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-03-f01",
+      "source": "pazih-dict",
+      "localId": "p284-03-f01",
+      "unit": "word",
+      "text": "pasurusur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "手淫",
+          "en": "to masturbate",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，surusur- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-04",
+      "source": "pazih-dict",
+      "localId": "p284-04",
+      "unit": "affix",
+      "text": "susu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susu- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-04-f01",
+      "source": "pazih-dict",
+      "localId": "p284-04-f01",
+      "unit": "word",
+      "text": "mususu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鎖",
+          "en": "to lock",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susu- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-04-x01",
+      "source": "pazih-dict",
+      "localId": "p284-04-x01",
+      "unit": "sentence",
+      "text": "yami a balax ka taadu'aw dini ka tasusu'aw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們的東西留存在此地並鎖起來",
+          "en": "Let's leave the (other) stuffs here (and) let's lock them up.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-04",
+        "role": "example",
+        "parent": "pazih-dict:p284-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susu- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-04-f02",
+      "source": "pazih-dict",
+      "localId": "p284-04-f02",
+      "unit": "word",
+      "text": "sausu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鎖",
+          "en": "a lock (loan from Taiwanese 鎖匙 sosi)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susu- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-05",
+      "source": "pazih-dict",
+      "localId": "p284-05",
+      "unit": "word",
+      "text": "susupat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "第四",
+          "en": "fourth",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "supat",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，susupat 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06",
+      "source": "pazih-dict",
+      "localId": "p284-06",
+      "unit": "affix",
+      "text": "sutur-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-f01",
+      "source": "pazih-dict",
+      "localId": "p284-06-f01",
+      "unit": "word",
+      "text": "musutur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "脫（衣），脫去（某人）衣物，剝",
+          "en": "to take off one's clothing, to remove, to undress",
+          "nan": null
+        },
+        {
+          "zh": "脫（皮）",
+          "en": "to molt, to cast off skin (as of a snake)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-x01",
+      "source": "pazih-dict",
+      "localId": "p284-06-x01",
+      "unit": "sentence",
+      "text": "suturi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "脫！",
+          "en": "Take it off!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "example",
+        "parent": "pazih-dict:p284-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-f02",
+      "source": "pazih-dict",
+      "localId": "p284-06-f02",
+      "unit": "word",
+      "text": "suusutur",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在脫",
+          "en": "is taking off something",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "form",
+        "parent": "pazih-dict:p284-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-f03",
+      "source": "pazih-dict",
+      "localId": "p284-06-f03",
+      "unit": "word",
+      "text": "suturen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "脫了",
+          "en": "be taken off",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "form",
+        "parent": "pazih-dict:p284-06-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-x02",
+      "source": "pazih-dict",
+      "localId": "p284-06-x02",
+      "unit": "sentence",
+      "text": "musutur siatu imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他脫衣",
+          "en": "He took off his clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "example",
+        "parent": "pazih-dict:p284-06-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-06-x03",
+      "source": "pazih-dict",
+      "localId": "p284-06-x03",
+      "unit": "sentence",
+      "text": "musutur rapay ki ezet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蛇脫皮",
+          "en": "The snake cast off its skin.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-06",
+        "role": "example",
+        "parent": "pazih-dict:p284-06-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，sutur- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-07",
+      "source": "pazih-dict",
+      "localId": "p284-07",
+      "unit": "word",
+      "text": "suusuling",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "烤",
+          "en": "to bake in hot ashes (as sweet potatoes)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "suling-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suusuling 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-08",
+      "source": "pazih-dict",
+      "localId": "p284-08",
+      "unit": "affix",
+      "text": "suxusux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suxusux- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-08-f01",
+      "source": "pazih-dict",
+      "localId": "p284-08-f01",
+      "unit": "word",
+      "text": "musuxusux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去鱗",
+          "en": "to scale",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suxusux- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-08-x01",
+      "source": "pazih-dict",
+      "localId": "p284-08-x01",
+      "unit": "sentence",
+      "text": "suxusuxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去鱗！",
+          "en": "Scale the fish!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-08",
+        "role": "example",
+        "parent": "pazih-dict:p284-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suxusux- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-08-f02",
+      "source": "pazih-dict",
+      "localId": "p284-08-f02",
+      "unit": "word",
+      "text": "sauxusux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在去鱗，在刮鱗",
+          "en": "is scaling a fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-08",
+        "role": "form",
+        "parent": "pazih-dict:p284-08-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suxusux- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09",
+      "source": "pazih-dict",
+      "localId": "p284-09",
+      "unit": "affix",
+      "text": "suzuk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-f01",
+      "source": "pazih-dict",
+      "localId": "p284-09-f01",
+      "unit": "word",
+      "text": "musuzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "躲藏",
+          "en": "to hide something, to conceal",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x01",
+      "source": "pazih-dict",
+      "localId": "p284-09-x01",
+      "unit": "sentence",
+      "text": "suzuki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把它藏起來！",
+          "en": "Hide it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-f02",
+      "source": "pazih-dict",
+      "localId": "p284-09-f02",
+      "unit": "word",
+      "text": "suusuzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在躲",
+          "en": "is hiding",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "form",
+        "parent": "pazih-dict:p284-09-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x02",
+      "source": "pazih-dict",
+      "localId": "p284-09-x02",
+      "unit": "sentence",
+      "text": "suusuzuk aku ka kita'en nisiw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我正在躲藏，卻被你看見",
+          "en": "I was hiding but seen by you.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x03",
+      "source": "pazih-dict",
+      "localId": "p284-09-x03",
+      "unit": "sentence",
+      "text": "musuzuk naki a paray siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你藏我的錢嗎？",
+          "en": "Did you hide my money?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x04",
+      "source": "pazih-dict",
+      "localId": "p284-09-x04",
+      "unit": "sentence",
+      "text": "musuzuk paray ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親把錢藏起來",
+          "en": "Father hid some money.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-f03",
+      "source": "pazih-dict",
+      "localId": "p284-09-f03",
+      "unit": "word",
+      "text": "pisuzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "躲藏",
+          "en": "(for a person) to hide oneself",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x05",
+      "source": "pazih-dict",
+      "localId": "p284-09-x05",
+      "unit": "sentence",
+      "text": "pisuzuki!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（叫人）躲起來！",
+          "en": "(Ask someone) hide!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x06",
+      "source": "pazih-dict",
+      "localId": "p284-09-x06",
+      "unit": "sentence",
+      "text": "usa pisuzuk!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去躲！",
+          "en": "Go to hide!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x07",
+      "source": "pazih-dict",
+      "localId": "p284-09-x07",
+      "unit": "sentence",
+      "text": "paisuzuk ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "孩子在捉迷藏",
+          "en": "The children are playing hide-and-seek.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-x08",
+      "source": "pazih-dict",
+      "localId": "p284-09-x08",
+      "unit": "sentence",
+      "text": "pisuzuk dini yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我自己躲在這兒",
+          "en": "I hide myself here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "example",
+        "parent": "pazih-dict:p284-09-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下例句",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p284-09-f04",
+      "source": "pazih-dict",
+      "localId": "p284-09-f04",
+      "unit": "word",
+      "text": "taxuzuzuk",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "躲藏",
+          "en": "(for a person) to hide oneself",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p284-09",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.284，suzuk- 條下派生詞",
+        "page": 284,
+        "pages": [
+          284
+        ],
+        "row": null,
+        "code": "p284-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p284.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf."
+      ]
+    }
+  ]
+}

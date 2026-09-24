@@ -1,0 +1,2402 @@
+{
+  "source": "pazih-dict",
+  "shard": "p256",
+  "label": "p.256",
+  "groups": [
+    {
+      "id": "pazih-dict:p256-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizu 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rizux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizux- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ruaday-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruaday- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubang-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubang",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubarubang",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubarubang 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubu-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubu-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubul",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubul 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-10",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ruburubu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruburubu 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-10",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p256-11",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rubus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p256-01",
+      "source": "pazih-dict",
+      "localId": "p256-01",
+      "unit": "word",
+      "text": "rizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "樹脂",
+          "en": "fuel from pine tree",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizu 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-01-f01",
+      "source": "pazih-dict",
+      "localId": "p256-01-f01",
+      "unit": "word",
+      "text": "murizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以松脂照明",
+          "en": "to flash light with pine tree",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizu 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-01-f02",
+      "source": "pazih-dict",
+      "localId": "p256-01-f02",
+      "unit": "word",
+      "text": "riirizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在以松脂照明",
+          "en": "to be flashing light with pine tree",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-01",
+        "role": "form",
+        "parent": "pazih-dict:p256-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizu 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-02",
+      "source": "pazih-dict",
+      "localId": "p256-02",
+      "unit": "affix",
+      "text": "rizux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizux- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-02-f01",
+      "source": "pazih-dict",
+      "localId": "p256-02-f01",
+      "unit": "word",
+      "text": "marizux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下去",
+          "en": "to go down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizux- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-02-x01",
+      "source": "pazih-dict",
+      "localId": "p256-02-x01",
+      "unit": "sentence",
+      "text": "marizux mukusa bayu awas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他下去到海邊",
+          "en": "He went down to the seaside.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-02",
+        "role": "example",
+        "parent": "pazih-dict:p256-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rizux- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-03",
+      "source": "pazih-dict",
+      "localId": "p256-03",
+      "unit": "affix",
+      "text": "ruaday-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruaday- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-03-f01",
+      "source": "pazih-dict",
+      "localId": "p256-03-f01",
+      "unit": "word",
+      "text": "takaruaruaday",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "踉蹌，身持重物以不穩的步伐行走",
+          "en": "to walk with tottering steps (of a baby), to walk unsteadily with heavy things",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruaday- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-03-x01",
+      "source": "pazih-dict",
+      "localId": "p256-03-x01",
+      "unit": "phrase",
+      "text": "takaruaruaday hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "緊張",
+          "en": "nervous",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-03",
+        "role": "example",
+        "parent": "pazih-dict:p256-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruaday- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04",
+      "source": "pazih-dict",
+      "localId": "p256-04",
+      "unit": "affix",
+      "text": "rubang-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-f01",
+      "source": "pazih-dict",
+      "localId": "p256-04-f01",
+      "unit": "word",
+      "text": "murubang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "埋",
+          "en": "to bury (in general, including a dead person or animal)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x01",
+      "source": "pazih-dict",
+      "localId": "p256-04-x01",
+      "unit": "sentence",
+      "text": "usa rubangi a wazu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去埋狗！",
+          "en": "Go to bury the dog!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x02",
+      "source": "pazih-dict",
+      "localId": "p256-04-x02",
+      "unit": "sentence",
+      "text": "murubang wazu ki saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "人埋狗",
+          "en": "People bury dogs.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x03",
+      "source": "pazih-dict",
+      "localId": "p256-04-x03",
+      "unit": "sentence",
+      "text": "muruput murubang lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "埋完了",
+          "en": "finish burying",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x04",
+      "source": "pazih-dict",
+      "localId": "p256-04-x04",
+      "unit": "sentence",
+      "text": "ru(u)rubang a wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在埋狗",
+          "en": "is burying a dog",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x05",
+      "source": "pazih-dict",
+      "localId": "p256-04-x05",
+      "unit": "sentence",
+      "text": "rubangen ni saw lia ki wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗被人埋了",
+          "en": "The dog was buried by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-04-x06",
+      "source": "pazih-dict",
+      "localId": "p256-04-x06",
+      "unit": "sentence",
+      "text": "rinubang a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "墳墓，墳場",
+          "en": "grave, tomb, graveyard",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-04",
+        "role": "example",
+        "parent": "pazih-dict:p256-04-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-05",
+      "source": "pazih-dict",
+      "localId": "p256-05",
+      "unit": "word",
+      "text": "rubang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幼小，年輕",
+          "en": "young",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-05-x01",
+      "source": "pazih-dict",
+      "localId": "p256-05-x01",
+      "unit": "sentence",
+      "text": "nahada adang a rubang mamais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一個女孩",
+          "en": "There was a young lady.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-05-x02",
+      "source": "pazih-dict",
+      "localId": "p256-05-x02",
+      "unit": "sentence",
+      "text": "rubang a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "年輕人",
+          "en": "young people",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-05",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-05-x03",
+      "source": "pazih-dict",
+      "localId": "p256-05-x03",
+      "unit": "phrase",
+      "text": "rubang mamaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "男孩（未成年）",
+          "en": "young man (not adult yet)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-05",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-05-f01",
+      "source": "pazih-dict",
+      "localId": "p256-05-f01",
+      "unit": "word",
+      "text": "rubarubang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幼年（指小孩子小於十二、三歲）",
+          "en": "the class of children under 12 or 13 years old",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-05",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubang 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-06",
+      "source": "pazih-dict",
+      "localId": "p256-06",
+      "unit": "word",
+      "text": "rubarubang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幼年（指小孩子小於十二、三歲）",
+          "en": "the class of children under 12 or 13 years old",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rubang-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubarubang 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-07",
+      "source": "pazih-dict",
+      "localId": "p256-07",
+      "unit": "affix",
+      "text": "rubu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p256-07-f01",
+      "source": "pazih-dict",
+      "localId": "p256-07-f01",
+      "unit": "word",
+      "text": "kinapasurubu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "早安",
+          "en": "Good monring",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-07-f02",
+      "source": "pazih-dict",
+      "localId": "p256-07-f02",
+      "unit": "word",
+      "text": "murubu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "早（來）",
+          "en": "early (to come)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-07-f03",
+      "source": "pazih-dict",
+      "localId": "p256-07-f03",
+      "unit": "word",
+      "text": "pasurubu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "早",
+          "en": "early",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-07",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-08",
+      "source": "pazih-dict",
+      "localId": "p256-08",
+      "unit": "affix",
+      "text": "rubu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p256-08-f01",
+      "source": "pazih-dict",
+      "localId": "p256-08-f01",
+      "unit": "word",
+      "text": "ruburubu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下",
+          "en": "down, under, below",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa uruburubu",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-08-x01",
+      "source": "pazih-dict",
+      "localId": "p256-08-x01",
+      "unit": "sentence",
+      "text": "ruburubu binayu ka nahada raxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "山下有河流",
+          "en": "There is a stream below the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "example",
+        "parent": "pazih-dict:p256-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-08-x02",
+      "source": "pazih-dict",
+      "localId": "p256-08-x02",
+      "unit": "sentence",
+      "text": "tamaku a ruburubu ka nahada hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "香菸下有火柴",
+          "en": "Underneath the cigarettes there is a match.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "example",
+        "parent": "pazih-dict:p256-08-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-08-x03",
+      "source": "pazih-dict",
+      "localId": "p256-08-x03",
+      "unit": "sentence",
+      "text": "ruburubu laladan ka nahada balan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一隻貓在桌下",
+          "en": "There is a cat under the table.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "example",
+        "parent": "pazih-dict:p256-08-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-08-x04",
+      "source": "pazih-dict",
+      "localId": "p256-08-x04",
+      "unit": "sentence",
+      "text": "ruburubu ka nahada mataru a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下面有大岩石",
+          "en": "There is a large rock under it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-08",
+        "role": "example",
+        "parent": "pazih-dict:p256-08-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubu- 條下例句",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-09",
+      "source": "pazih-dict",
+      "localId": "p256-09",
+      "unit": "word",
+      "text": "rubul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（打獵時隨身攜帶用來裝煙，煙斗，火柴的）小皮袋",
+          "en": "a small leather bag to contain tobacco, tobacco pipe, matches, etc, to carry with when going hunting)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，rubul 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-10",
+      "source": "pazih-dict",
+      "localId": "p256-10",
+      "unit": "word",
+      "text": "ruburubu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下",
+          "en": "down, under, below",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rubu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-10",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256，ruburubu 條",
+        "page": 256,
+        "pages": [
+          256
+        ],
+        "row": null,
+        "code": "p256-10",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa uruburubu",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11",
+      "source": "pazih-dict",
+      "localId": "p256-11",
+      "unit": "affix",
+      "text": "rubus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-f01",
+      "source": "pazih-dict",
+      "localId": "p256-11-f01",
+      "unit": "word",
+      "text": "murubus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放進袋中",
+          "en": "to put into a bag",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-x01",
+      "source": "pazih-dict",
+      "localId": "p256-11-x01",
+      "unit": "sentence",
+      "text": "rubusi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放進袋中！",
+          "en": "Put it into a bag!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "example",
+        "parent": "pazih-dict:p256-11-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下例句",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-f02",
+      "source": "pazih-dict",
+      "localId": "p256-11-f02",
+      "unit": "word",
+      "text": "rarubus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "麻布袋",
+          "en": "a type of cloth bag for storing rice, etc.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-f03",
+      "source": "pazih-dict",
+      "localId": "p256-11-f03",
+      "unit": "word",
+      "text": "rarubusan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "探囊取物",
+          "en": "to grope in the pocket",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-f04",
+      "source": "pazih-dict",
+      "localId": "p256-11-f04",
+      "unit": "word",
+      "text": "saarubus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "麻袋子",
+          "en": "bag (made from hemp, linen)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下派生詞",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p256-11-x02",
+      "source": "pazih-dict",
+      "localId": "p256-11-x02",
+      "unit": "sentence",
+      "text": "nahaza saarubus, lia ka rubusen lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他有麻袋，就把牠裝在袋子裡",
+          "en": "He had a hemp bag, so he put it into the bag.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p256-11",
+        "role": "example",
+        "parent": "pazih-dict:p256-11-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.256–257，rubus- 條下例句",
+        "page": 256,
+        "pages": [
+          256,
+          257
+        ],
+        "row": null,
+        "code": "p256-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p256.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

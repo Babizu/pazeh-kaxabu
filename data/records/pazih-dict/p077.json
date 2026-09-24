@@ -1,0 +1,278 @@
+{
+  "source": "pazih-dict",
+  "shard": "p077",
+  "label": "p.77",
+  "groups": [
+    {
+      "id": "pazih-dict:p077-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "azih-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p077-01",
+      "source": "pazih-dict",
+      "localId": "p077-01",
+      "unit": "affix",
+      "text": "azih-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p077-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p077-01-f01",
+      "source": "pazih-dict",
+      "localId": "p077-01-f01",
+      "unit": "word",
+      "text": "mazih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（煮）熟",
+          "en": "cooked, ripe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p077-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條下派生詞",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p077-01-x01",
+      "source": "pazih-dict",
+      "localId": "p077-01-x01",
+      "unit": "sentence",
+      "text": "mazih a alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "熟魚",
+          "en": "cooked fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p077-01",
+        "role": "example",
+        "parent": "pazih-dict:p077-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條下例句",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p077-01-x02",
+      "source": "pazih-dict",
+      "localId": "p077-01-x02",
+      "unit": "sentence",
+      "text": "mazih lia ki alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "魚熟了",
+          "en": "The fish is cooked",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p077-01",
+        "role": "example",
+        "parent": "pazih-dict:p077-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條下例句",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p077-01-x03",
+      "source": "pazih-dict",
+      "localId": "p077-01-x03",
+      "unit": "sentence",
+      "text": "mazih lia ki belebel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "香蕉熟了",
+          "en": "The banana is ripe.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p077-01",
+        "role": "example",
+        "parent": "pazih-dict:p077-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.77，azih- 條下例句",
+        "page": 77,
+        "pages": [
+          77
+        ],
+        "row": null,
+        "code": "p077-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p077.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

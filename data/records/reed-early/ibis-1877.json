@@ -1,0 +1,2611 @@
+{
+  "source": "reed-early",
+  "shard": "ibis-1877",
+  "label": "Ibis 1877",
+  "groups": [
+    {
+      "id": "reed-early:src-ibis-1877",
+      "source": "reed-early",
+      "type": "list",
+      "title": "Ibis 1877",
+      "subtitle": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "citation": null,
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "reed-early:w0023",
+      "source": "reed-early",
+      "localId": "w0023",
+      "unit": "word",
+      "text": "saddéak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "bad",
+          "nan": null,
+          "note": "原文釋義：Schlecht"
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #23（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 24,
+        "code": "23",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0049",
+      "source": "reed-early",
+      "localId": "w0049",
+      "unit": "word",
+      "text": "takané",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "eat",
+          "nan": null,
+          "note": "原文釋義：Essen"
+        }
+      ],
+      "pos": "verb",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #49（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 50,
+        "code": "49",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0056",
+      "source": "reed-early",
+      "localId": "w0056",
+      "unit": "word",
+      "text": "makatarú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "good",
+          "nan": null,
+          "note": "原文釋義：Gut"
+        }
+      ],
+      "pos": "adjective",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #56（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 57,
+        "code": "56",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0078",
+      "source": "reed-early",
+      "localId": "w0078",
+      "unit": "word",
+      "text": "darán",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "path",
+          "nan": null,
+          "note": "原文釋義：Weg"
+        }
+      ],
+      "pos": "noun",
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #78（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 79,
+        "code": "78",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0127",
+      "source": "reed-early",
+      "localId": "w0127",
+      "unit": "word",
+      "text": "balán",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "cat",
+          "nan": null,
+          "note": "原文釋義：Katze"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #127（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 128,
+        "code": "127",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0134",
+      "source": "reed-early",
+      "localId": "w0134",
+      "unit": "word",
+      "text": "badsúk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "dog",
+          "nan": null,
+          "note": "原文釋義：Hund"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #134（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 135,
+        "code": "134",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0139",
+      "source": "reed-early",
+      "localId": "w0139",
+      "unit": "word",
+      "text": "aláu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "fish",
+          "nan": null,
+          "note": "原文釋義：fisch"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #139（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 140,
+        "code": "139",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0142",
+      "source": "reed-early",
+      "localId": "w0142",
+      "unit": "word",
+      "text": "patáu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "hen",
+          "nan": null,
+          "note": "原文釋義：Huhn"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #142（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 143,
+        "code": "142",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0144",
+      "source": "reed-early",
+      "localId": "w0144",
+      "unit": "word",
+      "text": "barudsák",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "pig",
+          "nan": null,
+          "note": "原文釋義：Schwein"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #144（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 145,
+        "code": "144",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0149",
+      "source": "reed-early",
+      "localId": "w0149",
+      "unit": "word",
+      "text": "issú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "stag",
+          "nan": null,
+          "note": "原文釋義：Hirsch"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "animal",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #149（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 150,
+        "code": "149",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0166",
+      "source": "reed-early",
+      "localId": "w0166",
+      "unit": "word",
+      "text": "sanɡila",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "ears",
+          "nan": null,
+          "note": "原文釋義：Ohren"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #166（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 167,
+        "code": "166",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0171",
+      "source": "reed-early",
+      "localId": "w0171",
+      "unit": "word",
+      "text": "daurik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "eyes",
+          "nan": null,
+          "note": "原文釋義：Augen"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #171（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 172,
+        "code": "171",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0178",
+      "source": "reed-early",
+      "localId": "w0178",
+      "unit": "word",
+      "text": "takamüit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "finger",
+          "nan": null,
+          "note": "原文釋義：Finger"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #178（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 179,
+        "code": "178",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0183",
+      "source": "reed-early",
+      "localId": "w0183",
+      "unit": "word",
+      "text": "dedapál",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "foot",
+          "nan": null,
+          "note": "原文釋義：Fuß"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #183（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 184,
+        "code": "183",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0184",
+      "source": "reed-early",
+      "localId": "w0184",
+      "unit": "word",
+      "text": "büküss",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "hair",
+          "nan": null,
+          "note": "原文釋義：Haar"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #184（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 185,
+        "code": "184",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0187",
+      "source": "reed-early",
+      "localId": "w0187",
+      "unit": "word",
+      "text": "rimá",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "hand",
+          "nan": null,
+          "note": "原文釋義：Hand"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #187（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 188,
+        "code": "187",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0190",
+      "source": "reed-early",
+      "localId": "w0190",
+      "unit": "word",
+      "text": "punú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "head",
+          "nan": null,
+          "note": "原文釋義：Kopf"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #190（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 191,
+        "code": "190",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0200",
+      "source": "reed-early",
+      "localId": "w0200",
+      "unit": "word",
+      "text": "mudusj",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "moustache",
+          "nan": null,
+          "note": "原文釋義：Schnurrbart"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #200（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 201,
+        "code": "200",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0205",
+      "source": "reed-early",
+      "localId": "w0205",
+      "unit": "word",
+      "text": "mudsinɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "nose",
+          "nan": null,
+          "note": "原文釋義：Nase"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #205（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 206,
+        "code": "205",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0211",
+      "source": "reed-early",
+      "localId": "w0211",
+      "unit": "word",
+      "text": "lipinɡ",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "teeth",
+          "nan": null,
+          "note": "原文釋義：Zähne"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "body part",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #211（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 212,
+        "code": "211",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0244",
+      "source": "reed-early",
+      "localId": "w0244",
+      "unit": "word",
+      "text": "inusat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "alcoholic drink",
+          "nan": null,
+          "note": "原文釋義：Berauschende Getränke"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "food",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #244（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 245,
+        "code": "244",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0247",
+      "source": "reed-early",
+      "localId": "w0247",
+      "unit": "word",
+      "text": "kauás",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "mutton",
+          "nan": null,
+          "note": "原文釋義：Hammel"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "food",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #247（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 248,
+        "code": "247",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0268",
+      "source": "reed-early",
+      "localId": "w0268",
+      "unit": "word",
+      "text": "apúi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "fire",
+          "nan": null,
+          "note": "原文釋義：Feuer"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #268（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 269,
+        "code": "268",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0275",
+      "source": "reed-early",
+      "localId": "w0275",
+      "unit": "word",
+      "text": "ilass",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "moon",
+          "nan": null,
+          "note": "原文釋義：Mond"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #275（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 276,
+        "code": "275",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0287",
+      "source": "reed-early",
+      "localId": "w0287",
+      "unit": "word",
+      "text": "bintúi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "star",
+          "nan": null,
+          "note": "原文釋義：Sterne"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #287（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 288,
+        "code": "287",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0291",
+      "source": "reed-early",
+      "localId": "w0291",
+      "unit": "word",
+      "text": "batú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "stone",
+          "nan": null,
+          "note": "原文釋義：Stein"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #291（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 292,
+        "code": "291",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0296",
+      "source": "reed-early",
+      "localId": "w0296",
+      "unit": "word",
+      "text": "lisách",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "sun, day",
+          "nan": null,
+          "note": "原文釋義：Sonne, Tag"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #296（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 297,
+        "code": "296",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0297",
+      "source": "reed-early",
+      "localId": "w0297",
+      "unit": "word",
+      "text": "kahéui",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "tree, wood",
+          "nan": null,
+          "note": "原文釋義：Baum, Holz"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #297（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 298,
+        "code": "297",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0298",
+      "source": "reed-early",
+      "localId": "w0298",
+      "unit": "word",
+      "text": "daljúm",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "water",
+          "nan": null,
+          "note": "原文釋義：Wasser"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "nature",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #298（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 299,
+        "code": "298",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0304",
+      "source": "reed-early",
+      "localId": "w0304",
+      "unit": "word",
+      "text": "itá",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "001, one",
+          "nan": null,
+          "note": "原文釋義：Eins"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #304（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 305,
+        "code": "304",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0307",
+      "source": "reed-early",
+      "localId": "w0307",
+      "unit": "word",
+      "text": "dussá",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "002, two",
+          "nan": null,
+          "note": "原文釋義：Zwei"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #307（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 308,
+        "code": "307",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0311",
+      "source": "reed-early",
+      "localId": "w0311",
+      "unit": "word",
+      "text": "turú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "003, three",
+          "nan": null,
+          "note": "原文釋義：Drei"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #311（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 312,
+        "code": "311",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0315",
+      "source": "reed-early",
+      "localId": "w0315",
+      "unit": "word",
+      "text": "supát",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "004, four",
+          "nan": null,
+          "note": "原文釋義：Vier"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #315（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 316,
+        "code": "315",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0320",
+      "source": "reed-early",
+      "localId": "w0320",
+      "unit": "word",
+      "text": "kasup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "005, five",
+          "nan": null,
+          "note": "原文釋義：Fünf"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #320（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 321,
+        "code": "320",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0325",
+      "source": "reed-early",
+      "localId": "w0325",
+      "unit": "word",
+      "text": "kasüp-i-buda",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "006, six",
+          "nan": null,
+          "note": "原文釋義：Sechs"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #325（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 326,
+        "code": "325",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "Die Zahlenscala der Sek-hwan geht nur bis fünf; für Hundert haben sie aber ein eigenes Wort: hadtül; 12 heißt isidú-dussá, 13 isidú-turú u.s.w. 20 dussá-isit u.s.w."
+      ]
+    },
+    {
+      "id": "reed-early:w0329",
+      "source": "reed-early",
+      "localId": "w0329",
+      "unit": "word",
+      "text": "kasüp-i-dussa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "007, seven",
+          "nan": null,
+          "note": "原文釋義：Sieben"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #329（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 330,
+        "code": "329",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0333",
+      "source": "reed-early",
+      "localId": "w0333",
+      "unit": "word",
+      "text": "kasüp-i-turú",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "008, eight",
+          "nan": null,
+          "note": "原文釋義：Acht"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #333（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 334,
+        "code": "333",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0337",
+      "source": "reed-early",
+      "localId": "w0337",
+      "unit": "word",
+      "text": "katsüp-i-supat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "009, nine",
+          "nan": null,
+          "note": "原文釋義：Neun"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #337（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 338,
+        "code": "337",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0339",
+      "source": "reed-early",
+      "localId": "w0339",
+      "unit": "word",
+      "text": "asit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "010, ten",
+          "nan": null,
+          "note": "原文釋義：Zehn"
+        }
+      ],
+      "pos": null,
+      "domain": {
+        "code": "number",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #339（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 340,
+        "code": "339",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "also, isit"
+      ]
+    },
+    {
+      "id": "reed-early:w0351",
+      "source": "reed-early",
+      "localId": "w0351",
+      "unit": "word",
+      "text": "rakehál",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "child",
+          "nan": null,
+          "note": "原文釋義：Kind"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "person",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #351（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 352,
+        "code": "351",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0355",
+      "source": "reed-early",
+      "localId": "w0355",
+      "unit": "word",
+      "text": "sáu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "man",
+          "nan": null,
+          "note": "原文釋義：Mann"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "person",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #355（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 356,
+        "code": "355",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0359",
+      "source": "reed-early",
+      "localId": "w0359",
+      "unit": "word",
+      "text": "batakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "bamboo",
+          "nan": null,
+          "note": "原文釋義：Bambus"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #359（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 360,
+        "code": "359",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0360",
+      "source": "reed-early",
+      "localId": "w0360",
+      "unit": "word",
+      "text": "balibül",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "banana",
+          "nan": null,
+          "note": "原文釋義：Banane"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #360（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 361,
+        "code": "360",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0371",
+      "source": "reed-early",
+      "localId": "w0371",
+      "unit": "word",
+      "text": "sawiki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "palm tree",
+          "nan": null,
+          "note": "原文釋義：Areca"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #371（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 372,
+        "code": "371",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0375",
+      "source": "reed-early",
+      "localId": "w0375",
+      "unit": "word",
+      "text": "massúk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "rice",
+          "nan": null,
+          "note": "原文釋義：Reis"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #375（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 376,
+        "code": "375",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0379",
+      "source": "reed-early",
+      "localId": "w0379",
+      "unit": "word",
+      "text": "dadass",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "sweet potato",
+          "nan": null,
+          "note": "原文釋義：Süße Kartoffel"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #379（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 380,
+        "code": "379",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0381",
+      "source": "reed-early",
+      "localId": "w0381",
+      "unit": "word",
+      "text": "tamako",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "tobacco",
+          "nan": null,
+          "note": "原文釋義：Tabak"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "plant",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #381（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 382,
+        "code": "381",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0416",
+      "source": "reed-early",
+      "localId": "w0416",
+      "unit": "word",
+      "text": "aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "father",
+          "nan": null,
+          "note": "原文釋義：Vater"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #416（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 417,
+        "code": "416",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0420",
+      "source": "reed-early",
+      "localId": "w0420",
+      "unit": "word",
+      "text": "iná",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "mother",
+          "nan": null,
+          "note": "原文釋義：Mutter"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #420（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 421,
+        "code": "420",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0430",
+      "source": "reed-early",
+      "localId": "w0430",
+      "unit": "word",
+      "text": "mamajús",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "wife",
+          "nan": null,
+          "note": "原文釋義：Weib"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "relation",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #430（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 431,
+        "code": "430",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "reed-early:w0439",
+      "source": "reed-early",
+      "localId": "w0439",
+      "unit": "word",
+      "text": "humák",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": "Sek-hwan",
+      "senses": [
+        {
+          "zh": null,
+          "en": "house",
+          "nan": null,
+          "note": "原文釋義：Haus"
+        }
+      ],
+      "pos": "noun",
+      "domain": {
+        "code": "structure",
+        "label": null
+      },
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "reed-early:src-ibis-1877",
+        "role": "item",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "Reed 早期詞表 #439（Ibis 1877）",
+        "page": null,
+        "pages": [],
+        "row": 440,
+        "code": "439",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [],
+      "attribution": "Ibis, Paul. \"Auf Formosa: Ethnographische Wanderunger.\" Globus 31 (1877): 234-235.",
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

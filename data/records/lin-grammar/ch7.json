@@ -1,0 +1,3872 @@
+{
+  "source": "lin-grammar",
+  "shard": "ch7",
+  "label": "CH7 名詞與名詞組",
+  "groups": [
+    {
+      "id": "lin-grammar:ch7",
+      "source": "lin-grammar",
+      "type": "list",
+      "title": "CH7 名詞與名詞組",
+      "subtitle": null,
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "lin-grammar:ch7-7.1a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1a",
+      "unit": "sentence",
+      "text": "masu wazu mukusa binayu mungazip bauzak, ilis haki niam a apuapu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們的祖先會帶狗去山上咬豬、羊。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1a)（潘德興 2017/08/10）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2017/08/10"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.1b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1b",
+      "unit": "sentence",
+      "text": "mungazip yaku haki wazu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "狗咬我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1b)（潘德興 2018/02/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/02/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.1c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1c",
+      "unit": "sentence",
+      "text": "mataw a mulaliw liaka mauit liaki humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大地震（發生後），房子就倒了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1c)（潘德興 2018/02/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/02/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.1d",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1d",
+      "unit": "sentence",
+      "text": "mupayak liaki yaku a siatu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的衣服濕了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1d)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.1e",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1e",
+      "unit": "sentence",
+      "text": "muasak liaki laladan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "桌子壞掉了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1e)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1e",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1e.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.1f",
+      "source": "lin-grammar",
+      "localId": "ch7-7.1f",
+      "unit": "sentence",
+      "text": "mututing yaku haki atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 打我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.1f)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.1f",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.1f.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.2a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.2a",
+      "unit": "sentence",
+      "text": "tuting’en ni aba lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被爸爸打了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.2a)（潘德興 2018/02/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.2a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.2a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/02/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.5",
+      "source": "lin-grammar",
+      "localId": "ch7-7.5",
+      "unit": "sentence",
+      "text": "yami a eten nahaza tuu a atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們的村莊有三個 Atun。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.5)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.5",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.5.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.14a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.14a",
+      "unit": "sentence",
+      "text": "yami sianglukus malaleng kaidi abaxan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們守城（的人）住在北邊。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.14a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.14a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.14a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.14b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.14b",
+      "unit": "sentence",
+      "text": "baisia a eten, kaidi ahut.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牛眠庄在西邊。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.14b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.14b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.14b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.14c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.14c",
+      "unit": "sentence",
+      "text": "yami ka kaidi daya mupuza.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我從比較高的、東邊來的。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.14c)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.14c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.14c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.15",
+      "source": "lin-grammar",
+      "localId": "ch7-7.15",
+      "unit": "sentence",
+      "text": "yaku haaput mukusa masulohong maahadas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我想去中國玩。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.15)（潘德興 2019/01/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.15",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.15.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/01/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.16a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.16a",
+      "unit": "sentence",
+      "text": "isiw ka yaku a dakan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在我的前面。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.16a)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.16a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.16a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.16b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.16b",
+      "unit": "sentence",
+      "text": "isiw ka yaku a aubin.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在我的後面。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.16b)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.16b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.16b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.16c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.16c",
+      "unit": "sentence",
+      "text": "kaidi laladan a babaw, nahaza beleben.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在桌上，有香蕉。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.16c)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.16c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.16c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.17a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.17a",
+      "unit": "sentence",
+      "text": "kalikut ka kaidi amihan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大湳在南邊。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.17a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.17a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.17a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.17b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.17b",
+      "unit": "sentence",
+      "text": "taumin ka daya taating.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蜈蚣崙東邊一些。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.17b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.17b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.17b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.17c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.17c",
+      "unit": "sentence",
+      "text": "dadas kaidi umama.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "番薯在田裡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.17c)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.17c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.17c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.17d",
+      "source": "lin-grammar",
+      "localId": "ch7-7.17d",
+      "unit": "sentence",
+      "text": "yaku maki mama mukusa binayu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我跟哥哥去山上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.17d)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.17d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.17d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.19a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.19a",
+      "unit": "sentence",
+      "text": "imisiw ka kaidi humak meken sumay lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他在家裡吃飯了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.19a)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.19a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.19a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.19b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.19b",
+      "unit": "sentence",
+      "text": "imisiw ka kaidi taantaw siisinaw siatu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他在水溝洗衣服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.19b)（潘德興 2018/04/25）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.19b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.19b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/04/25"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.21a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.21a",
+      "unit": "sentence",
+      "text": "sasunan ka atun mukusa umama.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "早上阿敦有去田裡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.21a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.21a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.21a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.21b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.21b",
+      "unit": "sentence",
+      "text": "ahuan ka dahu a saw haaput mudawan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "晚上很多人要洗澡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.21b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.21b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.21b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.21c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.21c",
+      "unit": "sentence",
+      "text": "ohoza ka kuang a saanu mukukusa, paxuma mulasi eezaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以前沒有什麼工作，種稻子而已。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.21c)（潘德興 2017/08/10）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.21c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.21c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2017/08/10"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.22",
+      "source": "lin-grammar",
+      "localId": "ch7-7.22",
+      "unit": "sentence",
+      "text": "atun ohoni medeken yaku a tatoko.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 現在在撿我的拐杖。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.22)（潘德興 2019/08/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.22",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.22.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.23",
+      "source": "lin-grammar",
+      "localId": "ch7-7.23",
+      "unit": "sentence",
+      "text": "kaidi meseket a daali mukusa ahong maa alaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在休息的日子去溪裡抓魚。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.23)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.23",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.23.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.25",
+      "source": "lin-grammar",
+      "localId": "ch7-7.25",
+      "unit": "sentence",
+      "text": "pasaken daalian liaka mupuza humak meken sumay lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到中午之後回家吃飯了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.25)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.25",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.25.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.26",
+      "source": "lin-grammar",
+      "localId": "ch7-7.26",
+      "unit": "sentence",
+      "text": "imini dusa ka maxupapa muula, aubin liaka maatebetebe lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這兩個先互罵，後來互捶。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.26)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.26",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.26.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.28a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.28a",
+      "unit": "sentence",
+      "text": "imini a dadas ka yaku a dadas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這番薯是我的番薯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.28a)（潘德興 2018/05/02）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.28a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.28a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/02"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.28b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.28b",
+      "unit": "sentence",
+      "text": "imisiw a saw tangiti lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個人生氣了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.28b)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.28b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.28b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.29a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.29a",
+      "unit": "sentence",
+      "text": "mainu a iing ka haaput midem.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腰痠就要睡覺。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.29a)（潘德興 2017/09/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.29a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.29a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/09/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.29b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.29b",
+      "unit": "sentence",
+      "text": "mamuduk a kaaw lia. nang a muzakay lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腳很腫了，不要走路了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.29b)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.29b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.29b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.30a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.30a",
+      "unit": "sentence",
+      "text": "dahu a paipai kaidi daan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很多車在路上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.30a)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.30a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.30a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch7-7.30b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.30b",
+      "unit": "sentence",
+      "text": "mausay maa taating a dalum.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去拿一些水。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.30b)（潘德興 2020/08/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.30b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.30b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.31a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.31a",
+      "unit": "sentence",
+      "text": "yaku ka nahaza tuu a bauzak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我有三隻豬。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.31a)（潘德興 2020/03/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.31a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.31a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/03/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.32a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.32a",
+      "unit": "sentence",
+      "text": "imini ka yaku a siatu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是我的衣服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.32a)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.32a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.32a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.32b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.32b",
+      "unit": "sentence",
+      "text": "imini ka imisiw a beleben.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是他的香蕉。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.32b)（潘德興 2018/07/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.32b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.32b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.33a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.33a",
+      "unit": "sentence",
+      "text": "ita ka tatawan a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們是台灣人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.33a)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.33a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.33a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.33b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.33b",
+      "unit": "sentence",
+      "text": "binayu nahaza binayu a bauzak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "山上有山豬。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.33b)（潘德興 2017/10/11）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.33b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.33b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/10/11"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.33c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.33c",
+      "unit": "sentence",
+      "text": "paxuma dalum a ali eezaw lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（現在只有）種水筍而已了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.33c)（潘德興 2020/08/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.33c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.33c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2020/08/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.33d",
+      "source": "lin-grammar",
+      "localId": "ch7-7.33d",
+      "unit": "sentence",
+      "text": "kaidi laladan a babaw, nahaza beleben.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在桌上，有香蕉。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.33d)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.33d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.33d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.34",
+      "source": "lin-grammar",
+      "localId": "ch7-7.34",
+      "unit": "sentence",
+      "text": "ohoza saanu muzakay a daan tatiting eezaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以前道路，小小的而已。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.34)（潘德興 2015/12/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.34",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.34.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2015/12/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.35a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.35a",
+      "unit": "sentence",
+      "text": "kaidini a aitukuan, aa’en akhéhén lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在這裡的椅子，被小孩拿走了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.35a)（潘德興 2019/02/15）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.35a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.35a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/02/15"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.35b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.35b",
+      "unit": "sentence",
+      "text": "kaidisiw a balan muzakay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在那裡的貓在走。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.35b)（潘德興 2020/03/06）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.35b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.35b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/03/06"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.37a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.37a",
+      "unit": "sentence",
+      "text": "yami dusa ka hakezeng a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們兩個是老人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.37a)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.37a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.37a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.37b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.37b",
+      "unit": "sentence",
+      "text": "ita tuu ka tatawan a saw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們三人是臺灣人。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.37b)（潘德興 2018/01/23）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.37b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.37b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/01/23"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.37c",
+      "source": "lin-grammar",
+      "localId": "ch7-7.37c",
+      "unit": "sentence",
+      "text": "imu dusa mikita iak liaka iak lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們兩個如果看好就好了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.37c)（潘德興 2019/08/27）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.37c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.37c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/27"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.39a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.39a",
+      "unit": "sentence",
+      "text": "mudan a daali ka yaku nang a mukusa maahadas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下雨的時候我不要去玩。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.39a)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.39a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.39a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.39b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.39b",
+      "unit": "sentence",
+      "text": "kaidi meseket a daali mukusa axung maa alaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在休息的日子去溪裡抓魚。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.39b)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.39b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.39b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.40",
+      "source": "lin-grammar",
+      "localId": "ch7-7.40",
+      "unit": "sentence",
+      "text": "mubaza matoway a saw mutahan dahu a pai haé.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "會唱歌的人賺很多錢呢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.40)（潘德興 2019/12/10）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.40",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.40.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/12/10"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.42a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.42a",
+      "unit": "sentence",
+      "text": "imini ka miadua a saw a beleben.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是那邊的人的香蕉。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.42a)（潘德興 2018/07/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.42a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.42a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.42b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.42b",
+      "unit": "sentence",
+      "text": "imisiw a akhéhan a siatu mupayak lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個小孩的衣服濕了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 52
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.42b)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.42b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.42b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.43",
+      "source": "lin-grammar",
+      "localId": "ch7-7.43",
+      "unit": "sentence",
+      "text": "yaku haaput maa taating a selem mausay yaku a batan a humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要拿一點豬肉去我朋友家。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 53
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.43)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.43",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.43.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.44",
+      "source": "lin-grammar",
+      "localId": "ch7-7.44",
+      "unit": "sentence",
+      "text": "kaidini nahaza adade a lubahing a tulala.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這裡有一朵紅花。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.44)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.44",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.44.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.45a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.45a",
+      "unit": "sentence",
+      "text": "uzay pato ohoni dahu a mataw a dalum, kuang a alaw saanu mukumuk.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不像現在很多大的水，沒有魚可以抓。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.45a)（潘德興 2015/06/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.45a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.45a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "長篇語料",
+        "記錄日期：2015/06/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.45b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.45b",
+      "unit": "sentence",
+      "text": "musamian dahu a binayu a apuapu iu kaidi axung a apuapu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拜很多山上的祖先以及溪裡的祖先。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 56
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.45b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.45b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.45b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.46a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.46a",
+      "unit": "sentence",
+      "text": "imini a akhéhén mamais iak a hinis.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這女孩心地很好。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 57
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.46a)（潘德興 2020/01/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.46a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.46a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/01/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.46b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.46b",
+      "unit": "sentence",
+      "text": "yaku dahu a suazi mamais.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我很多妹妹。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.46b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.46b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.46b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.47a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.47a",
+      "unit": "sentence",
+      "text": "baba atun mukusa binayu mukukusa.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 伯伯去山上工作。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 59
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.47a)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.47a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.47a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.47b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.47b",
+      "unit": "sentence",
+      "text": "tata sabong ka mukusa mataw a axung maa alaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Sabong 阿姨去大溪抓魚。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 60
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.47b)（潘德興 2020/09/16）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.47b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.47b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/16"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.50",
+      "source": "lin-grammar",
+      "localId": "ch7-7.50",
+      "unit": "sentence",
+      "text": "dahu a angat sabong.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很多 Sabong 的名字。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 61
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.50)（潘德興 2019/01/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.50",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.50.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/01/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.51",
+      "source": "lin-grammar",
+      "localId": "ch7-7.51",
+      "unit": "sentence",
+      "text": "dahu a sabong a langat.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很多 Sabong 的名字。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 62
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.51)（潘德興 2019/01/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.51",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.51.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/01/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.53a",
+      "source": "lin-grammar",
+      "localId": "ch7-7.53a",
+      "unit": "sentence",
+      "text": "imini ka yaku mubaiw a beleben.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這是我買的香蕉。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 63
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.53a)（潘德興 2018/05/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.53a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.53a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/05/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch7-7.53b",
+      "source": "lin-grammar",
+      "localId": "ch7-7.53b",
+      "unit": "sentence",
+      "text": "imisiw ka yaku a apu paxuma a kixiw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那是我祖母種的苧麻。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch7",
+        "role": "example",
+        "parent": null,
+        "seq": 64
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH7 名詞與名詞組 例 (7.53b)（潘德興 2020/09/07）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "7.53b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch7-7.53b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/09/07"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2917 @@
+{
+  "source": "pazih-dict",
+  "shard": "p087",
+  "label": "p.87",
+  "groups": [
+    {
+      "id": "pazih-dict:p087-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baza-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p087-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bazax-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazax- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p087-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bazi",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazi 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p087-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bazu-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazu- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p087-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bazu-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p087-01",
+      "source": "pazih-dict",
+      "localId": "p087-01",
+      "unit": "affix",
+      "text": "baza-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f01",
+      "source": "pazih-dict",
+      "localId": "p087-01-f01",
+      "unit": "word",
+      "text": "aubabazan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "學的地方",
+          "en": "the place to learn",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f02",
+      "source": "pazih-dict",
+      "localId": "p087-01-f02",
+      "unit": "word",
+      "text": "kabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "知道",
+          "en": "to know",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x01",
+      "source": "pazih-dict",
+      "localId": "p087-01-x01",
+      "unit": "phrase",
+      "text": "kabaza'en lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被知道了",
+          "en": "is known",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f03",
+      "source": "pazih-dict",
+      "localId": "p087-01-f03",
+      "unit": "word",
+      "text": "mabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "知道",
+          "en": "to know, understand",
+          "nan": null
+        },
+        {
+          "zh": "會",
+          "en": "able, can",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f04",
+      "source": "pazih-dict",
+      "localId": "p087-01-f04",
+      "unit": "word",
+      "text": "mabazaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道",
+          "en": "I know.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x02",
+      "source": "pazih-dict",
+      "localId": "p087-01-x02",
+      "unit": "sentence",
+      "text": "imisiw ka mabaza asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他會作什麼？",
+          "en": "What will he do?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x03",
+      "source": "pazih-dict",
+      "localId": "p087-01-x03",
+      "unit": "sentence",
+      "text": "mabaza meken u sumay lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他會吃飯了",
+          "en": "(He) knew (how) to eat rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x04",
+      "source": "pazih-dict",
+      "localId": "p087-01-x04",
+      "unit": "sentence",
+      "text": "mabaza yaku mubizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我會寫",
+          "en": "I know how to write.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x05",
+      "source": "pazih-dict",
+      "localId": "p087-01-x05",
+      "unit": "sentence",
+      "text": "mabaza imisiw a saw siu?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你認識他嗎？",
+          "en": "Do you know him?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x06",
+      "source": "pazih-dict",
+      "localId": "p087-01-x06",
+      "unit": "sentence",
+      "text": "mabaza taatih hurahur a maakawas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我會一點點日語",
+          "en": "I understand a little Japanese.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x07",
+      "source": "pazih-dict",
+      "localId": "p087-01-x07",
+      "unit": "sentence",
+      "text": "mabaza asay siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你知道什麼？",
+          "en": "What do you know?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x08",
+      "source": "pazih-dict",
+      "localId": "p087-01-x08",
+      "unit": "sentence",
+      "text": "yaku ka mabaza imisiw ukuazixa mupuzah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道他昨天來了",
+          "en": "I know he came yesterday.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f03",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f05",
+      "source": "pazih-dict",
+      "localId": "p087-01-f05",
+      "unit": "word",
+      "text": "pabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使知道",
+          "en": "to cause to know",
+          "nan": null
+        },
+        {
+          "zh": "教",
+          "en": "to teach",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x09",
+      "source": "pazih-dict",
+      "localId": "p087-01-x09",
+      "unit": "sentence",
+      "text": "pabaza'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "教他！",
+          "en": "Teach him!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f05",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x10",
+      "source": "pazih-dict",
+      "localId": "p087-01-x10",
+      "unit": "sentence",
+      "text": "pakabaza'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使知道！",
+          "en": "Make it be known! Inform them!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f05",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x11",
+      "source": "pazih-dict",
+      "localId": "p087-01-x11",
+      "unit": "sentence",
+      "text": "kasibadi pabaza'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "教會他！",
+          "en": "Teach him to learn!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f05",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f06",
+      "source": "pazih-dict",
+      "localId": "p087-01-f06",
+      "unit": "word",
+      "text": "minabazabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "能幹，熟練的",
+          "en": "skillful, knowledgeable",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x12",
+      "source": "pazih-dict",
+      "localId": "p087-01-x12",
+      "unit": "phrase",
+      "text": "minabazabaza imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他很能幹",
+          "en": "He was knowledgeable.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f06",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f07",
+      "source": "pazih-dict",
+      "localId": "p087-01-f07",
+      "unit": "word",
+      "text": "mubabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "記錄，記於心",
+          "en": "to memorize",
+          "nan": null
+        },
+        {
+          "zh": "學",
+          "en": "to learn",
+          "nan": null
+        },
+        {
+          "zh": "模仿",
+          "en": "to imitate, to mimic",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x13",
+      "source": "pazih-dict",
+      "localId": "p087-01-x13",
+      "unit": "sentence",
+      "text": "kaakuay mubabaza hurahur a kakawas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "日文容易學",
+          "en": "Japanese is easy to learn.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f07",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x14",
+      "source": "pazih-dict",
+      "localId": "p087-01-x14",
+      "unit": "sentence",
+      "text": "mubabaza bibizu yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我正在學如何寫",
+          "en": "I am learning how to write.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f07",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f08",
+      "source": "pazih-dict",
+      "localId": "p087-01-f08",
+      "unit": "word",
+      "text": "maubabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在學",
+          "en": "is learning",
+          "nan": null
+        },
+        {
+          "zh": "在模仿",
+          "en": "is imitating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": "pazih-dict:p087-01-f07",
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x15",
+      "source": "pazih-dict",
+      "localId": "p087-01-x15",
+      "unit": "sentence",
+      "text": "maubabaza musais siatu ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩正在學縫衣服",
+          "en": "The child is learning to sew.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f07",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x16",
+      "source": "pazih-dict",
+      "localId": "p087-01-x16",
+      "unit": "sentence",
+      "text": "maubabaza'ay di takaradan lai yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要在老師處學習",
+          "en": "I’ll learn at the teacher’s place.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f07",
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f09",
+      "source": "pazih-dict",
+      "localId": "p087-01-f09",
+      "unit": "word",
+      "text": "mubaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "知道",
+          "en": "to know",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x17",
+      "source": "pazih-dict",
+      "localId": "p087-01-x17",
+      "unit": "phrase",
+      "text": "mubaza yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道",
+          "en": "I know.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f09",
+        "seq": 26
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f10",
+      "source": "pazih-dict",
+      "localId": "p087-01-f10",
+      "unit": "word",
+      "text": "pakabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告知",
+          "en": "to inform",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f11",
+      "source": "pazih-dict",
+      "localId": "p087-01-f11",
+      "unit": "word",
+      "text": "pakakabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簽字，做記號、手勢",
+          "en": "to sign",
+          "nan": null
+        },
+        {
+          "zh": "使人知",
+          "en": "to make known",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-f12",
+      "source": "pazih-dict",
+      "localId": "p087-01-f12",
+      "unit": "word",
+      "text": "paubabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "學",
+          "en": "to learn",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "form",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-01-x18",
+      "source": "pazih-dict",
+      "localId": "p087-01-x18",
+      "unit": "sentence",
+      "text": "paubabaza i mitalam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "學賽跑",
+          "en": "Learn to race.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-01",
+        "role": "example",
+        "parent": "pazih-dict:p087-01-f12",
+        "seq": 30
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，baza- 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-02",
+      "source": "pazih-dict",
+      "localId": "p087-02",
+      "unit": "affix",
+      "text": "bazax-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazax- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-02-f01",
+      "source": "pazih-dict",
+      "localId": "p087-02-f01",
+      "unit": "word",
+      "text": "babazax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "棟木",
+          "en": "ridgepole (of a house)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazax- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-03",
+      "source": "pazih-dict",
+      "localId": "p087-03",
+      "unit": "word",
+      "text": "bazi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "同年（同性）",
+          "en": "persons of the same age and sex",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazi 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-03-x01",
+      "source": "pazih-dict",
+      "localId": "p087-03-x01",
+      "unit": "sentence",
+      "text": "bazi, alu takita'i ilas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "同伴，來，咱們看月亮！",
+          "en": "Friends, let’s look at the moon!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazi 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-03-f01",
+      "source": "pazih-dict",
+      "localId": "p087-03-f01",
+      "unit": "word",
+      "text": "maabazi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "勾肩搭背",
+          "en": "to make good friends, to put arms around each other's shoulders",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazi 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-03-x02",
+      "source": "pazih-dict",
+      "localId": "p087-03-x02",
+      "unit": "sentence",
+      "text": "bazii!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "勾肩吧！",
+          "en": "Put your arm on his/ her should!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-03",
+        "role": "example",
+        "parent": "pazih-dict:p087-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazi 條下例句",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-04",
+      "source": "pazih-dict",
+      "localId": "p087-04",
+      "unit": "affix",
+      "text": "bazu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazu- 條",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p087-04-f01",
+      "source": "pazih-dict",
+      "localId": "p087-04-f01",
+      "unit": "word",
+      "text": "baabazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "月經",
+          "en": "menstruation, menses",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87，bazu- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87
+        ],
+        "row": null,
+        "code": "p087-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05",
+      "source": "pazih-dict",
+      "localId": "p087-05",
+      "unit": "affix",
+      "text": "bazu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p087-05-f01",
+      "source": "pazih-dict",
+      "localId": "p087-05-f01",
+      "unit": "word",
+      "text": "mubazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗（衣）",
+          "en": "to wash (clothes)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x01",
+      "source": "pazih-dict",
+      "localId": "p087-05-x01",
+      "unit": "sentence",
+      "text": "bazu'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗！",
+          "en": "Wash!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x02",
+      "source": "pazih-dict",
+      "localId": "p087-05-x02",
+      "unit": "sentence",
+      "text": "usa bazu'i naki a siatu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去洗我的衣服！",
+          "en": "Go to wash my clothes!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-f02",
+      "source": "pazih-dict",
+      "localId": "p087-05-f02",
+      "unit": "word",
+      "text": "bazu'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗！",
+          "en": "Wash!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "form",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-f03",
+      "source": "pazih-dict",
+      "localId": "p087-05-f03",
+      "unit": "word",
+      "text": "babazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在洗",
+          "en": "is washing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "form",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x03",
+      "source": "pazih-dict",
+      "localId": "p087-05-x03",
+      "unit": "sentence",
+      "text": "ina ka babazu siatu, rakihan ka mangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親正在洗衣服時，小孩哭了",
+          "en": "When the mother is washing clothes, the child is crying.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x04",
+      "source": "pazih-dict",
+      "localId": "p087-05-x04",
+      "unit": "sentence",
+      "text": "yaaku ka babazu siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在洗衣服",
+          "en": "I was washing clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x05",
+      "source": "pazih-dict",
+      "localId": "p087-05-x05",
+      "unit": "sentence",
+      "text": "lia ka mupuzah babazu'ay siatu a rakihan a mamais lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這時女孩來洗衣服",
+          "en": "Then a girl came to wash clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x06",
+      "source": "pazih-dict",
+      "localId": "p087-05-x06",
+      "unit": "sentence",
+      "text": "murupud a mubazu lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗完了",
+          "en": "finish washing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x07",
+      "source": "pazih-dict",
+      "localId": "p087-05-x07",
+      "unit": "sentence",
+      "text": "ina ka mubazu siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親洗衣服了",
+          "en": "Mother washed clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x08",
+      "source": "pazih-dict",
+      "localId": "p087-05-x08",
+      "unit": "sentence",
+      "text": "ina ka mubazu siatu, mangit ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親洗衣服時，小孩哭了",
+          "en": "When the mother washed clothes, the child cried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x09",
+      "source": "pazih-dict",
+      "localId": "p087-05-x09",
+      "unit": "sentence",
+      "text": "ina ka baabazu siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親在洗衣服",
+          "en": "Mother is washing clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f01",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-f04",
+      "source": "pazih-dict",
+      "localId": "p087-05-f04",
+      "unit": "word",
+      "text": "saabazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "肥皂",
+          "en": "soap",
+          "nan": null
+        },
+        {
+          "zh": "無患子（其子黑色，殼略黃，殼擊碎加水有很多泡沫，可洗衣）",
+          "en": "Chinese soap-berry, plant sp., Sapindus mukorossi Gaertn.",
+          "nan": null
+        },
+        {
+          "zh": "用來洗",
+          "en": "used to wash (IF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下派生詞",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p087-05-x10",
+      "source": "pazih-dict",
+      "localId": "p087-05-x10",
+      "unit": "sentence",
+      "text": "kalu imini kabat saabazu siatu ki mamais a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女人用這個木板洗衣服",
+          "en": "The woman washed clothes with this board.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p087-05",
+        "role": "example",
+        "parent": "pazih-dict:p087-05-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.87–88，bazu- 條下例句",
+        "page": 87,
+        "pages": [
+          87,
+          88
+        ],
+        "row": null,
+        "code": "p087-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p087.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

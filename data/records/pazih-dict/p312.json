@@ -1,0 +1,2134 @@
+{
+  "source": "pazih-dict",
+  "shard": "p312",
+  "label": "p.312",
+  "groups": [
+    {
+      "id": "pazih-dict:p312-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ula-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p312-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ulah-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulah- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p312-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ulax-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p312-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ulung-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p312-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "umamah",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.312，umamah 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p312-01",
+      "source": "pazih-dict",
+      "localId": "p312-01",
+      "unit": "affix",
+      "text": "ula-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. ulah-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p312-01-f01",
+      "source": "pazih-dict",
+      "localId": "p312-01-f01",
+      "unit": "word",
+      "text": "kinula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "已領先",
+          "en": "to have led",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-f02",
+      "source": "pazih-dict",
+      "localId": "p312-01-f02",
+      "unit": "word",
+      "text": "kinula'an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被領先了",
+          "en": "to have had someone else lead",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": "pazih-dict:p312-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-f03",
+      "source": "pazih-dict",
+      "localId": "p312-01-f03",
+      "unit": "word",
+      "text": "maula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "前父／母，前夫／妻",
+          "en": "premarital parent or spouse",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-f04",
+      "source": "pazih-dict",
+      "localId": "p312-01-f04",
+      "unit": "word",
+      "text": "mula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "領先（去，做）",
+          "en": "to lead",
+          "nan": null
+        },
+        {
+          "zh": "先",
+          "en": "to do first",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x01",
+      "source": "pazih-dict",
+      "localId": "p312-01-x01",
+      "unit": "sentence",
+      "text": "usa ula!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "先去！",
+          "en": "Go first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x02",
+      "source": "pazih-dict",
+      "localId": "p312-01-x02",
+      "unit": "sentence",
+      "text": "ula siw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你先！",
+          "en": "You first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x03",
+      "source": "pazih-dict",
+      "localId": "p312-01-x03",
+      "unit": "sentence",
+      "text": "ula'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "先走！",
+          "en": "Lead the way!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x04",
+      "source": "pazih-dict",
+      "localId": "p312-01-x04",
+      "unit": "sentence",
+      "text": "ulaula!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你先！",
+          "en": "You first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x05",
+      "source": "pazih-dict",
+      "localId": "p312-01-x05",
+      "unit": "sentence",
+      "text": "ulaula'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（你）先！",
+          "en": "(You) first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x06",
+      "source": "pazih-dict",
+      "localId": "p312-01-x06",
+      "unit": "sentence",
+      "text": "ima ki mula pasaken?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看誰先抵達？",
+          "en": "Who was the first to arrive?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x07",
+      "source": "pazih-dict",
+      "localId": "p312-01-x07",
+      "unit": "sentence",
+      "text": "ima ki mula?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "誰最先？",
+          "en": "Who is the first?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x08",
+      "source": "pazih-dict",
+      "localId": "p312-01-x08",
+      "unit": "sentence",
+      "text": "ima ki mula lia ?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "誰領先了？",
+          "en": "Who is the first?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x09",
+      "source": "pazih-dict",
+      "localId": "p312-01-x09",
+      "unit": "sentence",
+      "text": "ima ki mula mangasa ka, ula meken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "誰先回來誰就先吃",
+          "en": "Whoever returns first, eat first.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x10",
+      "source": "pazih-dict",
+      "localId": "p312-01-x10",
+      "unit": "sentence",
+      "text": "aa ina mupuzah mula siw ka, ini tahayak niam a duudusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "啊，你早來的話，我們就不會有分（鹿）的困難了",
+          "en": "If you had come here earlier, we would not have become tired out (had so much difficulty) in dividing them.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x11",
+      "source": "pazih-dict",
+      "localId": "p312-01-x11",
+      "unit": "sentence",
+      "text": "mula ka mudius taating a lamtak pakalamiken pakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他先舀出一點飯湯來，使它涼了再餵食",
+          "en": "He scooped out rice gruel, and cooled it in order to feed the baby with it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x12",
+      "source": "pazih-dict",
+      "localId": "p312-01-x12",
+      "unit": "sentence",
+      "text": "ima ki muula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "拼第一",
+          "en": "to strive to be the foremost",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x13",
+      "source": "pazih-dict",
+      "localId": "p312-01-x13",
+      "unit": "sentence",
+      "text": "takita ima ka mitalam maula lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們看誰跑得最快",
+          "en": "Let's see who will lead in the race.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-x14",
+      "source": "pazih-dict",
+      "localId": "p312-01-x14",
+      "unit": "sentence",
+      "text": "maulai matawan!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "先洗澡！",
+          "en": "Take a bath first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "example",
+        "parent": "pazih-dict:p312-01-f04",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-f05",
+      "source": "pazih-dict",
+      "localId": "p312-01-f05",
+      "unit": "word",
+      "text": "masaula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "領先",
+          "en": "to proceed, go forward",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-01-f06",
+      "source": "pazih-dict",
+      "localId": "p312-01-f06",
+      "unit": "word",
+      "text": "saula'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被領先",
+          "en": "to be led",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-01",
+        "role": "form",
+        "parent": "pazih-dict:p312-01-f05",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ula- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-02",
+      "source": "pazih-dict",
+      "localId": "p312-02",
+      "unit": "affix",
+      "text": "ulah-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulah- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-02-f01",
+      "source": "pazih-dict",
+      "localId": "p312-02-f01",
+      "unit": "word",
+      "text": "masaulah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "先走",
+          "en": "to go first, to leave first",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulah- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. ula-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p312-02-x01",
+      "source": "pazih-dict",
+      "localId": "p312-02-x01",
+      "unit": "phrase",
+      "text": "masaulah yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我先走",
+          "en": "I shall go first.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-02",
+        "role": "example",
+        "parent": "pazih-dict:p312-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulah- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03",
+      "source": "pazih-dict",
+      "localId": "p312-03",
+      "unit": "affix",
+      "text": "ulax-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-f01",
+      "source": "pazih-dict",
+      "localId": "p312-03-f01",
+      "unit": "word",
+      "text": "mulax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剝（皮、殼）",
+          "en": "to peel (fruit, sweet potatoes, etc.), to husk (peanuts, beans)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x01",
+      "source": "pazih-dict",
+      "localId": "p312-03-x01",
+      "unit": "sentence",
+      "text": "ulaxi beleben siw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你剝香蕉皮！",
+          "en": "You peel the banana!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x02",
+      "source": "pazih-dict",
+      "localId": "p312-03-x02",
+      "unit": "sentence",
+      "text": "ulaxen awi lia ki tawtaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿維剝了花生",
+          "en": "Awi husked peanuts",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x03",
+      "source": "pazih-dict",
+      "localId": "p312-03-x03",
+      "unit": "sentence",
+      "text": "mulax tawtaw ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親剝花生殼",
+          "en": "Father unhusked peanuts.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x04",
+      "source": "pazih-dict",
+      "localId": "p312-03-x04",
+      "unit": "sentence",
+      "text": "mulax tawtaw ki daway",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Daway 剝花生",
+          "en": "Daway husked peanuts",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x05",
+      "source": "pazih-dict",
+      "localId": "p312-03-x05",
+      "unit": "phrase",
+      "text": "maulax tawtaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在剝花生",
+          "en": "is husking peanuts",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-f02",
+      "source": "pazih-dict",
+      "localId": "p312-03-f02",
+      "unit": "word",
+      "text": "uu'ulax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在剝",
+          "en": "is husking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "form",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-03-x06",
+      "source": "pazih-dict",
+      "localId": "p312-03-x06",
+      "unit": "sentence",
+      "text": "mu'ulax rapay dadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "剝薯皮",
+          "en": "to peel sweet potatoes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-03",
+        "role": "example",
+        "parent": "pazih-dict:p312-03-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulax- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-04",
+      "source": "pazih-dict",
+      "localId": "p312-04",
+      "unit": "affix",
+      "text": "ulung-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-04-f01",
+      "source": "pazih-dict",
+      "localId": "p312-04-f01",
+      "unit": "word",
+      "text": "mulung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "為人送行",
+          "en": "to see off",
+          "nan": null
+        },
+        {
+          "zh": "帶人",
+          "en": "to escort",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條下派生詞",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-04-x01",
+      "source": "pazih-dict",
+      "localId": "p312-04-x01",
+      "unit": "sentence",
+      "text": "ulungi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "送行！",
+          "en": "See him off!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-04",
+        "role": "example",
+        "parent": "pazih-dict:p312-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-04-x02",
+      "source": "pazih-dict",
+      "localId": "p312-04-x02",
+      "unit": "sentence",
+      "text": "ulungi usa papaxaringa'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "帶去玩！",
+          "en": "Escort him to play!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-04",
+        "role": "example",
+        "parent": "pazih-dict:p312-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-04-x03",
+      "source": "pazih-dict",
+      "localId": "p312-04-x03",
+      "unit": "sentence",
+      "text": "maulung naki a batan ki yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我正在為我朋友送行",
+          "en": "I am seeing off my friend.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-04",
+        "role": "example",
+        "parent": "pazih-dict:p312-04-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，ulung- 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-05",
+      "source": "pazih-dict",
+      "localId": "p312-05",
+      "unit": "word",
+      "text": "umamah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水田",
+          "en": "field (wet)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，umamah 條",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p312-05-x01",
+      "source": "pazih-dict",
+      "localId": "p312-05-x01",
+      "unit": "sentence",
+      "text": "umamah ka karit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水田和旱田",
+          "en": "wet and swidden fields",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p312-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.312，umamah 條下例句",
+        "page": 312,
+        "pages": [
+          312
+        ],
+        "row": null,
+        "code": "p312-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p312.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

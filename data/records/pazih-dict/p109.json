@@ -1,0 +1,2690 @@
+{
+  "source": "pazih-dict",
+  "shard": "p109",
+  "label": "p.109",
+  "groups": [
+    {
+      "id": "pazih-dict:p109-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dini",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dingil-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dingil- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dipax-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dipurus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipurus- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "diput-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，diput- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "disiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "disiwdisiw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiwdisiw 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dius-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p109-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dixipu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p109-01",
+      "source": "pazih-dict",
+      "localId": "p109-01",
+      "unit": "word",
+      "text": "dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這裡",
+          "en": "here (directional)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x01",
+      "source": "pazih-dict",
+      "localId": "p109-01-x01",
+      "unit": "sentence",
+      "text": "isiw a rakihan ka kuang dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的孩子不在這裡",
+          "en": "Your son is not here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x02",
+      "source": "pazih-dict",
+      "localId": "p109-01-x02",
+      "unit": "sentence",
+      "text": "kuah dini laisiw ka ini matanga alep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這兒沒有你，（我）也就不開門",
+          "en": "Without you here (I would) not open the door.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x03",
+      "source": "pazih-dict",
+      "localId": "p109-01-x03",
+      "unit": "sentence",
+      "text": "dini ka riak a daxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "此地是個好地方",
+          "en": "This is a good place here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x04",
+      "source": "pazih-dict",
+      "localId": "p109-01-x04",
+      "unit": "sentence",
+      "text": "dini a daxe ka auran sen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "此地就叫做愛蘭",
+          "en": "The place is called Auran.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-f01",
+      "source": "pazih-dict",
+      "localId": "p109-01-f01",
+      "unit": "word",
+      "text": "aidini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在這邊",
+          "en": "here (existential)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x05",
+      "source": "pazih-dict",
+      "localId": "p109-01-x05",
+      "unit": "sentence",
+      "text": "aidini ki nisiw a babizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的書在這裡",
+          "en": "Here is your book.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": "pazih-dict:p109-01-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-f02",
+      "source": "pazih-dict",
+      "localId": "p109-01-f02",
+      "unit": "word",
+      "text": "kaidini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在這裡",
+          "en": "to stay here",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-x06",
+      "source": "pazih-dict",
+      "localId": "p109-01-x06",
+      "unit": "sentence",
+      "text": "isiw a rakihan ka kaidini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的孩子在這裡",
+          "en": "Your son is here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": "pazih-dict:p109-01-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-01-f03",
+      "source": "pazih-dict",
+      "localId": "p109-01-f03",
+      "unit": "word",
+      "text": "miadini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這邊",
+          "en": "here (of the river or the mountain)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. kaidini"
+      ]
+    },
+    {
+      "id": "pazih-dict:p109-01-x07",
+      "source": "pazih-dict",
+      "localId": "p109-01-x07",
+      "unit": "sentence",
+      "text": "miadini a wazan u umaumah ka paxurama",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這邊田中有人插秧",
+          "en": "They were planting rice in the middle of the rice paddy here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-01",
+        "role": "example",
+        "parent": "pazih-dict:p109-01-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dini 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-02",
+      "source": "pazih-dict",
+      "localId": "p109-02",
+      "unit": "affix",
+      "text": "dingil-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dingil- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-02-f01",
+      "source": "pazih-dict",
+      "localId": "p109-02-f01",
+      "unit": "word",
+      "text": "madingil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜斜地",
+          "en": "slanting",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dingil- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-02-f02",
+      "source": "pazih-dict",
+      "localId": "p109-02-f02",
+      "unit": "word",
+      "text": "pakamadingil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使歪斜",
+          "en": "to make slanted",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-02",
+        "role": "form",
+        "parent": "pazih-dict:p109-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dingil- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-02-x01",
+      "source": "pazih-dict",
+      "localId": "p109-02-x01",
+      "unit": "sentence",
+      "text": "pakamadingili!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使它歪斜！",
+          "en": "Make it slanted!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-02",
+        "role": "example",
+        "parent": "pazih-dict:p109-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dingil- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03",
+      "source": "pazih-dict",
+      "localId": "p109-03",
+      "unit": "affix",
+      "text": "dipax-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-f01",
+      "source": "pazih-dict",
+      "localId": "p109-03-f01",
+      "unit": "word",
+      "text": "mudipax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "增添",
+          "en": "to add",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-x01",
+      "source": "pazih-dict",
+      "localId": "p109-03-x01",
+      "unit": "sentence",
+      "text": "dipaxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "添！",
+          "en": "Add it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "example",
+        "parent": "pazih-dict:p109-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-x02",
+      "source": "pazih-dict",
+      "localId": "p109-03-x02",
+      "unit": "phrase",
+      "text": "dipaxen naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我添了",
+          "en": "I have added.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "example",
+        "parent": "pazih-dict:p109-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-x03",
+      "source": "pazih-dict",
+      "localId": "p109-03-x03",
+      "unit": "sentence",
+      "text": "dipadipaxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直添！",
+          "en": "Keep adding it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "example",
+        "parent": "pazih-dict:p109-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-x04",
+      "source": "pazih-dict",
+      "localId": "p109-03-x04",
+      "unit": "sentence",
+      "text": "mudipadipax xalam ki mamais misiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那女人一直添菜",
+          "en": "That woman keeps adding vegetables.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "example",
+        "parent": "pazih-dict:p109-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-03-f02",
+      "source": "pazih-dict",
+      "localId": "p109-03-f02",
+      "unit": "word",
+      "text": "saadipax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可添之物",
+          "en": "the stuff to add",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-03",
+        "role": "form",
+        "parent": "pazih-dict:p109-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipax- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-04",
+      "source": "pazih-dict",
+      "localId": "p109-04",
+      "unit": "affix",
+      "text": "dipurus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipurus- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-04-f01",
+      "source": "pazih-dict",
+      "localId": "p109-04-f01",
+      "unit": "word",
+      "text": "pudipurus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "起雞皮疙瘩",
+          "en": "to get goose-skinned",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dipurus- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-05",
+      "source": "pazih-dict",
+      "localId": "p109-05",
+      "unit": "affix",
+      "text": "diput-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，diput- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-05-f01",
+      "source": "pazih-dict",
+      "localId": "p109-05-f01",
+      "unit": "word",
+      "text": "madiput",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "整齊的",
+          "en": "tidy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，diput- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-05-f02",
+      "source": "pazih-dict",
+      "localId": "p109-05-f02",
+      "unit": "word",
+      "text": "mudiput",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "整齊",
+          "en": "in good order, to tidy up, to put in order",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，diput- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-05-x01",
+      "source": "pazih-dict",
+      "localId": "p109-05-x01",
+      "unit": "sentence",
+      "text": "dipudi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弄整齊！",
+          "en": "Tidy it up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-05",
+        "role": "example",
+        "parent": "pazih-dict:p109-05-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，diput- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06",
+      "source": "pazih-dict",
+      "localId": "p109-06",
+      "unit": "word",
+      "text": "disiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那裡（近）",
+          "en": "there (nearby)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "disiu",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-x01",
+      "source": "pazih-dict",
+      "localId": "p109-06-x01",
+      "unit": "sentence",
+      "text": "yaku ka mausay disiw mubazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要到那邊去洗衣",
+          "en": "I'll go over there to wash clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-f01",
+      "source": "pazih-dict",
+      "localId": "p109-06-f01",
+      "unit": "word",
+      "text": "aidisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在那邊",
+          "en": "there (existential)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-f02",
+      "source": "pazih-dict",
+      "localId": "p109-06-f02",
+      "unit": "word",
+      "text": "disiwdisiw",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "到處",
+          "en": "everywhere",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-x02",
+      "source": "pazih-dict",
+      "localId": "p109-06-x02",
+      "unit": "sentence",
+      "text": "disiwdisiw nahaza saa'idahin",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "到處有得怕",
+          "en": "There was danger (“something to fear”) everywhere.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "example",
+        "parent": "pazih-dict:p109-06-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-x03",
+      "source": "pazih-dict",
+      "localId": "p109-06-x03",
+      "unit": "sentence",
+      "text": "imini a saw ka paxuruma tulala disiwdisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個人到處種花",
+          "en": "This person planted flowers everywhere.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "example",
+        "parent": "pazih-dict:p109-06-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-06-f03",
+      "source": "pazih-dict",
+      "localId": "p109-06-f03",
+      "unit": "word",
+      "text": "kaidisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在那裡",
+          "en": "to stay there",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-06",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiw 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-07",
+      "source": "pazih-dict",
+      "localId": "p109-07",
+      "unit": "word",
+      "text": "disiwdisiw",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "到處",
+          "en": "everywhere",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "disiw = disiu",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，disiwdisiw 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08",
+      "source": "pazih-dict",
+      "localId": "p109-08",
+      "unit": "affix",
+      "text": "dius-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08-f01",
+      "source": "pazih-dict",
+      "localId": "p109-08-f01",
+      "unit": "word",
+      "text": "dadius",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "湯匙",
+          "en": "spoon, ladle",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08-f02",
+      "source": "pazih-dict",
+      "localId": "p109-08-f02",
+      "unit": "word",
+      "text": "mudius",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "淘，舀（水、湯）",
+          "en": "to scoop out",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08-x01",
+      "source": "pazih-dict",
+      "localId": "p109-08-x01",
+      "unit": "sentence",
+      "text": "diusi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舀！",
+          "en": "Scoop out!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "example",
+        "parent": "pazih-dict:p109-08-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08-f03",
+      "source": "pazih-dict",
+      "localId": "p109-08-f03",
+      "unit": "word",
+      "text": "diidius",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在舀",
+          "en": "is scooping out",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "form",
+        "parent": "pazih-dict:p109-08-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-08-x02",
+      "source": "pazih-dict",
+      "localId": "p109-08-x02",
+      "unit": "sentence",
+      "text": "yaku kalu imini mudius dalum mudaux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我用這個舀水來喝",
+          "en": "I use this to scoop out water to drink.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-08",
+        "role": "example",
+        "parent": "pazih-dict:p109-08-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109，dius- 條下例句",
+        "page": 109,
+        "pages": [
+          109
+        ],
+        "row": null,
+        "code": "p109-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09",
+      "source": "pazih-dict",
+      "localId": "p109-09",
+      "unit": "affix",
+      "text": "dixipu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09-f01",
+      "source": "pazih-dict",
+      "localId": "p109-09-f01",
+      "unit": "word",
+      "text": "manadixipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗臉",
+          "en": "to wash one’s face",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09-f02",
+      "source": "pazih-dict",
+      "localId": "p109-09-f02",
+      "unit": "word",
+      "text": "didixipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在洗臉",
+          "en": "is washing one's face",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "form",
+        "parent": "pazih-dict:p109-09-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09-f03",
+      "source": "pazih-dict",
+      "localId": "p109-09-f03",
+      "unit": "word",
+      "text": "panadixipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗臉",
+          "en": "to wash one's face",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09-f04",
+      "source": "pazih-dict",
+      "localId": "p109-09-f04",
+      "unit": "word",
+      "text": "saadixipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "臉盆",
+          "en": "basin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p109-09-f05",
+      "source": "pazih-dict",
+      "localId": "p109-09-f05",
+      "unit": "word",
+      "text": "saapanadixipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "毛巾",
+          "en": "towel",
+          "nan": null
+        },
+        {
+          "zh": "臉盆",
+          "en": "basin",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p109-09",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.109–110，dixipu- 條下派生詞",
+        "page": 109,
+        "pages": [
+          109,
+          110
+        ],
+        "row": null,
+        "code": "p109-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p109.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

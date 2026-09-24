@@ -1,0 +1,1973 @@
+{
+  "source": "pazih-dict",
+  "shard": "p084",
+  "label": "p.84",
+  "groups": [
+    {
+      "id": "pazih-dict:p084-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bari",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baribari",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baribari 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "barituk",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.84，barituk 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bariw-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baru",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baru",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p084-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baruway",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baruway 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p084-01",
+      "source": "pazih-dict",
+      "localId": "p084-01",
+      "unit": "word",
+      "text": "bari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "風",
+          "en": "wind",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-f01",
+      "source": "pazih-dict",
+      "localId": "p084-01-f01",
+      "unit": "word",
+      "text": "baribari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "風箏",
+          "en": "kite",
+          "nan": null
+        },
+        {
+          "zh": "愛吹牛的人",
+          "en": "one who boasts off",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-f02",
+      "source": "pazih-dict",
+      "localId": "p084-01-f02",
+      "unit": "word",
+      "text": "mabari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刮風",
+          "en": "to blow (wind)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-f03",
+      "source": "pazih-dict",
+      "localId": "p084-01-f03",
+      "unit": "word",
+      "text": "mabaribari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刮風",
+          "en": "The wind keeps blowing.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "form",
+        "parent": "pazih-dict:p084-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-x01",
+      "source": "pazih-dict",
+      "localId": "p084-01-x01",
+      "unit": "sentence",
+      "text": "nukuazixa ka mabari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "昨天刮風了",
+          "en": "The wind blew yesterday.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "example",
+        "parent": "pazih-dict:p084-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-f04",
+      "source": "pazih-dict",
+      "localId": "p084-01-f04",
+      "unit": "word",
+      "text": "taxubabari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "多風的",
+          "en": "windy",
+          "nan": null
+        },
+        {
+          "zh": "微冷的，涼爽的",
+          "en": "cool",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-01-f05",
+      "source": "pazih-dict",
+      "localId": "p084-01-f05",
+      "unit": "word",
+      "text": "xubabari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吹涼風",
+          "en": "to enjoy a breeze",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-01",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bari 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-02",
+      "source": "pazih-dict",
+      "localId": "p084-02",
+      "unit": "word",
+      "text": "baribari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "風箏",
+          "en": "kite",
+          "nan": null
+        },
+        {
+          "zh": "愛吹牛的人",
+          "en": "one who boasts off",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "bari",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baribari 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-03",
+      "source": "pazih-dict",
+      "localId": "p084-03",
+      "unit": "word",
+      "text": "barituk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "籐製的帽子",
+          "en": "cap made from rattan",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，barituk 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04",
+      "source": "pazih-dict",
+      "localId": "p084-04",
+      "unit": "affix",
+      "text": "bariw-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-f01",
+      "source": "pazih-dict",
+      "localId": "p084-04-f01",
+      "unit": "word",
+      "text": "maaxibariw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "賣",
+          "en": "to sell",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x01",
+      "source": "pazih-dict",
+      "localId": "p084-04-x01",
+      "unit": "sentence",
+      "text": "nahada maaxibariw makelem a alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一個賣鹹魚的人經過",
+          "en": "A man who sold salted fish happened to pass.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x02",
+      "source": "pazih-dict",
+      "localId": "p084-04-x02",
+      "unit": "sentence",
+      "text": "maxibariw kahuy ki yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我賣木柴",
+          "en": "I sell wood.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-f02",
+      "source": "pazih-dict",
+      "localId": "p084-04-f02",
+      "unit": "word",
+      "text": "mubariw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "買",
+          "en": "to buy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x03",
+      "source": "pazih-dict",
+      "localId": "p084-04-x03",
+      "unit": "sentence",
+      "text": "bariwi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "買！",
+          "en": "Buy!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x04",
+      "source": "pazih-dict",
+      "localId": "p084-04-x04",
+      "unit": "sentence",
+      "text": "muasay mubariw rumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去買肉",
+          "en": "be going to buy meat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x05",
+      "source": "pazih-dict",
+      "localId": "p084-04-x05",
+      "unit": "sentence",
+      "text": "muasay mubariw selem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去買脂肪",
+          "en": "be going to buy lean",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x06",
+      "source": "pazih-dict",
+      "localId": "p084-04-x06",
+      "unit": "sentence",
+      "text": "muasay mubariw xalam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要去買蔬菜",
+          "en": "be going to buy vegetables",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x07",
+      "source": "pazih-dict",
+      "localId": "p084-04-x07",
+      "unit": "sentence",
+      "text": "ina ka mubariw rakihan a siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親買了衣服給小孩",
+          "en": "The mother bought clothes for the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x08",
+      "source": "pazih-dict",
+      "localId": "p084-04-x08",
+      "unit": "sentence",
+      "text": "ina ka mausay mubariw rakihan a siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親將去買衣服給小孩",
+          "en": "The mother is going to buy clothes for the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x09",
+      "source": "pazih-dict",
+      "localId": "p084-04-x09",
+      "unit": "phrase",
+      "text": "yuka babariway",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要再買",
+          "en": "will buy it again",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x10",
+      "source": "pazih-dict",
+      "localId": "p084-04-x10",
+      "unit": "sentence",
+      "text": "yaku nahada paray ka, babariway paripari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如果我有錢，我要買一輛車",
+          "en": "If I have money, I'll buy a car.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x11",
+      "source": "pazih-dict",
+      "localId": "p084-04-x11",
+      "unit": "phrase",
+      "text": "yuka tabariwaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "再買吧",
+          "en": "! Let’s buy it again.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f02",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-f03",
+      "source": "pazih-dict",
+      "localId": "p084-04-f03",
+      "unit": "word",
+      "text": "muxibariw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "賣",
+          "en": "to sell",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x12",
+      "source": "pazih-dict",
+      "localId": "p084-04-x12",
+      "unit": "sentence",
+      "text": "xibariwi ki alaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "賣魚！",
+          "en": "Sell the fish!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f03",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x13",
+      "source": "pazih-dict",
+      "localId": "p084-04-x13",
+      "unit": "sentence",
+      "text": "muxibariw umamah yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我賣了水田",
+          "en": "I sold a rice paddy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f03",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x14",
+      "source": "pazih-dict",
+      "localId": "p084-04-x14",
+      "unit": "sentence",
+      "text": "xinabariw naki ki siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "衣服是我賣的",
+          "en": "I sold the clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f03",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-f04",
+      "source": "pazih-dict",
+      "localId": "p084-04-f04",
+      "unit": "word",
+      "text": "taxibariw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "商人，店主",
+          "en": "merchant",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "form",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-04-x15",
+      "source": "pazih-dict",
+      "localId": "p084-04-x15",
+      "unit": "sentence",
+      "text": "taxibariw a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "商人",
+          "en": "merchant",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-04",
+        "role": "example",
+        "parent": "pazih-dict:p084-04-f04",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，bariw- 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-05",
+      "source": "pazih-dict",
+      "localId": "p084-05",
+      "unit": "word",
+      "text": "baru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "私生子",
+          "en": "bastard, an illegitimate child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p084-05-x01",
+      "source": "pazih-dict",
+      "localId": "p084-05-x01",
+      "unit": "sentence",
+      "text": "baru a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "私生子",
+          "en": "an illegitimate child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-05",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-05-f01",
+      "source": "pazih-dict",
+      "localId": "p084-05-f01",
+      "unit": "word",
+      "text": "matubaru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生私生子",
+          "en": "to bear an illegitimate child",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條下派生詞",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-06",
+      "source": "pazih-dict",
+      "localId": "p084-06",
+      "unit": "word",
+      "text": "baru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "對面",
+          "en": "the other side",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p084-06-x01",
+      "source": "pazih-dict",
+      "localId": "p084-06-x01",
+      "unit": "phrase",
+      "text": "baru daran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "路那邊",
+          "en": "the other side of the road",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baru 條下例句",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p084-07",
+      "source": "pazih-dict",
+      "localId": "p084-07",
+      "unit": "word",
+      "text": "baruway",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "薔薇",
+          "en": "rose",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p084-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.84，baruway 條",
+        "page": 84,
+        "pages": [
+          84
+        ],
+        "row": null,
+        "code": "p084-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p084.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,2319 @@
+{
+  "source": "pazih-dict",
+  "shard": "p155",
+  "label": "p.155",
+  "groups": [
+    {
+      "id": "pazih-dict:p155-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kizex-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p155-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kizih-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p155-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kizip-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p155-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kizu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p155-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-ku",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，-ku 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p155-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kua-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kua- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p155-01",
+      "source": "pazih-dict",
+      "localId": "p155-01",
+      "unit": "affix",
+      "text": "kizex-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-f01",
+      "source": "pazih-dict",
+      "localId": "p155-01-f01",
+      "unit": "word",
+      "text": "mukizex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "站起來",
+          "en": "to stand up",
+          "nan": null
+        },
+        {
+          "zh": "生下（嬰孩）",
+          "en": "to give birth (to a baby)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-x01",
+      "source": "pazih-dict",
+      "localId": "p155-01-x01",
+      "unit": "sentence",
+      "text": "kizexi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "站！",
+          "en": "Stand!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "example",
+        "parent": "pazih-dict:p155-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-x02",
+      "source": "pazih-dict",
+      "localId": "p155-01-x02",
+      "unit": "sentence",
+      "text": "ana kizex!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別站！",
+          "en": "Don't stand!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "example",
+        "parent": "pazih-dict:p155-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-f02",
+      "source": "pazih-dict",
+      "localId": "p155-01-f02",
+      "unit": "word",
+      "text": "kiikizex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在站",
+          "en": "is standing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "form",
+        "parent": "pazih-dict:p155-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-f03",
+      "source": "pazih-dict",
+      "localId": "p155-01-f03",
+      "unit": "word",
+      "text": "mukizekizex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他一直站著",
+          "en": "He keeps standing.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "form",
+        "parent": "pazih-dict:p155-01-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-01-x03",
+      "source": "pazih-dict",
+      "localId": "p155-01-x03",
+      "unit": "sentence",
+      "text": "kizekizexi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直站著！",
+          "en": "Keep standing!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-01",
+        "role": "example",
+        "parent": "pazih-dict:p155-01-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizex- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02",
+      "source": "pazih-dict",
+      "localId": "p155-02",
+      "unit": "affix",
+      "text": "kizih-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-f01",
+      "source": "pazih-dict",
+      "localId": "p155-02-f01",
+      "unit": "word",
+      "text": "mukizih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下來",
+          "en": "to come down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x01",
+      "source": "pazih-dict",
+      "localId": "p155-02-x01",
+      "unit": "sentence",
+      "text": "kizihi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下來！",
+          "en": "Come down!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-f02",
+      "source": "pazih-dict",
+      "localId": "p155-02-f02",
+      "unit": "word",
+      "text": "kiikizih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在下來",
+          "en": "is coming down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "form",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-f03",
+      "source": "pazih-dict",
+      "localId": "p155-02-f03",
+      "unit": "word",
+      "text": "kiikizihay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "快要下來",
+          "en": "will come down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "form",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x02",
+      "source": "pazih-dict",
+      "localId": "p155-02-x02",
+      "unit": "sentence",
+      "text": "kikizihay tipuz a rariw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們就要從高山頂上下來",
+          "en": "They are coming down from the top of the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x03",
+      "source": "pazih-dict",
+      "localId": "p155-02-x03",
+      "unit": "sentence",
+      "text": "mikizih laiki saw a isia'e",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那男人下來了",
+          "en": "That man came down (the tree).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-f04",
+      "source": "pazih-dict",
+      "localId": "p155-02-f04",
+      "unit": "word",
+      "text": "mukizikizih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直下來",
+          "en": "(He) keeps coming down.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "form",
+        "parent": "pazih-dict:p155-02-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-f05",
+      "source": "pazih-dict",
+      "localId": "p155-02-f05",
+      "unit": "word",
+      "text": "pakizih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放下",
+          "en": "to put down, to release",
+          "nan": null
+        },
+        {
+          "zh": "卸貨",
+          "en": "to unload",
+          "nan": null
+        },
+        {
+          "zh": "解開",
+          "en": "to unfasten",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x04",
+      "source": "pazih-dict",
+      "localId": "p155-02-x04",
+      "unit": "sentence",
+      "text": "isia lai ki paakizihay inapa a buzux rawil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他放下背上的弓和箭",
+          "en": "He put down the bow and arrows carried on his back.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f05",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x05",
+      "source": "pazih-dict",
+      "localId": "p155-02-x05",
+      "unit": "sentence",
+      "text": "isia lai ki naki a paakizihay buzux u rawil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我放下我的弓和箭",
+          "en": "I released my bow and arrows.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f05",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x06",
+      "source": "pazih-dict",
+      "localId": "p155-02-x06",
+      "unit": "sentence",
+      "text": "pakizih isiw panunuh",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "解下你餵你奶",
+          "en": "Unfastened you (and) nursed (you).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f05",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x07",
+      "source": "pazih-dict",
+      "localId": "p155-02-x07",
+      "unit": "sentence",
+      "text": "pakizih la nisia a iniliw laiki saw a isia i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那個人放下他所挑的東西",
+          "en": "That person put down what he was carrying.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f05",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-02-x08",
+      "source": "pazih-dict",
+      "localId": "p155-02-x08",
+      "unit": "sentence",
+      "text": "lia ka ina isia ka, pakizihen paidemen di batu babaw lia ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後母親解下嬰兒，讓他在岩石上睡覺",
+          "en": "Then the mother released the baby and let him sleep on the rock.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-02",
+        "role": "example",
+        "parent": "pazih-dict:p155-02-f05",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizih- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03",
+      "source": "pazih-dict",
+      "localId": "p155-03",
+      "unit": "affix",
+      "text": "kizip-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-f01",
+      "source": "pazih-dict",
+      "localId": "p155-03-f01",
+      "unit": "word",
+      "text": "mukizip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擰",
+          "en": "to pinch",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-f02",
+      "source": "pazih-dict",
+      "localId": "p155-03-f02",
+      "unit": "word",
+      "text": "kiikizip",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在擰",
+          "en": "is pinching",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "form",
+        "parent": "pazih-dict:p155-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-x01",
+      "source": "pazih-dict",
+      "localId": "p155-03-x01",
+      "unit": "sentence",
+      "text": "kizibi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "擰！",
+          "en": "Pinch!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "example",
+        "parent": "pazih-dict:p155-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-x02",
+      "source": "pazih-dict",
+      "localId": "p155-03-x02",
+      "unit": "sentence",
+      "text": "kizikizibi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直擰！",
+          "en": "Keep pinching!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "example",
+        "parent": "pazih-dict:p155-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-x03",
+      "source": "pazih-dict",
+      "localId": "p155-03-x03",
+      "unit": "sentence",
+      "text": "yaku kiziben nimisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被他擰了",
+          "en": "I was pinched by him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "example",
+        "parent": "pazih-dict:p155-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-03-x04",
+      "source": "pazih-dict",
+      "localId": "p155-03-x04",
+      "unit": "sentence",
+      "text": "mukizip nisiw a dais ki tata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿姨擰你的臉",
+          "en": "The aunt pinched your face.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-03",
+        "role": "example",
+        "parent": "pazih-dict:p155-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizip- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04",
+      "source": "pazih-dict",
+      "localId": "p155-04",
+      "unit": "affix",
+      "text": "kizu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-f01",
+      "source": "pazih-dict",
+      "localId": "p155-04-f01",
+      "unit": "word",
+      "text": "kakizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕機",
+          "en": "a type of trap (a rat-trap made of bamboo and rattan)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-f02",
+      "source": "pazih-dict",
+      "localId": "p155-04-f02",
+      "unit": "word",
+      "text": "mukizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "挖出",
+          "en": "to dig up (something), to dig with a shovel",
+          "nan": null
+        },
+        {
+          "zh": "刻",
+          "en": "to cut (a mark), to carve",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-f03",
+      "source": "pazih-dict",
+      "localId": "p155-04-f03",
+      "unit": "word",
+      "text": "kiikizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在刻",
+          "en": "is making a mark",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "form",
+        "parent": "pazih-dict:p155-04-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-x01",
+      "source": "pazih-dict",
+      "localId": "p155-04-x01",
+      "unit": "sentence",
+      "text": "kizui!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刻！",
+          "en": "Carve it!",
+          "nan": null
+        },
+        {
+          "zh": "挖！",
+          "en": "Digging it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "example",
+        "parent": "pazih-dict:p155-04-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-x02",
+      "source": "pazih-dict",
+      "localId": "p155-04-x02",
+      "unit": "sentence",
+      "text": "kizui naki a langat!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "刻我的名字！",
+          "en": "Engrave my name!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "example",
+        "parent": "pazih-dict:p155-04-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-f04",
+      "source": "pazih-dict",
+      "localId": "p155-04-f04",
+      "unit": "word",
+      "text": "kizu'un",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "挖出了",
+          "en": "digged up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "form",
+        "parent": "pazih-dict:p155-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-x03",
+      "source": "pazih-dict",
+      "localId": "p155-04-x03",
+      "unit": "sentence",
+      "text": "mukizukizu daxe ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親一直挖地",
+          "en": "Father keeps digging the ground.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "example",
+        "parent": "pazih-dict:p155-04-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-04-f05",
+      "source": "pazih-dict",
+      "localId": "p155-04-f05",
+      "unit": "word",
+      "text": "saakizu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鏟，鍬",
+          "en": "shovel",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kizu- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-05",
+      "source": "pazih-dict",
+      "localId": "p155-05",
+      "unit": "affix",
+      "text": "-ku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我（主格）",
+          "en": "I (Nom.), ku instead of aku if the preceding form ends with /a/, e.g., liaku",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "~",
+          "text": "aku",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，-ku 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-06",
+      "source": "pazih-dict",
+      "localId": "p155-06",
+      "unit": "affix",
+      "text": "kua-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kua- 條",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-06-f01",
+      "source": "pazih-dict",
+      "localId": "p155-06-f01",
+      "unit": "word",
+      "text": "taukua",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "酋長，族長",
+          "en": "chieftain",
+          "nan": null
+        },
+        {
+          "zh": "士官，首領",
+          "en": "leader (loan from Taiwanese 官 kuann)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kua- 條下派生詞",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-06-x01",
+      "source": "pazih-dict",
+      "localId": "p155-06-x01",
+      "unit": "sentence",
+      "text": "mitun lia ki taukua mukawas yu mataru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長官站了起來大聲說",
+          "en": "The chief stood up and vociferated.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-06",
+        "role": "example",
+        "parent": "pazih-dict:p155-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kua- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p155-06-x02",
+      "source": "pazih-dict",
+      "localId": "p155-06-x02",
+      "unit": "phrase",
+      "text": "tautaukua, pakupakusia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "螞蟻王，所帶領的螞蟻",
+          "en": "leader of the ants",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p155-06",
+        "role": "example",
+        "parent": "pazih-dict:p155-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.155，kua- 條下例句",
+        "page": 155,
+        "pages": [
+          155
+        ],
+        "row": null,
+        "code": "p155-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p155.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

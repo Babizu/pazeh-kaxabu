@@ -1,0 +1,780 @@
+{
+  "source": "pazih-dict",
+  "shard": "p116",
+  "label": "p.116",
+  "groups": [
+    {
+      "id": "pazih-dict:p116-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "giu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.116，giu 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p116-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "gizem-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p116-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "gunugun",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gunugun 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p116-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "guzut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.116，guzut- 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p116-01",
+      "source": "pazih-dict",
+      "localId": "p116-01",
+      "unit": "word",
+      "text": "giu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "同名的人",
+          "en": "a person of the same name",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，giu 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-02",
+      "source": "pazih-dict",
+      "localId": "p116-02",
+      "unit": "affix",
+      "text": "gizem-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-02-f01",
+      "source": "pazih-dict",
+      "localId": "p116-02-f01",
+      "unit": "word",
+      "text": "magizem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "強壯的",
+          "en": "strong, powerful",
+          "nan": null
+        },
+        {
+          "zh": "勇敢",
+          "en": "brave",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條下派生詞",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-02-x01",
+      "source": "pazih-dict",
+      "localId": "p116-02-x01",
+      "unit": "sentence",
+      "text": "nahani ki taubaret mamaleng magizem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鄰村的強壯青年來了",
+          "en": "The strong youth of the neighboring village came.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "example",
+        "parent": "pazih-dict:p116-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條下例句",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-02-x02",
+      "source": "pazih-dict",
+      "localId": "p116-02-x02",
+      "unit": "sentence",
+      "text": "aa asay ki na magizem a saw pai siw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你真是能幹的人啊！",
+          "en": "What a capable person you are!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "example",
+        "parent": "pazih-dict:p116-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條下例句",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-02-f02",
+      "source": "pazih-dict",
+      "localId": "p116-02-f02",
+      "unit": "word",
+      "text": "tugizem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "強壯",
+          "en": "strong",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條下派生詞",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": "Blust",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "1999:351"
+      ]
+    },
+    {
+      "id": "pazih-dict:p116-02-x03",
+      "source": "pazih-dict",
+      "localId": "p116-02-x03",
+      "unit": "sentence",
+      "text": "asilu tugizem di tunan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Asilu 比 Tun 強壯",
+          "en": "Asilu is stronger than Tun.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-02",
+        "role": "example",
+        "parent": "pazih-dict:p116-02-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gizem- 條下例句",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": "Blust",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "1999:351"
+      ]
+    },
+    {
+      "id": "pazih-dict:p116-03",
+      "source": "pazih-dict",
+      "localId": "p116-03",
+      "unit": "word",
+      "text": "gunugun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水桶",
+          "en": "bucket",
+          "nan": null
+        },
+        {
+          "zh": "桶",
+          "en": "pail",
+          "nan": null
+        },
+        {
+          "zh": "米斗",
+          "en": "a measure of rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gunugun 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-03-x01",
+      "source": "pazih-dict",
+      "localId": "p116-03-x01",
+      "unit": "phrase",
+      "text": "taidera gunugun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "箍的水桶",
+          "en": "hoof of a wooden tub or pail",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gunugun 條下例句",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-03-f01",
+      "source": "pazih-dict",
+      "localId": "p116-03-f01",
+      "unit": "word",
+      "text": "mugunugun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "量（米）",
+          "en": "to measure (quantity) with rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gunugun 條下派生詞",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-03-f02",
+      "source": "pazih-dict",
+      "localId": "p116-03-f02",
+      "unit": "word",
+      "text": "saagunugun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "米斗",
+          "en": "a dry or liquid measure of larger size, measure of rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，gunugun 條下派生詞",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-04",
+      "source": "pazih-dict",
+      "localId": "p116-04",
+      "unit": "affix",
+      "text": "guzut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，guzut- 條",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p116-04-f01",
+      "source": "pazih-dict",
+      "localId": "p116-04-f01",
+      "unit": "word",
+      "text": "saguzut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "草蓆",
+          "en": "mat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p116-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.116，guzut- 條下派生詞",
+        "page": 116,
+        "pages": [
+          116
+        ],
+        "row": null,
+        "code": "p116-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p116.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,5065 @@
+{
+  "source": "lin-grammar",
+  "shard": "ch15",
+  "label": "CH15 複雜句",
+  "groups": [
+    {
+      "id": "lin-grammar:ch15",
+      "source": "lin-grammar",
+      "type": "list",
+      "title": "CH15 複雜句",
+      "subtitle": null,
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": null,
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "lin-grammar:ch15-15.2b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.2b",
+      "unit": "sentence",
+      "text": "haaput mubaiw humak haki yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我想要買房子。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.2b)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.2b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.2b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.4b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.4b",
+      "unit": "sentence",
+      "text": "yaku talima eezaw mupuza mikita atun haé.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我只有自己來看 Atun。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.4b)（潘德興 2021/01/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.4b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.4b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.5a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.5a",
+      "unit": "sentence",
+      "text": "yaku mubaza mukawat kaxabu a ahan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我會說噶哈巫的話。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.5a)（潘德興 2016/07/29）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.5a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.5a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2016/07/29"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.5b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.5b",
+      "unit": "sentence",
+      "text": "yaku a ina pahaihan mutalek saaken.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的母親忘記煮菜。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.5b)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.5b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.5b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.6a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.6a",
+      "unit": "sentence",
+      "text": "atun ka mutuku meken sumay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 坐著吃飯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.6a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.6a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.6a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.7a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.7a",
+      "unit": "sentence",
+      "text": "pialay haaput paxuma mulasi.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "開始要種稻子。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.7a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.7a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.7a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.7b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.7b",
+      "unit": "sentence",
+      "text": "yaku mudawan muuput lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我洗完澡了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.7b)（潘德興 2017/04/26）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.7b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.7b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/04/26"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.8a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.8a",
+      "unit": "sentence",
+      "text": "yaku haaput mikita isiw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我喜歡看你。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.8a)（潘德興 2019/08/27）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.8a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.8a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/08/27"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.8b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.8b",
+      "unit": "sentence",
+      "text": "yaku a aba ka haaput meken tana haé.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親喜歡吃刺蔥。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.8b)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.8b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.8b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.9a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.9a",
+      "unit": "sentence",
+      "text": "haaput mudan lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要下雨了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.9a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.9a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.9a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.9b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.9b",
+      "unit": "sentence",
+      "text": "yaku a apu mudawan iak lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖父洗澡洗好了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.9b)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.9b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.9b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.10",
+      "source": "lin-grammar",
+      "localId": "ch15-15.10",
+      "unit": "sentence",
+      "text": "muuput a mudawan lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "洗完澡了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.10)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.10",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.10.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.11a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.11a",
+      "unit": "sentence",
+      "text": "yaku mubaza tumala kaxabu a ahan lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我會聽噶哈巫的話了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.11a)（潘德興 2016/07/29）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.11a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.11a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2016/07/29"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.12a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.12a",
+      "unit": "sentence",
+      "text": "imini a beleben ka imisiw maa mupuza.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這香蕉是他拿來的。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.12a)（潘德興 2018/07/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.12a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.12a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.12b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.12b",
+      "unit": "sentence",
+      "text": "imini ka kaidi kalikus maa mupuza.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這在大湳拿來的。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.12b)（潘德興 2018/10/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.12b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.12b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.17a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.17a",
+      "unit": "sentence",
+      "text": "yaku a aba muzakay maida.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親走得很快。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 16
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.17a)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.17a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.17a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.17b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.17b",
+      "unit": "sentence",
+      "text": "yaku a apu muzakay madiak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖父走很慢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 17
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.17b)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.17b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.17b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.17c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.17c",
+      "unit": "sentence",
+      "text": "mituku mades.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "坐很久。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 18
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.17c)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.17c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.17c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.18a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.18a",
+      "unit": "sentence",
+      "text": "yaku a suazi meken ka maida.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的弟弟吃很快。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 19
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.18a)（潘德興 2020/11/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.18a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.18a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.18b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.18b",
+      "unit": "sentence",
+      "text": "yaku meken sumay ka madiak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃飯很慢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 20
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.18b)（潘德興 2021/01/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.18b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.18b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.18c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.18c",
+      "unit": "sentence",
+      "text": "yaku mukumuk alaw ka sabang.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我抓魚很厲害。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 21
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.18c)（潘德興 2020/11/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.18c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.18c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.20",
+      "source": "lin-grammar",
+      "localId": "ch15-15.20",
+      "unit": "sentence",
+      "text": "yaku a suazi meken ka maida.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的弟弟吃很快。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.20)（潘德興 2020/11/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.20",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.20.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.21a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.21a",
+      "unit": "sentence",
+      "text": "yaku a aba ka maida a muzakay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親走路很快。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 23
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.21a)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.21a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.21a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.21b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.21b",
+      "unit": "sentence",
+      "text": "yaku ka sabang a mukumuk alaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我抓魚很厲害。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.21b)（潘德興 2017/09/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.21b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.21b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2017/09/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.21c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.21c",
+      "unit": "sentence",
+      "text": "yaku a apu madiak a muzaky.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的祖父走路走很慢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 25
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.21c)（潘德興 2020/10/05）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.21c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.21c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/05"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.24a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.24a",
+      "unit": "sentence",
+      "text": "yaku haaput maa taating a selem mausay yaku a batan a humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要拿豬肉去朋友家。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 26
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.24a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.24a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.24a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.24b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.24b",
+      "unit": "sentence",
+      "text": "mukusa binayu madu tilikas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去山上放陷阱。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 27
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.24b)（潘德興 2015/12/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.24b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.24b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2015/12/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.26a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.26a",
+      "unit": "sentence",
+      "text": "atun ka mikita balan ngaangazip titay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 看到貓正在咬老鼠。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 28
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.26a)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.26a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.26a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.26b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.26b",
+      "unit": "sentence",
+      "text": "yaku padudu atun nita kaxabu a ahan sasay’en a mukawas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我問 Atun 咱們噶哈巫的話怎麼說。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 29
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.26b)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.26b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.26b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.26c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.26c",
+      "unit": "sentence",
+      "text": "yaku a aba haaput tumala yaku maatoway.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親想要聽我唱歌。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 30
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.26c)（潘德興 2021/01/19）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.26c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.26c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/19"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.27a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.27a",
+      "unit": "sentence",
+      "text": "yaku mikita kunay saasakaw nisaw a bon.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看到 Kunay 正在偷別人的南瓜。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 31
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.27a)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.27a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.27a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.27b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.27b",
+      "unit": "sentence",
+      "text": "yaku mikita nita kunay hééhébut nita atun.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看到咱們的 Kunay 正在打咱們的 atun。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 32
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.27b)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.27b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.27b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.27c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.27c",
+      "unit": "sentence",
+      "text": "yaku ka mikita atun mukusa axung maa alaw.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看到 Atun 去溪裡抓魚。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 33
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.27c)（潘德興 2021/04/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.27c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.27c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/04/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.28",
+      "source": "lin-grammar",
+      "localId": "ch15-15.28",
+      "unit": "sentence",
+      "text": "yaku tumala atun ka maxatakat lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我聽到 Atun 成為老師了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 34
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.28)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.28",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.28.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.29",
+      "source": "lin-grammar",
+      "localId": "ch15-15.29",
+      "unit": "sentence",
+      "text": "mikita atun saana kunay muhébut.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）看到 Atun 被 Kunay 打。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.29)（潘德興 2021/04/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.29",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.29.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/04/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.30a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.30a",
+      "unit": "sentence",
+      "text": "yaku mubaza sawan nahaza udan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道明天有雨。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 36
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.30a)（潘德興 2021/04/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.30a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.30a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/04/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.30b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.30b",
+      "unit": "sentence",
+      "text": "yaku mamek isiw malaleng kaidi tshay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不知道你住在哪裡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 37
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.30b)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.30b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.30b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.30c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.30c",
+      "unit": "sentence",
+      "text": "yaku pahaihan isiw malaleng kaidi tshay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我忘記你住在哪裡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 38
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.30c)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.30c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.30c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.31a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.31a",
+      "unit": "sentence",
+      "text": "yaku a ina mukawas, atun ka haaput maa nisaw a akhéhén mamais.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的母親說 Atun 想要娶別人家的女孩。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.31a)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.31a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.31a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.31b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.31b",
+      "unit": "sentence",
+      "text": "yaku a aba mukawas, sawan ka nahaza udan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親說明天有雨。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 40
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.31b)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.31b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.31b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.32a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.32a",
+      "unit": "sentence",
+      "text": "yaku ka maha isiw usa humak maa siatu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我叫你去家裡拿衣服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 41
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.32a)（潘德興 2018/07/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.32a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.32a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.32b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.32b",
+      "unit": "sentence",
+      "text": "maha yaku liaki yaku a ina, mausay mudawan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的母親叫我去洗澡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 42
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.32b)（潘德興 2021/01/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.32b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.32b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.33",
+      "source": "lin-grammar",
+      "localId": "ch15-15.33",
+      "unit": "sentence",
+      "text": "kiikiliw liaki nisiw a ina, usa mudawan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的母親正在叫你去洗澡。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 43
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.33)（潘德興 2021/01/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.33",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.33.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.34",
+      "source": "lin-grammar",
+      "localId": "ch15-15.34",
+      "unit": "sentence",
+      "text": "yaku padudu nita pungu imini a selem ka haima pai.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我問老闆這塊豬肉多少錢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 44
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.34)（潘德興 2021/02/18）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.34",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.34.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/18"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.38a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.38a",
+      "unit": "sentence",
+      "text": "kaidi xasep a ilas liaka nahaza xaxela.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在十月的時候有霜。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 45
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.38a)（潘德興 2020/08/13）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.38a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.38a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/13"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.38b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.38b",
+      "unit": "sentence",
+      "text": "yaku kaidi mataw a malaliw haka nita a takat mupuza kiikita yami.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在大地震的時候，咱們的老師來看我們。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 46
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.38b)（潘德興 2016/07/29）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.38b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.38b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2016/07/29"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.38c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.38c",
+      "unit": "sentence",
+      "text": "kaidi maa mamais, yaku a ina iu puihiat lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在娶妻子的時候，我的媽媽又過世了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 47
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.38c)（潘德興 2015/12/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.38c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.38c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2015/12/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.38d",
+      "source": "lin-grammar",
+      "localId": "ch15-15.38d",
+      "unit": "sentence",
+      "text": "ohoza kaidi tanatunu, hoaho mupuza, mubuyak a daan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以前在日本時代的時候，日本人來，做路。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 48
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.38d)（潘德興 2019/10/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.38d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.38d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2019/10/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.40a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.40a",
+      "unit": "sentence",
+      "text": "ini musinaw a ima ka ana meken sumay hann!",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如果沒洗手，別吃飯喔！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.40a)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.40a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.40a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.40b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.40b",
+      "unit": "sentence",
+      "text": "yaku ka nahaza dahu a pai ka haaput mubaiw a humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我如果有很多錢，要買房子。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 50
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.40b)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.40b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.40b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.40c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.40c",
+      "unit": "sentence",
+      "text": "isiw kuang a pai ka ana mubaiw axaxay saanu yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你如果沒有錢，不要買東西給我。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.40c)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.40c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.40c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.40d",
+      "source": "lin-grammar",
+      "localId": "ch15-15.40d",
+      "unit": "sentence",
+      "text": "isiw mayaw mudawan, ana midem!",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你如果還沒洗澡，別睡覺！",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 52
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.40d)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.40d",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.40d.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.42",
+      "source": "lin-grammar",
+      "localId": "ch15-15.42",
+      "unit": "sentence",
+      "text": "yaku nahaza pai ka haaput mubaiw humak haki yaku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我如果有錢，我要買房子。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 53
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.42)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.42",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.42.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.44a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.44a",
+      "unit": "sentence",
+      "text": "yaku na nahaza daali ka imu mupuza ka maki imu mukawas; yaku na kuang a daali saanu meseket ka ini maki imu mutuku.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我如果有時間，你們來，跟你們說話；我如果沒有時間可以休息，沒跟你們坐。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.44a)（潘德興 2020/11/17）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.44a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.44a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/11/17"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.44b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.44b",
+      "unit": "sentence",
+      "text": "isiw ka haaput tabako iu nang? haaput ka baxa isiw, isiw na nang liaka yaku haaput hazing kaidi daan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要斗笠還是不要？要的話給你，你如果不要，我就丟在路上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.44b)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.44b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.44b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.45a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.45a",
+      "unit": "sentence",
+      "text": "isiw na maahan yaku ka yaku nang a maki isiw mukawas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你如果騙我，我就不要跟你講話。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 56
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.45a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.45a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.45a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.48",
+      "source": "lin-grammar",
+      "localId": "ch15-15.48",
+      "unit": "sentence",
+      "text": "yaku tahayak azawzaw haka yaku nang a mukukusa.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我很累，所以我不想工作。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 57
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.48)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.48",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.48.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.49a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.49a",
+      "unit": "sentence",
+      "text": "meken dahu liaka baget taating lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）吃很多，然後變胖一些了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.49a)（潘德興 2018/10/31）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.49a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.49a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/10/31"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.49b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.49b",
+      "unit": "sentence",
+      "text": "yami akhéhén mukusa mutahan pai liaka aba mahabay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們小孩去賺錢了，父親很舒服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 59
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.49b)（潘德興 2020/08/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.49b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.49b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.50a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.50a",
+      "unit": "sentence",
+      "text": "isiw mayaw mudawan, ana midem.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你還沒洗澡，別睡覺。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 60
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.50a)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.50a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.50a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.50b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.50b",
+      "unit": "sentence",
+      "text": "ini mahabay haki yaku, nang a mukusa mukukusa.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不舒服，不想去工作。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 61
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.50b)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.50b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.50b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.51a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.51a",
+      "unit": "sentence",
+      "text": "hakezeng liaka hazian lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老了不好了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 62
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.51a)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.51a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.51a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.52a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.52a",
+      "unit": "sentence",
+      "text": "hazian lia ki yaku a punu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的頭腦不好了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 63
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.52a)（潘德興 2020/08/20）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.52a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.52a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/08/20"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.53a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.53a",
+      "unit": "sentence",
+      "text": "ohoni mudan liaka yaku nang a mukusa mikita umama.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "現在下雨了，我不想去看田。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 64
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.53a)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.53a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.53a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.53b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.53b",
+      "unit": "sentence",
+      "text": "yaku tahayak azawzaw haka yaku nang a mukukusa.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我很累所以我不想工作。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 65
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.53b)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.53b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.53b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.54",
+      "source": "lin-grammar",
+      "localId": "ch15-15.54",
+      "unit": "sentence",
+      "text": "mataw a mulaliw liaka mauit liaki humak.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大地震，房子倒了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 66
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.54)（潘德興 2018/02/08）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.54",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.54.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/02/08"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.56a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.56a",
+      "unit": "sentence",
+      "text": "imini a saw dahu a pai, kulaka ini mahabay a hinis.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個人很多錢，但心情不舒服。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 67
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.56a)（潘德興 2018/07/24）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.56a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.56a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/07/24"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.56b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.56b",
+      "unit": "sentence",
+      "text": "imu haaput tumala Kaxabu a ahan, kulaka Kaxabu a ahan ka sazian a tumala.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們想要聽噶哈巫話，但噶哈巫的話不好聽。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 68
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.56b)",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.56b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.56b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "lin-grammar:ch15-15.56c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.56c",
+      "unit": "sentence",
+      "text": "kahuy ka ini halupas, patakan ka halupas, kulaka patakan ka taating eezaw, kahuy ka mataw taating.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "樹不長，竹子長，但是竹子一點點而已，而樹大一些。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 69
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.56c)（潘德興 2020/10/30）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.56c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.56c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2020/10/30"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.57",
+      "source": "lin-grammar",
+      "localId": "ch15-15.57",
+      "unit": "sentence",
+      "text": "haaput mubaiw selem kula, ini masu pai.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想要買豬肉，但是沒帶錢。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 70
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.57)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.57",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.57.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.58",
+      "source": "lin-grammar",
+      "localId": "ch15-15.58",
+      "unit": "sentence",
+      "text": "haaput meken sumay kula, yaku a tian ka asikit azawzaw liaka nang a meken lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "想要吃飯，但我的肚子很痛，所以不要吃飯了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 71
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.58)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.58",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.58.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.59",
+      "source": "lin-grammar",
+      "localId": "ch15-15.59",
+      "unit": "sentence",
+      "text": "imu ka haaput mupuza yaku a humak mikita yaku, kulaka yaku hazian a buxu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你們喜歡來我的家看我，但我身體不好。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 72
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.59)（潘德興 2021/01/19）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.59",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.59.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/01/19"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.60a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.60a",
+      "unit": "sentence",
+      "text": "yaku ka nahaza dusa a akhéhén, imisiw ka tuu a akhéhén.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我有兩個小孩，他有三個小孩。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 73
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.60a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.60a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.60a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.60b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.60b",
+      "unit": "sentence",
+      "text": "yaku ka malaleng kaidi sianglukus, imisiw ka malaleng kaidi baisia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我住在守城，他住在牛眠。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 74
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.60b)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.60b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.60b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.61a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.61a",
+      "unit": "sentence",
+      "text": "yaku ka malaleng kaidi sianglukus, iu imisiw ka malaleng kaidi baisia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我住在守城，他住在牛眠。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 75
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.61a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.61a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.61a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.62a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.62a",
+      "unit": "sentence",
+      "text": "yaku a aba ka haaput meken tana, iu yaku a ina ka haaput meken hapus.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的父親喜歡吃刺蔥，而我的母親喜歡吃青苔。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 76
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.62a)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.62a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.62a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.62b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.62b",
+      "unit": "sentence",
+      "text": "atun a aba ka kizi meken sumay, iu atun ka mituku meken sumay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 的父親站著吃飯，而 Atun 坐著吃飯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 77
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.62b)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.62b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.62b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.65a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.65a",
+      "unit": "sentence",
+      "text": "yaku a ina iu puihiat lia.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的母親也死了。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 78
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.65a)（潘德興 2015/12/28）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.65a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.65a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2015/12/28"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.65b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.65b",
+      "unit": "sentence",
+      "text": "yaku mubaza sawan iu nahaza udan.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我知道明天也有雨。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 79
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.65b)（潘德興 2021/02/22）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.65b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.65b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/02/22"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.65c",
+      "source": "lin-grammar",
+      "localId": "ch15-15.65c",
+      "unit": "sentence",
+      "text": "atun iu maaisiay kizi meken sumay.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 也一樣站著吃飯。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 80
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.65c)（潘德興 2021/03/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.65c",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.65c.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/03/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.66a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.66a",
+      "unit": "sentence",
+      "text": "atun nahaza saanu mukukusa, iu kunay iu nahaza saanu mukukusa.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 有可以工作，而 Kunay 也有可以工作。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 81
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.66a)（潘德興 2021/04/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.66a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.66a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/04/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.66b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.66b",
+      "unit": "sentence",
+      "text": "atun mukusa binayu madu tilikas, iu kunay iu mukusa binayu madu tilikas.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Atun 去山上放陷阱，而 Kunay 也去山上放陷阱。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 82
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.66b)（潘德興 2021/04/01）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.66b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.66b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2021/04/01"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.67a",
+      "source": "lin-grammar",
+      "localId": "ch15-15.67a",
+      "unit": "sentence",
+      "text": "yaku iu mama mukusa binayu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我和哥哥去山上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 83
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.67a)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.67a",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.67a.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    },
+    {
+      "id": "lin-grammar:ch15-15.67b",
+      "source": "lin-grammar",
+      "localId": "ch15-15.67b",
+      "unit": "sentence",
+      "text": "yaku maki mama mukusa binayu.",
+      "altTexts": [],
+      "dialects": [
+        "kaxabu"
+      ],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我跟哥哥去山上。",
+          "en": null,
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "lin-grammar:ch15",
+        "role": "example",
+        "parent": null,
+        "seq": 84
+      },
+      "citation": {
+        "label": "林鴻瑞《噶哈巫語參考語法》CH15 複雜句 例 (15.67b)（潘德興 2018/03/14）",
+        "page": null,
+        "pages": [],
+        "row": null,
+        "code": "15.67b",
+        "file": null,
+        "timecode": null,
+        "scan": null
+      },
+      "media": [
+        {
+          "type": "audio",
+          "src": "media/lin-grammar/ch15-15.67b.mp3",
+          "start": null,
+          "end": null,
+          "available": true,
+          "label": null
+        }
+      ],
+      "attribution": null,
+      "speaker": "潘德興",
+      "quality": {
+        "status": "unreviewed",
+        "flags": []
+      },
+      "notes": [
+        "記錄日期：2018/03/14"
+      ]
+    }
+  ]
+}

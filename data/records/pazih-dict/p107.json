@@ -1,0 +1,1331 @@
+{
+  "source": "pazih-dict",
+  "shard": "p107",
+  "label": "p.107",
+  "groups": [
+    {
+      "id": "pazih-dict:p107-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "di",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.107，di 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p107-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-di",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.107，-di 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p107-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "diadidua",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.107，diadidua 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p107-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "diak-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.107，diak- 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p107-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dial-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p107-01",
+      "source": "pazih-dict",
+      "localId": "p107-01",
+      "unit": "word",
+      "text": "di",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "勝過",
+          "en": "better than",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "+",
+            "text": "-an",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，di 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-01-x01",
+      "source": "pazih-dict",
+      "localId": "p107-01-x01",
+      "unit": "sentence",
+      "text": "riak di yakuan siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你比我好",
+          "en": "You are better than me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，di 條下例句",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-01-x02",
+      "source": "pazih-dict",
+      "localId": "p107-01-x02",
+      "unit": "sentence",
+      "text": "riak di siw mini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這比那好",
+          "en": "This is better than that.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，di 條下例句",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-01-x03",
+      "source": "pazih-dict",
+      "localId": "p107-01-x03",
+      "unit": "sentence",
+      "text": "riak di ina'an ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親比母親好",
+          "en": "Father is better than Mother.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，di 條下例句",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-02",
+      "source": "pazih-dict",
+      "localId": "p107-02",
+      "unit": "affix",
+      "text": "-di",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向，到",
+          "en": "toward, to",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，-di 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-03",
+      "source": "pazih-dict",
+      "localId": "p107-03",
+      "unit": "word",
+      "text": "diadidua",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "搬",
+          "en": "to move there",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "dua",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，diadidua 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-04",
+      "source": "pazih-dict",
+      "localId": "p107-04",
+      "unit": "affix",
+      "text": "diak-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，diak- 條",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-04-f01",
+      "source": "pazih-dict",
+      "localId": "p107-04-f01",
+      "unit": "word",
+      "text": "madiak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "遲",
+          "en": "late",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107，diak- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107
+        ],
+        "row": null,
+        "code": "p107-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05",
+      "source": "pazih-dict",
+      "localId": "p107-05",
+      "unit": "affix",
+      "text": "dial-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f01",
+      "source": "pazih-dict",
+      "localId": "p107-05-f01",
+      "unit": "word",
+      "text": "kasadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弄壞",
+          "en": "to break down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f02",
+      "source": "pazih-dict",
+      "localId": "p107-05-f02",
+      "unit": "word",
+      "text": "kinasadialan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "已變壞",
+          "en": "got spoiled",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x01",
+      "source": "pazih-dict",
+      "localId": "p107-05-x01",
+      "unit": "sentence",
+      "text": "dali ni saw a kinasadialan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那天那個人的食物壞了",
+          "en": "On that day that person's food was spoiled.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x02",
+      "source": "pazih-dict",
+      "localId": "p107-05-x02",
+      "unit": "sentence",
+      "text": "nu saw a kinasadialan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被人弄壞了",
+          "en": "It was broken by a person.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f03",
+      "source": "pazih-dict",
+      "localId": "p107-05-f03",
+      "unit": "word",
+      "text": "masadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不對，錯",
+          "en": "wrong",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x03",
+      "source": "pazih-dict",
+      "localId": "p107-05-x03",
+      "unit": "phrase",
+      "text": "ini masadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒有不對",
+          "en": "There is nothing wrong.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f03",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x04",
+      "source": "pazih-dict",
+      "localId": "p107-05-x04",
+      "unit": "sentence",
+      "text": "haaka ini masadial a maxakekela",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這樣做才對",
+          "en": "It is not a wrong idea to do so.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f04",
+      "source": "pazih-dict",
+      "localId": "p107-05-f04",
+      "unit": "word",
+      "text": "matudadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "與眾不同，不正常，有錯",
+          "en": "to have something wrong, such as being born feet first, to breech delivery",
+          "nan": null
+        },
+        {
+          "zh": "放歪了，沒有排好",
+          "en": "not to have set in the right place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f05",
+      "source": "pazih-dict",
+      "localId": "p107-05-f05",
+      "unit": "word",
+      "text": "maxadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "錯，否，非",
+          "en": "wrong",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x05",
+      "source": "pazih-dict",
+      "localId": "p107-05-x05",
+      "unit": "sentence",
+      "text": "maxadial a daran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "迷路",
+          "en": "to get lost, to take a wrong way",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f05",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-x06",
+      "source": "pazih-dict",
+      "localId": "p107-05-x06",
+      "unit": "sentence",
+      "text": "maxadial lia ku, hau'aini si na!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我錯了，請原諒我！",
+          "en": "I was wrong, please forgive me!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "example",
+        "parent": "pazih-dict:p107-05-f05",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下例句",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f06",
+      "source": "pazih-dict",
+      "localId": "p107-05-f06",
+      "unit": "word",
+      "text": "sadial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "壞",
+          "en": "bad",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f07",
+      "source": "pazih-dict",
+      "localId": "p107-05-f07",
+      "unit": "word",
+      "text": "sadialay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "會變壞",
+          "en": "It will get spoiled.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": "pazih-dict:p107-05-f06",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p107-05-f08",
+      "source": "pazih-dict",
+      "localId": "p107-05-f08",
+      "unit": "word",
+      "text": "tudial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腐臭",
+          "en": "rotten and smell bad",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p107-05",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.107–108，dial- 條下派生詞",
+        "page": 107,
+        "pages": [
+          107,
+          108
+        ],
+        "row": null,
+        "code": "p107-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p107.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

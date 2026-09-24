@@ -1,0 +1,2395 @@
+{
+  "source": "pazih-dict",
+  "shard": "p224",
+  "label": "p.224",
+  "groups": [
+    {
+      "id": "pazih-dict:p224-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "paitul",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paitul 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "paixi",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paixi 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "paizer",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paizer 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "paka- + stative",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakabaza",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakabaza 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakadadaxe",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakadadaxe 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakadahu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakadahu 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakakabaza",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakabaza 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakakarit",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakarit 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-10",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakamamataru",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamamataru 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-10",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-11",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakamanex",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamanex 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-12",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakamasezaw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamasezaw 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-12",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-13",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakakelel",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakelel 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-13",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-14",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakamaxiut",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamaxiut 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-14",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-15",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakan 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-15",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-16",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakangesel",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakangesel 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-16",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-17",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakapurut",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakapurut 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-17",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-18",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakara",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakara 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-18",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-19",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakarenay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakarenay 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-19",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-20",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakarixi",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakarixi 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-20",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p224-21",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "pakatahayak",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakatahayak 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-21",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p224-01",
+      "source": "pazih-dict",
+      "localId": "p224-01",
+      "unit": "word",
+      "text": "paitul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使起身",
+          "en": "to make someone get up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "itul-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paitul 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-02",
+      "source": "pazih-dict",
+      "localId": "p224-02",
+      "unit": "word",
+      "text": "paixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "左撇子",
+          "en": "left-handed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "ixi",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paixi 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-03",
+      "source": "pazih-dict",
+      "localId": "p224-03",
+      "unit": "word",
+      "text": "paizer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吊死（他人）",
+          "en": "to hang someone to death",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "izer-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paizer 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04",
+      "source": "pazih-dict",
+      "localId": "p224-04",
+      "unit": "phrase",
+      "text": "paka- + stative",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使役",
+          "en": "causative",
+          "nan": null
+        },
+        {
+          "zh": "使",
+          "en": "to make",
+          "nan": null
+        },
+        {
+          "zh": "促使",
+          "en": "to cause",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. pa-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p224-04-f01",
+      "source": "pazih-dict",
+      "localId": "p224-04-f01",
+      "unit": "word",
+      "text": "paka-dahu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使多",
+          "en": "to make more, to increase",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "dahu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f02",
+      "source": "pazih-dict",
+      "localId": "p224-04-f02",
+      "unit": "word",
+      "text": "paka-tating",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使少",
+          "en": "to make little, to decrease",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tating",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f03",
+      "source": "pazih-dict",
+      "localId": "p224-04-f03",
+      "unit": "word",
+      "text": "paka-tatih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使變小",
+          "en": "to make it small",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tatih",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f04",
+      "source": "pazih-dict",
+      "localId": "p224-04-f04",
+      "unit": "word",
+      "text": "paka-tatihay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "將使少",
+          "en": "to make little, to decrease, to shrink",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tatih",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f05",
+      "source": "pazih-dict",
+      "localId": "p224-04-f05",
+      "unit": "word",
+      "text": "paka-terehen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使黑",
+          "en": "to blacken",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "terehen",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f06",
+      "source": "pazih-dict",
+      "localId": "p224-04-f06",
+      "unit": "word",
+      "text": "paka-tahayak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "勞駕",
+          "en": "thank you",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tahayak",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f07",
+      "source": "pazih-dict",
+      "localId": "p224-04-f07",
+      "unit": "word",
+      "text": "paka-urit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使倒",
+          "en": "to make something fall",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "urit-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. makaurit ‘倒 to fall’"
+      ]
+    },
+    {
+      "id": "pazih-dict:p224-04-f08",
+      "source": "pazih-dict",
+      "localId": "p224-04-f08",
+      "unit": "word",
+      "text": "paka-mamataru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使變大",
+          "en": "to enlarge",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "taru-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-04-f09",
+      "source": "pazih-dict",
+      "localId": "p224-04-f09",
+      "unit": "word",
+      "text": "paka-manex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使燒焦",
+          "en": "to make something get burned",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "manex",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-04",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，paka- + stative 條下派生詞",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-05",
+      "source": "pazih-dict",
+      "localId": "p224-05",
+      "unit": "word",
+      "text": "pakabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "告知",
+          "en": "to inform",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kabaza",
+            "via": null,
+            "attribution": null
+          },
+          {
+            "relation": "<",
+            "text": "baza-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakabaza 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-06",
+      "source": "pazih-dict",
+      "localId": "p224-06",
+      "unit": "word",
+      "text": "pakadadaxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使低下",
+          "en": "to make something lower",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "daxe",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakadadaxe 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-07",
+      "source": "pazih-dict",
+      "localId": "p224-07",
+      "unit": "word",
+      "text": "pakadahu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使多",
+          "en": "to make much, to increase",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "dahu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakadahu 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-08",
+      "source": "pazih-dict",
+      "localId": "p224-08",
+      "unit": "word",
+      "text": "pakakabaza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簽字，做記號、手勢",
+          "en": "to sign",
+          "nan": null
+        },
+        {
+          "zh": "使人知",
+          "en": "to make known",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "baza-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakabaza 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-09",
+      "source": "pazih-dict",
+      "localId": "p224-09",
+      "unit": "word",
+      "text": "pakakarit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使乾",
+          "en": "to cause to dry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "karit-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakarit 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-10",
+      "source": "pazih-dict",
+      "localId": "p224-10",
+      "unit": "word",
+      "text": "pakamamataru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使變大",
+          "en": "to enlarge",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "taru-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-10",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamamataru 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-10",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-11",
+      "source": "pazih-dict",
+      "localId": "p224-11",
+      "unit": "word",
+      "text": "pakamanex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使燒焦",
+          "en": "to make something get burned",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "manex",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-11",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamanex 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-11",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-12",
+      "source": "pazih-dict",
+      "localId": "p224-12",
+      "unit": "word",
+      "text": "pakamasezaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使乾淨",
+          "en": "to make it clean",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sezaw-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-12",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamasezaw 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-12",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-13",
+      "source": "pazih-dict",
+      "localId": "p224-13",
+      "unit": "word",
+      "text": "pakakelel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使嚇到",
+          "en": "to frighten",
+          "nan": null
+        },
+        {
+          "zh": "抽動",
+          "en": "to twitch, to jerk in sleep",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kelel-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-13",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakakelel 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-13",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-14",
+      "source": "pazih-dict",
+      "localId": "p224-14",
+      "unit": "word",
+      "text": "pakamaxiut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "攪混",
+          "en": "to mix, to stir",
+          "nan": null
+        },
+        {
+          "zh": "使混濁",
+          "en": "to cause to become muddy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "xiut-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-14",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakamaxiut 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-14",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-15",
+      "source": "pazih-dict",
+      "localId": "p224-15",
+      "unit": "word",
+      "text": "pakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餵",
+          "en": "to feed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kan-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-15",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakan 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-15",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-16",
+      "source": "pazih-dict",
+      "localId": "p224-16",
+      "unit": "word",
+      "text": "pakangesel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使怕，恐嚇",
+          "en": "to make fear",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kangesel-",
+            "via": null,
+            "attribution": null
+          },
+          {
+            "relation": "<",
+            "text": "ngesel-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-16",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakangesel 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-16",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-17",
+      "source": "pazih-dict",
+      "localId": "p224-17",
+      "unit": "word",
+      "text": "pakapurut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "絆倒",
+          "en": "to stumble, to trip on a stone",
+          "nan": null
+        },
+        {
+          "zh": "踢到",
+          "en": "to trip, to come off (of one's nail by tripping on a stone, etc.)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "purut-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-17",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakapurut 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-17",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-18",
+      "source": "pazih-dict",
+      "localId": "p224-18",
+      "unit": "word",
+      "text": "pakara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放鬆",
+          "en": "to relax",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-18",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakara 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-18",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-18-x01",
+      "source": "pazih-dict",
+      "localId": "p224-18-x01",
+      "unit": "sentence",
+      "text": "pakaraxi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放鬆！",
+          "en": "Relax!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-18",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakara 條下例句",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-18",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-18-x02",
+      "source": "pazih-dict",
+      "localId": "p224-18-x02",
+      "unit": "sentence",
+      "text": "pakaraxi ki hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "放鬆心情",
+          "en": "Relax yourself!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-18",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakara 條下例句",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-18",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-19",
+      "source": "pazih-dict",
+      "localId": "p224-19",
+      "unit": "word",
+      "text": "pakarenay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "脫臼",
+          "en": "dislocated (of joint of the ankle)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "renay-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-19",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakarenay 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-19",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-20",
+      "source": "pazih-dict",
+      "localId": "p224-20",
+      "unit": "word",
+      "text": "pakarixi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜眼看",
+          "en": "cross-eyed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rixi-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-20",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakarixi 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-20",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p224-21",
+      "source": "pazih-dict",
+      "localId": "p224-21",
+      "unit": "word",
+      "text": "pakatahayak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "麻煩（你），謝謝（你）",
+          "en": "Thank you",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "tahayak",
+            "via": null,
+            "attribution": null
+          },
+          {
+            "relation": "<",
+            "text": "hayak-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p224-21",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.224，pakatahayak 條",
+        "page": 224,
+        "pages": [
+          224
+        ],
+        "row": null,
+        "code": "p224-21",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p224.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

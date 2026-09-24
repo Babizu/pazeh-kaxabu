@@ -1,0 +1,2336 @@
+{
+  "source": "pazih-dict",
+  "shard": "p160",
+  "label": "p.160",
+  "groups": [
+    {
+      "id": "pazih-dict:p160-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kurit-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kurung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurung 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kusa-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kusu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusu 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kusukus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kusupat",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusupat 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kutap",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutap 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kutida",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutida 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p160-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kuxumu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kuxumu 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p160-01",
+      "source": "pazih-dict",
+      "localId": "p160-01",
+      "unit": "affix",
+      "text": "kurit-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "~",
+          "text": "kuris-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-01-f01",
+      "source": "pazih-dict",
+      "localId": "p160-01-f01",
+      "unit": "word",
+      "text": "kinurit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抓痕",
+          "en": "a scratch",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-01-f02",
+      "source": "pazih-dict",
+      "localId": "p160-01-f02",
+      "unit": "word",
+      "text": "kuriden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抓（痕）",
+          "en": "to scratch (as a cat)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-01-f03",
+      "source": "pazih-dict",
+      "localId": "p160-01-f03",
+      "unit": "word",
+      "text": "kurikuriden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直抓",
+          "en": "to keep scratching",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-01",
+        "role": "form",
+        "parent": "pazih-dict:p160-01-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-01-f04",
+      "source": "pazih-dict",
+      "localId": "p160-01-f04",
+      "unit": "word",
+      "text": "mukurit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抓（別人）",
+          "en": "to scratch (others)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-01",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurit- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. kaxaw-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p160-02",
+      "source": "pazih-dict",
+      "localId": "p160-02",
+      "unit": "word",
+      "text": "kurung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嘎嘎聲",
+          "en": "rattle, clatter (the noise of a running cart)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurung 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-02-f01",
+      "source": "pazih-dict",
+      "localId": "p160-02-f01",
+      "unit": "word",
+      "text": "pukakurung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嘎嘎聲，隆隆如雷聲",
+          "en": "rattle, clatter, sound like thunder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kurung 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03",
+      "source": "pazih-dict",
+      "localId": "p160-03",
+      "unit": "affix",
+      "text": "kusa-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f01",
+      "source": "pazih-dict",
+      "localId": "p160-03-f01",
+      "unit": "word",
+      "text": "kukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在田園裡工作",
+          "en": "to work in the field, not to work in general",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f02",
+      "source": "pazih-dict",
+      "localId": "p160-03-f02",
+      "unit": "word",
+      "text": "maukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作",
+          "en": "works",
+          "nan": null
+        },
+        {
+          "zh": "在工作，在耕田",
+          "en": "is working, is working in the field",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x01",
+      "source": "pazih-dict",
+      "localId": "p160-03-x01",
+      "unit": "sentence",
+      "text": "muruput lia ki naki a maukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的工作完成了",
+          "en": "I finished my work.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x02",
+      "source": "pazih-dict",
+      "localId": "p160-03-x02",
+      "unit": "sentence",
+      "text": "mikita ruburubu a saw maukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（老鷹）看見下面有人在工作",
+          "en": "(The hawk) saw someone working down below.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f03",
+      "source": "pazih-dict",
+      "localId": "p160-03-f03",
+      "unit": "word",
+      "text": "mukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作",
+          "en": "to work",
+          "nan": null
+        },
+        {
+          "zh": "田事",
+          "en": "to work in the field",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x03",
+      "source": "pazih-dict",
+      "localId": "p160-03-x03",
+      "unit": "sentence",
+      "text": "kukusa!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作！",
+          "en": "Work! (AF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x04",
+      "source": "pazih-dict",
+      "localId": "p160-03-x04",
+      "unit": "sentence",
+      "text": "kukusa'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作！",
+          "en": "Work! (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f04",
+      "source": "pazih-dict",
+      "localId": "p160-03-f04",
+      "unit": "word",
+      "text": "kukusa'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被作",
+          "en": "to be worked",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x05",
+      "source": "pazih-dict",
+      "localId": "p160-03-x05",
+      "unit": "sentence",
+      "text": "yaku mukukusa muruput lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我做完工作了",
+          "en": "I have finished the work.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x06",
+      "source": "pazih-dict",
+      "localId": "p160-03-x06",
+      "unit": "sentence",
+      "text": "usa mukukusa!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去工作！",
+          "en": "Go to work!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x07",
+      "source": "pazih-dict",
+      "localId": "p160-03-x07",
+      "unit": "sentence",
+      "text": "aidia asay mukukusa?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在何處工作？",
+          "en": "Where (do you) work?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x08",
+      "source": "pazih-dict",
+      "localId": "p160-03-x08",
+      "unit": "sentence",
+      "text": "maaxara'ay saw mukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "雇用人來工作",
+          "en": "to hire someone to work",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x09",
+      "source": "pazih-dict",
+      "localId": "p160-03-x09",
+      "unit": "sentence",
+      "text": "mausay di karidan mukukusa lia la",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要到園裡去工作",
+          "en": "They were going to the swidden field to work.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f03",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f05",
+      "source": "pazih-dict",
+      "localId": "p160-03-f05",
+      "unit": "word",
+      "text": "taukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工人",
+          "en": "worker",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f06",
+      "source": "pazih-dict",
+      "localId": "p160-03-f06",
+      "unit": "word",
+      "text": "ukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作",
+          "en": "to work",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-f07",
+      "source": "pazih-dict",
+      "localId": "p160-03-f07",
+      "unit": "word",
+      "text": "ukukusa'i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "種水田吧！",
+          "en": "Work in the paddy!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "form",
+        "parent": "pazih-dict:p160-03-f06",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-03-x10",
+      "source": "pazih-dict",
+      "localId": "p160-03-x10",
+      "unit": "sentence",
+      "text": "ukukusaen rupuden lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "工作被完成了",
+          "en": "The work has been finished.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-03",
+        "role": "example",
+        "parent": "pazih-dict:p160-03-f06",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusa- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-04",
+      "source": "pazih-dict",
+      "localId": "p160-04",
+      "unit": "word",
+      "text": "kusu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "頭蝨",
+          "en": "louse of the head, slightly whitish (living on humans and animals)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusu 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-04-f01",
+      "source": "pazih-dict",
+      "localId": "p160-04-f01",
+      "unit": "word",
+      "text": "sikusuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長頭蝨",
+          "en": "to have head lice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusu 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05",
+      "source": "pazih-dict",
+      "localId": "p160-05",
+      "unit": "affix",
+      "text": "kusukus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. karunu"
+      ]
+    },
+    {
+      "id": "pazih-dict:p160-05-f01",
+      "source": "pazih-dict",
+      "localId": "p160-05-f01",
+      "unit": "word",
+      "text": "mukusukus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捲起（輕薄之物），蜷曲",
+          "en": "to roll up something light or thin (such as paper, sleeves)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05-x01",
+      "source": "pazih-dict",
+      "localId": "p160-05-x01",
+      "unit": "sentence",
+      "text": "kusukusi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捲！",
+          "en": "Roll up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "example",
+        "parent": "pazih-dict:p160-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05-x02",
+      "source": "pazih-dict",
+      "localId": "p160-05-x02",
+      "unit": "sentence",
+      "text": "kusukusi ki parepar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捲紙！",
+          "en": "Roll up the paper!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "example",
+        "parent": "pazih-dict:p160-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05-x03",
+      "source": "pazih-dict",
+      "localId": "p160-05-x03",
+      "unit": "sentence",
+      "text": "kusukusi di babaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捲高一點！",
+          "en": "Roll up high!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "example",
+        "parent": "pazih-dict:p160-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05-x04",
+      "source": "pazih-dict",
+      "localId": "p160-05-x04",
+      "unit": "sentence",
+      "text": "kusukusi ki siatauzu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捲起衣袖！",
+          "en": "Roll up the sleeves!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "example",
+        "parent": "pazih-dict:p160-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-05-f02",
+      "source": "pazih-dict",
+      "localId": "p160-05-f02",
+      "unit": "word",
+      "text": "kusukusukusi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直捲",
+          "en": "to keep rolling",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-05",
+        "role": "form",
+        "parent": "pazih-dict:p160-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusukus- 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-06",
+      "source": "pazih-dict",
+      "localId": "p160-06",
+      "unit": "word",
+      "text": "kusupat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "粗糙",
+          "en": "rough",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kusupat 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-07",
+      "source": "pazih-dict",
+      "localId": "p160-07",
+      "unit": "word",
+      "text": "kutap",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "眨眼",
+          "en": "to blink",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutap 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-07-x01",
+      "source": "pazih-dict",
+      "localId": "p160-07-x01",
+      "unit": "sentence",
+      "text": "maideh kutap daurik a isid a xaseb a turu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一眨眼就是十八歲了",
+          "en": "It was soon eighteen (years) at the twinkling of an eye.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutap 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-08",
+      "source": "pazih-dict",
+      "localId": "p160-08",
+      "unit": "word",
+      "text": "kutida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "膩，厭倦",
+          "en": "tired of (as when eating the same food everyday)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutida 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-08-x01",
+      "source": "pazih-dict",
+      "localId": "p160-08-x01",
+      "unit": "sentence",
+      "text": "kutida meken rumut yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃膩了肉",
+          "en": "I am tired of eating meat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-08",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutida 條下例句",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-08-f01",
+      "source": "pazih-dict",
+      "localId": "p160-08-f01",
+      "unit": "word",
+      "text": "kutidatida",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "很厭倦",
+          "en": "very tired",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-08",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kutida 條下派生詞",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p160-09",
+      "source": "pazih-dict",
+      "localId": "p160-09",
+      "unit": "word",
+      "text": "kuxumu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "番杏",
+          "en": "plant sp., Tetagonia expansa Murr.",
+          "nan": null
+        },
+        {
+          "zh": "落葵",
+          "en": "Basella rubra Linn.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p160-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.160，kuxumu 條",
+        "page": 160,
+        "pages": [
+          160
+        ],
+        "row": null,
+        "code": "p160-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p160.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

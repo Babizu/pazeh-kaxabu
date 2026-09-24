@@ -1,0 +1,1129 @@
+{
+  "source": "pazih-dict",
+  "shard": "p245",
+  "label": "p.245",
+  "groups": [
+    {
+      "id": "pazih-dict:p245-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "razem",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p245-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "razung-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razung- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p245-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rebeng-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p245-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "reberep-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.245，reberep- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p245-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "rebes-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebes- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p245-01",
+      "source": "pazih-dict",
+      "localId": "p245-01",
+      "unit": "word",
+      "text": "razem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "新年",
+          "en": "New Year",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-01-x01",
+      "source": "pazih-dict",
+      "localId": "p245-01-x01",
+      "unit": "sentence",
+      "text": "uhuni yu daali ka raarazem yu razem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "今天正在過新年",
+          "en": "It's New Year's Day today.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-01-f01",
+      "source": "pazih-dict",
+      "localId": "p245-01-f01",
+      "unit": "word",
+      "text": "murazem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "過年",
+          "en": "to celebrate a new year",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-01-f02",
+      "source": "pazih-dict",
+      "localId": "p245-01-f02",
+      "unit": "word",
+      "text": "parazem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "過年",
+          "en": "to have new year, to celebrate the New Year",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-01-x02",
+      "source": "pazih-dict",
+      "localId": "p245-01-x02",
+      "unit": "sentence",
+      "text": "parazem a isiw, takita'aw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你過年，咱們要看",
+          "en": "When you celebrate the New Year, we'll watch it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-01",
+        "role": "example",
+        "parent": "pazih-dict:p245-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razem 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-02",
+      "source": "pazih-dict",
+      "localId": "p245-02",
+      "unit": "affix",
+      "text": "razung-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razung- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-02-f01",
+      "source": "pazih-dict",
+      "localId": "p245-02-f01",
+      "unit": "word",
+      "text": "sarazung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "伐木，伐倒",
+          "en": "to chop",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razung- 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-02-x01",
+      "source": "pazih-dict",
+      "localId": "p245-02-x01",
+      "unit": "sentence",
+      "text": "imini a yaasam ka naki a sasarazung kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這把斧頭我用來伐木",
+          "en": "I use this axe to chop trees.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-02",
+        "role": "example",
+        "parent": "pazih-dict:p245-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razung- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-02-x02",
+      "source": "pazih-dict",
+      "localId": "p245-02-x02",
+      "unit": "sentence",
+      "text": "imini a yaasam ka aunu sasarazung kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "此斧用來伐木",
+          "en": "This axe is to chop trees.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-02",
+        "role": "example",
+        "parent": "pazih-dict:p245-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，razung- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-03",
+      "source": "pazih-dict",
+      "localId": "p245-03",
+      "unit": "affix",
+      "text": "rebeng-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. rubang-"
+      ]
+    },
+    {
+      "id": "pazih-dict:p245-03-f01",
+      "source": "pazih-dict",
+      "localId": "p245-03-f01",
+      "unit": "word",
+      "text": "merebeng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以土掩埋",
+          "en": "to bury a dead animal, garbages, etc. but not a dead person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. lubung"
+      ]
+    },
+    {
+      "id": "pazih-dict:p245-03-x01",
+      "source": "pazih-dict",
+      "localId": "p245-03-x01",
+      "unit": "sentence",
+      "text": "rebengi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掩埋！",
+          "en": "Bury it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "example",
+        "parent": "pazih-dict:p245-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-03-x02",
+      "source": "pazih-dict",
+      "localId": "p245-03-x02",
+      "unit": "sentence",
+      "text": "merebeng yaadisaysay ki awi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿維埋雜物",
+          "en": "Awi buried garbage.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "example",
+        "parent": "pazih-dict:p245-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-03-x03",
+      "source": "pazih-dict",
+      "localId": "p245-03-x03",
+      "unit": "sentence",
+      "text": "rebengen lia ki purihad a wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "死狗被埋了",
+          "en": "The dog has been buried.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "example",
+        "parent": "pazih-dict:p245-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-03-x04",
+      "source": "pazih-dict",
+      "localId": "p245-03-x04",
+      "unit": "sentence",
+      "text": "haziah a yaadisaysay ka rebengi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把不好的東西埋掉！",
+          "en": "Bury bad things!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-03",
+        "role": "example",
+        "parent": "pazih-dict:p245-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebeng- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-04",
+      "source": "pazih-dict",
+      "localId": "p245-04",
+      "unit": "affix",
+      "text": "reberep-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，reberep- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-04-f01",
+      "source": "pazih-dict",
+      "localId": "p245-04-f01",
+      "unit": "word",
+      "text": "mareberep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "霧",
+          "en": "foggy, misty",
+          "nan": null
+        },
+        {
+          "zh": "陰雨天",
+          "en": "cloudy and rainy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，reberep- 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-04-x01",
+      "source": "pazih-dict",
+      "localId": "p245-04-x01",
+      "unit": "sentence",
+      "text": "marebereb a udal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "毛毛雨",
+          "en": "drizzle",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-04",
+        "role": "example",
+        "parent": "pazih-dict:p245-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，reberep- 條下例句",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-05",
+      "source": "pazih-dict",
+      "localId": "p245-05",
+      "unit": "affix",
+      "text": "rebes-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebes- 條",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p245-05-f01",
+      "source": "pazih-dict",
+      "localId": "p245-05-f01",
+      "unit": "word",
+      "text": "marebes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "皺",
+          "en": "shrivel, wrinkled (of skin, paper, cloth)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p245-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.245，rebes- 條下派生詞",
+        "page": 245,
+        "pages": [
+          245
+        ],
+        "row": null,
+        "code": "p245-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p245.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

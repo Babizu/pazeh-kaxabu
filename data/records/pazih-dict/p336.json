@@ -1,0 +1,2062 @@
+{
+  "source": "pazih-dict",
+  "shard": "p336",
+  "label": "p.336",
+  "groups": [
+    {
+      "id": "pazih-dict:p336-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zumut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zupay-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zu'us-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'us- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zu'ut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zuzu-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zuzu-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p336-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "zuzuk-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzuk- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p336-01",
+      "source": "pazih-dict",
+      "localId": "p336-01",
+      "unit": "affix",
+      "text": "zumut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-f01",
+      "source": "pazih-dict",
+      "localId": "p336-01-f01",
+      "unit": "word",
+      "text": "mazumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抑鬱的",
+          "en": "to feel depressed by worries",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-x01",
+      "source": "pazih-dict",
+      "localId": "p336-01-x01",
+      "unit": "sentence",
+      "text": "mazumud a hinis",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "心中鬱悶",
+          "en": "feel depressed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "example",
+        "parent": "pazih-dict:p336-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-f02",
+      "source": "pazih-dict",
+      "localId": "p336-01-f02",
+      "unit": "word",
+      "text": "muzumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "塞，阻塞",
+          "en": "to plug, to obstruct, to cork",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-x02",
+      "source": "pazih-dict",
+      "localId": "p336-01-x02",
+      "unit": "sentence",
+      "text": "murahut dalum ka zumuden naki lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水在流，我把它堵住了",
+          "en": "The water flowed, and I plugged it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "example",
+        "parent": "pazih-dict:p336-01-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-x03",
+      "source": "pazih-dict",
+      "localId": "p336-01-x03",
+      "unit": "sentence",
+      "text": "zumuzumdi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直塞！",
+          "en": "Keep plugging it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "example",
+        "parent": "pazih-dict:p336-01-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-f03",
+      "source": "pazih-dict",
+      "localId": "p336-01-f03",
+      "unit": "word",
+      "text": "saazumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "軟木塞",
+          "en": "stopper, cork",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-01-f04",
+      "source": "pazih-dict",
+      "localId": "p336-01-f04",
+      "unit": "word",
+      "text": "zinumudan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "堵塞之物",
+          "en": "something to obstruct water from flowing",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-01",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zumut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02",
+      "source": "pazih-dict",
+      "localId": "p336-02",
+      "unit": "affix",
+      "text": "zupay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-f01",
+      "source": "pazih-dict",
+      "localId": "p336-02-f01",
+      "unit": "word",
+      "text": "muzupay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨（刀）",
+          "en": "to whet (a knife), to grate (as radish) with a grater having sharp notches",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x01",
+      "source": "pazih-dict",
+      "localId": "p336-02-x01",
+      "unit": "sentence",
+      "text": "zupayi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨！",
+          "en": "Whet it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x02",
+      "source": "pazih-dict",
+      "localId": "p336-02-x02",
+      "unit": "sentence",
+      "text": "zupayi tadaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨刀！",
+          "en": "Whet the knife!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-f02",
+      "source": "pazih-dict",
+      "localId": "p336-02-f02",
+      "unit": "word",
+      "text": "zuuzupay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在磨",
+          "en": "is whetting",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "form",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x03",
+      "source": "pazih-dict",
+      "localId": "p336-02-x03",
+      "unit": "sentence",
+      "text": "zupazupayi ki tadaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直磨刀！",
+          "en": "Keep whetting the knife!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x04",
+      "source": "pazih-dict",
+      "localId": "p336-02-x04",
+      "unit": "sentence",
+      "text": "muriax halipid a kaxa xanixanisay, zupayen kamalang xanixanisay haiki tadaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他找了幾根薄鐵，把它們磨利像刀一樣",
+          "en": "He found some thin iron sheets and whetted them as sharp as a knife.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x05",
+      "source": "pazih-dict",
+      "localId": "p336-02-x05",
+      "unit": "sentence",
+      "text": "zazupayan a batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨刀石",
+          "en": "whetstone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x06",
+      "source": "pazih-dict",
+      "localId": "p336-02-x06",
+      "unit": "sentence",
+      "text": "imini a tadaw ka nimisiw (a) zinupay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這刀子是他磨的",
+          "en": "This knife was sharpened by him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-f03",
+      "source": "pazih-dict",
+      "localId": "p336-02-f03",
+      "unit": "word",
+      "text": "zazupayen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "磨刀石",
+          "en": "whetstone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-02-x07",
+      "source": "pazih-dict",
+      "localId": "p336-02-x07",
+      "unit": "sentence",
+      "text": "batu ka zazupayen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "石和磨刀石",
+          "en": "stone and whetstone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-02",
+        "role": "example",
+        "parent": "pazih-dict:p336-02-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zupay- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-03",
+      "source": "pazih-dict",
+      "localId": "p336-03",
+      "unit": "affix",
+      "text": "zu'us-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "zu'ut-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'us- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-03-f01",
+      "source": "pazih-dict",
+      "localId": "p336-03-f01",
+      "unit": "word",
+      "text": "zazu'us",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "魚陷阱",
+          "en": "a type of a long bamboo fishtrap with no stopper or partitions.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'us- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-04",
+      "source": "pazih-dict",
+      "localId": "p336-04",
+      "unit": "affix",
+      "text": "zu'ut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "zu'us-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-04-f01",
+      "source": "pazih-dict",
+      "localId": "p336-04-f01",
+      "unit": "word",
+      "text": "muzu'ut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鐵器（用來挖土）",
+          "en": "an iron tool used to dig up earth",
+          "nan": null
+        },
+        {
+          "zh": "插入",
+          "en": "to dig into",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-04-x01",
+      "source": "pazih-dict",
+      "localId": "p336-04-x01",
+      "unit": "sentence",
+      "text": "zu'udi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "插！挖！",
+          "en": "Dig into the ground!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-04",
+        "role": "example",
+        "parent": "pazih-dict:p336-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-04-x02",
+      "source": "pazih-dict",
+      "localId": "p336-04-x02",
+      "unit": "sentence",
+      "text": "zu'uzu'udi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直挖！",
+          "en": "Keep digging into the ground!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-04",
+        "role": "example",
+        "parent": "pazih-dict:p336-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-04-f02",
+      "source": "pazih-dict",
+      "localId": "p336-04-f02",
+      "unit": "word",
+      "text": "saazu'ut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕魚的鏢鎗",
+          "en": "spear, harpoon, a tool to spear fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zu'ut- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-05",
+      "source": "pazih-dict",
+      "localId": "p336-05",
+      "unit": "affix",
+      "text": "zuzu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. zezep-",
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p336-05-f01",
+      "source": "pazih-dict",
+      "localId": "p336-05-f01",
+      "unit": "word",
+      "text": "muzuzu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吸",
+          "en": "to suck",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-05-x01",
+      "source": "pazih-dict",
+      "localId": "p336-05-x01",
+      "unit": "sentence",
+      "text": "muzuzu nunuh ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嬰兒在吸奶",
+          "en": "The baby is sucking milk.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-05",
+        "role": "example",
+        "parent": "pazih-dict:p336-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-05-f02",
+      "source": "pazih-dict",
+      "localId": "p336-05-f02",
+      "unit": "word",
+      "text": "zauzu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在吸",
+          "en": "is sucking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-05",
+        "role": "form",
+        "parent": "pazih-dict:p336-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-06",
+      "source": "pazih-dict",
+      "localId": "p336-06",
+      "unit": "affix",
+      "text": "zuzu-",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p336-06-f01",
+      "source": "pazih-dict",
+      "localId": "p336-06-f01",
+      "unit": "word",
+      "text": "muzuzu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "掏出",
+          "en": "to take out",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-06-x01",
+      "source": "pazih-dict",
+      "localId": "p336-06-x01",
+      "unit": "sentence",
+      "text": "muhaday rima muzuzu lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他）伸出手掏（龜蛋）",
+          "en": "He reached out his hand to take out (the turtle egg).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-06",
+        "role": "example",
+        "parent": "pazih-dict:p336-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzu- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-07",
+      "source": "pazih-dict",
+      "localId": "p336-07",
+      "unit": "affix",
+      "text": "zuzuk-",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzuk- 條",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-07-f01",
+      "source": "pazih-dict",
+      "localId": "p336-07-f01",
+      "unit": "word",
+      "text": "taxizuzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "躲藏",
+          "en": "(for a person) to hide oneself",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzuk- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-07-f02",
+      "source": "pazih-dict",
+      "localId": "p336-07-f02",
+      "unit": "word",
+      "text": "taxuzuzuk",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "躲藏",
+          "en": "(for a person) to hide oneself",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzuk- 條下派生詞",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p336-07-x01",
+      "source": "pazih-dict",
+      "localId": "p336-07-x01",
+      "unit": "sentence",
+      "text": "taxuzuzuki! ana pakita saw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "躲起來！別叫人看見了！",
+          "en": "Hide yourself! Don't let other people see you!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p336-07",
+        "role": "example",
+        "parent": "pazih-dict:p336-07-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.336，zuzuk- 條下例句",
+        "page": 336,
+        "pages": [
+          336
+        ],
+        "row": null,
+        "code": "p336-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p336.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

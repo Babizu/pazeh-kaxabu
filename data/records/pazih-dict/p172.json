@@ -1,0 +1,2944 @@
+{
+  "source": "pazih-dict",
+  "shard": "p172",
+  "label": "p.172（M）",
+  "groups": [
+    {
+      "id": "pazih-dict:p172-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "m-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，m- 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ma",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ma- (ka-)",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ma-(pa-)",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "maa- +Reduplication",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa- +Reduplication 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "maa-RED-Root",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p172-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "maa-(paa-) +",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p172-01",
+      "source": "pazih-dict",
+      "localId": "p172-01",
+      "unit": "affix",
+      "text": "m-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "主事焦點",
+          "en": "Agent-focus",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，m- 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-01-f01",
+      "source": "pazih-dict",
+      "localId": "p172-01-f01",
+      "unit": "word",
+      "text": "malep",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "關",
+          "en": "to close",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，m- 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. alebi ‘Close it!’"
+      ]
+    },
+    {
+      "id": "pazih-dict:p172-01-f02",
+      "source": "pazih-dict",
+      "localId": "p172-01-f02",
+      "unit": "word",
+      "text": "mangit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭",
+          "en": "to cry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "angit",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-01",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，m- 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-02",
+      "source": "pazih-dict",
+      "localId": "p172-02",
+      "unit": "word",
+      "text": "ma",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "也",
+          "en": "also (loan from Taiwanese ma ‘also’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-02-x01",
+      "source": "pazih-dict",
+      "localId": "p172-02-x01",
+      "unit": "sentence",
+      "text": "yaamisiw ma nahada mamaaleng a rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們自己也有男孩",
+          "en": "They also had a boy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma 條下例句",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03",
+      "source": "pazih-dict",
+      "localId": "p172-03",
+      "unit": "phrase",
+      "text": "ma- (ka-)",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "靜態",
+          "en": "stative",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f01",
+      "source": "pazih-dict",
+      "localId": "p172-03-f01",
+      "unit": "word",
+      "text": "ma-taru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大",
+          "en": "big, large",
+          "nan": null
+        },
+        {
+          "zh": "長大",
+          "en": "to grow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "taru-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f02",
+      "source": "pazih-dict",
+      "localId": "p172-03-f02",
+      "unit": "word",
+      "text": "ma-gizem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "強壯的",
+          "en": "strong, powerful",
+          "nan": null
+        },
+        {
+          "zh": "勇敢",
+          "en": "brave",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "gizem-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f03",
+      "source": "pazih-dict",
+      "localId": "p172-03-f03",
+      "unit": "word",
+      "text": "ma-rumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弱",
+          "en": "weak",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "rumay-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f04",
+      "source": "pazih-dict",
+      "localId": "p172-03-f04",
+      "unit": "word",
+      "text": "ma-teleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "對的",
+          "en": "correct",
+          "nan": null
+        },
+        {
+          "zh": "正確",
+          "en": "right",
+          "nan": null
+        },
+        {
+          "zh": "中陷阱",
+          "en": "caught in a trap, ensnared",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "teleng-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f05",
+      "source": "pazih-dict",
+      "localId": "p172-03-f05",
+      "unit": "word",
+      "text": "ma-hurik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "睏",
+          "en": "sleepy",
+          "nan": null
+        },
+        {
+          "zh": "懶",
+          "en": "lazy",
+          "nan": null
+        },
+        {
+          "zh": "動作慢吞吞地",
+          "en": "slow in action (as eating)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "hurik-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f06",
+      "source": "pazih-dict",
+      "localId": "p172-03-f06",
+      "unit": "word",
+      "text": "ma-bini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "滿",
+          "en": "full (as a container)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f07",
+      "source": "pazih-dict",
+      "localId": "p172-03-f07",
+      "unit": "word",
+      "text": "ma-busuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "醉",
+          "en": "drunk",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "busuk-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-03-f08",
+      "source": "pazih-dict",
+      "localId": "p172-03-f08",
+      "unit": "word",
+      "text": "ma-bulax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "水腫",
+          "en": "swollen belly or face of a sick person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "bulax-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-03",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma- (ka-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04",
+      "source": "pazih-dict",
+      "localId": "p172-04",
+      "unit": "word",
+      "text": "ma-(pa-)",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "動詞化",
+          "en": "verbalizer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f01",
+      "source": "pazih-dict",
+      "localId": "p172-04-f01",
+      "unit": "word",
+      "text": "ma-bari",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吹",
+          "en": "to blow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "bari",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f02",
+      "source": "pazih-dict",
+      "localId": "p172-04-f02",
+      "unit": "word",
+      "text": "ma-kuras",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打雷",
+          "en": "to have thunder",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kuras",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f03",
+      "source": "pazih-dict",
+      "localId": "p172-04-f03",
+      "unit": "word",
+      "text": "ma-laliw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "地震",
+          "en": "to have an earthquake",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "laliw 'earthquake'",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f04",
+      "source": "pazih-dict",
+      "localId": "p172-04-f04",
+      "unit": "word",
+      "text": "ma-siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "穿衣服",
+          "en": "to wear clothes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "siatu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f05",
+      "source": "pazih-dict",
+      "localId": "p172-04-f05",
+      "unit": "word",
+      "text": "ma-bunux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腫脹",
+          "en": "to swell",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f06",
+      "source": "pazih-dict",
+      "localId": "p172-04-f06",
+      "unit": "word",
+      "text": "ma-baza",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "知道",
+          "en": "to know",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "baza-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f07",
+      "source": "pazih-dict",
+      "localId": "p172-04-f07",
+      "unit": "word",
+      "text": "ma-desek",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打嗝",
+          "en": "to belch",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "desek-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f08",
+      "source": "pazih-dict",
+      "localId": "p172-04-f08",
+      "unit": "word",
+      "text": "ma-hatan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "笑",
+          "en": "to laugh",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "hatan-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f09",
+      "source": "pazih-dict",
+      "localId": "p172-04-f09",
+      "unit": "word",
+      "text": "ma-laleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "住",
+          "en": "to live",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "laleng-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f10",
+      "source": "pazih-dict",
+      "localId": "p172-04-f10",
+      "unit": "word",
+      "text": "ma-sakaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "偷",
+          "en": "to steal",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sakaw-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f11",
+      "source": "pazih-dict",
+      "localId": "p172-04-f11",
+      "unit": "word",
+      "text": "ma-samian",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "崇拜",
+          "en": "to worship",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "samian-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f12",
+      "source": "pazih-dict",
+      "localId": "p172-04-f12",
+      "unit": "word",
+      "text": "maasapal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "連結",
+          "en": "to connect, to link",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "sapal-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f13",
+      "source": "pazih-dict",
+      "localId": "p172-04-f13",
+      "unit": "word",
+      "text": "ma-xutaxa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "等",
+          "en": "to wait",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "taxa-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-04-f14",
+      "source": "pazih-dict",
+      "localId": "p172-04-f14",
+      "unit": "word",
+      "text": "ma-xurum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天",
+          "en": "cloudy",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "xurum-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-04",
+        "role": "form",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，ma-(pa-) 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-05",
+      "source": "pazih-dict",
+      "localId": "p172-05",
+      "unit": "phrase",
+      "text": "maa- +Reduplication",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互相",
+          "en": "reciprocally",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa- +Reduplication 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-05-f01",
+      "source": "pazih-dict",
+      "localId": "p172-05-f01",
+      "unit": "word",
+      "text": "maa-ka-kawas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "會話",
+          "en": "to converse",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa- +Reduplication 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-05-f02",
+      "source": "pazih-dict",
+      "localId": "p172-05-f02",
+      "unit": "word",
+      "text": "maa-kita-kita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相看",
+          "en": "to look at each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa- +Reduplication 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-05-f03",
+      "source": "pazih-dict",
+      "localId": "p172-05-f03",
+      "unit": "word",
+      "text": "maa-kudu-kudung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相打",
+          "en": "to hit each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa- +Reduplication 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06",
+      "source": "pazih-dict",
+      "localId": "p172-06",
+      "unit": "word",
+      "text": "maa-RED-Root",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相互地",
+          "en": "reciprocally",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f01",
+      "source": "pazih-dict",
+      "localId": "p172-06-f01",
+      "unit": "word",
+      "text": "maa-tebe-teber",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以拳相打",
+          "en": "to hit each other with fists",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f02",
+      "source": "pazih-dict",
+      "localId": "p172-06-f02",
+      "unit": "word",
+      "text": "maa-teze-tezek",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相踢",
+          "en": "to kick each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f03",
+      "source": "pazih-dict",
+      "localId": "p172-06-f03",
+      "unit": "word",
+      "text": "maa-bake-baket",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相打",
+          "en": "to hit each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f04",
+      "source": "pazih-dict",
+      "localId": "p172-06-f04",
+      "unit": "word",
+      "text": "maa-tapi-tapih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相摑",
+          "en": "to slap each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f05",
+      "source": "pazih-dict",
+      "localId": "p172-06-f05",
+      "unit": "word",
+      "text": "maa-kulu-kulus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相抓頭髮",
+          "en": "to seize hair with each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-06-f06",
+      "source": "pazih-dict",
+      "localId": "p172-06-f06",
+      "unit": "word",
+      "text": "maa-kudu-kudung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以杖相打",
+          "en": "to hit each other with sticks",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-06",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172，maa-RED-Root 條下派生詞",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "row": null,
+        "code": "p172-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07",
+      "source": "pazih-dict",
+      "localId": "p172-07",
+      "unit": "phrase",
+      "text": "maa-(paa-) +",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Root 相互地",
+          "en": "reciprocally",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f01",
+      "source": "pazih-dict",
+      "localId": "p172-07-f01",
+      "unit": "word",
+      "text": "maa-baket",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相打",
+          "en": "to hit each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f02",
+      "source": "pazih-dict",
+      "localId": "p172-07-f02",
+      "unit": "word",
+      "text": "maa-bezebet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互相幫忙",
+          "en": "to help each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f03",
+      "source": "pazih-dict",
+      "localId": "p172-07-f03",
+      "unit": "word",
+      "text": "maa-hakem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相抱",
+          "en": "to embrace each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f04",
+      "source": "pazih-dict",
+      "localId": "p172-07-f04",
+      "unit": "word",
+      "text": "maa-kita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相看",
+          "en": "to look at each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f05",
+      "source": "pazih-dict",
+      "localId": "p172-07-f05",
+      "unit": "word",
+      "text": "maa-pana",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以箭或石頭相射，相擲",
+          "en": "to shoot each other with arrows or stones",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "-pana",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f06",
+      "source": "pazih-dict",
+      "localId": "p172-07-f06",
+      "unit": "word",
+      "text": "maa-patus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "以槍互射",
+          "en": "to shoot each other with guns",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "patus",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p172-07-f07",
+      "source": "pazih-dict",
+      "localId": "p172-07-f07",
+      "unit": "word",
+      "text": "maa-xamaxam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相摸",
+          "en": "to touch each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p172-07",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.172–173，maa-(paa-) + 條下派生詞",
+        "page": 172,
+        "pages": [
+          172,
+          173
+        ],
+        "row": null,
+        "code": "p172-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p172.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

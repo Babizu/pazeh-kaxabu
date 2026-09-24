@@ -1,0 +1,967 @@
+{
+  "source": "pazih-dict",
+  "shard": "p329",
+  "label": "p.329",
+  "groups": [
+    {
+      "id": "pazih-dict:p329-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yaurul",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaurul 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p329-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yaurun",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaurun 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p329-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yaw",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaw 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p329-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yawira",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yawira 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p329-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yaxu-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaxu- 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p329-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "yuka",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p329-01",
+      "source": "pazih-dict",
+      "localId": "p329-01",
+      "unit": "word",
+      "text": "yaurul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天",
+          "en": "a cloudy, rainy day",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "yaurun",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaurul 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-01-x01",
+      "source": "pazih-dict",
+      "localId": "p329-01-x01",
+      "unit": "sentence",
+      "text": "miaadaali a yaurul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "每天陰天",
+          "en": "It is cloudy everyday.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaurul 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-02",
+      "source": "pazih-dict",
+      "localId": "p329-02",
+      "unit": "word",
+      "text": "yaurun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "陰天",
+          "en": "a cloudy, rainy day",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "yaurul",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaurun 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-03",
+      "source": "pazih-dict",
+      "localId": "p329-03",
+      "unit": "word",
+      "text": "yaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "還",
+          "en": "still, yet",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaw 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. mayaw"
+      ]
+    },
+    {
+      "id": "pazih-dict:p329-03-x01",
+      "source": "pazih-dict",
+      "localId": "p329-03-x01",
+      "unit": "phrase",
+      "text": "yaw nahada",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "還有，仍有",
+          "en": "There still is.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaw 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-04",
+      "source": "pazih-dict",
+      "localId": "p329-04",
+      "unit": "word",
+      "text": "yawira",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "結束",
+          "en": "to end, to conclude",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yawira 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-04-x01",
+      "source": "pazih-dict",
+      "localId": "p329-04-x01",
+      "unit": "sentence",
+      "text": "ayan nu ayan, saysay yawira",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "根源歌到此結束",
+          "en": "The ritual song of ancestors ayan ends here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yawira 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-05",
+      "source": "pazih-dict",
+      "localId": "p329-05",
+      "unit": "affix",
+      "text": "yaxu-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaxu- 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-05-f01",
+      "source": "pazih-dict",
+      "localId": "p329-05-f01",
+      "unit": "word",
+      "text": "mayaxu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舂米",
+          "en": "to pound rice into rice-cake, to pound grains",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaxu- 條下派生詞",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-05-x01",
+      "source": "pazih-dict",
+      "localId": "p329-05-x01",
+      "unit": "phrase",
+      "text": "mayaxu lasu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舂米",
+          "en": "to pound rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-05",
+        "role": "example",
+        "parent": "pazih-dict:p329-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaxu- 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-05-f02",
+      "source": "pazih-dict",
+      "localId": "p329-05-f02",
+      "unit": "word",
+      "text": "pinayaxuan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "舂過的米",
+          "en": "pounded rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yaxu- 條下派生詞",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-06",
+      "source": "pazih-dict",
+      "localId": "p329-06",
+      "unit": "word",
+      "text": "yuka",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "再",
+          "en": "again",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. minang [A]"
+      ]
+    },
+    {
+      "id": "pazih-dict:p329-06-x01",
+      "source": "pazih-dict",
+      "localId": "p329-06-x01",
+      "unit": "sentence",
+      "text": "yuka alu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "再來！",
+          "en": "Come again!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-06-x02",
+      "source": "pazih-dict",
+      "localId": "p329-06-x02",
+      "unit": "sentence",
+      "text": "yuka alu ituku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "再來坐",
+          "en": "Please come again to sit (with us).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-06-x03",
+      "source": "pazih-dict",
+      "localId": "p329-06-x03",
+      "unit": "sentence",
+      "text": "yuka buriaki ka naki na",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請再為我做",
+          "en": "Please do it for me again.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-06",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p329-06-x04",
+      "source": "pazih-dict",
+      "localId": "p329-06-x04",
+      "unit": "sentence",
+      "text": "yuka tabariwaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們再買吧！",
+          "en": "Let’s buy it again.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p329-06",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.329，yuka 條下例句",
+        "page": 329,
+        "pages": [
+          329
+        ],
+        "row": null,
+        "code": "p329-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p329.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

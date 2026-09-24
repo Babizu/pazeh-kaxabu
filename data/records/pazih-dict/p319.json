@@ -1,0 +1,1985 @@
+{
+  "source": "pazih-dict",
+  "shard": "p319",
+  "label": "p.319",
+  "groups": [
+    {
+      "id": "pazih-dict:p319-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xanisay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xanisay 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xanixanisay",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xanixanisay 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xangat-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xapes",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapes 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xapet",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapet 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xapi-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xapus",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapus 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xapux-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapux- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p319-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "xara-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p319-01",
+      "source": "pazih-dict",
+      "localId": "p319-01",
+      "unit": "word",
+      "text": "xanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "多少（人或物）",
+          "en": "how many (people, things)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "xanis-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xanisay 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-02",
+      "source": "pazih-dict",
+      "localId": "p319-02",
+      "unit": "word",
+      "text": "xanixanisay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "幾個",
+          "en": "several",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "xanis-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xanixanisay 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-03",
+      "source": "pazih-dict",
+      "localId": "p319-03",
+      "unit": "affix",
+      "text": "xangat-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-03-x01",
+      "source": "pazih-dict",
+      "localId": "p319-03-x01",
+      "unit": "sentence",
+      "text": "xangadi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弄平！",
+          "en": "Flatten it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-03-f01",
+      "source": "pazih-dict",
+      "localId": "p319-03-f01",
+      "unit": "word",
+      "text": "maxangat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "平坦",
+          "en": "flat",
+          "nan": null
+        },
+        {
+          "zh": "斜坡",
+          "en": "a gentle slope",
+          "nan": null
+        },
+        {
+          "zh": "窪地",
+          "en": "swamp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-03-f02",
+      "source": "pazih-dict",
+      "localId": "p319-03-f02",
+      "unit": "word",
+      "text": "papaxangat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "整平土地（如用來做院子）",
+          "en": "to level the ground to make a front yard",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-03-x02",
+      "source": "pazih-dict",
+      "localId": "p319-03-x02",
+      "unit": "sentence",
+      "text": "papaxangadi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "弄平！使平！",
+          "en": "Flatten it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-03",
+        "role": "example",
+        "parent": "pazih-dict:p319-03-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xangat- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-04",
+      "source": "pazih-dict",
+      "localId": "p319-04",
+      "unit": "word",
+      "text": "xapes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鴨愛吃的水藻",
+          "en": "a tiny plant in water, edible for ducks",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "xapet",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapes 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-05",
+      "source": "pazih-dict",
+      "localId": "p319-05",
+      "unit": "word",
+      "text": "xapet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "青苔",
+          "en": "moss",
+          "nan": null
+        },
+        {
+          "zh": "可食用的藻類",
+          "en": "an edible moss",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapet 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-05-f01",
+      "source": "pazih-dict",
+      "localId": "p319-05-f01",
+      "unit": "word",
+      "text": "maxaxapet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "生苔",
+          "en": "molded, milewed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapet 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-05-x01",
+      "source": "pazih-dict",
+      "localId": "p319-05-x01",
+      "unit": "sentence",
+      "text": "maxaxapet ki daran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "路上長了青苔",
+          "en": "The road is molded.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-05",
+        "role": "example",
+        "parent": "pazih-dict:p319-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapet 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-05-f02",
+      "source": "pazih-dict",
+      "localId": "p319-05-f02",
+      "unit": "word",
+      "text": "sixapetan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "長蘚苔",
+          "en": "to gather moss",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapet 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06",
+      "source": "pazih-dict",
+      "localId": "p319-06",
+      "unit": "affix",
+      "text": "xapi-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-f01",
+      "source": "pazih-dict",
+      "localId": "p319-06-f01",
+      "unit": "word",
+      "text": "muxapi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "編結（頭髮、繩索）",
+          "en": "to twist fibre to make a rope, to braid hair (of men or women)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-x01",
+      "source": "pazih-dict",
+      "localId": "p319-06-x01",
+      "unit": "sentence",
+      "text": "xapi'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "結！",
+          "en": "Weave it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "example",
+        "parent": "pazih-dict:p319-06-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-f02",
+      "source": "pazih-dict",
+      "localId": "p319-06-f02",
+      "unit": "word",
+      "text": "xaaxapi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（編辮子的）髮結",
+          "en": "a hair knot of men after braiding",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "form",
+        "parent": "pazih-dict:p319-06-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-x02",
+      "source": "pazih-dict",
+      "localId": "p319-06-x02",
+      "unit": "sentence",
+      "text": "ina muxapi rakihan a bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親為她孩子結髮",
+          "en": "Mother braided the child's hair.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "example",
+        "parent": "pazih-dict:p319-06-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-x03",
+      "source": "pazih-dict",
+      "localId": "p319-06-x03",
+      "unit": "sentence",
+      "text": "xapi'en lia ki nimisiw a bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "她的頭髮結好了",
+          "en": "Her hair has been braided.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "example",
+        "parent": "pazih-dict:p319-06-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-f03",
+      "source": "pazih-dict",
+      "localId": "p319-06-f03",
+      "unit": "word",
+      "text": "xinapi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "編辮子的頭髮",
+          "en": "braided hair",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-06-x04",
+      "source": "pazih-dict",
+      "localId": "p319-06-x04",
+      "unit": "sentence",
+      "text": "yaamisiw ki xinapi tasiaw lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可能他們結髮了",
+          "en": "Maybe they have braided hair.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-06",
+        "role": "example",
+        "parent": "pazih-dict:p319-06-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapi- 條下例句",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-07",
+      "source": "pazih-dict",
+      "localId": "p319-07",
+      "unit": "word",
+      "text": "xapus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "圍裙",
+          "en": "apron",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapus 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-08",
+      "source": "pazih-dict",
+      "localId": "p319-08",
+      "unit": "affix",
+      "text": "xapux-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapux- 條",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-08-f01",
+      "source": "pazih-dict",
+      "localId": "p319-08-f01",
+      "unit": "word",
+      "text": "muxapux",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "粉碎",
+          "en": "to be torn out",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319，xapux- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319
+        ],
+        "row": null,
+        "code": "p319-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09",
+      "source": "pazih-dict",
+      "localId": "p319-09",
+      "unit": "affix",
+      "text": "xara-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-f01",
+      "source": "pazih-dict",
+      "localId": "p319-09-f01",
+      "unit": "word",
+      "text": "maaxara'ay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "聘僱",
+          "en": "to hire",
+          "nan": null
+        },
+        {
+          "zh": "叫人幫忙",
+          "en": "to call (someone to help)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x01",
+      "source": "pazih-dict",
+      "localId": "p319-09-x01",
+      "unit": "phrase",
+      "text": "maaxara'ay mukukusa",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要僱人到田裡工作",
+          "en": "will hire someone to work in the field",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-f02",
+      "source": "pazih-dict",
+      "localId": "p319-09-f02",
+      "unit": "word",
+      "text": "maxara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫",
+          "en": "to call",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x02",
+      "source": "pazih-dict",
+      "localId": "p319-09-x02",
+      "unit": "sentence",
+      "text": "maxara ima?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫誰？",
+          "en": "Who to call?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x03",
+      "source": "pazih-dict",
+      "localId": "p319-09-x03",
+      "unit": "sentence",
+      "text": "maxara langaday sinusana kaduxu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "念咒語",
+          "en": "to call down curses",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-f03",
+      "source": "pazih-dict",
+      "localId": "p319-09-f03",
+      "unit": "word",
+      "text": "paxara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫",
+          "en": "call",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下派生詞",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x04",
+      "source": "pazih-dict",
+      "localId": "p319-09-x04",
+      "unit": "sentence",
+      "text": "paxarai imisiw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫他！",
+          "en": "Call him!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f03",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x05",
+      "source": "pazih-dict",
+      "localId": "p319-09-x05",
+      "unit": "sentence",
+      "text": "paxarai na ki taw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "請叫 Taw",
+          "en": "Please call Taw.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f03",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x06",
+      "source": "pazih-dict",
+      "localId": "p319-09-x06",
+      "unit": "sentence",
+      "text": "nisiw a pinaxara",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你叫的人",
+          "en": "the one you called",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f03",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p319-09-x07",
+      "source": "pazih-dict",
+      "localId": "p319-09-x07",
+      "unit": "sentence",
+      "text": "ima ki nisiw a pinaxara?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你叫的（人）是誰？",
+          "en": "Whom did you call?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p319-09",
+        "role": "example",
+        "parent": "pazih-dict:p319-09-f03",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.319–320，xara- 條下例句",
+        "page": 319,
+        "pages": [
+          319,
+          320
+        ],
+        "row": null,
+        "code": "p319-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p319.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

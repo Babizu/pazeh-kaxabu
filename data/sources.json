@@ -1,0 +1,229 @@
+[
+  {
+    "id": "pazih-dict",
+    "title": "巴宰語詞典 Pazih Dictionary",
+    "shortTitle": "巴宰語詞典",
+    "type": "dictionary",
+    "description": "收錄約 2,700 個詞項，是巴宰–噶哈巫語最重要的辭典。本系統收錄第 59–336 頁詞彙正文，資料來自逐頁對照掃描圖校對的 JSON 化成果。",
+    "authors": [
+      "李壬癸 Paul Jen-kuei Li",
+      "土田滋 Shigeru Tsuchida"
+    ],
+    "year": "2001",
+    "publisher": "中央研究院語言學研究所籌備處",
+    "citation": "Li, Paul Jen-kuei & Shigeru Tsuchida. 2001. Pazih Dictionary 巴宰語詞典. Language and Linguistics Monograph Series A2. Taipei: Institute of Linguistics (Preparatory Office), Academia Sinica.",
+    "url": null,
+    "license": null,
+    "defaultDialects": [],
+    "orthography": "原書拼寫（李壬癸、土田滋系統），照錄不修改",
+    "browse": {
+      "mode": "page",
+      "shardLabel": "頁"
+    },
+    "reviewTracked": true,
+    "notes": [
+      "原書方言標記 [K]、[P] 標反，本系統已對調：[A] 巴宰（愛蘭）、[K] 巴宰、[P] 噶哈巫"
+    ],
+    "stats": {
+      "records": 10008,
+      "groups": 3808,
+      "shards": 278,
+      "audio": 0,
+      "affix": 960,
+      "word": 5363,
+      "phrase": 671,
+      "sentence": 3014
+    }
+  },
+  {
+    "id": "kaxabu-classified",
+    "title": "噶哈巫語分類辭典",
+    "shortTitle": "噶哈巫分類辭典",
+    "type": "dictionary",
+    "description": "依語意分類編排的噶哈巫語詞彙，附潘永歷標記法、中文與臺語譯解。",
+    "authors": [
+      "潘永歷",
+      "董忠司（總編）",
+      "陳嬿庄（主編）",
+      "潘正浩（編）",
+      "林鴻瑞（編）",
+      "涂文欽（編）",
+      "朱恩成（編）"
+    ],
+    "year": null,
+    "publisher": null,
+    "citation": null,
+    "url": null,
+    "license": null,
+    "defaultDialects": [
+      "kaxabu"
+    ],
+    "orthography": "噶哈巫語教材標記法；另附潘永歷標記法",
+    "browse": {
+      "mode": "category",
+      "shardLabel": "類"
+    },
+    "reviewTracked": false,
+    "notes": [
+      ""
+    ],
+    "stats": {
+      "records": 3118,
+      "groups": 48,
+      "shards": 24,
+      "audio": 0,
+      "affix": 9,
+      "word": 2662,
+      "phrase": 447,
+      "sentence": 0
+    }
+  },
+  {
+    "id": "lin-grammar",
+    "title": "林鴻瑞《噶哈巫語參考語法》",
+    "shortTitle": "林鴻瑞參考語法",
+    "type": "corpus",
+    "description": "資料取自《噶哈巫語參考語法》田調檔案典藏網。《噶哈巫語參考語法》第 5–15 章的例句，",
+    "authors": [
+      "潘德興（發音人）",
+      "林鴻瑞"
+    ],
+    "year": null,
+    "publisher": null,
+    "citation": null,
+    "url": "https://flat-mallet-2fd.notion.site/3eb07871e8a94a958f1f7b7015a35b90",
+    "license": null,
+    "defaultDialects": [
+      "kaxabu"
+    ],
+    "orthography": "《噶哈巫語參考語法》書寫系統",
+    "browse": {
+      "mode": "category",
+      "shardLabel": "章"
+    },
+    "reviewTracked": false,
+    "notes": [
+      "收錄 CH5–CH15 的例句；典藏網上的長篇故事影片不在收錄範圍。",
+      "已與林鴻瑞提供的 chinese_kaxabu.numbers 對照：778 句、順序一致；差異只在參考語法的體例標記（*( )、/*、可省略成分），本系統照原樣保留。",
+      "同一句例句可能在多章各出現一次（同一個例子說明不同語法點），依原編號分別收錄。"
+    ],
+    "stats": {
+      "records": 778,
+      "groups": 11,
+      "shards": 11,
+      "audio": 778,
+      "affix": 0,
+      "word": 0,
+      "phrase": 0,
+      "sentence": 778
+    }
+  },
+  {
+    "id": "pan-dexing-corpus",
+    "title": "潘德興語料",
+    "shortTitle": "潘德興語料",
+    "type": "corpus",
+    "description": "潘德興的錄影語料：字幕時間碼、逐詞對譯與切分好的句子音檔。",
+    "authors": [
+      "潘德興（發音人）"
+    ],
+    "year": null,
+    "publisher": null,
+    "citation": null,
+    "url": null,
+    "license": null,
+    "defaultDialects": [
+      "kaxabu"
+    ],
+    "orthography": "噶哈巫語參考語法",
+    "browse": {
+      "mode": "recording",
+      "shardLabel": "場次"
+    },
+    "reviewTracked": false,
+    "notes": [
+      "由潘德興的錄影語料整理而來。"
+    ],
+    "stats": {
+      "records": 8,
+      "groups": 2,
+      "shards": 1,
+      "audio": 6,
+      "affix": 0,
+      "word": 1,
+      "phrase": 0,
+      "sentence": 7
+    }
+  },
+  {
+    "id": "pan-dexing-wordlist",
+    "title": "潘德興詞彙表",
+    "shortTitle": "潘德興詞彙表",
+    "type": "wordlist",
+    "description": "與潘德興語料相配合的詞彙表，含分詞形式、詞素對譯與詞性。",
+    "authors": [
+      "潘德興（發音人）",
+      "林鴻瑞（編輯）"
+    ],
+    "year": null,
+    "publisher": null,
+    "citation": null,
+    "url": null,
+    "license": null,
+    "defaultDialects": [
+      "kaxabu"
+    ],
+    "orthography": null,
+    "browse": {
+      "mode": "list",
+      "shardLabel": "詞性"
+    },
+    "reviewTracked": false,
+    "notes": [
+      "本詞表由林鴻瑞《噶哈巫語參考語法》中的附錄詞表為基礎，並再其中補充擴展其他潘德興所使用的族語詞彙"
+    ],
+    "stats": {
+      "records": 423,
+      "groups": 17,
+      "shards": 1,
+      "audio": 0,
+      "affix": 0,
+      "word": 423,
+      "phrase": 0,
+      "sentence": 0
+    }
+  },
+  {
+    "id": "reed-early",
+    "title": "Reed Digital Collections 巴宰早期詞表",
+    "shortTitle": "Reed 早期詞表",
+    "type": "wordlist",
+    "description": "19~20世紀西方文獻中記錄的巴宰相關詞彙，每筆附原始文獻書目。",
+    "authors": [],
+    "year": null,
+    "publisher": null,
+    "citation": null,
+    "url": null,
+    "license": null,
+    "defaultDialects": [],
+    "orthography": "各原始文獻的記音，含附加符號",
+    "browse": {
+      "mode": "list",
+      "shardLabel": "文獻"
+    },
+    "reviewTracked": false,
+    "notes": [
+      "本詞表由 Reed Digital Collections 編輯集合，原始資料為 19~20 世紀西方文獻中記錄的巴宰相關詞彙。"
+    ],
+    "stats": {
+      "records": 474,
+      "groups": 4,
+      "shards": 4,
+      "audio": 0,
+      "affix": 4,
+      "word": 448,
+      "phrase": 22,
+      "sentence": 0
+    }
+  }
+]

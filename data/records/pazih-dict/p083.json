@@ -1,0 +1,2092 @@
+{
+  "source": "pazih-dict",
+  "shard": "p083",
+  "label": "p.83",
+  "groups": [
+    {
+      "id": "pazih-dict:p083-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "barebar",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.83，barebar 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p083-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "barebaret",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.83，barebaret 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p083-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baret",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p083-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baret-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p083-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "baret-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p083-01",
+      "source": "pazih-dict",
+      "localId": "p083-01",
+      "unit": "word",
+      "text": "barebar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "旗子",
+          "en": "flag",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，barebar 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-01-x01",
+      "source": "pazih-dict",
+      "localId": "p083-01-x01",
+      "unit": "sentence",
+      "text": "nahani mitalam mitalam barebar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們來賽跑奪旗",
+          "en": "They run to race for the flag.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，barebar 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-02",
+      "source": "pazih-dict",
+      "localId": "p083-02",
+      "unit": "word",
+      "text": "barebaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "旁邊",
+          "en": "beside",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "baret",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，barebaret 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03",
+      "source": "pazih-dict",
+      "localId": "p083-03",
+      "unit": "word",
+      "text": "baret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "另一半",
+          "en": "the other half",
+          "nan": null
+        },
+        {
+          "zh": "腰窩（肋骨與臀部間之部分）",
+          "en": "flank",
+          "nan": null
+        },
+        {
+          "zh": "一邊（眼、耳）",
+          "en": "one side (eye, ear)",
+          "nan": null
+        },
+        {
+          "zh": "鄰居",
+          "en": "neighbor",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "barul"
+      ]
+    },
+    {
+      "id": "pazih-dict:p083-03-x01",
+      "source": "pazih-dict",
+      "localId": "p083-03-x01",
+      "unit": "sentence",
+      "text": "naki a baret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的另一半",
+          "en": "my other half",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x02",
+      "source": "pazih-dict",
+      "localId": "p083-03-x02",
+      "unit": "sentence",
+      "text": "baret daran ka padalak a hapuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "路旁有烈火",
+          "en": "There was a flame beside the road.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x03",
+      "source": "pazih-dict",
+      "localId": "p083-03-x03",
+      "unit": "sentence",
+      "text": "naki bared a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我身邊的人",
+          "en": "the person next to me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x04",
+      "source": "pazih-dict",
+      "localId": "p083-03-x04",
+      "unit": "sentence",
+      "text": "puzah uhuza a baret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老伴來了",
+          "en": "The former spouse came.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-f01",
+      "source": "pazih-dict",
+      "localId": "p083-03-f01",
+      "unit": "word",
+      "text": "barebaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "旁邊",
+          "en": "beside",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下派生詞",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x05",
+      "source": "pazih-dict",
+      "localId": "p083-03-x05",
+      "unit": "sentence",
+      "text": "di barebaret raxung isia ka dahu a umamah ka karit",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "河的兩旁有許多稻田和旱田",
+          "en": "There are many rice paddies and swidden fields on both sides of the stream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": "pazih-dict:p083-03-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-f02",
+      "source": "pazih-dict",
+      "localId": "p083-03-f02",
+      "unit": "word",
+      "text": "taubaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鄰居，隔壁",
+          "en": "neighbor",
+          "nan": null
+        },
+        {
+          "zh": "旁邊，身邊的人",
+          "en": "the person next to me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下派生詞",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x06",
+      "source": "pazih-dict",
+      "localId": "p083-03-x06",
+      "unit": "sentence",
+      "text": "naki a taubared a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的鄰居（有時意指：我的另一半）",
+          "en": "my neighbor (Also: my spouse)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": "pazih-dict:p083-03-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x07",
+      "source": "pazih-dict",
+      "localId": "p083-03-x07",
+      "unit": "sentence",
+      "text": "adang a daali taubaret a apu mupuzah lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有一天，鄰居阿婆來了",
+          "en": "On a certain day, a neighbor, an old woman, came (to him).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": "pazih-dict:p083-03-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x08",
+      "source": "pazih-dict",
+      "localId": "p083-03-x08",
+      "unit": "sentence",
+      "text": "mupuzah lia ki taubaret lia mamaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鄰村的少年都來了",
+          "en": "The youth from other villages all came.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": "pazih-dict:p083-03-f02",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-x09",
+      "source": "pazih-dict",
+      "localId": "p083-03-x09",
+      "unit": "sentence",
+      "text": "taubared a reten ka nahada lia ki apu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鄰村有一個老太婆",
+          "en": "In a neighboring village there was an old woman.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "example",
+        "parent": "pazih-dict:p083-03-f02",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-03-f03",
+      "source": "pazih-dict",
+      "localId": "p083-03-f03",
+      "unit": "word",
+      "text": "makiabaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "另一半",
+          "en": "the other half",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-03",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret 條下派生詞",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04",
+      "source": "pazih-dict",
+      "localId": "p083-04",
+      "unit": "affix",
+      "text": "baret-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p083-04-f01",
+      "source": "pazih-dict",
+      "localId": "p083-04-f01",
+      "unit": "word",
+      "text": "maxibaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（睡時）翻身",
+          "en": "to turn over in sleep",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04-x01",
+      "source": "pazih-dict",
+      "localId": "p083-04-x01",
+      "unit": "sentence",
+      "text": "maxibaret midem yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我睡時翻身",
+          "en": "I turn over while sleeping.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "example",
+        "parent": "pazih-dict:p083-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04-x02",
+      "source": "pazih-dict",
+      "localId": "p083-04-x02",
+      "unit": "phrase",
+      "text": "maxibaret batu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "翻蛋",
+          "en": "to turn over eggs",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "example",
+        "parent": "pazih-dict:p083-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04-f02",
+      "source": "pazih-dict",
+      "localId": "p083-04-f02",
+      "unit": "word",
+      "text": "xibaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "翻（穀子、衣服）",
+          "en": "to turn over",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04-x03",
+      "source": "pazih-dict",
+      "localId": "p083-04-x03",
+      "unit": "sentence",
+      "text": "xibaredi ki siatu!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "翻衣服！",
+          "en": "Turn over the clothes!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "example",
+        "parent": "pazih-dict:p083-04-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-04-x04",
+      "source": "pazih-dict",
+      "localId": "p083-04-x04",
+      "unit": "sentence",
+      "text": "xibaredi ki alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "把魚翻過來",
+          "en": "Turn over the fish!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-04",
+        "role": "example",
+        "parent": "pazih-dict:p083-04-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83
+        ],
+        "row": null,
+        "code": "p083-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05",
+      "source": "pazih-dict",
+      "localId": "p083-05",
+      "unit": "affix",
+      "text": "baret-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p083-05-f01",
+      "source": "pazih-dict",
+      "localId": "p083-05-f01",
+      "unit": "word",
+      "text": "kabaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借",
+          "en": "to borrow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x01",
+      "source": "pazih-dict",
+      "localId": "p083-05-x01",
+      "unit": "sentence",
+      "text": "kabaredi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借！",
+          "en": "Lend it!",
+          "nan": null
+        },
+        {
+          "zh": "向他借！",
+          "en": "Borrow it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x02",
+      "source": "pazih-dict",
+      "localId": "p083-05-x02",
+      "unit": "phrase",
+      "text": "kabareden namisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借給他們",
+          "en": "Lend it to them.",
+          "nan": null
+        },
+        {
+          "zh": "讓他們借去",
+          "en": "It has been borrowed by them.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x03",
+      "source": "pazih-dict",
+      "localId": "p083-05-x03",
+      "unit": "sentence",
+      "text": "takabaredaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們借吧！",
+          "en": "Let's lend!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x04",
+      "source": "pazih-dict",
+      "localId": "p083-05-x04",
+      "unit": "sentence",
+      "text": "takabaredaw naki paray",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借我錢！",
+          "en": "Lend me some money!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x05",
+      "source": "pazih-dict",
+      "localId": "p083-05-x05",
+      "unit": "sentence",
+      "text": "kabareday pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要向誰借？",
+          "en": "From whom will you borrow?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x06",
+      "source": "pazih-dict",
+      "localId": "p083-05-x06",
+      "unit": "sentence",
+      "text": "kinabaret nima?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向誰借的？",
+          "en": "From whom was it borrowed?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x07",
+      "source": "pazih-dict",
+      "localId": "p083-05-x07",
+      "unit": "sentence",
+      "text": "kinabaret ni taw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向 Taw 借的",
+          "en": "to have borrowed from Taw",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-f02",
+      "source": "pazih-dict",
+      "localId": "p083-05-f02",
+      "unit": "word",
+      "text": "mukabaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借入",
+          "en": "to borrow",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "form",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-f03",
+      "source": "pazih-dict",
+      "localId": "p083-05-f03",
+      "unit": "word",
+      "text": "paakabaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "借予",
+          "en": "to lend",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-f04",
+      "source": "pazih-dict",
+      "localId": "p083-05-f04",
+      "unit": "word",
+      "text": "pabaret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "回答",
+          "en": "to answer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下派生詞",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x08",
+      "source": "pazih-dict",
+      "localId": "p083-05-x08",
+      "unit": "sentence",
+      "text": "saasayen pabaret?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "如何回答？",
+          "en": "How to answer?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f04",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x09",
+      "source": "pazih-dict",
+      "localId": "p083-05-x09",
+      "unit": "sentence",
+      "text": "pabareden naki lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我回答了",
+          "en": "I answered it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f04",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p083-05-x10",
+      "source": "pazih-dict",
+      "localId": "p083-05-x10",
+      "unit": "sentence",
+      "text": "maxapabaret ki lahai yu haw riak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們互相答好",
+          "en": "They greeted to each other.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p083-05",
+        "role": "example",
+        "parent": "pazih-dict:p083-05-f04",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.83–84，baret- 條下例句",
+        "page": 83,
+        "pages": [
+          83,
+          84
+        ],
+        "row": null,
+        "code": "p083-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p083.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

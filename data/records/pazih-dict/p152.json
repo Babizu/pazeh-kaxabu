@@ -1,0 +1,3652 @@
+{
+  "source": "pazih-dict",
+  "shard": "p152",
+  "label": "p.152",
+  "groups": [
+    {
+      "id": "pazih-dict:p152-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kiribun",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.152，kiribun 條",
+        "page": 152,
+        "pages": [
+          152
+        ],
+        "row": null,
+        "code": "p152-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p152-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kita-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p152-01",
+      "source": "pazih-dict",
+      "localId": "p152-01",
+      "unit": "word",
+      "text": "kiribun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "家裡",
+          "en": "in the house",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152，kiribun 條",
+        "page": 152,
+        "pages": [
+          152
+        ],
+        "row": null,
+        "code": "p152-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-01-x01",
+      "source": "pazih-dict",
+      "localId": "p152-01-x01",
+      "unit": "phrase",
+      "text": "usa kiribunan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去家裡！",
+          "en": "Go into the House! Enter the house!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152，kiribun 條下例句",
+        "page": 152,
+        "pages": [
+          152
+        ],
+        "row": null,
+        "code": "p152-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-01-x02",
+      "source": "pazih-dict",
+      "localId": "p152-01-x02",
+      "unit": "sentence",
+      "text": "maka maupupudahay xuma kiribunan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（他）決定要回家裡",
+          "en": "(He) decided to return to the house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152，kiribun 條下例句",
+        "page": 152,
+        "pages": [
+          152
+        ],
+        "row": null,
+        "code": "p152-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02",
+      "source": "pazih-dict",
+      "localId": "p152-02",
+      "unit": "affix",
+      "text": "kita-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f01",
+      "source": "pazih-dict",
+      "localId": "p152-02-f01",
+      "unit": "word",
+      "text": "kinita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "已被見了",
+          "en": "to have been seen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x01",
+      "source": "pazih-dict",
+      "localId": "p152-02-x01",
+      "unit": "sentence",
+      "text": "haw la ka kinita pakatahayak imu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "所看的（一切）要謝謝你們",
+          "en": "Thank you for what we have seen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f02",
+      "source": "pazih-dict",
+      "localId": "p152-02-f02",
+      "unit": "word",
+      "text": "kita'enia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "發現了",
+          "en": "to have been discovered",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "kita'en lia",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f03",
+      "source": "pazih-dict",
+      "localId": "p152-02-f03",
+      "unit": "word",
+      "text": "maakakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "初次相見",
+          "en": "to meet for the first time",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f04",
+      "source": "pazih-dict",
+      "localId": "p152-02-f04",
+      "unit": "word",
+      "text": "maakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互看，互望",
+          "en": "to look at each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x02",
+      "source": "pazih-dict",
+      "localId": "p152-02-x02",
+      "unit": "sentence",
+      "text": "maxamaakita'ay tabanan mataru",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要和 Tabanan 頭目相見",
+          "en": "(I) will meet Tabanan’s chief.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f05",
+      "source": "pazih-dict",
+      "localId": "p152-02-f05",
+      "unit": "word",
+      "text": "maakitakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "互相看來看去",
+          "en": "look at each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f06",
+      "source": "pazih-dict",
+      "localId": "p152-02-f06",
+      "unit": "word",
+      "text": "maxakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相見",
+          "en": "to see each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f07",
+      "source": "pazih-dict",
+      "localId": "p152-02-f07",
+      "unit": "word",
+      "text": "maxakikita'ay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "將相見",
+          "en": "will see each other",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": "pazih-dict:p152-02-f06",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x03",
+      "source": "pazih-dict",
+      "localId": "p152-02-x03",
+      "unit": "sentence",
+      "text": "maxakikita'ay mamais nisia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他將和姑娘相見",
+          "en": "He will see a girl.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f06",
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f08",
+      "source": "pazih-dict",
+      "localId": "p152-02-f08",
+      "unit": "word",
+      "text": "maxakakita'an",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可以觀賞的，當賞玩的",
+          "en": "to become something to look at",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f09",
+      "source": "pazih-dict",
+      "localId": "p152-02-f09",
+      "unit": "word",
+      "text": "mikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看見",
+          "en": "to see, to look at",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x04",
+      "source": "pazih-dict",
+      "localId": "p152-02-x04",
+      "unit": "sentence",
+      "text": "kita xuma!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看這房子！",
+          "en": "Look at the house!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x05",
+      "source": "pazih-dict",
+      "localId": "p152-02-x05",
+      "unit": "sentence",
+      "text": "kita'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看！",
+          "en": "Look!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x06",
+      "source": "pazih-dict",
+      "localId": "p152-02-x06",
+      "unit": "sentence",
+      "text": "kita'i ki xuma!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看家！",
+          "en": "Take care of the house!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x07",
+      "source": "pazih-dict",
+      "localId": "p152-02-x07",
+      "unit": "sentence",
+      "text": "kakitaan u saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要給人看",
+          "en": "to show it to people",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x08",
+      "source": "pazih-dict",
+      "localId": "p152-02-x08",
+      "unit": "sentence",
+      "text": "yaku ka mikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看見了",
+          "en": "I saw it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x09",
+      "source": "pazih-dict",
+      "localId": "p152-02-x09",
+      "unit": "phrase",
+      "text": "mikita yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看我",
+          "en": "to see me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x10",
+      "source": "pazih-dict",
+      "localId": "p152-02-x10",
+      "unit": "sentence",
+      "text": "mikita yamisiw a mupudah",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（我）看見他們來",
+          "en": "I saw them arriving.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x11",
+      "source": "pazih-dict",
+      "localId": "p152-02-x11",
+      "unit": "sentence",
+      "text": "mikita aakim babaket rakihan ki abuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Abuk 看到 Aakim 打小孩",
+          "en": "Abuk saw Aakim beating a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x12",
+      "source": "pazih-dict",
+      "localId": "p152-02-x12",
+      "unit": "phrase",
+      "text": "mikita reset",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看重，看得起",
+          "en": "to respect",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x13",
+      "source": "pazih-dict",
+      "localId": "p152-02-x13",
+      "unit": "phrase",
+      "text": "kitaan yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被看了",
+          "en": "I was seen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x14",
+      "source": "pazih-dict",
+      "localId": "p152-02-x14",
+      "unit": "phrase",
+      "text": "ini kitaan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒被看見",
+          "en": "was not seen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x15",
+      "source": "pazih-dict",
+      "localId": "p152-02-x15",
+      "unit": "sentence",
+      "text": "ini mikita reset",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看不起",
+          "en": "to look down upon",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x16",
+      "source": "pazih-dict",
+      "localId": "p152-02-x16",
+      "unit": "sentence",
+      "text": "talawas a mikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "往上看",
+          "en": "to look up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x17",
+      "source": "pazih-dict",
+      "localId": "p152-02-x17",
+      "unit": "sentence",
+      "text": "taxibubuk a mikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "往下看",
+          "en": "to look down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 26
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x18",
+      "source": "pazih-dict",
+      "localId": "p152-02-x18",
+      "unit": "sentence",
+      "text": "mikita u kinixidan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "往旁邊看",
+          "en": "to look sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 27
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x19",
+      "source": "pazih-dict",
+      "localId": "p152-02-x19",
+      "unit": "sentence",
+      "text": "mikita u tababilih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "往回看",
+          "en": "to look back",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 28
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x20",
+      "source": "pazih-dict",
+      "localId": "p152-02-x20",
+      "unit": "sentence",
+      "text": "mikita u ruharat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向前看",
+          "en": "to look straight forward",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 29
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x21",
+      "source": "pazih-dict",
+      "localId": "p152-02-x21",
+      "unit": "sentence",
+      "text": "mikita yaku ka duasasayay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看我做什麼？",
+          "en": "What did you look at me for?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 30
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x22",
+      "source": "pazih-dict",
+      "localId": "p152-02-x22",
+      "unit": "sentence",
+      "text": "isiw ka mikita ima?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你看到誰？",
+          "en": "Who did you see?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 31
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x23",
+      "source": "pazih-dict",
+      "localId": "p152-02-x23",
+      "unit": "sentence",
+      "text": "isiw ka mikita ima di binayu?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在山上看到誰？",
+          "en": "Who did you see in the mountain?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 32
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x24",
+      "source": "pazih-dict",
+      "localId": "p152-02-x24",
+      "unit": "sentence",
+      "text": "mikita siana, nahada u dalum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看來看去，（看到）有水",
+          "en": "(He) kept looking around, (and) there was water.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 33
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x25",
+      "source": "pazih-dict",
+      "localId": "p152-02-x25",
+      "unit": "sentence",
+      "text": "mikita paripari siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你看見車子（了）嗎？",
+          "en": "Did you see the car?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 34
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x26",
+      "source": "pazih-dict",
+      "localId": "p152-02-x26",
+      "unit": "phrase",
+      "text": "mikita aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看到了",
+          "en": "I saw it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 35
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x27",
+      "source": "pazih-dict",
+      "localId": "p152-02-x27",
+      "unit": "sentence",
+      "text": "mikita ka mangiday, uhuni ma maxakekela",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看了就要哭。現在也會想念",
+          "en": "Seeing (them) would (make me) cry. Now I'm also thinking (of them).",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 36
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x28",
+      "source": "pazih-dict",
+      "localId": "p152-02-x28",
+      "unit": "phrase",
+      "text": "minukita ku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我看見了",
+          "en": "I saw it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 37
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x29",
+      "source": "pazih-dict",
+      "localId": "p152-02-x29",
+      "unit": "sentence",
+      "text": "kita'en nami wsi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被他看見",
+          "en": "to be seen by him",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 38
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x30",
+      "source": "pazih-dict",
+      "localId": "p152-02-x30",
+      "unit": "sentence",
+      "text": "kita'en ka rakihan mamaaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一看是個男孩",
+          "en": "(They) looked (at it and it was) a baby boy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 39
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x31",
+      "source": "pazih-dict",
+      "localId": "p152-02-x31",
+      "unit": "sentence",
+      "text": "kitay yaku!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看我！",
+          "en": "Look at me!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 40
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "~ kitaay"
+      ]
+    },
+    {
+      "id": "pazih-dict:p152-02-x32",
+      "source": "pazih-dict",
+      "localId": "p152-02-x32",
+      "unit": "sentence",
+      "text": "kitay imisiw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看他/它！",
+          "en": "Look at him/ it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 41
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x33",
+      "source": "pazih-dict",
+      "localId": "p152-02-x33",
+      "unit": "sentence",
+      "text": "kitay itih!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看 Itih ！",
+          "en": "Look at itih!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 42
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x34",
+      "source": "pazih-dict",
+      "localId": "p152-02-x34",
+      "unit": "sentence",
+      "text": "kitay xuma!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看房子！",
+          "en": "Look at the house!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 43
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f10",
+      "source": "pazih-dict",
+      "localId": "p152-02-f10",
+      "unit": "word",
+      "text": "mikitakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直看",
+          "en": "keep looking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 44
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f11",
+      "source": "pazih-dict",
+      "localId": "p152-02-f11",
+      "unit": "word",
+      "text": "kitakita'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直看",
+          "en": "to keep looking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 45
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f12",
+      "source": "pazih-dict",
+      "localId": "p152-02-f12",
+      "unit": "word",
+      "text": "kiikita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在看",
+          "en": "is looking",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 46
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x35",
+      "source": "pazih-dict",
+      "localId": "p152-02-x35",
+      "unit": "sentence",
+      "text": "kiikita u rahuay a dusa rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "兩個小孩正在看老鷹",
+          "en": "The two children are looking at the hawk.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 47
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x36",
+      "source": "pazih-dict",
+      "localId": "p152-02-x36",
+      "unit": "sentence",
+      "text": "nahada kiikita saw a takarad a isia lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在觀看的人當中有一個醫生",
+          "en": "Among the ones looking at (the leopards), there was a doctor.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 48
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x37",
+      "source": "pazih-dict",
+      "localId": "p152-02-x37",
+      "unit": "sentence",
+      "text": "hakezeng a saw ki'kita rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "老人在看小孩",
+          "en": "The old man is looking at a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 49
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x38",
+      "source": "pazih-dict",
+      "localId": "p152-02-x38",
+      "unit": "phrase",
+      "text": "Ini kitaan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看不到",
+          "en": "cannot see",
+          "nan": null
+        },
+        {
+          "zh": "沒看到",
+          "en": "It was not seen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 50
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x39",
+      "source": "pazih-dict",
+      "localId": "p152-02-x39",
+      "unit": "phrase",
+      "text": "kitaan yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被看到",
+          "en": "I am seen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 51
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x40",
+      "source": "pazih-dict",
+      "localId": "p152-02-x40",
+      "unit": "sentence",
+      "text": "kitaan di dakal ka nahada riak a subud a dalum",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他看見在前面有好的泉水",
+          "en": "He found nice spring water in front of him.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 52
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x41",
+      "source": "pazih-dict",
+      "localId": "p152-02-x41",
+      "unit": "sentence",
+      "text": "haw la ka kinita pakatahayak imu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "所看的（一切）要謝謝你們",
+          "en": "Thank you for what we have seen.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 53
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x42",
+      "source": "pazih-dict",
+      "localId": "p152-02-x42",
+      "unit": "sentence",
+      "text": "makakakitaan tipuzu a binayu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他們看到了山頂",
+          "en": "They saw the top of the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f09",
+        "seq": 54
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f13",
+      "source": "pazih-dict",
+      "localId": "p152-02-f13",
+      "unit": "word",
+      "text": "pakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "給人看",
+          "en": "to show it",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x43",
+      "source": "pazih-dict",
+      "localId": "p152-02-x43",
+      "unit": "phrase",
+      "text": "pakita saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "給人看",
+          "en": "to show it to someone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f13",
+        "seq": 56
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x44",
+      "source": "pazih-dict",
+      "localId": "p152-02-x44",
+      "unit": "phrase",
+      "text": "pakita yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "讓我看",
+          "en": "to show it to me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f13",
+        "seq": 57
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f14",
+      "source": "pazih-dict",
+      "localId": "p152-02-f14",
+      "unit": "word",
+      "text": "pinakita",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被人看了",
+          "en": "be seen",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": "pazih-dict:p152-02-f13",
+        "seq": 58
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x45",
+      "source": "pazih-dict",
+      "localId": "p152-02-x45",
+      "unit": "phrase",
+      "text": "pinakita yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被我看過了",
+          "en": "It has been seen by me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f13",
+        "seq": 59
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x46",
+      "source": "pazih-dict",
+      "localId": "p152-02-x46",
+      "unit": "sentence",
+      "text": "pinakita saw aku lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我被人看過了",
+          "en": "I was seen by other people.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f13",
+        "seq": 60
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-f15",
+      "source": "pazih-dict",
+      "localId": "p152-02-f15",
+      "unit": "affix",
+      "text": "takita-, tapakita-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "form",
+        "parent": null,
+        "seq": 61
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下派生詞",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x47",
+      "source": "pazih-dict",
+      "localId": "p152-02-x47",
+      "unit": "sentence",
+      "text": "tia, takita'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們去看吧！",
+          "en": "Go! Let's go and see!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f15",
+        "seq": 62
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x48",
+      "source": "pazih-dict",
+      "localId": "p152-02-x48",
+      "unit": "sentence",
+      "text": "takita'aw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們看吧！",
+          "en": "Let's look at it!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f15",
+        "seq": 63
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x49",
+      "source": "pazih-dict",
+      "localId": "p152-02-x49",
+      "unit": "sentence",
+      "text": "takita yu ima ka magizem yu mula",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們看誰最強壯和領先",
+          "en": "Let's see who is the strongest and first!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f15",
+        "seq": 64
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x50",
+      "source": "pazih-dict",
+      "localId": "p152-02-x50",
+      "unit": "sentence",
+      "text": "tapakita'i!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們來相看！",
+          "en": "Let's look at each other!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f15",
+        "seq": 65
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p152-02-x51",
+      "source": "pazih-dict",
+      "localId": "p152-02-x51",
+      "unit": "sentence",
+      "text": "tapakitakita'aw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們使他們相見吧？",
+          "en": "Let's make them see each other!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p152-02",
+        "role": "example",
+        "parent": "pazih-dict:p152-02-f15",
+        "seq": 66
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.152–153，kita- 條下例句",
+        "page": 152,
+        "pages": [
+          152,
+          153
+        ],
+        "row": null,
+        "code": "p152-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p152.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

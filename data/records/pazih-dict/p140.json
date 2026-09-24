@@ -1,0 +1,3417 @@
+{
+  "source": "pazih-dict",
+  "shard": "p140",
+  "label": "p.140",
+  "groups": [
+    {
+      "id": "pazih-dict:p140-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kamilumilu",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamilumilu 條",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p140-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kamut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamut- 條",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p140-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "kan-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p140-01",
+      "source": "pazih-dict",
+      "localId": "p140-01",
+      "unit": "word",
+      "text": "kamilumilu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "各種東西",
+          "en": "various things; articles",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "milu-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamilumilu 條",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-02",
+      "source": "pazih-dict",
+      "localId": "p140-02",
+      "unit": "affix",
+      "text": "kamut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamut- 條",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-02-f01",
+      "source": "pazih-dict",
+      "localId": "p140-02-f01",
+      "unit": "word",
+      "text": "kakamut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "手指",
+          "en": "finger",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamut- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-02-x01",
+      "source": "pazih-dict",
+      "localId": "p140-02-x01",
+      "unit": "sentence",
+      "text": "kalu rima kakamut musuku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用手指量",
+          "en": "to measure with one's fingers, one span",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-02",
+        "role": "example",
+        "parent": "pazih-dict:p140-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140，kamut- 條下例句",
+        "page": 140,
+        "pages": [
+          140
+        ],
+        "row": null,
+        "code": "p140-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03",
+      "source": "pazih-dict",
+      "localId": "p140-03",
+      "unit": "affix",
+      "text": "kan-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "~",
+          "text": "ken-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x01",
+      "source": "pazih-dict",
+      "localId": "p140-03-x01",
+      "unit": "sentence",
+      "text": "kani!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃！",
+          "en": "Eat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x02",
+      "source": "pazih-dict",
+      "localId": "p140-03-x02",
+      "unit": "sentence",
+      "text": "kani a alaw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃魚！",
+          "en": "Eat the fish!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x03",
+      "source": "pazih-dict",
+      "localId": "p140-03-x03",
+      "unit": "sentence",
+      "text": "kinan saw ki alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "魚有人吃過",
+          "en": "The fish has been touched. (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x04",
+      "source": "pazih-dict",
+      "localId": "p140-03-x04",
+      "unit": "phrase",
+      "text": "kakanay lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不久要吃",
+          "en": "will eat soon",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Asai",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x05",
+      "source": "pazih-dict",
+      "localId": "p140-03-x05",
+      "unit": "sentence",
+      "text": "kakanay sumay yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要吃飯",
+          "en": "I shall eat rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f01",
+      "source": "pazih-dict",
+      "localId": "p140-03-f01",
+      "unit": "word",
+      "text": "kaaken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在吃",
+          "en": "is eating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x06",
+      "source": "pazih-dict",
+      "localId": "p140-03-x06",
+      "unit": "sentence",
+      "text": "watan ini kaaken alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Watan 沒在吃魚",
+          "en": "Watan is not eating fish.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f01",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x07",
+      "source": "pazih-dict",
+      "localId": "p140-03-x07",
+      "unit": "sentence",
+      "text": "kaaken sumay yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我正在吃飯",
+          "en": "I am eating rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f01",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x08",
+      "source": "pazih-dict",
+      "localId": "p140-03-x08",
+      "unit": "sentence",
+      "text": "yaku kaaken dukul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在吃芋頭",
+          "en": "I am eating taros.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f01",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f02",
+      "source": "pazih-dict",
+      "localId": "p140-03-f02",
+      "unit": "word",
+      "text": "kakanan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餐桌",
+          "en": "dining table",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f03",
+      "source": "pazih-dict",
+      "localId": "p140-03-f03",
+      "unit": "word",
+      "text": "kakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃",
+          "en": "to eat (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x09",
+      "source": "pazih-dict",
+      "localId": "p140-03-x09",
+      "unit": "sentence",
+      "text": "riak a kakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "美味，好吃",
+          "en": "tasty",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f03",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x10",
+      "source": "pazih-dict",
+      "localId": "p140-03-x10",
+      "unit": "phrase",
+      "text": "ini kakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不要吃",
+          "en": "not to eat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f03",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x11",
+      "source": "pazih-dict",
+      "localId": "p140-03-x11",
+      "unit": "sentence",
+      "text": "kakanen naki ki isia a alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那魚要給我吃",
+          "en": "That fish is for me to eat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f03",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f04",
+      "source": "pazih-dict",
+      "localId": "p140-03-f04",
+      "unit": "word",
+      "text": "meken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃",
+          "en": "to eat (AF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x12",
+      "source": "pazih-dict",
+      "localId": "p140-03-x12",
+      "unit": "sentence",
+      "text": "meken siut ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩吃了小酸桔",
+          "en": "The child ate an orange.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x13",
+      "source": "pazih-dict",
+      "localId": "p140-03-x13",
+      "unit": "phrase",
+      "text": "ini meken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "沒吃",
+          "en": "did not eat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x14",
+      "source": "pazih-dict",
+      "localId": "p140-03-x14",
+      "unit": "sentence",
+      "text": "ana meken!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "別吃！",
+          "en": "Don't eat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x15",
+      "source": "pazih-dict",
+      "localId": "p140-03-x15",
+      "unit": "sentence",
+      "text": "meken siw sumay lia?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你吃飯了沒有？",
+          "en": "Have you eaten rice?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x16",
+      "source": "pazih-dict",
+      "localId": "p140-03-x16",
+      "unit": "phrase",
+      "text": "meken aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃了",
+          "en": "I ate.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x17",
+      "source": "pazih-dict",
+      "localId": "p140-03-x17",
+      "unit": "sentence",
+      "text": "yaku meken dukul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃了芋頭",
+          "en": "I ate taros.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x18",
+      "source": "pazih-dict",
+      "localId": "p140-03-x18",
+      "unit": "sentence",
+      "text": "nah meken aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我不要吃",
+          "en": "I shall not eat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x19",
+      "source": "pazih-dict",
+      "localId": "p140-03-x19",
+      "unit": "sentence",
+      "text": "meken asay pai siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你吃什麼？",
+          "en": "What do you eat?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x20",
+      "source": "pazih-dict",
+      "localId": "p140-03-x20",
+      "unit": "sentence",
+      "text": "ini riak a meken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "不好吃",
+          "en": "not del ious ic",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x21",
+      "source": "pazih-dict",
+      "localId": "p140-03-x21",
+      "unit": "sentence",
+      "text": "sadial a meken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "難吃",
+          "en": "hard to eat",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x22",
+      "source": "pazih-dict",
+      "localId": "p140-03-x22",
+      "unit": "sentence",
+      "text": "minmineken siw sumay lia? eken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃過了",
+          "en": "have eaten.",
+          "nan": null
+        },
+        {
+          "zh": "你吃飯了沒有？",
+          "en": "Have you eaten?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 26
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x23",
+      "source": "pazih-dict",
+      "localId": "p140-03-x23",
+      "unit": "sentence",
+      "text": "mineken di asai pai siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你在哪裡吃？",
+          "en": "Where did you eat?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 27
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x24",
+      "source": "pazih-dict",
+      "localId": "p140-03-x24",
+      "unit": "sentence",
+      "text": "mineken di kasibadan yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在學校吃",
+          "en": "I ate in school.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 28
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x25",
+      "source": "pazih-dict",
+      "localId": "p140-03-x25",
+      "unit": "sentence",
+      "text": "mineken assai paisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你吃了什麼？",
+          "en": "What did you eat?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 29
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x26",
+      "source": "pazih-dict",
+      "localId": "p140-03-x26",
+      "unit": "sentence",
+      "text": "mineken sumay yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我吃了飯了",
+          "en": "I ate rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 30
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x27",
+      "source": "pazih-dict",
+      "localId": "p140-03-x27",
+      "unit": "phrase",
+      "text": "kanen lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被吃過了",
+          "en": "to have been eaten (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 31
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x28",
+      "source": "pazih-dict",
+      "localId": "p140-03-x28",
+      "unit": "phrase",
+      "text": "kanen wazu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被狗吃了",
+          "en": "to have been eaten by a dog",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 32
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x29",
+      "source": "pazih-dict",
+      "localId": "p140-03-x29",
+      "unit": "sentence",
+      "text": "kanen naki dadua lia ki dadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "地瓜都被我吃完了",
+          "en": "The sweet potatoes were all eaten by me. (PF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 33
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f05",
+      "source": "pazih-dict",
+      "localId": "p140-03-f05",
+      "unit": "word",
+      "text": "kinanan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吃過的地方",
+          "en": "the place where (I) haven eaten (Ogawa) (LF)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": "pazih-dict:p140-03-f04",
+        "seq": 34
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "possible-typo"
+        ]
+      },
+      "notes": [
+        "原書英文作 haven eaten，疑為 have eaten 之誤植，依 5.1 不修正"
+      ]
+    },
+    {
+      "id": "pazih-dict:p140-03-f06",
+      "source": "pazih-dict",
+      "localId": "p140-03-f06",
+      "unit": "word",
+      "text": "makiakanen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餓",
+          "en": "hungry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x30",
+      "source": "pazih-dict",
+      "localId": "p140-03-x30",
+      "unit": "sentence",
+      "text": "makiakanen lia ki watan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "Watan 餓了",
+          "en": "Watan is hungry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f06",
+        "seq": 36
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x31",
+      "source": "pazih-dict",
+      "localId": "p140-03-x31",
+      "unit": "sentence",
+      "text": "makiakanen siw?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你餓了嗎？",
+          "en": "Are you hungry?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f06",
+        "seq": 37
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x32",
+      "source": "pazih-dict",
+      "localId": "p140-03-x32",
+      "unit": "sentence",
+      "text": "makiakanen a tial",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餓，腹飢",
+          "en": "hungry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f06",
+        "seq": 38
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f07",
+      "source": "pazih-dict",
+      "localId": "p140-03-f07",
+      "unit": "word",
+      "text": "pakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餵",
+          "en": "to feed",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 39
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x33",
+      "source": "pazih-dict",
+      "localId": "p140-03-x33",
+      "unit": "sentence",
+      "text": "pakan rakihan ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母餵子",
+          "en": "Mother feeds the child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 40
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x34",
+      "source": "pazih-dict",
+      "localId": "p140-03-x34",
+      "unit": "sentence",
+      "text": "pakan siut u rakihan ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親餵小孩小酸桔",
+          "en": "The mother fed the child with an orange.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 41
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x35",
+      "source": "pazih-dict",
+      "localId": "p140-03-x35",
+      "unit": "sentence",
+      "text": "ukuazixa ina pakan rakihan dukul",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "昨天母親餵小孩芋頭",
+          "en": "Mother fed the child taros yesterday.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 42
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x36",
+      "source": "pazih-dict",
+      "localId": "p140-03-x36",
+      "unit": "sentence",
+      "text": "paakanakani!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大家吃吧！",
+          "en": "Let’s all eat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 43
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x37",
+      "source": "pazih-dict",
+      "localId": "p140-03-x37",
+      "unit": "sentence",
+      "text": "awi ka pinakan durun ni tata",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "阿維（被後母）叫他吃米糠",
+          "en": "Awi was-fed with rice-bran by Aunty.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 44
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x38",
+      "source": "pazih-dict",
+      "localId": "p140-03-x38",
+      "unit": "sentence",
+      "text": "ina mutalek alaw sapakan rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親煮魚給小孩吃",
+          "en": "Mother cooked fish for the children to eat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 45
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x39",
+      "source": "pazih-dict",
+      "localId": "p140-03-x39",
+      "unit": "sentence",
+      "text": "ina mutalek dadas sapakan rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親煮地瓜給小孩吃",
+          "en": "Mother cooked sweet potatoes for the children to eat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 46
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x40",
+      "source": "pazih-dict",
+      "localId": "p140-03-x40",
+      "unit": "sentence",
+      "text": "pakanen lamtak ka meken ki rakihan isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "餵他飯湯，那嬰兒也吃了",
+          "en": "He fed the baby with rice gruel, and the baby ate it.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 47
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x41",
+      "source": "pazih-dict",
+      "localId": "p140-03-x41",
+      "unit": "sentence",
+      "text": "minupakan rakihan lia imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他餵了小孩了",
+          "en": "He has fed a child.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f07",
+        "seq": 48
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f08",
+      "source": "pazih-dict",
+      "localId": "p140-03-f08",
+      "unit": "word",
+      "text": "saakan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "食具",
+          "en": "a tool for eating",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 49
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x42",
+      "source": "pazih-dict",
+      "localId": "p140-03-x42",
+      "unit": "sentence",
+      "text": "saakan sumay salaman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "飯碗",
+          "en": "a bowl to eat rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f08",
+        "seq": 50
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f09",
+      "source": "pazih-dict",
+      "localId": "p140-03-f09",
+      "unit": "word",
+      "text": "saaken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（隨大菜端出來的）副食",
+          "en": "side dish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 51
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x43",
+      "source": "pazih-dict",
+      "localId": "p140-03-x43",
+      "unit": "sentence",
+      "text": "alu, takazipi saaken!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "來！咱們挾菜吧！",
+          "en": "Come! Let's help ourselves to the dishes!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f09",
+        "seq": 52
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f10",
+      "source": "pazih-dict",
+      "localId": "p140-03-f10",
+      "unit": "word",
+      "text": "saken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "配的菜如魚肉等、用餐的副菜",
+          "en": "side dish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": "pazih-dict:p140-03-f09",
+        "seq": 53
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f11",
+      "source": "pazih-dict",
+      "localId": "p140-03-f11",
+      "unit": "word",
+      "text": "sakenen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "短少，缺乏",
+          "en": "to run short of (food by eating or drinking up)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 54
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f12",
+      "source": "pazih-dict",
+      "localId": "p140-03-f12",
+      "unit": "affix",
+      "text": "takan-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 55
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x44",
+      "source": "pazih-dict",
+      "localId": "p140-03-x44",
+      "unit": "sentence",
+      "text": "takani!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們吃！",
+          "en": "Let's eat!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f12",
+        "seq": 56
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x45",
+      "source": "pazih-dict",
+      "localId": "p140-03-x45",
+      "unit": "sentence",
+      "text": "wailu takani!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咱們立刻吃！趕緊吃！",
+          "en": "Let's eat at once! Let's hurry up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f12",
+        "seq": 57
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-f13",
+      "source": "pazih-dict",
+      "localId": "p140-03-f13",
+      "unit": "word",
+      "text": "takan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "專吃…的",
+          "en": "to live on",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "form",
+        "parent": null,
+        "seq": 58
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下派生詞",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x46",
+      "source": "pazih-dict",
+      "localId": "p140-03-x46",
+      "unit": "sentence",
+      "text": "baruzak ka takan u dadas",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "豬是專吃蕃薯的",
+          "en": "Pigs mainly live on sweet potatoes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f13",
+        "seq": 59
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p140-03-x47",
+      "source": "pazih-dict",
+      "localId": "p140-03-x47",
+      "unit": "sentence",
+      "text": "saw ka takan u sumay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "人是吃飯的",
+          "en": "Man eats rice.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p140-03",
+        "role": "example",
+        "parent": "pazih-dict:p140-03-f13",
+        "seq": 60
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.140–141，kan- 條下例句",
+        "page": 140,
+        "pages": [
+          140,
+          141
+        ],
+        "row": null,
+        "code": "p140-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p140.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

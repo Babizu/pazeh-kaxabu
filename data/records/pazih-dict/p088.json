@@ -1,0 +1,1265 @@
+{
+  "source": "pazih-dict",
+  "shard": "p088",
+  "label": "p.88",
+  "groups": [
+    {
+      "id": "pazih-dict:p088-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bazus-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bazus- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bedesax",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bedesax 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bekes",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bekes 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "belebel",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，belebel 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "beleng-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "benan",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，benan 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "bengebeng",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bengebeng 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p088-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "betebet-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.88，betebet- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p088-01",
+      "source": "pazih-dict",
+      "localId": "p088-01",
+      "unit": "affix",
+      "text": "bazus-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "badus-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bazus- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-01-f01",
+      "source": "pazih-dict",
+      "localId": "p088-01-f01",
+      "unit": "word",
+      "text": "maxubazus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "嫉妒",
+          "en": "jealous (of people getting a high position)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "maxubadus",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bazus- 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": [
+        "cf. maxalazang"
+      ]
+    },
+    {
+      "id": "pazih-dict:p088-02",
+      "source": "pazih-dict",
+      "localId": "p088-02",
+      "unit": "word",
+      "text": "bedesax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "光",
+          "en": "light",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "desax-",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bedesax 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-03",
+      "source": "pazih-dict",
+      "localId": "p088-03",
+      "unit": "word",
+      "text": "bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "羽毛，冗毛",
+          "en": "feather (plume, down, small)",
+          "nan": null
+        },
+        {
+          "zh": "髮",
+          "en": "hair",
+          "nan": null
+        },
+        {
+          "zh": "毛髮",
+          "en": "hair (of animal)",
+          "nan": null
+        },
+        {
+          "zh": "陰毛",
+          "en": "pubic hair",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bekes 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-03-x01",
+      "source": "pazih-dict",
+      "localId": "p088-03-x01",
+      "unit": "phrase",
+      "text": "bekes daurik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "眼睫毛",
+          "en": "eyelashes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-03",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bekes 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-03-x02",
+      "source": "pazih-dict",
+      "localId": "p088-03-x02",
+      "unit": "phrase",
+      "text": "risilaw bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "白髮",
+          "en": "gray hair",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-03",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bekes 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-04",
+      "source": "pazih-dict",
+      "localId": "p088-04",
+      "unit": "word",
+      "text": "belebel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "香蕉",
+          "en": "banana",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，belebel 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05",
+      "source": "pazih-dict",
+      "localId": "p088-05",
+      "unit": "affix",
+      "text": "beleng-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05-f01",
+      "source": "pazih-dict",
+      "localId": "p088-05-f01",
+      "unit": "word",
+      "text": "baabeleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "搖醒",
+          "en": "to wake someone up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05-x01",
+      "source": "pazih-dict",
+      "localId": "p088-05-x01",
+      "unit": "sentence",
+      "text": "baabelengi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "搖醒！",
+          "en": "to wake someone up (see also mubaabeleng)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "example",
+        "parent": "pazih-dict:p088-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05-f02",
+      "source": "pazih-dict",
+      "localId": "p088-05-f02",
+      "unit": "word",
+      "text": "mubaabeleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（將睡夢中的人）搖醒",
+          "en": "to wake someone up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05-x02",
+      "source": "pazih-dict",
+      "localId": "p088-05-x02",
+      "unit": "sentence",
+      "text": "belengi!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "叫醒他！",
+          "en": "Wake him up!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "example",
+        "parent": "pazih-dict:p088-05-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-05-f03",
+      "source": "pazih-dict",
+      "localId": "p088-05-f03",
+      "unit": "word",
+      "text": "baabelengen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被叫醒",
+          "en": "to be waken up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-05",
+        "role": "form",
+        "parent": "pazih-dict:p088-05-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，beleng- 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-06",
+      "source": "pazih-dict",
+      "localId": "p088-06",
+      "unit": "word",
+      "text": "benan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "花鹿",
+          "en": "deer (with white spots on the body)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，benan 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-07",
+      "source": "pazih-dict",
+      "localId": "p088-07",
+      "unit": "word",
+      "text": "bengebeng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "織布機",
+          "en": "loom, used to produce bakabak (bride's wedding dress)",
+          "nan": null
+        },
+        {
+          "zh": "（女用）竹琴",
+          "en": "jew's harp made from bamboo (used by a female)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bengebeng 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-07-x01",
+      "source": "pazih-dict",
+      "localId": "p088-07-x01",
+      "unit": "sentence",
+      "text": "pauhuni'i ki bengebeng!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "吹竹琴！",
+          "en": "Play jew's harp!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bengebeng 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-07-x02",
+      "source": "pazih-dict",
+      "localId": "p088-07-x02",
+      "unit": "phrase",
+      "text": "pauhuni bengebeng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "正在吹竹琴",
+          "en": "is playing jew's harp",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-07",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bengebeng 條下例句",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-07-f01",
+      "source": "pazih-dict",
+      "localId": "p088-07-f01",
+      "unit": "word",
+      "text": "pabengebeng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "紡織",
+          "en": "to weave",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "mutu'un",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-07",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，bengebeng 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-08",
+      "source": "pazih-dict",
+      "localId": "p088-08",
+      "unit": "affix",
+      "text": "betebet-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，betebet- 條",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p088-08-f01",
+      "source": "pazih-dict",
+      "localId": "p088-08-f01",
+      "unit": "word",
+      "text": "mabetebet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "腹脹",
+          "en": "suffering from gas pain",
+          "nan": null
+        },
+        {
+          "zh": "緊繃",
+          "en": "stretched tightly (of a string)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p088-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.88，betebet- 條下派生詞",
+        "page": 88,
+        "pages": [
+          88
+        ],
+        "row": null,
+        "code": "p088-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p088.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

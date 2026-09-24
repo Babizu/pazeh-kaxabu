@@ -1,0 +1,1696 @@
+{
+  "source": "pazih-dict",
+  "shard": "p104",
+  "label": "p.104",
+  "groups": [
+    {
+      "id": "pazih-dict:p104-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dekedek-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dekel-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "deken-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dekeng-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekeng- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dekes-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "deket",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deket 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p104-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "delem",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.104，delem 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p104-01",
+      "source": "pazih-dict",
+      "localId": "p104-01",
+      "unit": "affix",
+      "text": "dekedek-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-01-f01",
+      "source": "pazih-dict",
+      "localId": "p104-01-f01",
+      "unit": "word",
+      "text": "mudekedek",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "踏地",
+          "en": "to step on the ground",
+          "nan": null
+        },
+        {
+          "zh": "瞭望",
+          "en": "to look from a high place",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-01-x01",
+      "source": "pazih-dict",
+      "localId": "p104-01-x01",
+      "unit": "sentence",
+      "text": "yaku mudekedek karaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我踏腳底",
+          "en": "I stepped my foot on the gound.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-01",
+        "role": "example",
+        "parent": "pazih-dict:p104-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-01-x02",
+      "source": "pazih-dict",
+      "localId": "p104-01-x02",
+      "unit": "sentence",
+      "text": "padekedek karaw la imisiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他踏腳",
+          "en": "He stepped his foot on the ground.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-01",
+        "role": "example",
+        "parent": "pazih-dict:p104-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-01-x03",
+      "source": "pazih-dict",
+      "localId": "p104-01-x03",
+      "unit": "sentence",
+      "text": "mudekedek ima ki mula pasaken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "瞭望誰先抵達",
+          "en": "to look from a high place to see who leads in the race",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-01",
+        "role": "example",
+        "parent": "pazih-dict:p104-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekedek- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02",
+      "source": "pazih-dict",
+      "localId": "p104-02",
+      "unit": "affix",
+      "text": "dekel-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-f01",
+      "source": "pazih-dict",
+      "localId": "p104-02-f01",
+      "unit": "word",
+      "text": "medekel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "撿到",
+          "en": "to pick up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-f02",
+      "source": "pazih-dict",
+      "localId": "p104-02-f02",
+      "unit": "word",
+      "text": "deedekel",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在揀",
+          "en": "is picking up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "form",
+        "parent": "pazih-dict:p104-02-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-x01",
+      "source": "pazih-dict",
+      "localId": "p104-02-x01",
+      "unit": "sentence",
+      "text": "deedekel kahuy di binayu ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親正在山上揀柴",
+          "en": "Father is picking up firewood in the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "example",
+        "parent": "pazih-dict:p104-02-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-x02",
+      "source": "pazih-dict",
+      "localId": "p104-02-x02",
+      "unit": "sentence",
+      "text": "lia ka dekelen ni saw kaxu uhuni",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "然後被人揀到一直到現在",
+          "en": "Then (I) was picked up by people until now.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "example",
+        "parent": "pazih-dict:p104-02-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-x03",
+      "source": "pazih-dict",
+      "localId": "p104-02-x03",
+      "unit": "sentence",
+      "text": "rakihan u mamais imini ka adang a sasunan, adang a sasunan a medekel mahahatelay a barabu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這個女子每天早上揀接近一百個田螺",
+          "en": "This girl picks up nearly one hundred snails every morning.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "example",
+        "parent": "pazih-dict:p104-02-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-02-x04",
+      "source": "pazih-dict",
+      "localId": "p104-02-x04",
+      "unit": "sentence",
+      "text": "minedekel yaaku a ina saisiman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "揀到我的母親也疼我",
+          "en": "The mother who picked me up also cherishes me.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-02",
+        "role": "example",
+        "parent": "pazih-dict:p104-02-f01",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekel- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03",
+      "source": "pazih-dict",
+      "localId": "p104-03",
+      "unit": "affix",
+      "text": "deken-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "dekel-",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03-f01",
+      "source": "pazih-dict",
+      "localId": "p104-03-f01",
+      "unit": "word",
+      "text": "medeken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "撿到",
+          "en": "to pick up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "medekel",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03-x01",
+      "source": "pazih-dict",
+      "localId": "p104-03-x01",
+      "unit": "phrase",
+      "text": "dekenen naki",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "被我揀了",
+          "en": "is picked up by me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "example",
+        "parent": "pazih-dict:p104-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03-x02",
+      "source": "pazih-dict",
+      "localId": "p104-03-x02",
+      "unit": "sentence",
+      "text": "dineken di naki a pinaxuruma dadas a rabax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在我所種的地瓜葉子上揀到的",
+          "en": "It was picked up on the leaves of sweet potatoes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "example",
+        "parent": "pazih-dict:p104-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03-x03",
+      "source": "pazih-dict",
+      "localId": "p104-03-x03",
+      "unit": "sentence",
+      "text": "dineken niam di karikaridan rabex a saw siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你是我們在旱田裡揀回來的",
+          "en": "We picked you up in the field when you were a baby.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "example",
+        "parent": "pazih-dict:p104-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-03-f02",
+      "source": "pazih-dict",
+      "localId": "p104-03-f02",
+      "unit": "word",
+      "text": "mudeken",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "撿到",
+          "en": "to pick up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deken- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-04",
+      "source": "pazih-dict",
+      "localId": "p104-04",
+      "unit": "affix",
+      "text": "dekeng-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekeng- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-04-f01",
+      "source": "pazih-dict",
+      "localId": "p104-04-f01",
+      "unit": "word",
+      "text": "medekeng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "填（土）",
+          "en": "to fill up a hole with earth",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekeng- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-04-x01",
+      "source": "pazih-dict",
+      "localId": "p104-04-x01",
+      "unit": "sentence",
+      "text": "dekengi daxe!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "填土！",
+          "en": "Fill it with earth!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-04",
+        "role": "example",
+        "parent": "pazih-dict:p104-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekeng- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-04-f02",
+      "source": "pazih-dict",
+      "localId": "p104-04-f02",
+      "unit": "word",
+      "text": "dekengen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "填了",
+          "en": "It's filled with earth.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-04",
+        "role": "form",
+        "parent": "pazih-dict:p104-04-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekeng- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-05",
+      "source": "pazih-dict",
+      "localId": "p104-05",
+      "unit": "affix",
+      "text": "dekes-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-05-f01",
+      "source": "pazih-dict",
+      "localId": "p104-05-f01",
+      "unit": "word",
+      "text": "medekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "添（水）",
+          "en": "to add (water)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-05-x01",
+      "source": "pazih-dict",
+      "localId": "p104-05-x01",
+      "unit": "sentence",
+      "text": "dekesi ki dalum!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "添水！",
+          "en": "Add the water!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-05",
+        "role": "example",
+        "parent": "pazih-dict:p104-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-05-x02",
+      "source": "pazih-dict",
+      "localId": "p104-05-x02",
+      "unit": "phrase",
+      "text": "dekesen lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在倒",
+          "en": "is added",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-05",
+        "role": "example",
+        "parent": "pazih-dict:p104-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-05-f02",
+      "source": "pazih-dict",
+      "localId": "p104-05-f02",
+      "unit": "word",
+      "text": "medekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "添加水",
+          "en": "to add water",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-05",
+        "role": "form",
+        "parent": "pazih-dict:p104-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，dekes- 條下派生詞",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-06",
+      "source": "pazih-dict",
+      "localId": "p104-06",
+      "unit": "word",
+      "text": "deket",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看，望",
+          "en": "to look",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deket 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-06-x01",
+      "source": "pazih-dict",
+      "localId": "p104-06-x01",
+      "unit": "sentence",
+      "text": "ki rubang mamaleng isiai taadekeday manariariak, kiikita'ay kuadeng mataru a alaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "年輕人正仔細地察看，很驚喜地看到一條大魚",
+          "en": "The young man was looking at it carefully and surprisingly saw a big fish.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，deket 條下例句",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p104-07",
+      "source": "pazih-dict",
+      "localId": "p104-07",
+      "unit": "word",
+      "text": "delem",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "玉米",
+          "en": "corn",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p104-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.104，delem 條",
+        "page": 104,
+        "pages": [
+          104
+        ],
+        "row": null,
+        "code": "p104-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p104.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

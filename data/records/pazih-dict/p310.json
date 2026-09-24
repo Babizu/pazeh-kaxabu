@@ -1,0 +1,2506 @@
+{
+  "source": "pazih-dict",
+  "shard": "p310",
+  "label": "p.310（U）",
+  "groups": [
+    {
+      "id": "pazih-dict:p310-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "u",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "u",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ubax",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubax 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ubil-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubil- 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ubung-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubung- 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ubus",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubus 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p310-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "udal",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p310-01",
+      "source": "pazih-dict",
+      "localId": "p310-01",
+      "unit": "word",
+      "text": "u",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "和",
+          "en": "and",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "iu",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p310-01-x01",
+      "source": "pazih-dict",
+      "localId": "p310-01-x01",
+      "unit": "sentence",
+      "text": "aku u isiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我和你",
+          "en": "you and me",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-01-x02",
+      "source": "pazih-dict",
+      "localId": "p310-01-x02",
+      "unit": "sentence",
+      "text": "hapuy u tamatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "火柴和香菸",
+          "en": "matches and cigarettes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-01-x03",
+      "source": "pazih-dict",
+      "localId": "p310-01-x03",
+      "unit": "sentence",
+      "text": "abasan u suadi ma'isa'isakup",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "兄弟姊妹都在一起",
+          "en": "All the Siblings gathered together.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-01-x04",
+      "source": "pazih-dict",
+      "localId": "p310-01-x04",
+      "unit": "sentence",
+      "text": "isia lia ki aba u tata mikita ali lia, mahatahatan lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那時他父親和繼母看見孫子很高興",
+          "en": "Then (Awi's) father and stepmother saw the grandson, (they were both) happy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-01-x05",
+      "source": "pazih-dict",
+      "localId": "p310-01-x05",
+      "unit": "sentence",
+      "text": "uhuza ka nahada mamais u mamaleng",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "從前有一女和一男",
+          "en": "Once upon a time there were a girl and a boy.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-01-x06",
+      "source": "pazih-dict",
+      "localId": "p310-01-x06",
+      "unit": "sentence",
+      "text": "daurik u sangira ka dusa, rahal ka adadumut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "眼睛和耳朵各有兩個，嘴巴只有一個",
+          "en": "There are two eyes and ears, while there is only one mouth.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-01",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02",
+      "source": "pazih-dict",
+      "localId": "p310-02",
+      "unit": "word",
+      "text": "u",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜格",
+          "en": "oblique marker",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p310-02-x01",
+      "source": "pazih-dict",
+      "localId": "p310-02-x01",
+      "unit": "sentence",
+      "text": "rahut u daran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "岸西",
+          "en": "place name (lit. ‘west of the road’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x02",
+      "source": "pazih-dict",
+      "localId": "p310-02-x02",
+      "unit": "sentence",
+      "text": "rabaxan u daran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "岸南",
+          "en": "place name (lit. ‘south of the road’)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x03",
+      "source": "pazih-dict",
+      "localId": "p310-02-x03",
+      "unit": "sentence",
+      "text": "mikita u ruharat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "向前看",
+          "en": "look straight forward",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x04",
+      "source": "pazih-dict",
+      "localId": "p310-02-x04",
+      "unit": "sentence",
+      "text": "mikita u kinixidan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "斜看",
+          "en": "look sideways",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x05",
+      "source": "pazih-dict",
+      "localId": "p310-02-x05",
+      "unit": "sentence",
+      "text": "mikita u tababilih",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "往後看",
+          "en": "look back",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x06",
+      "source": "pazih-dict",
+      "localId": "p310-02-x06",
+      "unit": "sentence",
+      "text": "dadius u pila",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "銀匙",
+          "en": "a silver spoon",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x07",
+      "source": "pazih-dict",
+      "localId": "p310-02-x07",
+      "unit": "sentence",
+      "text": "rima u saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "人的手",
+          "en": "a person's arm",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x08",
+      "source": "pazih-dict",
+      "localId": "p310-02-x08",
+      "unit": "sentence",
+      "text": "laluzuk u kusu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "用細齒梳除蝨",
+          "en": "fine-toothed delousing comb",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x09",
+      "source": "pazih-dict",
+      "localId": "p310-02-x09",
+      "unit": "sentence",
+      "text": "rimuk u salaman",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "有孔小珠",
+          "en": "small beads wit holes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x10",
+      "source": "pazih-dict",
+      "localId": "p310-02-x10",
+      "unit": "sentence",
+      "text": "maakumux u daxedaxe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "玩捉迷藏的遊戲",
+          "en": "to play hide-and-seek",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x11",
+      "source": "pazih-dict",
+      "localId": "p310-02-x11",
+      "unit": "sentence",
+      "text": "kipudun u selem lia ki babu a isia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "就那樣她的心臟被脂肪包住了",
+          "en": "Thus her heart (of hers) was wrapped up with fat.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x12",
+      "source": "pazih-dict",
+      "localId": "p310-02-x12",
+      "unit": "sentence",
+      "text": "isiw tatahay u baruzak?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你殺豬了嗎？",
+          "en": "Did you slaughter a pig?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x13",
+      "source": "pazih-dict",
+      "localId": "p310-02-x13",
+      "unit": "sentence",
+      "text": "yami tatatahay u nuang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我們正在殺牛",
+          "en": "We are slaughtering a cow.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-02-x14",
+      "source": "pazih-dict",
+      "localId": "p310-02-x14",
+      "unit": "sentence",
+      "text": "pakita'en u saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要讓人看",
+          "en": "something for people to see",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-02",
+        "role": "example",
+        "parent": null,
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，u 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-03",
+      "source": "pazih-dict",
+      "localId": "p310-03",
+      "unit": "word",
+      "text": "ubax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女人名",
+          "en": "female name",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubax 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-04",
+      "source": "pazih-dict",
+      "localId": "p310-04",
+      "unit": "affix",
+      "text": "ubil-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubil- 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-04-f01",
+      "source": "pazih-dict",
+      "localId": "p310-04-f01",
+      "unit": "word",
+      "text": "muubil",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "殿後",
+          "en": "to be the last, to follow all others",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubil- 條下派生詞",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. mula"
+      ]
+    },
+    {
+      "id": "pazih-dict:p310-04-x01",
+      "source": "pazih-dict",
+      "localId": "p310-04-x01",
+      "unit": "sentence",
+      "text": "ubil siw!",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你走在後面！",
+          "en": "You follow us!",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-04",
+        "role": "example",
+        "parent": "pazih-dict:p310-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubil- 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-05",
+      "source": "pazih-dict",
+      "localId": "p310-05",
+      "unit": "affix",
+      "text": "ubung-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubung- 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-05-f01",
+      "source": "pazih-dict",
+      "localId": "p310-05-f01",
+      "unit": "word",
+      "text": "mu'ubung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "包圍（魚、雞）",
+          "en": "to surround",
+          "nan": null
+        },
+        {
+          "zh": "攔截、堵住",
+          "en": "to intercept",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubung- 條下派生詞",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-05-f02",
+      "source": "pazih-dict",
+      "localId": "p310-05-f02",
+      "unit": "word",
+      "text": "saa'ubung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕魚的陷阱",
+          "en": "a type of fish-trap; bundles of grass are placed in the shore of a stream during the winter to catch shrimps",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-05",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubung- 條下派生詞",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-05-x01",
+      "source": "pazih-dict",
+      "localId": "p310-05-x01",
+      "unit": "phrase",
+      "text": "saa'ubung ayam",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "圍捕鳥的陷阱",
+          "en": "a snare to catch birds",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-05",
+        "role": "example",
+        "parent": "pazih-dict:p310-05-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubung- 條下例句",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-06",
+      "source": "pazih-dict",
+      "localId": "p310-06",
+      "unit": "word",
+      "text": "ubus",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "豬、鹿…粗糙之肚",
+          "en": "stomach (of animal)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310，ubus 條",
+        "page": 310,
+        "pages": [
+          310
+        ],
+        "row": null,
+        "code": "p310-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07",
+      "source": "pazih-dict",
+      "localId": "p310-07",
+      "unit": "word",
+      "text": "udal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "雨",
+          "en": "rain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x01",
+      "source": "pazih-dict",
+      "localId": "p310-07-x01",
+      "unit": "sentence",
+      "text": "mataru a udal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大雨",
+          "en": "a drenching rain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f01",
+      "source": "pazih-dict",
+      "localId": "p310-07-f01",
+      "unit": "word",
+      "text": "audal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "會淋雨",
+          "en": "will rain over",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x02",
+      "source": "pazih-dict",
+      "localId": "p310-07-x02",
+      "unit": "sentence",
+      "text": "audalen ha isiw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你會淋到雨",
+          "en": "You’ll be rained over.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f02",
+      "source": "pazih-dict",
+      "localId": "p310-07-f02",
+      "unit": "word",
+      "text": "mudal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下雨",
+          "en": "to rain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x03",
+      "source": "pazih-dict",
+      "localId": "p310-07-x03",
+      "unit": "phrase",
+      "text": "mudal lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下雨了",
+          "en": "It has rained.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f02",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x04",
+      "source": "pazih-dict",
+      "localId": "p310-07-x04",
+      "unit": "sentence",
+      "text": "mudal ka ini mausay ki yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "下雨的話，我就不去",
+          "en": "If it rains, I won't go.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f02",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f03",
+      "source": "pazih-dict",
+      "localId": "p310-07-f03",
+      "unit": "word",
+      "text": "mudadal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直下雨",
+          "en": "It kept raining.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": "pazih-dict:p310-07-f02",
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f04",
+      "source": "pazih-dict",
+      "localId": "p310-07-f04",
+      "unit": "word",
+      "text": "maudadadal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "一直在下個不停",
+          "en": "It keeps raining.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": "pazih-dict:p310-07-f02",
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x05",
+      "source": "pazih-dict",
+      "localId": "p310-07-x05",
+      "unit": "sentence",
+      "text": "inudalan ki naki a siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的衣服被雨淋了",
+          "en": "My clothes have been rained over.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f02",
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f05",
+      "source": "pazih-dict",
+      "localId": "p310-07-f05",
+      "unit": "word",
+      "text": "maudalay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可能會下雨",
+          "en": "It might rain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x06",
+      "source": "pazih-dict",
+      "localId": "p310-07-x06",
+      "unit": "sentence",
+      "text": "usa asuy a daugar; maudalay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去戴斗笠，可能會下雨",
+          "en": "Take a bamboo cap with you; it might rain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f05",
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x07",
+      "source": "pazih-dict",
+      "localId": "p310-07-x07",
+      "unit": "sentence",
+      "text": "sarawan ka maudalay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "明天會下雨",
+          "en": "It will rain tomorrow.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f05",
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-f06",
+      "source": "pazih-dict",
+      "localId": "p310-07-f06",
+      "unit": "word",
+      "text": "maxapaudal",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使降下（雨）",
+          "en": "to make (the rain) down",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "form",
+        "parent": null,
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下派生詞",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p310-07-x08",
+      "source": "pazih-dict",
+      "localId": "p310-07-x08",
+      "unit": "sentence",
+      "text": "maxapaudalay udal sinaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "使天降下大雨，洗劫大地",
+          "en": "Make it rain and cause the earth to be flooded.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p310-07",
+        "role": "example",
+        "parent": "pazih-dict:p310-07-f06",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.310–311，udal 條下例句",
+        "page": 310,
+        "pages": [
+          310,
+          311
+        ],
+        "row": null,
+        "code": "p310-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p310.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,1950 @@
+{
+  "format": "babizu-dataset",
+  "version": 1,
+  "sources": [
+    {
+      "id": "pazih-dict",
+      "shards": [
+        {
+          "key": "p059",
+          "label": "p.59（A）",
+          "records": 39,
+          "groups": 14
+        },
+        {
+          "key": "p060",
+          "label": "p.60",
+          "records": 35,
+          "groups": 15
+        },
+        {
+          "key": "p061",
+          "label": "p.61",
+          "records": 32,
+          "groups": 8
+        },
+        {
+          "key": "p062",
+          "label": "p.62",
+          "records": 42,
+          "groups": 19
+        },
+        {
+          "key": "p063",
+          "label": "p.63",
+          "records": 39,
+          "groups": 10
+        },
+        {
+          "key": "p064",
+          "label": "p.64",
+          "records": 36,
+          "groups": 10
+        },
+        {
+          "key": "p065",
+          "label": "p.65",
+          "records": 37,
+          "groups": 6
+        },
+        {
+          "key": "p066",
+          "label": "p.66",
+          "records": 54,
+          "groups": 7
+        },
+        {
+          "key": "p067",
+          "label": "p.67",
+          "records": 39,
+          "groups": 5
+        },
+        {
+          "key": "p068",
+          "label": "p.68",
+          "records": 21,
+          "groups": 4
+        },
+        {
+          "key": "p069",
+          "label": "p.69",
+          "records": 36,
+          "groups": 8
+        },
+        {
+          "key": "p070",
+          "label": "p.70",
+          "records": 29,
+          "groups": 8
+        },
+        {
+          "key": "p071",
+          "label": "p.71",
+          "records": 48,
+          "groups": 5
+        },
+        {
+          "key": "p072",
+          "label": "p.72",
+          "records": 19,
+          "groups": 10
+        },
+        {
+          "key": "p073",
+          "label": "p.73",
+          "records": 38,
+          "groups": 4
+        },
+        {
+          "key": "p074",
+          "label": "p.74",
+          "records": 41,
+          "groups": 15
+        },
+        {
+          "key": "p075",
+          "label": "p.75",
+          "records": 31,
+          "groups": 11
+        },
+        {
+          "key": "p076",
+          "label": "p.76",
+          "records": 37,
+          "groups": 10
+        },
+        {
+          "key": "p077",
+          "label": "p.77",
+          "records": 5,
+          "groups": 1
+        },
+        {
+          "key": "p078",
+          "label": "p.78（B）",
+          "records": 40,
+          "groups": 12
+        },
+        {
+          "key": "p079",
+          "label": "p.79",
+          "records": 28,
+          "groups": 14
+        },
+        {
+          "key": "p080",
+          "label": "p.80",
+          "records": 65,
+          "groups": 16
+        },
+        {
+          "key": "p081",
+          "label": "p.81",
+          "records": 12,
+          "groups": 7
+        },
+        {
+          "key": "p082",
+          "label": "p.82",
+          "records": 41,
+          "groups": 21
+        },
+        {
+          "key": "p083",
+          "label": "p.83",
+          "records": 38,
+          "groups": 5
+        },
+        {
+          "key": "p084",
+          "label": "p.84",
+          "records": 35,
+          "groups": 7
+        },
+        {
+          "key": "p085",
+          "label": "p.85",
+          "records": 39,
+          "groups": 17
+        },
+        {
+          "key": "p086",
+          "label": "p.86",
+          "records": 34,
+          "groups": 8
+        },
+        {
+          "key": "p087",
+          "label": "p.87",
+          "records": 54,
+          "groups": 5
+        },
+        {
+          "key": "p088",
+          "label": "p.88",
+          "records": 20,
+          "groups": 8
+        },
+        {
+          "key": "p089",
+          "label": "p.89",
+          "records": 46,
+          "groups": 14
+        },
+        {
+          "key": "p090",
+          "label": "p.90",
+          "records": 48,
+          "groups": 14
+        },
+        {
+          "key": "p091",
+          "label": "p.91",
+          "records": 37,
+          "groups": 16
+        },
+        {
+          "key": "p092",
+          "label": "p.92",
+          "records": 40,
+          "groups": 14
+        },
+        {
+          "key": "p093",
+          "label": "p.93",
+          "records": 44,
+          "groups": 8
+        },
+        {
+          "key": "p094",
+          "label": "p.94",
+          "records": 40,
+          "groups": 10
+        },
+        {
+          "key": "p095",
+          "label": "p.95",
+          "records": 10,
+          "groups": 5
+        },
+        {
+          "key": "p096",
+          "label": "p.96（D）",
+          "records": 33,
+          "groups": 15
+        },
+        {
+          "key": "p097",
+          "label": "p.97",
+          "records": 38,
+          "groups": 15
+        },
+        {
+          "key": "p098",
+          "label": "p.98",
+          "records": 31,
+          "groups": 10
+        },
+        {
+          "key": "p099",
+          "label": "p.99",
+          "records": 42,
+          "groups": 10
+        },
+        {
+          "key": "p100",
+          "label": "p.100",
+          "records": 41,
+          "groups": 20
+        },
+        {
+          "key": "p101",
+          "label": "p.101",
+          "records": 59,
+          "groups": 14
+        },
+        {
+          "key": "p102",
+          "label": "p.102",
+          "records": 18,
+          "groups": 4
+        },
+        {
+          "key": "p103",
+          "label": "p.103",
+          "records": 43,
+          "groups": 12
+        },
+        {
+          "key": "p104",
+          "label": "p.104",
+          "records": 30,
+          "groups": 7
+        },
+        {
+          "key": "p105",
+          "label": "p.105",
+          "records": 51,
+          "groups": 11
+        },
+        {
+          "key": "p106",
+          "label": "p.106",
+          "records": 62,
+          "groups": 6
+        },
+        {
+          "key": "p107",
+          "label": "p.107",
+          "records": 23,
+          "groups": 5
+        },
+        {
+          "key": "p108",
+          "label": "p.108",
+          "records": 33,
+          "groups": 13
+        },
+        {
+          "key": "p109",
+          "label": "p.109",
+          "records": 48,
+          "groups": 9
+        },
+        {
+          "key": "p110",
+          "label": "p.110",
+          "records": 46,
+          "groups": 6
+        },
+        {
+          "key": "p111",
+          "label": "p.111",
+          "records": 22,
+          "groups": 5
+        },
+        {
+          "key": "p112",
+          "label": "p.112",
+          "records": 37,
+          "groups": 12
+        },
+        {
+          "key": "p113",
+          "label": "p.113",
+          "records": 36,
+          "groups": 7
+        },
+        {
+          "key": "p114",
+          "label": "p.114（E）",
+          "records": 26,
+          "groups": 6
+        },
+        {
+          "key": "p115",
+          "label": "p.115（G）",
+          "records": 38,
+          "groups": 14
+        },
+        {
+          "key": "p116",
+          "label": "p.116",
+          "records": 13,
+          "groups": 4
+        },
+        {
+          "key": "p117",
+          "label": "p.117（H）",
+          "records": 38,
+          "groups": 10
+        },
+        {
+          "key": "p118",
+          "label": "p.118",
+          "records": 40,
+          "groups": 15
+        },
+        {
+          "key": "p119",
+          "label": "p.119",
+          "records": 30,
+          "groups": 15
+        },
+        {
+          "key": "p120",
+          "label": "p.120",
+          "records": 42,
+          "groups": 16
+        },
+        {
+          "key": "p121",
+          "label": "p.121",
+          "records": 56,
+          "groups": 12
+        },
+        {
+          "key": "p122",
+          "label": "p.122",
+          "records": 31,
+          "groups": 13
+        },
+        {
+          "key": "p123",
+          "label": "p.123",
+          "records": 45,
+          "groups": 10
+        },
+        {
+          "key": "p124",
+          "label": "p.124",
+          "records": 47,
+          "groups": 7
+        },
+        {
+          "key": "p125",
+          "label": "p.125",
+          "records": 50,
+          "groups": 18
+        },
+        {
+          "key": "p126",
+          "label": "p.126",
+          "records": 36,
+          "groups": 11
+        },
+        {
+          "key": "p127",
+          "label": "p.127（I）",
+          "records": 44,
+          "groups": 8
+        },
+        {
+          "key": "p128",
+          "label": "p.128",
+          "records": 38,
+          "groups": 8
+        },
+        {
+          "key": "p129",
+          "label": "p.129",
+          "records": 39,
+          "groups": 3
+        },
+        {
+          "key": "p130",
+          "label": "p.130",
+          "records": 36,
+          "groups": 13
+        },
+        {
+          "key": "p131",
+          "label": "p.131",
+          "records": 38,
+          "groups": 14
+        },
+        {
+          "key": "p132",
+          "label": "p.132",
+          "records": 43,
+          "groups": 7
+        },
+        {
+          "key": "p133",
+          "label": "p.133",
+          "records": 47,
+          "groups": 13
+        },
+        {
+          "key": "p134",
+          "label": "p.134",
+          "records": 23,
+          "groups": 4
+        },
+        {
+          "key": "p135",
+          "label": "p.135（K）",
+          "records": 34,
+          "groups": 14
+        },
+        {
+          "key": "p136",
+          "label": "p.136",
+          "records": 38,
+          "groups": 15
+        },
+        {
+          "key": "p137",
+          "label": "p.137",
+          "records": 37,
+          "groups": 25
+        },
+        {
+          "key": "p138",
+          "label": "p.138",
+          "records": 33,
+          "groups": 14
+        },
+        {
+          "key": "p139",
+          "label": "p.139",
+          "records": 30,
+          "groups": 13
+        },
+        {
+          "key": "p140",
+          "label": "p.140",
+          "records": 65,
+          "groups": 3
+        },
+        {
+          "key": "p141",
+          "label": "p.141",
+          "records": 17,
+          "groups": 10
+        },
+        {
+          "key": "p142",
+          "label": "p.142",
+          "records": 52,
+          "groups": 16
+        },
+        {
+          "key": "p143",
+          "label": "p.143",
+          "records": 29,
+          "groups": 10
+        },
+        {
+          "key": "p144",
+          "label": "p.144",
+          "records": 51,
+          "groups": 10
+        },
+        {
+          "key": "p145",
+          "label": "p.145",
+          "records": 19,
+          "groups": 6
+        },
+        {
+          "key": "p146",
+          "label": "p.146",
+          "records": 41,
+          "groups": 12
+        },
+        {
+          "key": "p147",
+          "label": "p.147",
+          "records": 39,
+          "groups": 8
+        },
+        {
+          "key": "p148",
+          "label": "p.148",
+          "records": 40,
+          "groups": 11
+        },
+        {
+          "key": "p149",
+          "label": "p.149",
+          "records": 39,
+          "groups": 11
+        },
+        {
+          "key": "p150",
+          "label": "p.150",
+          "records": 38,
+          "groups": 10
+        },
+        {
+          "key": "p151",
+          "label": "p.151",
+          "records": 39,
+          "groups": 18
+        },
+        {
+          "key": "p152",
+          "label": "p.152",
+          "records": 70,
+          "groups": 2
+        },
+        {
+          "key": "p153",
+          "label": "p.153",
+          "records": 12,
+          "groups": 3
+        },
+        {
+          "key": "p154",
+          "label": "p.154",
+          "records": 30,
+          "groups": 6
+        },
+        {
+          "key": "p155",
+          "label": "p.155",
+          "records": 42,
+          "groups": 6
+        },
+        {
+          "key": "p156",
+          "label": "p.156",
+          "records": 40,
+          "groups": 9
+        },
+        {
+          "key": "p157",
+          "label": "p.157",
+          "records": 41,
+          "groups": 10
+        },
+        {
+          "key": "p158",
+          "label": "p.158",
+          "records": 40,
+          "groups": 14
+        },
+        {
+          "key": "p159",
+          "label": "p.159",
+          "records": 38,
+          "groups": 14
+        },
+        {
+          "key": "p160",
+          "label": "p.160",
+          "records": 41,
+          "groups": 9
+        },
+        {
+          "key": "p161",
+          "label": "p.161",
+          "records": 8,
+          "groups": 2
+        },
+        {
+          "key": "p162",
+          "label": "p.162（L）",
+          "records": 37,
+          "groups": 16
+        },
+        {
+          "key": "p163",
+          "label": "p.163",
+          "records": 43,
+          "groups": 13
+        },
+        {
+          "key": "p164",
+          "label": "p.164",
+          "records": 36,
+          "groups": 13
+        },
+        {
+          "key": "p165",
+          "label": "p.165",
+          "records": 41,
+          "groups": 13
+        },
+        {
+          "key": "p166",
+          "label": "p.166",
+          "records": 49,
+          "groups": 10
+        },
+        {
+          "key": "p167",
+          "label": "p.167",
+          "records": 33,
+          "groups": 10
+        },
+        {
+          "key": "p168",
+          "label": "p.168",
+          "records": 45,
+          "groups": 12
+        },
+        {
+          "key": "p169",
+          "label": "p.169",
+          "records": 40,
+          "groups": 9
+        },
+        {
+          "key": "p170",
+          "label": "p.170",
+          "records": 30,
+          "groups": 11
+        },
+        {
+          "key": "p171",
+          "label": "p.171",
+          "records": 25,
+          "groups": 9
+        },
+        {
+          "key": "p172",
+          "label": "p.172（M）",
+          "records": 48,
+          "groups": 7
+        },
+        {
+          "key": "p173",
+          "label": "p.173",
+          "records": 27,
+          "groups": 25
+        },
+        {
+          "key": "p174",
+          "label": "p.174",
+          "records": 27,
+          "groups": 24
+        },
+        {
+          "key": "p175",
+          "label": "p.175",
+          "records": 24,
+          "groups": 24
+        },
+        {
+          "key": "p176",
+          "label": "p.176",
+          "records": 27,
+          "groups": 25
+        },
+        {
+          "key": "p177",
+          "label": "p.177",
+          "records": 30,
+          "groups": 30
+        },
+        {
+          "key": "p178",
+          "label": "p.178",
+          "records": 30,
+          "groups": 27
+        },
+        {
+          "key": "p179",
+          "label": "p.179",
+          "records": 30,
+          "groups": 28
+        },
+        {
+          "key": "p180",
+          "label": "p.180",
+          "records": 29,
+          "groups": 22
+        },
+        {
+          "key": "p181",
+          "label": "p.181",
+          "records": 32,
+          "groups": 19
+        },
+        {
+          "key": "p182",
+          "label": "p.182",
+          "records": 32,
+          "groups": 21
+        },
+        {
+          "key": "p183",
+          "label": "p.183",
+          "records": 29,
+          "groups": 29
+        },
+        {
+          "key": "p184",
+          "label": "p.184",
+          "records": 28,
+          "groups": 26
+        },
+        {
+          "key": "p185",
+          "label": "p.185",
+          "records": 33,
+          "groups": 26
+        },
+        {
+          "key": "p186",
+          "label": "p.186",
+          "records": 38,
+          "groups": 21
+        },
+        {
+          "key": "p187",
+          "label": "p.187",
+          "records": 23,
+          "groups": 19
+        },
+        {
+          "key": "p188",
+          "label": "p.188",
+          "records": 30,
+          "groups": 21
+        },
+        {
+          "key": "p189",
+          "label": "p.189",
+          "records": 35,
+          "groups": 20
+        },
+        {
+          "key": "p190",
+          "label": "p.190",
+          "records": 30,
+          "groups": 29
+        },
+        {
+          "key": "p191",
+          "label": "p.191",
+          "records": 33,
+          "groups": 29
+        },
+        {
+          "key": "p192",
+          "label": "p.192",
+          "records": 32,
+          "groups": 24
+        },
+        {
+          "key": "p193",
+          "label": "p.193",
+          "records": 30,
+          "groups": 23
+        },
+        {
+          "key": "p194",
+          "label": "p.194",
+          "records": 29,
+          "groups": 19
+        },
+        {
+          "key": "p195",
+          "label": "p.195",
+          "records": 40,
+          "groups": 20
+        },
+        {
+          "key": "p196",
+          "label": "p.196",
+          "records": 32,
+          "groups": 26
+        },
+        {
+          "key": "p197",
+          "label": "p.197",
+          "records": 30,
+          "groups": 17
+        },
+        {
+          "key": "p198",
+          "label": "p.198",
+          "records": 37,
+          "groups": 17
+        },
+        {
+          "key": "p199",
+          "label": "p.199",
+          "records": 32,
+          "groups": 21
+        },
+        {
+          "key": "p200",
+          "label": "p.200",
+          "records": 28,
+          "groups": 28
+        },
+        {
+          "key": "p201",
+          "label": "p.201",
+          "records": 29,
+          "groups": 28
+        },
+        {
+          "key": "p202",
+          "label": "p.202",
+          "records": 29,
+          "groups": 29
+        },
+        {
+          "key": "p203",
+          "label": "p.203",
+          "records": 29,
+          "groups": 29
+        },
+        {
+          "key": "p204",
+          "label": "p.204",
+          "records": 27,
+          "groups": 27
+        },
+        {
+          "key": "p205",
+          "label": "p.205",
+          "records": 26,
+          "groups": 26
+        },
+        {
+          "key": "p206",
+          "label": "p.206",
+          "records": 29,
+          "groups": 29
+        },
+        {
+          "key": "p207",
+          "label": "p.207",
+          "records": 31,
+          "groups": 30
+        },
+        {
+          "key": "p208",
+          "label": "p.208",
+          "records": 29,
+          "groups": 28
+        },
+        {
+          "key": "p209",
+          "label": "p.209",
+          "records": 28,
+          "groups": 28
+        },
+        {
+          "key": "p210",
+          "label": "p.210",
+          "records": 28,
+          "groups": 28
+        },
+        {
+          "key": "p211",
+          "label": "p.211",
+          "records": 26,
+          "groups": 26
+        },
+        {
+          "key": "p212",
+          "label": "p.212",
+          "records": 31,
+          "groups": 28
+        },
+        {
+          "key": "p213",
+          "label": "p.213",
+          "records": 12,
+          "groups": 11
+        },
+        {
+          "key": "p214",
+          "label": "p.214（N）",
+          "records": 35,
+          "groups": 7
+        },
+        {
+          "key": "p215",
+          "label": "p.215",
+          "records": 33,
+          "groups": 13
+        },
+        {
+          "key": "p216",
+          "label": "p.216",
+          "records": 32,
+          "groups": 18
+        },
+        {
+          "key": "p217",
+          "label": "p.217",
+          "records": 13,
+          "groups": 3
+        },
+        {
+          "key": "p218",
+          "label": "p.218（NG）",
+          "records": 35,
+          "groups": 12
+        },
+        {
+          "key": "p219",
+          "label": "p.219",
+          "records": 36,
+          "groups": 6
+        },
+        {
+          "key": "p220",
+          "label": "p.220",
+          "records": 38,
+          "groups": 9
+        },
+        {
+          "key": "p221",
+          "label": "p.221（P）",
+          "records": 29,
+          "groups": 23
+        },
+        {
+          "key": "p222",
+          "label": "p.222",
+          "records": 30,
+          "groups": 27
+        },
+        {
+          "key": "p223",
+          "label": "p.223",
+          "records": 31,
+          "groups": 17
+        },
+        {
+          "key": "p224",
+          "label": "p.224",
+          "records": 32,
+          "groups": 21
+        },
+        {
+          "key": "p225",
+          "label": "p.225",
+          "records": 43,
+          "groups": 28
+        },
+        {
+          "key": "p226",
+          "label": "p.226",
+          "records": 29,
+          "groups": 17
+        },
+        {
+          "key": "p227",
+          "label": "p.227",
+          "records": 34,
+          "groups": 28
+        },
+        {
+          "key": "p228",
+          "label": "p.228",
+          "records": 31,
+          "groups": 31
+        },
+        {
+          "key": "p229",
+          "label": "p.229",
+          "records": 33,
+          "groups": 19
+        },
+        {
+          "key": "p230",
+          "label": "p.230",
+          "records": 37,
+          "groups": 20
+        },
+        {
+          "key": "p231",
+          "label": "p.231",
+          "records": 35,
+          "groups": 17
+        },
+        {
+          "key": "p232",
+          "label": "p.232",
+          "records": 43,
+          "groups": 13
+        },
+        {
+          "key": "p233",
+          "label": "p.233",
+          "records": 35,
+          "groups": 21
+        },
+        {
+          "key": "p234",
+          "label": "p.234",
+          "records": 36,
+          "groups": 23
+        },
+        {
+          "key": "p235",
+          "label": "p.235",
+          "records": 39,
+          "groups": 14
+        },
+        {
+          "key": "p236",
+          "label": "p.236",
+          "records": 29,
+          "groups": 22
+        },
+        {
+          "key": "p237",
+          "label": "p.237",
+          "records": 38,
+          "groups": 15
+        },
+        {
+          "key": "p238",
+          "label": "p.238",
+          "records": 40,
+          "groups": 20
+        },
+        {
+          "key": "p239",
+          "label": "p.239",
+          "records": 32,
+          "groups": 9
+        },
+        {
+          "key": "p240",
+          "label": "p.240（R）",
+          "records": 44,
+          "groups": 16
+        },
+        {
+          "key": "p241",
+          "label": "p.241",
+          "records": 33,
+          "groups": 12
+        },
+        {
+          "key": "p242",
+          "label": "p.242",
+          "records": 41,
+          "groups": 13
+        },
+        {
+          "key": "p243",
+          "label": "p.243",
+          "records": 35,
+          "groups": 20
+        },
+        {
+          "key": "p244",
+          "label": "p.244",
+          "records": 56,
+          "groups": 14
+        },
+        {
+          "key": "p245",
+          "label": "p.245",
+          "records": 20,
+          "groups": 5
+        },
+        {
+          "key": "p246",
+          "label": "p.246",
+          "records": 42,
+          "groups": 12
+        },
+        {
+          "key": "p247",
+          "label": "p.247",
+          "records": 71,
+          "groups": 10
+        },
+        {
+          "key": "p248",
+          "label": "p.248",
+          "records": 30,
+          "groups": 6
+        },
+        {
+          "key": "p249",
+          "label": "p.249",
+          "records": 26,
+          "groups": 5
+        },
+        {
+          "key": "p250",
+          "label": "p.250",
+          "records": 39,
+          "groups": 9
+        },
+        {
+          "key": "p251",
+          "label": "p.251",
+          "records": 42,
+          "groups": 8
+        },
+        {
+          "key": "p252",
+          "label": "p.252",
+          "records": 39,
+          "groups": 13
+        },
+        {
+          "key": "p253",
+          "label": "p.253",
+          "records": 39,
+          "groups": 7
+        },
+        {
+          "key": "p254",
+          "label": "p.254",
+          "records": 36,
+          "groups": 9
+        },
+        {
+          "key": "p255",
+          "label": "p.255",
+          "records": 41,
+          "groups": 9
+        },
+        {
+          "key": "p256",
+          "label": "p.256",
+          "records": 42,
+          "groups": 11
+        },
+        {
+          "key": "p257",
+          "label": "p.257",
+          "records": 42,
+          "groups": 8
+        },
+        {
+          "key": "p258",
+          "label": "p.258",
+          "records": 41,
+          "groups": 14
+        },
+        {
+          "key": "p259",
+          "label": "p.259",
+          "records": 36,
+          "groups": 11
+        },
+        {
+          "key": "p260",
+          "label": "p.260",
+          "records": 27,
+          "groups": 11
+        },
+        {
+          "key": "p261",
+          "label": "p.261（S）",
+          "records": 30,
+          "groups": 23
+        },
+        {
+          "key": "p262",
+          "label": "p.262",
+          "records": 30,
+          "groups": 30
+        },
+        {
+          "key": "p263",
+          "label": "p.263",
+          "records": 37,
+          "groups": 23
+        },
+        {
+          "key": "p264",
+          "label": "p.264",
+          "records": 42,
+          "groups": 15
+        },
+        {
+          "key": "p265",
+          "label": "p.265",
+          "records": 39,
+          "groups": 7
+        },
+        {
+          "key": "p266",
+          "label": "p.266",
+          "records": 34,
+          "groups": 12
+        },
+        {
+          "key": "p267",
+          "label": "p.267",
+          "records": 35,
+          "groups": 14
+        },
+        {
+          "key": "p268",
+          "label": "p.268",
+          "records": 40,
+          "groups": 18
+        },
+        {
+          "key": "p269",
+          "label": "p.269",
+          "records": 46,
+          "groups": 17
+        },
+        {
+          "key": "p270",
+          "label": "p.270",
+          "records": 27,
+          "groups": 17
+        },
+        {
+          "key": "p271",
+          "label": "p.271",
+          "records": 36,
+          "groups": 11
+        },
+        {
+          "key": "p272",
+          "label": "p.272",
+          "records": 43,
+          "groups": 10
+        },
+        {
+          "key": "p273",
+          "label": "p.273",
+          "records": 38,
+          "groups": 10
+        },
+        {
+          "key": "p274",
+          "label": "p.274",
+          "records": 35,
+          "groups": 6
+        },
+        {
+          "key": "p275",
+          "label": "p.275",
+          "records": 40,
+          "groups": 11
+        },
+        {
+          "key": "p276",
+          "label": "p.276",
+          "records": 36,
+          "groups": 15
+        },
+        {
+          "key": "p277",
+          "label": "p.277",
+          "records": 52,
+          "groups": 15
+        },
+        {
+          "key": "p278",
+          "label": "p.278",
+          "records": 32,
+          "groups": 9
+        },
+        {
+          "key": "p279",
+          "label": "p.279",
+          "records": 44,
+          "groups": 14
+        },
+        {
+          "key": "p280",
+          "label": "p.280",
+          "records": 53,
+          "groups": 17
+        },
+        {
+          "key": "p281",
+          "label": "p.281",
+          "records": 25,
+          "groups": 11
+        },
+        {
+          "key": "p282",
+          "label": "p.282",
+          "records": 42,
+          "groups": 9
+        },
+        {
+          "key": "p283",
+          "label": "p.283",
+          "records": 43,
+          "groups": 13
+        },
+        {
+          "key": "p284",
+          "label": "p.284",
+          "records": 38,
+          "groups": 9
+        },
+        {
+          "key": "p285",
+          "label": "p.285（T）",
+          "records": 40,
+          "groups": 13
+        },
+        {
+          "key": "p286",
+          "label": "p.286",
+          "records": 38,
+          "groups": 19
+        },
+        {
+          "key": "p287",
+          "label": "p.287",
+          "records": 38,
+          "groups": 22
+        },
+        {
+          "key": "p288",
+          "label": "p.288",
+          "records": 42,
+          "groups": 11
+        },
+        {
+          "key": "p289",
+          "label": "p.289",
+          "records": 33,
+          "groups": 13
+        },
+        {
+          "key": "p290",
+          "label": "p.290",
+          "records": 55,
+          "groups": 15
+        },
+        {
+          "key": "p291",
+          "label": "p.291",
+          "records": 29,
+          "groups": 11
+        },
+        {
+          "key": "p292",
+          "label": "p.292",
+          "records": 39,
+          "groups": 15
+        },
+        {
+          "key": "p293",
+          "label": "p.293",
+          "records": 37,
+          "groups": 16
+        },
+        {
+          "key": "p294",
+          "label": "p.294",
+          "records": 26,
+          "groups": 18
+        },
+        {
+          "key": "p295",
+          "label": "p.295",
+          "records": 36,
+          "groups": 13
+        },
+        {
+          "key": "p296",
+          "label": "p.296",
+          "records": 31,
+          "groups": 10
+        },
+        {
+          "key": "p297",
+          "label": "p.297",
+          "records": 40,
+          "groups": 16
+        },
+        {
+          "key": "p298",
+          "label": "p.298",
+          "records": 33,
+          "groups": 3
+        },
+        {
+          "key": "p299",
+          "label": "p.299",
+          "records": 45,
+          "groups": 11
+        },
+        {
+          "key": "p300",
+          "label": "p.300",
+          "records": 33,
+          "groups": 21
+        },
+        {
+          "key": "p301",
+          "label": "p.301",
+          "records": 41,
+          "groups": 17
+        },
+        {
+          "key": "p302",
+          "label": "p.302",
+          "records": 43,
+          "groups": 10
+        },
+        {
+          "key": "p303",
+          "label": "p.303",
+          "records": 41,
+          "groups": 19
+        },
+        {
+          "key": "p304",
+          "label": "p.304",
+          "records": 41,
+          "groups": 10
+        },
+        {
+          "key": "p305",
+          "label": "p.305",
+          "records": 41,
+          "groups": 10
+        },
+        {
+          "key": "p306",
+          "label": "p.306",
+          "records": 39,
+          "groups": 13
+        },
+        {
+          "key": "p307",
+          "label": "p.307",
+          "records": 33,
+          "groups": 12
+        },
+        {
+          "key": "p308",
+          "label": "p.308",
+          "records": 43,
+          "groups": 11
+        },
+        {
+          "key": "p309",
+          "label": "p.309",
+          "records": 31,
+          "groups": 13
+        },
+        {
+          "key": "p310",
+          "label": "p.310（U）",
+          "records": 46,
+          "groups": 7
+        },
+        {
+          "key": "p311",
+          "label": "p.311",
+          "records": 30,
+          "groups": 13
+        },
+        {
+          "key": "p312",
+          "label": "p.312",
+          "records": 40,
+          "groups": 5
+        },
+        {
+          "key": "p313",
+          "label": "p.313",
+          "records": 66,
+          "groups": 11
+        },
+        {
+          "key": "p314",
+          "label": "p.314",
+          "records": 11,
+          "groups": 4
+        },
+        {
+          "key": "p315",
+          "label": "p.315",
+          "records": 15,
+          "groups": 1
+        },
+        {
+          "key": "p316",
+          "label": "p.316（W）",
+          "records": 36,
+          "groups": 17
+        },
+        {
+          "key": "p317",
+          "label": "p.317（X）",
+          "records": 53,
+          "groups": 8
+        },
+        {
+          "key": "p318",
+          "label": "p.318",
+          "records": 29,
+          "groups": 5
+        },
+        {
+          "key": "p319",
+          "label": "p.319",
+          "records": 34,
+          "groups": 9
+        },
+        {
+          "key": "p320",
+          "label": "p.320",
+          "records": 46,
+          "groups": 17
+        },
+        {
+          "key": "p321",
+          "label": "p.321",
+          "records": 40,
+          "groups": 15
+        },
+        {
+          "key": "p322",
+          "label": "p.322",
+          "records": 46,
+          "groups": 7
+        },
+        {
+          "key": "p323",
+          "label": "p.323",
+          "records": 36,
+          "groups": 12
+        },
+        {
+          "key": "p324",
+          "label": "p.324",
+          "records": 44,
+          "groups": 16
+        },
+        {
+          "key": "p325",
+          "label": "p.325",
+          "records": 53,
+          "groups": 10
+        },
+        {
+          "key": "p326",
+          "label": "p.326",
+          "records": 33,
+          "groups": 7
+        },
+        {
+          "key": "p327",
+          "label": "p.327",
+          "records": 10,
+          "groups": 4
+        },
+        {
+          "key": "p328",
+          "label": "p.328（Y）",
+          "records": 27,
+          "groups": 23
+        },
+        {
+          "key": "p329",
+          "label": "p.329",
+          "records": 16,
+          "groups": 6
+        },
+        {
+          "key": "p330",
+          "label": "p.330（Z）",
+          "records": 38,
+          "groups": 10
+        },
+        {
+          "key": "p331",
+          "label": "p.331",
+          "records": 35,
+          "groups": 10
+        },
+        {
+          "key": "p332",
+          "label": "p.332",
+          "records": 42,
+          "groups": 13
+        },
+        {
+          "key": "p333",
+          "label": "p.333",
+          "records": 41,
+          "groups": 10
+        },
+        {
+          "key": "p334",
+          "label": "p.334",
+          "records": 36,
+          "groups": 13
+        },
+        {
+          "key": "p335",
+          "label": "p.335",
+          "records": 40,
+          "groups": 10
+        },
+        {
+          "key": "p336",
+          "label": "p.336",
+          "records": 37,
+          "groups": 7
+        }
+      ]
+    },
+    {
+      "id": "kaxabu-classified",
+      "shards": [
+        {
+          "key": "c01",
+          "label": "第 01 類",
+          "records": 322,
+          "groups": 16
+        },
+        {
+          "key": "c02",
+          "label": "第 02 類",
+          "records": 565,
+          "groups": 5
+        },
+        {
+          "key": "c03",
+          "label": "第 03 類",
+          "records": 78,
+          "groups": 1
+        },
+        {
+          "key": "c04",
+          "label": "第 04 類",
+          "records": 194,
+          "groups": 3
+        },
+        {
+          "key": "c05",
+          "label": "第 05 類",
+          "records": 134,
+          "groups": 1
+        },
+        {
+          "key": "c06",
+          "label": "第 06 類",
+          "records": 118,
+          "groups": 1
+        },
+        {
+          "key": "c07",
+          "label": "第 07 類",
+          "records": 183,
+          "groups": 1
+        },
+        {
+          "key": "c08",
+          "label": "第 08 類",
+          "records": 107,
+          "groups": 1
+        },
+        {
+          "key": "c09",
+          "label": "第 09 類",
+          "records": 71,
+          "groups": 1
+        },
+        {
+          "key": "c10",
+          "label": "第 10 類",
+          "records": 151,
+          "groups": 1
+        },
+        {
+          "key": "c11",
+          "label": "第 11 類",
+          "records": 39,
+          "groups": 1
+        },
+        {
+          "key": "c12",
+          "label": "第 12 類",
+          "records": 101,
+          "groups": 2
+        },
+        {
+          "key": "c13",
+          "label": "第 13 類",
+          "records": 147,
+          "groups": 1
+        },
+        {
+          "key": "c14",
+          "label": "第 14 類",
+          "records": 67,
+          "groups": 1
+        },
+        {
+          "key": "c15",
+          "label": "第 15 類",
+          "records": 173,
+          "groups": 1
+        },
+        {
+          "key": "c16",
+          "label": "第 16 類",
+          "records": 58,
+          "groups": 1
+        },
+        {
+          "key": "c17",
+          "label": "第 17 類",
+          "records": 124,
+          "groups": 1
+        },
+        {
+          "key": "c18",
+          "label": "第 18 類",
+          "records": 93,
+          "groups": 1
+        },
+        {
+          "key": "c19",
+          "label": "第 19 類",
+          "records": 58,
+          "groups": 1
+        },
+        {
+          "key": "c20",
+          "label": "第 20 類",
+          "records": 78,
+          "groups": 1
+        },
+        {
+          "key": "c21",
+          "label": "第 21 類",
+          "records": 95,
+          "groups": 3
+        },
+        {
+          "key": "c22",
+          "label": "第 22 類",
+          "records": 25,
+          "groups": 1
+        },
+        {
+          "key": "c23",
+          "label": "第 23 類",
+          "records": 58,
+          "groups": 1
+        },
+        {
+          "key": "c24",
+          "label": "第 24 類",
+          "records": 79,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "id": "lin-grammar",
+      "shards": [
+        {
+          "key": "ch5",
+          "label": "CH5構詞",
+          "records": 19,
+          "groups": 1
+        },
+        {
+          "key": "ch6",
+          "label": "CH6詞類",
+          "records": 77,
+          "groups": 1
+        },
+        {
+          "key": "ch7",
+          "label": "CH7 名詞與名詞組",
+          "records": 64,
+          "groups": 1
+        },
+        {
+          "key": "ch8",
+          "label": "CH8 代名詞",
+          "records": 63,
+          "groups": 1
+        },
+        {
+          "key": "ch9",
+          "label": "CH9動詞與動詞組",
+          "records": 178,
+          "groups": 1
+        },
+        {
+          "key": "ch10",
+          "label": "CH10 價調整機制",
+          "records": 71,
+          "groups": 1
+        },
+        {
+          "key": "ch11",
+          "label": "CH11子句類型",
+          "records": 60,
+          "groups": 1
+        },
+        {
+          "key": "ch12",
+          "label": "CH12 語法關係",
+          "records": 56,
+          "groups": 1
+        },
+        {
+          "key": "ch13",
+          "label": "CH13 否定句",
+          "records": 43,
+          "groups": 1
+        },
+        {
+          "key": "ch14",
+          "label": "CH14 疑問句",
+          "records": 63,
+          "groups": 1
+        },
+        {
+          "key": "ch15",
+          "label": "CH15 複雜句",
+          "records": 84,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "id": "pan-dexing-corpus",
+      "shards": [
+        {
+          "key": "20200103",
+          "label": "2020-01-03",
+          "records": 8,
+          "groups": 2
+        }
+      ]
+    },
+    {
+      "id": "pan-dexing-wordlist",
+      "shards": [
+        {
+          "key": "all",
+          "label": "全部",
+          "records": 423,
+          "groups": 17
+        }
+      ]
+    },
+    {
+      "id": "reed-early",
+      "shards": [
+        {
+          "key": "thomson-1873-1874",
+          "label": "Thomson 1873–1874",
+          "records": 49,
+          "groups": 1
+        },
+        {
+          "key": "bullock-1875",
+          "label": "Bullock 1875",
+          "records": 176,
+          "groups": 1
+        },
+        {
+          "key": "steere-1876",
+          "label": "Steere 1876",
+          "records": 198,
+          "groups": 1
+        },
+        {
+          "key": "ibis-1877",
+          "label": "Ibis 1877",
+          "records": 51,
+          "groups": 1
+        }
+      ]
+    }
+  ]
+}

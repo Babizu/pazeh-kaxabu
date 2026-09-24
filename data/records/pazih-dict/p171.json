@@ -1,0 +1,1497 @@
+{
+  "source": "pazih-dict",
+  "shard": "p171",
+  "label": "p.171",
+  "groups": [
+    {
+      "id": "pazih-dict:p171-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lupay-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupay- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lupian",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupian 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lusung-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lusung- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "lutut-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lutut- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luxung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxung 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luxut",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-07",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luzuk-",
+      "subtitle": "同頁同形第 1 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-08",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luzuk-",
+      "subtitle": "同頁同形第 2 條",
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p171-09",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "luzung",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzung 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p171-01",
+      "source": "pazih-dict",
+      "localId": "p171-01",
+      "unit": "affix",
+      "text": "lupay-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupay- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-01-f01",
+      "source": "pazih-dict",
+      "localId": "p171-01-f01",
+      "unit": "word",
+      "text": "malupay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "暗淡",
+          "en": "dim",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupay- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-01-x01",
+      "source": "pazih-dict",
+      "localId": "p171-01-x01",
+      "unit": "sentence",
+      "text": "tengap a rizax lia ka, pedesax a ilas ka malupay malupay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "太陽昇起，月光漸漸降落",
+          "en": "The sun is rising, and the moonlight is waning.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-01",
+        "role": "example",
+        "parent": "pazih-dict:p171-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupay- 條下例句",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": "Ino",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-02",
+      "source": "pazih-dict",
+      "localId": "p171-02",
+      "unit": "word",
+      "text": "lupian",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鯰魚",
+          "en": "fish sp., a slippery type of fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lupian 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-03",
+      "source": "pazih-dict",
+      "localId": "p171-03",
+      "unit": "affix",
+      "text": "lusung-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lusung- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-03-f01",
+      "source": "pazih-dict",
+      "localId": "p171-03-f01",
+      "unit": "word",
+      "text": "tilusung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "簷",
+          "en": "eaves",
+          "nan": null
+        },
+        {
+          "zh": "走廊，迴廊",
+          "en": "corridor, passage under the eaves",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lusung- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-04",
+      "source": "pazih-dict",
+      "localId": "p171-04",
+      "unit": "affix",
+      "text": "lutut-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lutut- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-04-f01",
+      "source": "pazih-dict",
+      "localId": "p171-04-f01",
+      "unit": "word",
+      "text": "mulutut",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "得到",
+          "en": "to earn, to gain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lutut- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-04-f02",
+      "source": "pazih-dict",
+      "localId": "p171-04-f02",
+      "unit": "word",
+      "text": "lulutuday",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "將會得到",
+          "en": "will obtain",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-04",
+        "role": "form",
+        "parent": "pazih-dict:p171-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，lutut- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-05",
+      "source": "pazih-dict",
+      "localId": "p171-05",
+      "unit": "word",
+      "text": "luxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "山黃麻",
+          "en": "plant sp., Trema orientali Blume",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxung 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06",
+      "source": "pazih-dict",
+      "localId": "p171-06",
+      "unit": "word",
+      "text": "luxut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鹿（公、母）",
+          "en": "deer (male or female)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06-f01",
+      "source": "pazih-dict",
+      "localId": "p171-06-f01",
+      "unit": "word",
+      "text": "matiluxut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕鹿",
+          "en": "to catch deer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06-f02",
+      "source": "pazih-dict",
+      "localId": "p171-06-f02",
+      "unit": "word",
+      "text": "paluxut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕鹿",
+          "en": "to catch deer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06-f03",
+      "source": "pazih-dict",
+      "localId": "p171-06-f03",
+      "unit": "word",
+      "text": "pinaluxut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捕了鹿",
+          "en": "to have caught deer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "form",
+        "parent": "pazih-dict:p171-06-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06-x01",
+      "source": "pazih-dict",
+      "localId": "p171-06-x01",
+      "unit": "phrase",
+      "text": "pinaluxud aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我捕了鹿了",
+          "en": "I caught (or went hunting) deer.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "example",
+        "parent": "pazih-dict:p171-06-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條下例句",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-06-f04",
+      "source": "pazih-dict",
+      "localId": "p171-06-f04",
+      "unit": "word",
+      "text": "tauluxudan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鹿聚集之處",
+          "en": "a gathering place for deer",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-06",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luxut 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-07",
+      "source": "pazih-dict",
+      "localId": "p171-07",
+      "unit": "affix",
+      "text": "luzuk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-07",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 1 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p171-07-f01",
+      "source": "pazih-dict",
+      "localId": "p171-07-f01",
+      "unit": "word",
+      "text": "laluzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "木梳子",
+          "en": "wooden comb",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-07",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-07-x01",
+      "source": "pazih-dict",
+      "localId": "p171-07-x01",
+      "unit": "sentence",
+      "text": "laluzuk u kusu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "細齒除虱的木梳子",
+          "en": "fine-toothed delousing comb",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-07",
+        "role": "example",
+        "parent": "pazih-dict:p171-07-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下例句",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-07-f02",
+      "source": "pazih-dict",
+      "localId": "p171-07-f02",
+      "unit": "word",
+      "text": "muluzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "梳頭",
+          "en": "to comb",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-07",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-07-x02",
+      "source": "pazih-dict",
+      "localId": "p171-07-x02",
+      "unit": "phrase",
+      "text": "saaluzuk bekes",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "可用來梳頭",
+          "en": "something to comb hair with",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-07",
+        "role": "example",
+        "parent": "pazih-dict:p171-07-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下例句",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-07",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-08",
+      "source": "pazih-dict",
+      "localId": "p171-08",
+      "unit": "affix",
+      "text": "luzuk-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-08",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "同頁同形第 2 條"
+      ]
+    },
+    {
+      "id": "pazih-dict:p171-08-f01",
+      "source": "pazih-dict",
+      "localId": "p171-08-f01",
+      "unit": "word",
+      "text": "tuluzuk",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "深",
+          "en": "deep",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-08",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下派生詞",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-08-x01",
+      "source": "pazih-dict",
+      "localId": "p171-08-x01",
+      "unit": "sentence",
+      "text": "tuluzuk ki raxung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "溪很深",
+          "en": "The stream is deep.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-08",
+        "role": "example",
+        "parent": "pazih-dict:p171-08-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzuk- 條下例句",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-08",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p171-09",
+      "source": "pazih-dict",
+      "localId": "p171-09",
+      "unit": "word",
+      "text": "luzung",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "臼",
+          "en": "mortar",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p171-09",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.171，luzung 條",
+        "page": 171,
+        "pages": [
+          171
+        ],
+        "row": null,
+        "code": "p171-09",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p171.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

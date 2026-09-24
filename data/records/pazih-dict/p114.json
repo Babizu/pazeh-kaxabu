@@ -1,0 +1,1511 @@
+{
+  "source": "pazih-dict",
+  "shard": "p114",
+  "label": "p.114（E）",
+  "groups": [
+    {
+      "id": "pazih-dict:p114-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ebet-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p114-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "eder",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p114-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "-en",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p114-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "enges",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，enges 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p114-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "erer",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，erer 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p114-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "ezet",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ezet 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p114-01",
+      "source": "pazih-dict",
+      "localId": "p114-01",
+      "unit": "affix",
+      "text": "ebet-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-f01",
+      "source": "pazih-dict",
+      "localId": "p114-01-f01",
+      "unit": "word",
+      "text": "me'ebet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "砍斷",
+          "en": "to cut with a machete (as a bamboo, tree)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-x01",
+      "source": "pazih-dict",
+      "localId": "p114-01-x01",
+      "unit": "sentence",
+      "text": "maebedai kahuy u imini yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要砍此樹",
+          "en": "I’ll cut this tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "example",
+        "parent": "pazih-dict:p114-01-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-x02",
+      "source": "pazih-dict",
+      "localId": "p114-01-x02",
+      "unit": "sentence",
+      "text": "paebedai kahuy u imini yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要讓此樹被砍",
+          "en": "I’ll have this tree cut by someone.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "example",
+        "parent": "pazih-dict:p114-01-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-f02",
+      "source": "pazih-dict",
+      "localId": "p114-01-f02",
+      "unit": "word",
+      "text": "ee'ebet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在砍",
+          "en": "be cutting with a machete (as a bamboo, tree)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "form",
+        "parent": "pazih-dict:p114-01-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-f03",
+      "source": "pazih-dict",
+      "localId": "p114-01-f03",
+      "unit": "word",
+      "text": "ta'ebedaw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要砍",
+          "en": "will cut or chop",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-01-x03",
+      "source": "pazih-dict",
+      "localId": "p114-01-x03",
+      "unit": "sentence",
+      "text": "ta'ebedaw naki imisiw a kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我要砍此樹",
+          "en": "I'll chop this tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-01",
+        "role": "example",
+        "parent": "pazih-dict:p114-01-f03",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ebet- 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-02",
+      "source": "pazih-dict",
+      "localId": "p114-02",
+      "unit": "word",
+      "text": "eder",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "真的",
+          "en": "true, really",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-02-x01",
+      "source": "pazih-dict",
+      "localId": "p114-02-x01",
+      "unit": "sentence",
+      "text": "eder, ini mara siw ka sasaien laula?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "說真的，你不娶的話，如何是好？",
+          "en": "To tell the truth, what else could you do without marrying someone?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-02",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-02-f01",
+      "source": "pazih-dict",
+      "localId": "p114-02-f01",
+      "unit": "word",
+      "text": "duilader",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "真的去了",
+          "en": "really gone",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": [
+          {
+            "relation": "<",
+            "text": "duila eder",
+            "via": null,
+            "attribution": null
+          }
+        ]
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-02-f02",
+      "source": "pazih-dict",
+      "localId": "p114-02-f02",
+      "unit": "word",
+      "text": "kaxi'eder",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "相信",
+          "en": "to believe",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-02",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-02-x02",
+      "source": "pazih-dict",
+      "localId": "p114-02-x02",
+      "unit": "sentence",
+      "text": "yaku kaxi'eder a mausay a mubariw siatu ki atun",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我相信 Atun 會去買衣服",
+          "en": "I believe that Atun will go to buy clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-02",
+        "role": "example",
+        "parent": "pazih-dict:p114-02-f02",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，eder 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-03",
+      "source": "pazih-dict",
+      "localId": "p114-03",
+      "unit": "affix",
+      "text": "-en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "受事焦點",
+          "en": "Patient-focus",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-final",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [
+        {
+          "relation": "=",
+          "text": "-un",
+          "attribution": null,
+          "dialects": [],
+          "dialectRaw": null
+        }
+      ],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-03-f01",
+      "source": "pazih-dict",
+      "localId": "p114-03-f01",
+      "unit": "word",
+      "text": "xutaxa'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "等",
+          "en": "to wait",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. maxutaxa, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-03-f02",
+      "source": "pazih-dict",
+      "localId": "p114-03-f02",
+      "unit": "word",
+      "text": "angaden",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "哭",
+          "en": "to cry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. mangat to cry, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-03-f03",
+      "source": "pazih-dict",
+      "localId": "p114-03-f03",
+      "unit": "word",
+      "text": "singaren",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "捉到",
+          "en": "to catch up",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. musingar to catch up, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-03-f04",
+      "source": "pazih-dict",
+      "localId": "p114-03-f04",
+      "unit": "word",
+      "text": "ryaxen",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "找",
+          "en": "to search",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. muryax to search, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-03-f05",
+      "source": "pazih-dict",
+      "localId": "p114-03-f05",
+      "unit": "word",
+      "text": "apa'en",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "攜帶",
+          "en": "to carry",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. mapa to carry, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-03-f06",
+      "source": "pazih-dict",
+      "localId": "p114-03-f06",
+      "unit": "word",
+      "text": "ngaziben",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "咬",
+          "en": "to bite",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-03",
+        "role": "form",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，-en 條下派生詞",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": [
+        "cf. mungazip to bite, AF"
+      ]
+    },
+    {
+      "id": "pazih-dict:p114-04",
+      "source": "pazih-dict",
+      "localId": "p114-04",
+      "unit": "word",
+      "text": "enges",
+      "altTexts": [],
+      "dialects": [
+        "pazeh"
+      ],
+      "dialectRaw": "[K]",
+      "senses": [
+        {
+          "zh": "吝惜",
+          "en": "to grudge",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，enges 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-04-x01",
+      "source": "pazih-dict",
+      "localId": "p114-04-x01",
+      "unit": "sentence",
+      "text": "ini enges ki ha kapaus, mupuzah mutukut",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "加保斯並不吝惜，而來傳播",
+          "en": "Kapaus does not grudge, but dissipate.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-04",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，enges 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-05",
+      "source": "pazih-dict",
+      "localId": "p114-05",
+      "unit": "word",
+      "text": "erer",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "鯰魚",
+          "en": "fish sp., Parasilurus asotus (Linnaeus), slippery type of fish",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，erer 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-06",
+      "source": "pazih-dict",
+      "localId": "p114-06",
+      "unit": "word",
+      "text": "ezet",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "蛇",
+          "en": "snake",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ezet 條",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-06-x01",
+      "source": "pazih-dict",
+      "localId": "p114-06-x01",
+      "unit": "phrase",
+      "text": "ezet turikan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "花花的蛇",
+          "en": "snake with stripes",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ezet 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-06-x02",
+      "source": "pazih-dict",
+      "localId": "p114-06-x02",
+      "unit": "sentence",
+      "text": "ezet du palimukan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "雨傘節（俗名銀環蛇）",
+          "en": "Taiwan banded krait, Umbrella snake, snake sp., Bungarus multicinctus (Blyth)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ezet 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p114-06-x03",
+      "source": "pazih-dict",
+      "localId": "p114-06-x03",
+      "unit": "sentence",
+      "text": "ezet du xaaxak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "眼鏡蛇（俗名飯匙倩）",
+          "en": "Chinese cobra, Taiwan spectacle cobra, snake sp., Naja naja atra (Cantor)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p114-06",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.114，ezet 條下例句",
+        "page": 114,
+        "pages": [
+          114
+        ],
+        "row": null,
+        "code": "p114-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p114.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

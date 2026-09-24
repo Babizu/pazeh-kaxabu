@@ -1,0 +1,66 @@
+# 建置網站並部署到 GitHub Pages。
+#
+# 啟用方式：GitHub 儲存庫 → Settings → Pages → Build and deployment →
+# Source 選「GitHub Actions」。選好之後，push 到 main 就會自動部署。
+#
+# data/ 是私有的 pazeh-kaxabu-minubizu 匯出的標準資料集（已進版本管理）；
+# 搜尋索引與 dist/ 每次都由它重新建置，不進版本管理。
+name: 部署到 GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  # 也可以在 Actions 頁面手動觸發
+  workflow_dispatch:
+
+# 同時只跑一個部署；新的推送會取消還在排隊的舊部署（但不中斷進行中的）
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: 建置
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 安裝相依套件（含 package.json 指定版本的 babizu 框架）
+        run: npm ci
+
+      - name: 檢查站台設定、語言設定檔與資料集
+        run: npx babizu check
+
+      - name: 建置網站
+        run: npx babizu build
+
+      - name: 檢查建置結果
+        run: |
+          test -f dist/index.html
+          test -f dist/data/manifest.json
+          test -f dist/data/search/docs.json
+          echo "網站大小：$(du -sh dist | cut -f1)"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    name: 部署
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write # 部署到 Pages
+      id-token: write # 部署動作用來驗證身分
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

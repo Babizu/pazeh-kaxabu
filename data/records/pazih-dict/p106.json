@@ -1,0 +1,3306 @@
+{
+  "source": "pazih-dict",
+  "shard": "p106",
+  "label": "p.106",
+  "groups": [
+    {
+      "id": "pazih-dict:p106-01",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "deret",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106，deret 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p106-02",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "desax-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p106-03",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "desek-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p106-04",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "desex-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desex- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p106-05",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "dexe-",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    },
+    {
+      "id": "pazih-dict:p106-06",
+      "source": "pazih-dict",
+      "type": "entry",
+      "title": "di",
+      "subtitle": null,
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": []
+    }
+  ],
+  "records": [
+    {
+      "id": "pazih-dict:p106-01",
+      "source": "pazih-dict",
+      "localId": "p106-01",
+      "unit": "word",
+      "text": "deret",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "穀粒（米中之稻穀）",
+          "en": "unhusked rice found in husked rice",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-01",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，deret 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-01",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02",
+      "source": "pazih-dict",
+      "localId": "p106-02",
+      "unit": "affix",
+      "text": "desax-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-f01",
+      "source": "pazih-dict",
+      "localId": "p106-02-f01",
+      "unit": "word",
+      "text": "bedesax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "光",
+          "en": "light",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-f02",
+      "source": "pazih-dict",
+      "localId": "p106-02-f02",
+      "unit": "word",
+      "text": "medesax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "照亮",
+          "en": "to flash light",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "form",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-f03",
+      "source": "pazih-dict",
+      "localId": "p106-02-f03",
+      "unit": "word",
+      "text": "desaxan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "照到亮光",
+          "en": "to catch a light",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "form",
+        "parent": "pazih-dict:p106-02-f02",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-f04",
+      "source": "pazih-dict",
+      "localId": "p106-02-f04",
+      "unit": "word",
+      "text": "pedesax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "光亮",
+          "en": "shine, light, bright",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "form",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-x01",
+      "source": "pazih-dict",
+      "localId": "p106-02-x01",
+      "unit": "phrase",
+      "text": "pedesax lia",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "亮了",
+          "en": "It turns bright.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "example",
+        "parent": "pazih-dict:p106-02-f04",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-x02",
+      "source": "pazih-dict",
+      "localId": "p106-02-x02",
+      "unit": "sentence",
+      "text": "pedesax a daurik",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "好眼力",
+          "en": "to have a good sight, as in the dark, etc.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "example",
+        "parent": "pazih-dict:p106-02-f04",
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-02-f05",
+      "source": "pazih-dict",
+      "localId": "p106-02-f05",
+      "unit": "word",
+      "text": "pudesax",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "亮亮的",
+          "en": "bright",
+          "nan": null
+        },
+        {
+          "zh": "光",
+          "en": "light",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-02",
+        "role": "form",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desax- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-02",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03",
+      "source": "pazih-dict",
+      "localId": "p106-03",
+      "unit": "affix",
+      "text": "desek-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03-f01",
+      "source": "pazih-dict",
+      "localId": "p106-03-f01",
+      "unit": "word",
+      "text": "madesek",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "打嗝",
+          "en": "to belch, to hiccup",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03-x01",
+      "source": "pazih-dict",
+      "localId": "p106-03-x01",
+      "unit": "phrase",
+      "text": "madesek siw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你打嗝",
+          "en": "You hiccupped.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "example",
+        "parent": "pazih-dict:p106-03-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03-x02",
+      "source": "pazih-dict",
+      "localId": "p106-03-x02",
+      "unit": "sentence",
+      "text": "madesek a mangit ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩哭得打嗝",
+          "en": "The child cried so violently as to hiccup.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "example",
+        "parent": "pazih-dict:p106-03-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03-x03",
+      "source": "pazih-dict",
+      "localId": "p106-03-x03",
+      "unit": "sentence",
+      "text": "padesek lia aku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我打嗝了",
+          "en": "I belched.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "example",
+        "parent": "pazih-dict:p106-03-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-03-f02",
+      "source": "pazih-dict",
+      "localId": "p106-03-f02",
+      "unit": "word",
+      "text": "dedesek",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在打嗝",
+          "en": "is hiccuping",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-03",
+        "role": "form",
+        "parent": "pazih-dict:p106-03-f01",
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desek- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-03",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-04",
+      "source": "pazih-dict",
+      "localId": "p106-04",
+      "unit": "affix",
+      "text": "desex-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-04",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desex- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-04-f01",
+      "source": "pazih-dict",
+      "localId": "p106-04-f01",
+      "unit": "word",
+      "text": "madesex",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "抽噎",
+          "en": "to sob, to whimper",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-04",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desex- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-04-x01",
+      "source": "pazih-dict",
+      "localId": "p106-04-x01",
+      "unit": "sentence",
+      "text": "mangit madesex ki rakihan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "小孩哭得抽噎起來",
+          "en": "The child cried and whimpered.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-04",
+        "role": "example",
+        "parent": "pazih-dict:p106-04-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，desex- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-04",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-05",
+      "source": "pazih-dict",
+      "localId": "p106-05",
+      "unit": "affix",
+      "text": "dexe-",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "bound-initial",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-05",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-05-f01",
+      "source": "pazih-dict",
+      "localId": "p106-05-f01",
+      "unit": "word",
+      "text": "medexe",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看家",
+          "en": "to house-sit, to remain at home",
+          "nan": null
+        },
+        {
+          "zh": "照顧",
+          "en": "to take care of",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-05",
+        "role": "form",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條下派生詞",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-05-x01",
+      "source": "pazih-dict",
+      "localId": "p106-05-x01",
+      "unit": "sentence",
+      "text": "medexe xuma ki yaku",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我在看家",
+          "en": "I am house-keeping.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-05",
+        "role": "example",
+        "parent": "pazih-dict:p106-05-f01",
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-05-x02",
+      "source": "pazih-dict",
+      "localId": "p106-05-x02",
+      "unit": "sentence",
+      "text": "deedexe mixingar a saw",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "照顧病人",
+          "en": "is taking care of a person",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-05",
+        "role": "example",
+        "parent": "pazih-dict:p106-05-f01",
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-05-x03",
+      "source": "pazih-dict",
+      "localId": "p106-05-x03",
+      "unit": "phrase",
+      "text": "deedexe maixingar",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "看護",
+          "en": "is nursing, is sitting up with a patient",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-05",
+        "role": "example",
+        "parent": "pazih-dict:p106-05-f01",
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106，dexe- 條下例句",
+        "page": 106,
+        "pages": [
+          106
+        ],
+        "row": null,
+        "code": "p106-05",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06",
+      "source": "pazih-dict",
+      "localId": "p106-06",
+      "unit": "word",
+      "text": "di",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "處格",
+          "en": "locative marker",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "head",
+        "parent": null,
+        "seq": 0
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x01",
+      "source": "pazih-dict",
+      "localId": "p106-06-x01",
+      "unit": "sentence",
+      "text": "di asay a xuma?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在哪一棟房子呢？",
+          "en": "At which house?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 1
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x02",
+      "source": "pazih-dict",
+      "localId": "p106-06-x02",
+      "unit": "sentence",
+      "text": "nisiw a rakihan mukusa di asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你孩子到哪兒去？",
+          "en": "Where is your child going?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 2
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x03",
+      "source": "pazih-dict",
+      "localId": "p106-06-x03",
+      "unit": "sentence",
+      "text": "nisiw a rakihan aidi di asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你孩子在哪兒？",
+          "en": "Where is your child?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 3
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x04",
+      "source": "pazih-dict",
+      "localId": "p106-06-x04",
+      "unit": "sentence",
+      "text": "babazu siatu di xuma ki ina",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親正在家洗衣服",
+          "en": "The mother is washing clothes at home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 4
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x05",
+      "source": "pazih-dict",
+      "localId": "p106-06-x05",
+      "unit": "sentence",
+      "text": "maatuxuma'ay di dini",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要在此地蓋房子",
+          "en": "will build a house here",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 5
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x06",
+      "source": "pazih-dict",
+      "localId": "p106-06-x06",
+      "unit": "sentence",
+      "text": "mabazu siatu di xuma ki mamais",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女人在家正在洗衣服",
+          "en": "The women are washing clothes at home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 6
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x07",
+      "source": "pazih-dict",
+      "localId": "p106-06-x07",
+      "unit": "sentence",
+      "text": "daran di auran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "路在愛蘭",
+          "en": "roads at Auran",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 7
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x08",
+      "source": "pazih-dict",
+      "localId": "p106-06-x08",
+      "unit": "sentence",
+      "text": "mausay di langu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "要到庭院",
+          "en": "to go out to the yard",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 8
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x09",
+      "source": "pazih-dict",
+      "localId": "p106-06-x09",
+      "unit": "sentence",
+      "text": "isiw ka mausay di asai",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要去哪裡？",
+          "en": "Where are you going?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 9
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x10",
+      "source": "pazih-dict",
+      "localId": "p106-06-x10",
+      "unit": "sentence",
+      "text": "isiw mausay di asai?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你要去哪裡？",
+          "en": "Where are you going?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 10
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x11",
+      "source": "pazih-dict",
+      "localId": "p106-06-x11",
+      "unit": "sentence",
+      "text": "kuah di'ay isia pasipu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "這裡沒有腰尺",
+          "en": "There is no such an internal organ here.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": null,
+        "seq": 11
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-f01",
+      "source": "pazih-dict",
+      "localId": "p106-06-f01",
+      "unit": "word",
+      "text": "aidi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "待，留",
+          "en": "to stay",
+          "nan": null
+        },
+        {
+          "zh": "在",
+          "en": "at (locative-existential)",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "form",
+        "parent": null,
+        "seq": 12
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下派生詞",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x12",
+      "source": "pazih-dict",
+      "localId": "p106-06-x12",
+      "unit": "sentence",
+      "text": "mataru a rakihan ka aidi buhang",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "大的子女在霧峰",
+          "en": "The older child is in Buhang.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 13
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x13",
+      "source": "pazih-dict",
+      "localId": "p106-06-x13",
+      "unit": "sentence",
+      "text": "nisiw a rakihan ka aidi asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你的兒子在哪兒？",
+          "en": "Where is your son?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 14
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x14",
+      "source": "pazih-dict",
+      "localId": "p106-06-x14",
+      "unit": "sentence",
+      "text": "imisiw ka aidi auran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "他在愛爾",
+          "en": "He is at Auran.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 15
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x15",
+      "source": "pazih-dict",
+      "localId": "p106-06-x15",
+      "unit": "sentence",
+      "text": "aidi asay a reten?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "（你）哪村的人？",
+          "en": "Which village are you from?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 16
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x16",
+      "source": "pazih-dict",
+      "localId": "p106-06-x16",
+      "unit": "sentence",
+      "text": "aidi asay a xumak?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你家在哪兒？",
+          "en": "Where is your home?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 17
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x17",
+      "source": "pazih-dict",
+      "localId": "p106-06-x17",
+      "unit": "sentence",
+      "text": "aidi asay ki naki a rakihan lia?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的孩子在哪裡？",
+          "en": "Where is my baby?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 18
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x18",
+      "source": "pazih-dict",
+      "localId": "p106-06-x18",
+      "unit": "sentence",
+      "text": "aidi raxung mara alaw ki aba",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "父親在溪裏捉魚",
+          "en": "The father caught fish at the stream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 19
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x19",
+      "source": "pazih-dict",
+      "localId": "p106-06-x19",
+      "unit": "sentence",
+      "text": "ina ka aidi xumak babazu siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "母親在家正在洗衣",
+          "en": "Mother is washing clothes at home.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 20
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x20",
+      "source": "pazih-dict",
+      "localId": "p106-06-x20",
+      "unit": "sentence",
+      "text": "aidi mangayah a rumaw, puupuh a dualia'i",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在綠色的湖，就是這條河的發源地",
+          "en": "At the green lake is the origin of the stream.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f01",
+        "seq": 21
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-f02",
+      "source": "pazih-dict",
+      "localId": "p106-06-f02",
+      "unit": "phrase",
+      "text": "aidi asay",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "何地",
+          "en": "where (existential)",
+          "nan": null
+        },
+        {
+          "zh": "在哪裡",
+          "en": "Where is it?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "form",
+        "parent": null,
+        "seq": 22
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下派生詞",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x21",
+      "source": "pazih-dict",
+      "localId": "p106-06-x21",
+      "unit": "sentence",
+      "text": "naki a babizu ka aidi asay lia?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "我的書在哪裡？",
+          "en": "Where is my book?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f02",
+        "seq": 23
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-f03",
+      "source": "pazih-dict",
+      "localId": "p106-06-f03",
+      "unit": "word",
+      "text": "kaidi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在",
+          "en": "to stay",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "form",
+        "parent": null,
+        "seq": 24
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下派生詞",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x22",
+      "source": "pazih-dict",
+      "localId": "p106-06-x22",
+      "unit": "sentence",
+      "text": "kaidi asay ka tamaku?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "煙在何處？",
+          "en": "Where is tobacco?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 25
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x23",
+      "source": "pazih-dict",
+      "localId": "p106-06-x23",
+      "unit": "sentence",
+      "text": "kaidi babaw di kahuy",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "牠（鳥）在樹上",
+          "en": "It is on the tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 26
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x24",
+      "source": "pazih-dict",
+      "localId": "p106-06-x24",
+      "unit": "sentence",
+      "text": "mamais kaidi xumak babazu siatu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "女人在家正在洗衣服",
+          "en": "The woman stayed at home to wash clothes.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 27
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x25",
+      "source": "pazih-dict",
+      "localId": "p106-06-x25",
+      "unit": "sentence",
+      "text": "imisiw a saw kaidi babaw binayu",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "那人在山上",
+          "en": "That person is in the mountain.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 28
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x26",
+      "source": "pazih-dict",
+      "localId": "p106-06-x26",
+      "unit": "sentence",
+      "text": "kaidi babaw kahuy dida ka, hada mataru a rahuay la",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在那棵樹上有一隻大老鷹",
+          "en": "There was a big hawk on the tree.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 29
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x27",
+      "source": "pazih-dict",
+      "localId": "p106-06-x27",
+      "unit": "sentence",
+      "text": "kaidi dida maukukusa a saw ka kaidan sen ki langat",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在那裡工作的人據說名叫",
+          "en": "Kaidan The person working there was named Kaidan.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 30
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x28",
+      "source": "pazih-dict",
+      "localId": "p106-06-x28",
+      "unit": "sentence",
+      "text": "kaidi asay?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在哪裡？",
+          "en": "Where is it?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 31
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x29",
+      "source": "pazih-dict",
+      "localId": "p106-06-x29",
+      "unit": "phrase",
+      "text": "kaidi xuma",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在家",
+          "en": "at home",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 32
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": [
+          "html-corrupt"
+        ]
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x30",
+      "source": "pazih-dict",
+      "localId": "p106-06-x30",
+      "unit": "phrase",
+      "text": "kaidi kasibadan",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在學校",
+          "en": "in school",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 33
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x31",
+      "source": "pazih-dict",
+      "localId": "p106-06-x31",
+      "unit": "sentence",
+      "text": "kaidi taukua ni xuma",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "在頭目的家",
+          "en": "(They) stayed at the chief's house.",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f03",
+        "seq": 34
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-f04",
+      "source": "pazih-dict",
+      "localId": "p106-06-f04",
+      "unit": "word",
+      "text": "sidi",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去",
+          "en": "to go",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": {
+        "formType": "free",
+        "segmentation": null,
+        "gloss": null,
+        "derivedFrom": []
+      },
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "form",
+        "parent": null,
+        "seq": 35
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下派生詞",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": "Ogawa",
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x32",
+      "source": "pazih-dict",
+      "localId": "p106-06-x32",
+      "unit": "phrase",
+      "text": "sidi auran",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去愛蘭",
+          "en": "to go to Auran",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f04",
+        "seq": 36
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x33",
+      "source": "pazih-dict",
+      "localId": "p106-06-x33",
+      "unit": "sentence",
+      "text": "sidi tawan a xumak",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "去 Taw 的家",
+          "en": "to go to Taw's home",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f04",
+        "seq": 37
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    },
+    {
+      "id": "pazih-dict:p106-06-x34",
+      "source": "pazih-dict",
+      "localId": "p106-06-x34",
+      "unit": "sentence",
+      "text": "sidi asay ki nisiw a meken?",
+      "altTexts": [],
+      "dialects": [],
+      "dialectRaw": null,
+      "senses": [
+        {
+          "zh": "你到哪兒吃？",
+          "en": "Where do you go to eat?",
+          "nan": null
+        }
+      ],
+      "pos": null,
+      "domain": null,
+      "morphology": null,
+      "interlinear": [],
+      "variants": [],
+      "related": [],
+      "group": {
+        "id": "pazih-dict:p106-06",
+        "role": "example",
+        "parent": "pazih-dict:p106-06-f04",
+        "seq": 38
+      },
+      "citation": {
+        "label": "《巴宰語詞典》p.106–107，di 條下例句",
+        "page": 106,
+        "pages": [
+          106,
+          107
+        ],
+        "row": null,
+        "code": "p106-06",
+        "file": null,
+        "timecode": null,
+        "scan": "scans/pazih-dict/p106.webp"
+      },
+      "media": [],
+      "attribution": null,
+      "speaker": null,
+      "quality": {
+        "status": "reviewed",
+        "flags": []
+      },
+      "notes": []
+    }
+  ]
+}

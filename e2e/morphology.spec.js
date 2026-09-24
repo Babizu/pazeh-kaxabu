@@ -55,3 +55,35 @@ test('英文介面的構詞說明', async ({ page }) => {
   await page.getByRole('tab', { name: /^Entries/ }).click()
   await expect(page.getByRole('button', { name: /Derived form: mu- \+ dalum/ }).first()).toBeVisible()
 })
+
+test('查衍生詞 kinawas：列出詞根 kawas 與辭典標註的派生詞（mukawas 等）', async ({ page }) => {
+  await page.goto('./#/?q=kinawas')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'mukawas', exact: true }) }).first()
+  await expect(row).toBeVisible()
+  await expect(row.getByText('衍生自')).toBeVisible()
+  await expect(row.getByRole('button', { name: /詞根相符：.*kawas/ })).toBeVisible()
+  await expectNoHorizontalOverflow(page)
+})
+
+test('去詞綴支援音變：minudox 找到 daux-，說明前綴 minu- 與詞幹 dox → daux', async ({ page }, info) => {
+  await page.goto('./#/?q=minudox')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
+  await expect(row).toBeVisible()
+  const button = row.getByRole('button', { name: /詞根相符：minu- \+ daux/ })
+  await button.click()
+  const dialog = page.getByRole('dialog')
+  await expect(dialog.getByText('dox → daux')).toBeVisible()
+  await expect(dialog.getByText('詞幹的音變')).toBeVisible()
+  await expectNoHorizontalOverflow(page)
+  await page.screenshot({ path: `test-results/screenshots/${info.project.name}-morphology-dialect.png`, fullPage: true })
+})
+
+test('詞綴本身的音變：minedox 的 mine- 對應 minu-', async ({ page }) => {
+  await page.goto('./#/?q=minedox')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
+  await row.getByRole('button', { name: /詞根相符/ }).click()
+  await expect(page.getByRole('dialog').getByText(/查詢中寫作 mine-/)).toBeVisible()
+})

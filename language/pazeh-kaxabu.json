@@ -433,5 +433,362 @@
         ]
       ]
     }
-  ]
+  ],
+  "morphology": {
+    "cost": 0.3,
+    "minStem": 3,
+    "maxSteps": 3,
+    "prefixes": [
+      {
+        "form": "mu",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        }
+      },
+      {
+        "form": "ma",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        }
+      },
+      {
+        "form": "pa"
+      },
+      {
+        "form": "a"
+      },
+      {
+        "form": "i"
+      },
+      {
+        "form": "sa",
+        "gloss": {
+          "zh-TW": "指涉焦點",
+          "en": "RF"
+        }
+      },
+      {
+        "form": "ta"
+      },
+      {
+        "form": "ka"
+      },
+      {
+        "form": "m",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        }
+      },
+      {
+        "form": "xa"
+      },
+      {
+        "form": "si",
+        "gloss": {
+          "zh-TW": "指涉焦點",
+          "en": "RF"
+        }
+      },
+      {
+        "form": "tu"
+      },
+      {
+        "form": "me",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        }
+      },
+      {
+        "form": "pu"
+      },
+      {
+        "form": "p"
+      },
+      {
+        "form": "u"
+      },
+      {
+        "form": "xi"
+      },
+      {
+        "form": "xu"
+      },
+      {
+        "form": "ha"
+      },
+      {
+        "form": "t"
+      },
+      {
+        "form": "mia"
+      },
+      {
+        "form": "kina"
+      },
+      {
+        "form": "k"
+      },
+      {
+        "form": "kali"
+      },
+      {
+        "form": "mana"
+      },
+      {
+        "form": "mati"
+      },
+      {
+        "form": "n"
+      },
+      {
+        "form": "ri"
+      },
+      {
+        "form": "y"
+      },
+      {
+        "form": "s"
+      },
+      {
+        "form": "mu'"
+      },
+      {
+        "form": "maxa'"
+      },
+      {
+        "form": "mia'"
+      },
+      {
+        "form": "saapa"
+      },
+      {
+        "form": "baa"
+      },
+      {
+        "form": "maru"
+      },
+      {
+        "form": "haiy"
+      },
+      {
+        "form": "ma'"
+      },
+      {
+        "form": "maa'"
+      },
+      {
+        "form": "masu"
+      },
+      {
+        "form": "maxam"
+      },
+      {
+        "form": "pakama"
+      },
+      {
+        "form": "pana"
+      },
+      {
+        "form": "pasu"
+      },
+      {
+        "form": "saa'"
+      },
+      {
+        "form": "tau'"
+      },
+      {
+        "form": "taxama"
+      },
+      {
+        "form": "kaaxa"
+      },
+      {
+        "form": "maapa"
+      },
+      {
+        "form": "maasi"
+      },
+      {
+        "form": "madu"
+      },
+      {
+        "form": "maxia"
+      },
+      {
+        "form": "mina"
+      },
+      {
+        "form": "minu"
+      },
+      {
+        "form": "nuk"
+      },
+      {
+        "form": "pa'"
+      },
+      {
+        "form": "pati"
+      },
+      {
+        "form": "si'"
+      },
+      {
+        "form": "xili"
+      },
+      {
+        "form": "aing"
+      },
+      {
+        "form": "daa"
+      },
+      {
+        "form": "hu"
+      },
+      {
+        "form": "kaahata"
+      },
+      {
+        "form": "kali'"
+      },
+      {
+        "form": "maapi"
+      },
+      {
+        "form": "maaria"
+      },
+      {
+        "form": "maata"
+      },
+      {
+        "form": "maati"
+      },
+      {
+        "form": "maatu"
+      },
+      {
+        "form": "maaxa"
+      },
+      {
+        "form": "maaxi"
+      },
+      {
+        "form": "makia"
+      },
+      {
+        "form": "maku"
+      },
+      {
+        "form": "mati'"
+      },
+      {
+        "form": "matu'"
+      },
+      {
+        "form": "max"
+      },
+      {
+        "form": "paa'"
+      },
+      {
+        "form": "paaka"
+      },
+      {
+        "form": "para"
+      },
+      {
+        "form": "pe"
+      },
+      {
+        "form": "pii"
+      },
+      {
+        "form": "pina"
+      },
+      {
+        "form": "raa"
+      },
+      {
+        "form": "tabura"
+      },
+      {
+        "form": "taxa'"
+      }
+    ],
+    "suffixes": [
+      {
+        "form": "an",
+        "gloss": {
+          "zh-TW": "處所焦點",
+          "en": "LF"
+        }
+      },
+      {
+        "form": "ay"
+      },
+      {
+        "form": "en",
+        "gloss": {
+          "zh-TW": "受事焦點",
+          "en": "PF"
+        }
+      },
+      {
+        "form": "'an"
+      },
+      {
+        "form": "'en"
+      },
+      {
+        "form": "i"
+      },
+      {
+        "form": "n"
+      },
+      {
+        "form": "'ay"
+      },
+      {
+        "form": "nan"
+      },
+      {
+        "form": "tula"
+      },
+      {
+        "form": "anan"
+      },
+      {
+        "form": "na"
+      },
+      {
+        "form": "uan"
+      }
+    ],
+    "infixes": [
+      {
+        "form": "a"
+      },
+      {
+        "form": "in"
+      }
+    ],
+    "reduplication": [
+      {
+        "pattern": "Ca"
+      }
+    ],
+    "alternations": [
+      {
+        "underlying": "t",
+        "surface": "d",
+        "before": [
+          "an"
+        ]
+      }
+    ]
+  }
 }

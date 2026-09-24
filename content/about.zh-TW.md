@@ -39,6 +39,10 @@
 - <span class="native-text">raulu ≈ laulu</span>　r↔l
 - <span class="native-text">bintul ≈ bintun</span>　詞尾 l↔n
 
+查衍生詞時，也會去掉詞綴找到詞根（查 <span class="native-text">minubaket</span> 找到 <span class="native-text">baket</span>，標示「詞根相符」）；
+查詞根時，也會列出由它衍生的詞與例句，包括中綴形式（標示「衍生形」）。
+詞綴清單由《巴宰語詞典》標註的衍生關係整理而成，分析是推定的，詞義請以詞條內容為準。
+
 想看實際的計算過程，請到[演算法實驗室](#/lab)。
 
 ## 引用與出處

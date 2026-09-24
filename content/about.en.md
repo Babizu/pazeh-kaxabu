@@ -41,6 +41,10 @@ while systematic sound correspondences between the dialects cost only 0.1. For e
 - <span class="native-text">raulu ≈ laulu</span>　r↔l
 - <span class="native-text">bintul ≈ bintun</span>　final l↔n
 
+Searching for a derived word also strips its affixes to find the root (<span class="native-text">minubaket</span> finds <span class="native-text">baket</span>, marked “Root match”);
+searching for a root also lists the words and sentences derived from it, including infixed forms (marked “Derived form”).
+The affix list was compiled from the derivations annotated in the *Pazih Dictionary*; the analysis is an inference, so check each entry for its meaning.
+
 To see the calculation step by step, open the [Algorithm Lab](#/lab).
 
 ## Citing

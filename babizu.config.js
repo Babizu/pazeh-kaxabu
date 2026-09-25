@@ -76,5 +76,18 @@ export default defineSite({
       ['baruzakbinayu', 'baruzak binayu'],
     ],
     words: 'bintun bintul atun alaw anaw laulu raulu rapay apay semer semee seme tamako tamaku baruzak bauzak say tshay xay punu',
+    // 構詞（BCDP）分頁的例子：[查詢, 詞根]，各示範一種構詞（前綴、方言寫法的前綴、重疊、中綴、詞幹交替）
+    morph: {
+      examples: [
+        ['minubaket', 'baket'],
+        ['modaux', 'daux'],
+        ['kiikita', 'kita'],
+        ['binaket', 'baket'],
+        ['bitudun', 'bitut'],
+        ['maakudungkudung', 'kudung'],
+      ],
+      // 詞素交界的元音合併（maxa- ＋ apux）框架不支援
+      failures: [['maxapux', 'apux']],
+    },
   },
 })

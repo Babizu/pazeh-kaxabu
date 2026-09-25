@@ -139,7 +139,7 @@ test('演算法實驗室：semer／semee 距離 0.1（不在主選單，從網�
   await page.goto('./#/')
   await expect(page.getByRole('navigation', { name: '主選單' }).first().getByText('實驗室')).toHaveCount(0)
   await page.goto('./#/lab?a=semer&b=semee')
-  await expect(page.getByRole('cell', { name: 'D(5, 5) = 0.1' })).toBeVisible()
+  await expect(page.getByRole('gridcell', { name: 'D(5, 5) = 0.1' })).toBeVisible()
   await expectNoHorizontalOverflow(page)
   await snap(page, info, 'lab')
 

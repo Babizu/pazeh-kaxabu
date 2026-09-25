@@ -440,354 +440,1301 @@
     "maxSteps": 3,
     "prefixes": [
       {
-        "form": "mu",
+        "form": "a",
         "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        }
+          "zh-TW": "動詞化",
+          "en": "verbal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 10",
+        "note": "也見於 a- ＋ 重疊 ＋ 詞根的名詞化（a-ba-babaw）；噶哈巫語 a-ituku"
       },
       {
-        "form": "ma",
+        "form": "ha",
         "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        }
+          "zh-TW": "靜態",
+          "en": "stative"
+        },
+        "ref": "Li & Tsuchida 2001, p. 10",
+        "note": "ha- ~ ma- 依詞彙而定"
       },
       {
-        "form": "pa"
-      },
-      {
-        "form": "a"
-      },
-      {
-        "form": "i"
-      },
-      {
-        "form": "sa",
+        "form": "ka",
         "gloss": {
-          "zh-TW": "指涉焦點",
-          "en": "RF"
-        }
+          "zh-TW": "起始",
+          "en": "inchoative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10–11"
       },
       {
-        "form": "ta"
+        "form": "kaa",
+        "gloss": {
+          "zh-TW": "名詞化",
+          "en": "nominal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11"
       },
       {
-        "form": "ka"
+        "form": "kai",
+        "gloss": {
+          "zh-TW": "停留於",
+          "en": "to stay at"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11"
+      },
+      {
+        "form": "kali",
+        "gloss": {
+          "zh-TW": "易於、不由自主",
+          "en": "susceptible to"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "常與 -an 同現（kali-hatan-an）"
+      },
+      {
+        "form": "kaxa",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "僅兩例"
+      },
+      {
+        "form": "kaaxa",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "kaaxa-demel，對照 kaxa-demel"
+      },
+      {
+        "form": "kaxi",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "僅一例"
+      },
+      {
+        "form": "ku",
+        "ref": "Li & Tsuchida 2001, p. 11"
       },
       {
         "form": "m",
         "gloss": {
           "zh-TW": "主事焦點",
           "en": "AF"
-        }
+        },
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根（LZ §51.2.4 p. 9）"
       },
       {
-        "form": "xa"
-      },
-      {
-        "form": "si",
+        "form": "ma",
         "gloss": {
-          "zh-TW": "指涉焦點",
-          "en": "RF"
-        }
+          "zh-TW": "主事焦點／靜態",
+          "en": "AF / stative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 11–12"
       },
       {
-        "form": "tu"
+        "form": "pa",
+        "gloss": {
+          "zh-TW": "使動／動詞化",
+          "en": "causative / verbalizer"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 12, 15–16",
+        "note": "ma- 的非主事形式；也是使動（動態動詞）與動詞化前綴"
+      },
+      {
+        "form": "maa",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12"
+      },
+      {
+        "form": "paa",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "maa- 的非主事形式"
+      },
+      {
+        "form": "maaka",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12"
+      },
+      {
+        "form": "paaka",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "maaka- 的非主事形式"
+      },
+      {
+        "form": "maaxi",
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "僅一例"
+      },
+      {
+        "form": "maka",
+        "gloss": {
+          "zh-TW": "生出、結出",
+          "en": "to bear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "paka",
+        "gloss": {
+          "zh-TW": "使動",
+          "en": "causative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13, 16",
+        "note": "maka- 的非主事形式；也是靜態動詞的使動前綴"
+      },
+      {
+        "form": "mana",
+        "gloss": {
+          "zh-TW": "洗（身體部位）",
+          "en": "to wash"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "pana",
+        "gloss": {
+          "zh-TW": "洗（身體部位）",
+          "en": "to wash"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "mana- 的非主事形式"
+      },
+      {
+        "form": "mari",
+        "gloss": {
+          "zh-TW": "移動、生產",
+          "en": "to move, to give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "pari",
+        "gloss": {
+          "zh-TW": "移動、生產",
+          "en": "to move, to give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "mari- 的非主事形式"
+      },
+      {
+        "form": "maru",
+        "gloss": {
+          "zh-TW": "生產",
+          "en": "to lay eggs, give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "paru",
+        "gloss": {
+          "zh-TW": "生產",
+          "en": "to lay eggs, give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "maru- 的非主事形式"
+      },
+      {
+        "form": "masa",
+        "gloss": {
+          "zh-TW": "動詞前綴",
+          "en": "verbal prefix"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "masi",
+        "gloss": {
+          "zh-TW": "移動、穿戴",
+          "en": "to move, to wear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "pasi",
+        "gloss": {
+          "zh-TW": "移動、穿戴",
+          "en": "to move, to wear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "masi- 的非主事形式"
+      },
+      {
+        "form": "mata",
+        "gloss": {
+          "zh-TW": "次數",
+          "en": "times"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接數詞"
+      },
+      {
+        "form": "mati",
+        "gloss": {
+          "zh-TW": "攜帶、穿戴、捕捉",
+          "en": "to carry, wear, catch"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13"
+      },
+      {
+        "form": "pati",
+        "gloss": {
+          "zh-TW": "攜帶、穿戴、捕捉",
+          "en": "to carry, wear, catch"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "mati- 的非主事形式"
+      },
+      {
+        "form": "matu",
+        "gloss": {
+          "zh-TW": "建造、設置",
+          "en": "to build, set up"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13–14"
+      },
+      {
+        "form": "patu",
+        "gloss": {
+          "zh-TW": "建造、設置",
+          "en": "to build, set up"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13–14",
+        "note": "matu- 的非主事形式"
+      },
+      {
+        "form": "maxa",
+        "gloss": {
+          "zh-TW": "產生；成為",
+          "en": "to produce; to become"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14"
+      },
+      {
+        "form": "paxa",
+        "gloss": {
+          "zh-TW": "產生；成為",
+          "en": "to produce; to become"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "maxa- 的非主事形式"
+      },
+      {
+        "form": "maxi",
+        "gloss": {
+          "zh-TW": "具有；注視",
+          "en": "to have; to look carefully"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14"
+      },
+      {
+        "form": "paxi",
+        "gloss": {
+          "zh-TW": "具有；注視",
+          "en": "to have; to look carefully"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "maxi- 的非主事形式"
+      },
+      {
+        "form": "maxu",
+        "ref": "Li & Tsuchida 2001, p. 14"
+      },
+      {
+        "form": "paxu",
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "maxu- 的非主事形式"
       },
       {
         "form": "me",
         "gloss": {
           "zh-TW": "主事焦點",
           "en": "AF"
-        }
-      },
-      {
-        "form": "pu"
-      },
-      {
-        "form": "p"
-      },
-      {
-        "form": "u"
-      },
-      {
-        "form": "xi"
-      },
-      {
-        "form": "xu"
-      },
-      {
-        "form": "ha"
-      },
-      {
-        "form": "t"
-      },
-      {
-        "form": "mia"
-      },
-      {
-        "form": "kina"
-      },
-      {
-        "form": "k"
-      },
-      {
-        "form": "kali"
-      },
-      {
-        "form": "mana"
-      },
-      {
-        "form": "mati"
-      },
-      {
-        "form": "n"
-      },
-      {
-        "form": "ri"
-      },
-      {
-        "form": "y"
-      },
-      {
-        "form": "s"
-      },
-      {
-        "form": "mu'"
-      },
-      {
-        "form": "maxa'"
-      },
-      {
-        "form": "mia'"
-      },
-      {
-        "form": "saapa"
-      },
-      {
-        "form": "baa"
-      },
-      {
-        "form": "maru"
-      },
-      {
-        "form": "haiy"
-      },
-      {
-        "form": "ma'"
-      },
-      {
-        "form": "maa'"
-      },
-      {
-        "form": "masu"
-      },
-      {
-        "form": "maxam"
-      },
-      {
-        "form": "pakama"
-      },
-      {
-        "form": "pana"
-      },
-      {
-        "form": "pasu"
-      },
-      {
-        "form": "saa'"
-      },
-      {
-        "form": "tau'"
-      },
-      {
-        "form": "taxama"
-      },
-      {
-        "form": "kaaxa"
-      },
-      {
-        "form": "maapa"
-      },
-      {
-        "form": "maasi"
-      },
-      {
-        "form": "madu"
-      },
-      {
-        "form": "maxia"
-      },
-      {
-        "form": "mina"
-      },
-      {
-        "form": "minu"
-      },
-      {
-        "form": "nuk"
-      },
-      {
-        "form": "pa'"
-      },
-      {
-        "form": "pati"
-      },
-      {
-        "form": "si'"
-      },
-      {
-        "form": "xili"
-      },
-      {
-        "form": "aing"
-      },
-      {
-        "form": "daa"
-      },
-      {
-        "form": "hu"
-      },
-      {
-        "form": "kaahata"
-      },
-      {
-        "form": "kali'"
-      },
-      {
-        "form": "maapi"
-      },
-      {
-        "form": "maaria"
-      },
-      {
-        "form": "maata"
-      },
-      {
-        "form": "maati"
-      },
-      {
-        "form": "maatu"
-      },
-      {
-        "form": "maaxa"
-      },
-      {
-        "form": "maaxi"
-      },
-      {
-        "form": "makia"
-      },
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "詞根第一個元音是 e 時（LZ §51.2.4 p. 9）"
+      },
       {
-        "form": "maku"
+        "form": "mi",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 14–15",
+        "note": "詞根第一個元音是 i 時（LZ §51.2.4 p. 9）"
       },
+      {
+        "form": "pi",
+        "gloss": {
+          "zh-TW": "排出、釋放",
+          "en": "to release"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 14, 16",
+        "note": "mi- 的非主事形式"
+      },
+      {
+        "form": "i",
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "mi- 的另一個非主事形式（mi- (i-)）；也見於 i-dek-e-dek"
+      },
+      {
+        "form": "mia",
+        "gloss": {
+          "zh-TW": "往…；序數",
+          "en": "towards; ordinal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15"
+      },
+      {
+        "form": "pia",
+        "gloss": {
+          "zh-TW": "往…",
+          "en": "towards"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "mia- 的非主事形式"
+      },
       {
-        "form": "mati'"
+        "form": "mu",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "詞根第一個元音是 u 或 a 時（LZ §51.2.4 p. 9）"
       },
-      {
-        "form": "matu'"
-      },
-      {
-        "form": "max"
-      },
-      {
-        "form": "paa'"
-      },
-      {
-        "form": "paaka"
-      },
-      {
-        "form": "para"
-      },
-      {
-        "form": "pe"
-      },
-      {
-        "form": "pii"
-      },
-      {
-        "form": "pina"
+      {
+        "form": "pu",
+        "gloss": {
+          "zh-TW": "鋪設",
+          "en": "to pave"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 15–16",
+        "note": "mu- 的非主事形式；也是「鋪設」前綴"
+      },
+      {
+        "form": "papa",
+        "gloss": {
+          "zh-TW": "騎",
+          "en": "to ride"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16"
+      },
+      {
+        "form": "sa",
+        "gloss": {
+          "zh-TW": "工具焦點",
+          "en": "IF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16",
+        "note": "sa- ~ saa- 長短元音的差異與音高有關"
+      },
+      {
+        "form": "saa",
+        "gloss": {
+          "zh-TW": "工具焦點",
+          "en": "IF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16"
+      },
+      {
+        "form": "si",
+        "gloss": {
+          "zh-TW": "工具焦點；具有；前往",
+          "en": "IF; to have; to go"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 16–17"
+      },
+      {
+        "form": "ta",
+        "gloss": {
+          "zh-TW": "施事者；名詞化",
+          "en": "agentive; nominal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 17"
+      },
+      {
+        "form": "tau",
+        "gloss": {
+          "zh-TW": "施事者；聚集處",
+          "en": "agentive; gathering place"
+        },
+        "ref": "Li & Tsuchida 2001, p. 17"
+      },
+      {
+        "form": "taxa",
+        "gloss": {
+          "zh-TW": "想要…；姿勢",
+          "en": "to feel like; posture"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 17–18"
+      },
+      {
+        "form": "taxi",
+        "gloss": {
+          "zh-TW": "放低身體",
+          "en": "to lower one’s body"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18"
+      },
+      {
+        "form": "taxu",
+        "gloss": {
+          "zh-TW": "四處移動",
+          "en": "to move around"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18"
+      },
+      {
+        "form": "ti",
+        "gloss": {
+          "zh-TW": "遭受不適",
+          "en": "to get something undesirable"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18"
+      },
+      {
+        "form": "tu",
+        "gloss": {
+          "zh-TW": "靜態",
+          "en": "stative"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18"
+      },
+      {
+        "form": "xi",
+        "gloss": {
+          "zh-TW": "反轉",
+          "en": "to turn over"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18"
+      },
+      {
+        "form": "minu",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 19, 22",
+        "note": "m<in>u-：中綴 <in> 在前綴 mu- 之中"
+      },
+      {
+        "form": "mina",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22",
+        "note": "m<in>a-：中綴 <in> 在前綴 ma- 之中"
       },
-      {
-        "form": "raa"
+      {
+        "form": "mine",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "m<in>e-：中綴 <in> 在前綴 me- 之中（LZ §51.3.2.1 p. 12 mine-ken）"
+      },
+      {
+        "form": "kina",
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "k<in>a-：中綴 <in> 在前綴 ka- 之中，類推 m<in>u-（資料：kinataparax）"
+      },
+      {
+        "form": "pina",
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "p<in>a-：中綴 <in> 在前綴 pa- 之中，類推 m<in>u-"
+      },
+      {
+        "form": "a'",
+        "gloss": {
+          "zh-TW": "動詞化",
+          "en": "verbal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 10",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ha'",
+        "gloss": {
+          "zh-TW": "靜態",
+          "en": "stative"
+        },
+        "ref": "Li & Tsuchida 2001, p. 10",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ka'",
+        "gloss": {
+          "zh-TW": "起始",
+          "en": "inchoative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10–11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "kaa'",
+        "gloss": {
+          "zh-TW": "名詞化",
+          "en": "nominal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
       },
       {
-        "form": "tabura"
+        "form": "kai'",
+        "gloss": {
+          "zh-TW": "停留於",
+          "en": "to stay at"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
       },
-      {
-        "form": "taxa'"
+      {
+        "form": "kali'",
+        "gloss": {
+          "zh-TW": "易於、不由自主",
+          "en": "susceptible to"
+        },
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "kaxa'",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "kaaxa'",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "kaxi'",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ku'",
+        "ref": "Li & Tsuchida 2001, p. 11",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ma'",
+        "gloss": {
+          "zh-TW": "主事焦點／靜態",
+          "en": "AF / stative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 11–12",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pa'",
+        "gloss": {
+          "zh-TW": "使動／動詞化",
+          "en": "causative / verbalizer"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 12, 15–16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maa'",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paa'",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maaka'",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paaka'",
+        "gloss": {
+          "zh-TW": "相互",
+          "en": "reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 12",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maaxi'",
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maka'",
+        "gloss": {
+          "zh-TW": "生出、結出",
+          "en": "to bear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paka'",
+        "gloss": {
+          "zh-TW": "使動",
+          "en": "causative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13, 16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mana'",
+        "gloss": {
+          "zh-TW": "洗（身體部位）",
+          "en": "to wash"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pana'",
+        "gloss": {
+          "zh-TW": "洗（身體部位）",
+          "en": "to wash"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mari'",
+        "gloss": {
+          "zh-TW": "移動、生產",
+          "en": "to move, to give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pari'",
+        "gloss": {
+          "zh-TW": "移動、生產",
+          "en": "to move, to give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maru'",
+        "gloss": {
+          "zh-TW": "生產",
+          "en": "to lay eggs, give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paru'",
+        "gloss": {
+          "zh-TW": "生產",
+          "en": "to lay eggs, give birth"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "masa'",
+        "gloss": {
+          "zh-TW": "動詞前綴",
+          "en": "verbal prefix"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "masi'",
+        "gloss": {
+          "zh-TW": "移動、穿戴",
+          "en": "to move, to wear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pasi'",
+        "gloss": {
+          "zh-TW": "移動、穿戴",
+          "en": "to move, to wear"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mata'",
+        "gloss": {
+          "zh-TW": "次數",
+          "en": "times"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mati'",
+        "gloss": {
+          "zh-TW": "攜帶、穿戴、捕捉",
+          "en": "to carry, wear, catch"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pati'",
+        "gloss": {
+          "zh-TW": "攜帶、穿戴、捕捉",
+          "en": "to carry, wear, catch"
+        },
+        "ref": "Li & Tsuchida 2001, p. 13",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "matu'",
+        "gloss": {
+          "zh-TW": "建造、設置",
+          "en": "to build, set up"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13–14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "patu'",
+        "gloss": {
+          "zh-TW": "建造、設置",
+          "en": "to build, set up"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 13–14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maxa'",
+        "gloss": {
+          "zh-TW": "產生；成為",
+          "en": "to produce; to become"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paxa'",
+        "gloss": {
+          "zh-TW": "產生；成為",
+          "en": "to produce; to become"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maxi'",
+        "gloss": {
+          "zh-TW": "具有；注視",
+          "en": "to have; to look carefully"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paxi'",
+        "gloss": {
+          "zh-TW": "具有；注視",
+          "en": "to have; to look carefully"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "maxu'",
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "paxu'",
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "me'",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 14",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mi'",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 14–15",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pi'",
+        "gloss": {
+          "zh-TW": "排出、釋放",
+          "en": "to release"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 14, 16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "i'",
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mia'",
+        "gloss": {
+          "zh-TW": "往…；序數",
+          "en": "towards; ordinal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pia'",
+        "gloss": {
+          "zh-TW": "往…",
+          "en": "towards"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mu'",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 15",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pu'",
+        "gloss": {
+          "zh-TW": "鋪設",
+          "en": "to pave"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 15–16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "papa'",
+        "gloss": {
+          "zh-TW": "騎",
+          "en": "to ride"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "sa'",
+        "gloss": {
+          "zh-TW": "工具焦點",
+          "en": "IF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "saa'",
+        "gloss": {
+          "zh-TW": "工具焦點",
+          "en": "IF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 16",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "si'",
+        "gloss": {
+          "zh-TW": "工具焦點；具有；前往",
+          "en": "IF; to have; to go"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 16–17",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ta'",
+        "gloss": {
+          "zh-TW": "施事者；名詞化",
+          "en": "agentive; nominal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 17",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "tau'",
+        "gloss": {
+          "zh-TW": "施事者；聚集處",
+          "en": "agentive; gathering place"
+        },
+        "ref": "Li & Tsuchida 2001, p. 17",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "taxa'",
+        "gloss": {
+          "zh-TW": "想要…；姿勢",
+          "en": "to feel like; posture"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 17–18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "taxi'",
+        "gloss": {
+          "zh-TW": "放低身體",
+          "en": "to lower one’s body"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "taxu'",
+        "gloss": {
+          "zh-TW": "四處移動",
+          "en": "to move around"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "ti'",
+        "gloss": {
+          "zh-TW": "遭受不適",
+          "en": "to get something undesirable"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "tu'",
+        "gloss": {
+          "zh-TW": "靜態",
+          "en": "stative"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "xi'",
+        "gloss": {
+          "zh-TW": "反轉",
+          "en": "to turn over"
+        },
+        "ref": "Li & Tsuchida 2001, p. 18",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "minu'",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 19, 22",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mina'",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "mine'",
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AF.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "kina'",
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
+      },
+      {
+        "form": "pina'",
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "接元音開頭的詞根時插入喉塞音（LT pp. 11, 15, 17, 18：kaxi-'eder、mia-'ima、taxa-'uta、tau-'alaw-an）"
       }
     ],
     "suffixes": [
       {
         "form": "an",
         "gloss": {
-          "zh-TW": "處所焦點",
-          "en": "LF"
-        }
+          "zh-TW": "處所焦點；處所",
+          "en": "LF; location"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19"
       },
       {
-        "form": "ay"
+        "form": "nan",
+        "gloss": {
+          "zh-TW": "處所（代名詞、人名）",
+          "en": "locative (pronoun, name)"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "-an ~ -nan：yaku-nan"
+      },
+      {
+        "form": "aw",
+        "gloss": {
+          "zh-TW": "受事焦點・未來",
+          "en": "PF.FUT"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19",
+        "note": "常與 ta- 同現（ta-kita-aw）"
+      },
+      {
+        "form": "ay",
+        "gloss": {
+          "zh-TW": "處所焦點・非實現",
+          "en": "LF.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19"
       },
       {
         "form": "en",
         "gloss": {
           "zh-TW": "受事焦點",
           "en": "PF"
-        }
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19",
+        "note": "-en ~ -un 依前面的元音而定"
       },
       {
-        "form": "'an"
+        "form": "un",
+        "gloss": {
+          "zh-TW": "受事焦點",
+          "en": "PF"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19",
+        "note": "-en ~ -un 依前面的元音而定（bitud-un）"
       },
       {
-        "form": "'en"
+        "form": "i",
+        "gloss": {
+          "zh-TW": "受事焦點・祈使；呼格",
+          "en": "PF.IMP; vocative"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 10, 19–20"
       },
       {
-        "form": "i"
+        "form": "'an",
+        "gloss": {
+          "zh-TW": "處所焦點；處所",
+          "en": "LF; location"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 16–17（pu-batu'-an）；Lim & Zeitoun 2024, §51.3.2.1, p. 13（噶哈巫語 ='an）",
+        "note": "元音結尾的詞幹接元音開頭的後綴時插入喉塞音；噶哈巫語的 -en、-an、-i 已成為附著詞 ='en、='an、='i（去掉 = 後的寫法），這時不濁化"
       },
       {
-        "form": "n"
+        "form": "'aw",
+        "gloss": {
+          "zh-TW": "受事焦點・未來",
+          "en": "PF.FUT"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19（ta-siatu'-aw）",
+        "note": "元音結尾的詞幹接元音開頭的後綴時插入喉塞音；噶哈巫語的 -en、-an、-i 已成為附著詞 ='en、='an、='i（去掉 = 後的寫法），這時不濁化"
       },
       {
-        "form": "'ay"
+        "form": "'ay",
+        "gloss": {
+          "zh-TW": "處所焦點・非實現",
+          "en": "LF.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19（與 'an、'aw 同一個喉塞音增生）",
+        "note": "元音結尾的詞幹接元音開頭的後綴時插入喉塞音；噶哈巫語的 -en、-an、-i 已成為附著詞 ='en、='an、='i（去掉 = 後的寫法），這時不濁化"
       },
       {
-        "form": "nan"
+        "form": "'en",
+        "gloss": {
+          "zh-TW": "受事焦點",
+          "en": "PF"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19（xutaxa'-en、apa'-en）；Lim & Zeitoun 2024, §51.3.2.1, p. 13（噶哈巫語 ='en）",
+        "note": "元音結尾的詞幹接元音開頭的後綴時插入喉塞音；噶哈巫語的 -en、-an、-i 已成為附著詞 ='en、='an、='i（去掉 = 後的寫法），這時不濁化"
       },
       {
-        "form": "tula"
-      },
-      {
-        "form": "anan"
-      },
-      {
-        "form": "na"
-      },
-      {
-        "form": "uan"
+        "form": "'i",
+        "gloss": {
+          "zh-TW": "受事焦點・祈使；呼格",
+          "en": "PF.IMP; vocative"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.3.2.1, p. 13（噶哈巫語 ='i：ngazip='i）",
+        "note": "元音結尾的詞幹接元音開頭的後綴時插入喉塞音；噶哈巫語的 -en、-an、-i 已成為附著詞 ='en、='an、='i（去掉 = 後的寫法），這時不濁化"
       }
     ],
     "infixes": [
       {
-        "form": "a"
+        "form": "a",
+        "gloss": {
+          "zh-TW": "進行、持續",
+          "en": "progressive"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 18–19",
+        "note": "在首輔音之後：p<a>i-suzuk、s<a>ungusung"
       },
       {
-        "form": "in"
+        "form": "in",
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "perfective"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "在首輔音之後：k<in>awas"
       }
     ],
     "reduplication": [
       {
-        "pattern": "Ca"
+        "pattern": "CVCV",
+        "gloss": {
+          "zh-TW": "持續；強調；相互",
+          "en": "continuous; intensive; reciprocal"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, pp. 13–14",
+        "note": "巴宰語的完整重疊：兩音節、去韻尾（kipu~kipud-i、maa-tebe~teber、luba~lubahing）"
+      },
+      {
+        "pattern": "CVCVC",
+        "gloss": {
+          "zh-TW": "持續；強調；相互",
+          "en": "continuous; intensive; reciprocal"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.3.2.2, p. 13 注 11；Li & Tsuchida 2001, p. 22",
+        "note": "噶哈巫語的完整重疊保留韻尾（maa-kudung~kudung）；巴宰語少見"
+      },
+      {
+        "pattern": "CV",
+        "gloss": {
+          "zh-TW": "進行",
+          "en": "progressive"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
+        "note": "ki~kiliw；序數 du~dusa"
+      },
+      {
+        "pattern": "CVV",
+        "gloss": {
+          "zh-TW": "進行",
+          "en": "progressive"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
+        "note": "dee~depex、kii~kita（噶哈巫語只有這一種部分重疊）"
+      },
+      {
+        "pattern": "full",
+        "gloss": {
+          "zh-TW": "複數；持續",
+          "en": "plural; continuous"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22",
+        "note": "單音節詞根的完整重疊（saw~saw「人們」）；較長的詞根由 CVCV／CVCVC 涵蓋"
+      },
+      {
+        "pattern": "Ca",
+        "gloss": {
+          "zh-TW": "工具、處所名詞；非實現",
+          "en": "instrument / location nominal; irrealis"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 20, 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
+        "note": "da~dius、la~luzuk、da~daux-ay；元音開頭的詞根只重疊 a（a~alep）"
       }
     ],
     "alternations": [
       {
+        "underlying": "p",
+        "surface": "b",
+        "before": [
+          "an",
+          "aw",
+          "ay",
+          "en",
+          "un",
+          "i"
+        ],
+        "cost": 0.05,
+        "ref": "Lim & Zeitoun 2024, §51.2.2, p. 7；Li & Tsuchida 2001, pp. 16, 17, 19, 22",
+        "note": "巴宰語 b、d、g 不出現在詞尾，詞根末的濁塞音在元音開頭的後綴前才顯現（pu-kabad-an < kabat、angad-en、ngazib-en、aleb-i、kipu~kipud-i）。屬於詞彙性質（ta-derek-an 不濁化），噶哈巫語沒有。成本低於方言規則「濁化」（0.1），同時成立時說明顯示為構詞音變（docs/bcdp.md 1.7）"
+      },
+      {
         "underlying": "t",
         "surface": "d",
         "before": [
-          "an"
-        ]
+          "an",
+          "aw",
+          "ay",
+          "en",
+          "un",
+          "i"
+        ],
+        "cost": 0.05,
+        "ref": "Lim & Zeitoun 2024, §51.2.2, p. 7；Li & Tsuchida 2001, pp. 16, 17, 19, 22",
+        "note": "巴宰語 b、d、g 不出現在詞尾，詞根末的濁塞音在元音開頭的後綴前才顯現（pu-kabad-an < kabat、angad-en、ngazib-en、aleb-i、kipu~kipud-i）。屬於詞彙性質（ta-derek-an 不濁化），噶哈巫語沒有。成本低於方言規則「濁化」（0.1），同時成立時說明顯示為構詞音變（docs/bcdp.md 1.7）"
+      },
+      {
+        "underlying": "k",
+        "surface": "g",
+        "before": [
+          "an",
+          "aw",
+          "ay",
+          "en",
+          "un",
+          "i"
+        ],
+        "cost": 0.05,
+        "ref": "Lim & Zeitoun 2024, §51.2.2, p. 7；Li & Tsuchida 2001, pp. 16, 17, 19, 22",
+        "note": "巴宰語 b、d、g 不出現在詞尾，詞根末的濁塞音在元音開頭的後綴前才顯現（pu-kabad-an < kabat、angad-en、ngazib-en、aleb-i、kipu~kipud-i）。屬於詞彙性質（ta-derek-an 不濁化），噶哈巫語沒有。成本低於方言規則「濁化」（0.1），同時成立時說明顯示為構詞音變（docs/bcdp.md 1.7）"
       }
     ]
   }

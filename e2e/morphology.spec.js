@@ -80,10 +80,11 @@ test('去詞綴支援音變：minudox 找到 daux-，說明前綴 minu- 與詞�
   await page.screenshot({ path: `test-results/screenshots/${info.project.name}-morphology-dialect.png`, fullPage: true })
 })
 
-test('詞綴本身的音變：minedox 的 mine- 對應 minu-', async ({ page }) => {
-  await page.goto('./#/?q=minedox')
+// 構詞規格依文法來源校訂後，mine-（m<in>e-）本身就是前綴，改用噶哈巫語的元音 o：mo- 對應 mu-
+test('詞綴本身的音變：modaux 的 mo- 對應 mu-', async ({ page }) => {
+  await page.goto('./#/?q=modaux')
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
   await row.getByRole('button', { name: /詞根相符/ }).click()
-  await expect(page.getByRole('dialog').getByText(/查詢中寫作 mine-/)).toBeVisible()
+  await expect(page.getByRole('dialog').getByText(/查詢中寫作 mo-/)).toBeVisible()
 })

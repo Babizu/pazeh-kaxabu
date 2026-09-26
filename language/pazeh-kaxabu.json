@@ -1116,6 +1116,194 @@
         "note": "da~dius、la~luzuk、da~daux-ay；元音開頭的詞根只重疊 a（a~alep）"
       }
     ],
+    "circumfixes": [
+      {
+        "prefix": "ta",
+        "suffix": "i",
+        "gloss": {
+          "zh-TW": "勸說",
+          "en": "HORT"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25",
+        "note": "主事與受事焦點的勸說式（ta-kan-i）"
+      },
+      {
+        "prefix": "ta",
+        "suffix": "aw",
+        "gloss": {
+          "zh-TW": "勸說・受事焦點",
+          "en": "HORT.UVP"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25；Li & Tsuchida 2001, p. 19",
+        "note": "ta-kita-aw、ta-daux-aw"
+      },
+      {
+        "prefix": "ka",
+        "suffix": "an",
+        "gloss": {
+          "zh-TW": "靜態・受事焦點",
+          "en": "STAT.UV"
+        },
+        "ref": "Lim & Zeitoun 2024, p. 15",
+        "note": "ka- 是靜態動詞 ma- 的受事焦點形式（Blust 視為環綴）"
+      },
+      {
+        "prefix": "ka",
+        "suffix": "en",
+        "gloss": {
+          "zh-TW": "靜態・受事焦點",
+          "en": "STAT.UV"
+        },
+        "ref": "Lim & Zeitoun 2024, p. 15",
+        "note": "同 ka-…-an"
+      },
+      {
+        "prefix": "m",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M-…-ay（M ＝ m-）"
+      },
+      {
+        "prefix": "mu",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M-…-ay（M ＝ mu-）"
+      },
+      {
+        "prefix": "mi",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M-…-ay（M ＝ mi-）"
+      },
+      {
+        "prefix": "me",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M-…-ay（M ＝ me-）"
+      },
+      {
+        "prefix": "ma",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M-…-ay（M ＝ ma-）"
+      },
+      {
+        "prefix": "mau",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mau- ＝ m<a>u-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
+      },
+      {
+        "prefix": "mai",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mai- ＝ m<a>i-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
+      },
+      {
+        "prefix": "mae",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mae- ＝ m<a>e-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
+      },
+      {
+        "prefix": "maa",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
+        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（maa- ＝ m<a>a-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
+      },
+      {
+        "infix": "in",
+        "suffix": "an",
+        "gloss": {
+          "zh-TW": "處所焦點・完成",
+          "en": "UVL.PFV"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
+      },
+      {
+        "reduplication": "CV",
+        "suffix": "en",
+        "gloss": {
+          "zh-TW": "受事焦點・進行",
+          "en": "UVP.PROG"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
+      },
+      {
+        "reduplication": "CV",
+        "suffix": "an",
+        "gloss": {
+          "zh-TW": "處所焦點・進行",
+          "en": "UVL.PROG"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
+      },
+      {
+        "reduplication": "CV",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 24",
+        "note": "RED~…-ay（前面可以再加主事焦點前綴）"
+      },
+      {
+        "reduplication": "Ca",
+        "suffix": "en",
+        "gloss": {
+          "zh-TW": "受事焦點・非實現",
+          "en": "UVP.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
+      },
+      {
+        "reduplication": "Ca",
+        "suffix": "ay",
+        "gloss": {
+          "zh-TW": "處所焦點・非實現；祈願",
+          "en": "UVL.IRR; OPT"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25",
+        "note": "da~daux-ay"
+      }
+    ],
     "alternations": [
       {
         "underlying": "p",
@@ -1140,6 +1328,20 @@
         "cost": 0.05,
         "ref": "Lim & Zeitoun 2024, §51.2.2, p. 7；Li & Tsuchida 2001, pp. 16, 17, 19, 22",
         "note": "巴宰語 b、d、g 不出現在詞尾，詞根末的濁塞音在後綴前才顯現（pu-kabad-an < kabat、angad-en、ngazib-en、aleb-i、kipu~kipud-i）。屬於詞彙性質（ta-derek-an 不濁化），噶哈巫語沒有。成本低於方言規則「濁化」（0.1），同時成立時說明顯示為構詞音變（docs/bcdp.md 1.6）"
+      },
+      {
+        "underlying": "u",
+        "surface": "uw",
+        "position": "final",
+        "cost": 0.1,
+        "note": "u 結尾的詞素接元音開頭的後綴時插入 w（apu'apu-w-an、pasusu-w-an）"
+      },
+      {
+        "underlying": "i",
+        "surface": "iy",
+        "position": "final",
+        "cost": 0.1,
+        "note": "i 結尾的詞素接元音開頭的後綴時插入 y（imini-y-an、kasai-y-an）"
       }
     ]
   }

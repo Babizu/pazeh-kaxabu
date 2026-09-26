@@ -60,8 +60,17 @@ test("音變跨越詞素交界：tau'alawan 找到 alaw，對齊中標出交界"
 
 test('找不到的例子：說明原因', async ({ page }) => {
   await page.goto('./#/lab?tab=bcdp')
-  await page.getByRole('button', { name: "apu'apuwan ↛ apu" }).click()
-  await expect(page.getByRole('region', { name: '④ 分析' }).getByText(/超過總成本上限/)).toBeVisible()
+  await page.getByRole('button', { name: 'aidi ↛ di' }).click()
+  await expect(page.getByRole('region', { name: '④ 分析' }).getByText(/比詞根的最短長度還短/)).toBeVisible()
+})
+
+test('環綴：takitaw 找到 kita，分析是一個環綴 ta-…-aw', async ({ page }) => {
+  await page.goto('./#/lab?tab=bcdp')
+  await page.getByRole('button', { name: 'takitaw → kita' }).click()
+  const analysis = page.getByRole('region', { name: '④ 分析' })
+  await expect(analysis.getByText('ta-…-aw', { exact: true })).toBeVisible()
+  await expect(analysis.getByText('kita', { exact: true })).toBeVisible()
+  await expect(page.getByRole('region', { name: '② 通道與詞圖走訪' }).getByText(/^環綴 /).first()).toBeVisible()
 })
 
 test('從搜尋結果的構詞說明連到構詞分頁', async ({ page }) => {

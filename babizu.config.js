@@ -88,9 +88,11 @@ export default defineSite({
         // 音變跨越詞素交界：交界上的喉塞音（tau- ＋ alaw ＋ -an）、元音合併（maxa- ＋ apux 的 a｜a）
         ["tau'alawan", 'alaw'],
         ['maxapux', 'apux'],
+        // 環綴 ta-…-aw（勸說）算一個步驟，加上 a｜a 的元音合併
+        ['takitaw', 'kita'],
       ],
-      // 重疊之後、後綴之前的滑音增生（apu-apu-w-an）目前沒有規則
-      failures: [["apu'apuwan", 'apu']],
+      // 詞根比最短長度（minStem 3）還短：a- ＋ di 不做構詞分析
+      failures: [['aidi', 'di']],
     },
   },
 })

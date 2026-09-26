@@ -85,9 +85,12 @@ export default defineSite({
         ['binaket', 'baket'],
         ['bitudun', 'bitut'],
         ['maakudungkudung', 'kudung'],
+        // 音變跨越詞素交界：交界上的喉塞音（tau- ＋ alaw ＋ -an）、元音合併（maxa- ＋ apux 的 a｜a）
+        ["tau'alawan", 'alaw'],
+        ['maxapux', 'apux'],
       ],
-      // 詞素交界的元音合併（maxa- ＋ apux）框架不支援
-      failures: [['maxapux', 'apux']],
+      // 重疊之後、後綴之前的滑音增生（apu-apu-w-an）目前沒有規則
+      failures: [["apu'apuwan", 'apu']],
     },
   },
 })

@@ -145,3 +145,26 @@ test('構詞文法：minubaket 是 m<in>u-（mu- 之後插入 <in>），mubinake
   await page.getByRole('tab', { name: /^詞條/ }).click()
   await expect(page.getByRole('button', { name: /自動拆解：mu- \+ baket \+ <in>/ }).first()).toBeVisible()
 })
+
+test('構詞搜尋方法：設定選單切換成類 pika 剖析器，拆解與音變說明相同，結果數旁標出實作；選擇記在瀏覽器', async ({ page }) => {
+  await page.goto('./#/?q=minudox')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const button = page.getByRole('button', { name: /自動拆解：m<in>u- \+ daux/ }).first()
+  await expect(button).toBeVisible()
+  await expect(page.getByTestId('elapsed')).toContainText('BCDP')
+
+  await page.getByRole('button', { name: /^設定/ }).click()
+  await page.getByRole('dialog').getByText('類 pika 剖析器').click()
+  await page.keyboard.press('Escape')
+  await expect(page.getByTestId('elapsed')).toContainText('pika')
+  await button.click()
+  const dialog = page.getByRole('dialog')
+  await expect(dialog.getByText('o→au')).toBeVisible()
+  await expect(dialog.getByText(/· 詞幹$/)).toBeVisible()
+  await page.keyboard.press('Escape')
+
+  await page.reload()
+  await expect(page.getByTestId('elapsed')).toContainText('pika')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  await expect(page.getByRole('button', { name: /自動拆解：m<in>u- \+ daux/ }).first()).toBeVisible()
+})

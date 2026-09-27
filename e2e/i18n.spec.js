@@ -4,12 +4,16 @@
 
 import { expect, test } from '@playwright/test'
 
-const languageSelect = (/** @type {import('@playwright/test').Page} */ page) =>
-  page.getByRole('combobox', { name: /介面語言|Interface language/ })
+/** 介面語言在頁首的「設定」裡 @param {import('@playwright/test').Page} page @param {string} lang */
+async function chooseLanguage(page, lang) {
+  await page.getByRole('button', { name: /^(設定|Settings)/ }).click()
+  await page.getByRole('dialog').locator(`[lang="${lang}"]`).click()
+  await page.keyboard.press('Escape')
+}
 
 test('切換成英文：標題、選單與站台說明都換成英文，重新整理後仍記得', async ({ page }) => {
   await page.goto('./#/about')
-  await languageSelect(page).selectOption('en')
+  await chooseLanguage(page, 'en')
   await expect(page.locator('html')).toHaveAttribute('lang', 'en')
   await expect(page.getByRole('heading', { level: 1, name: 'About this dictionary' })).toBeVisible()
   await expect(page.getByRole('heading', { name: 'Dialect labels' })).toBeVisible()
@@ -24,7 +28,7 @@ test('切換成英文：標題、選單與站台說明都換成英文，重新�
 
 test('族語介面：尚未翻譯的字串以中文顯示', async ({ page }) => {
   await page.goto('./#/about')
-  await languageSelect(page).selectOption('pzh')
+  await chooseLanguage(page, 'pzh')
   await expect(page.locator('html')).toHaveAttribute('lang', 'pzh')
   await expect(page.getByRole('heading', { name: '方言標記' })).toBeVisible()
 })

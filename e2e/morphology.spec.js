@@ -20,8 +20,9 @@ test('查詞根 dalum：找到構詞分析推定的衍生形 mudalum，並說明
   await expect(button).toBeVisible()
   await button.click()
   const dialog = page.getByRole('dialog')
-  await expect(dialog.getByText('構詞分析')).toBeVisible()
-  await expect(dialog.getByText('「mudalum」是「dalum」加上詞綴。')).toBeVisible()
+  await expect(dialog.getByText('拆解說明')).toBeVisible()
+  await expect(dialog.getByText('mudalum → dalum')).toBeVisible()
+  await expect(dialog.getByText(/演算法自動去除詞綴/)).toBeVisible()
   await expect(dialog.getByText('前綴 · 主事焦點')).toBeVisible()
   await expectNoHorizontalOverflow(page)
   await page.screenshot({ path: `test-results/screenshots/${info.project.name}-morphology-derived.png`, fullPage: true })
@@ -35,23 +36,25 @@ test('查詞根 baket：例句中的衍生形（pabaket）也列出，標為衍�
   await expect(sentence.getByText('衍生形')).toBeVisible()
 })
 
-test('查衍生詞 minubaket：找到詞根 baket，標為詞根相符', async ({ page }) => {
+test('查衍生詞 minubaket：找到詞根 baket，標為自動拆解', async ({ page }) => {
   await page.goto('./#/?q=minubaket')
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'baket', exact: true }) }).first()
   await expect(row).toBeVisible()
-  await expect(row.getByRole('button', { name: /詞根相符：.*baket/ })).toBeVisible()
+  await expect(row.getByRole('button', { name: /自動拆解：.*baket/ })).toBeVisible()
   await expectNoHorizontalOverflow(page)
 })
 
 test('精確模式不做構詞比對', async ({ page }) => {
   await page.goto('./#/?q=minubaket&fz=exact')
   await expect(page.locator('article').first()).toBeVisible()
-  await expect(page.getByRole('button', { name: /詞根相符/ })).toHaveCount(0)
+  await expect(page.getByRole('button', { name: /自動拆解/ })).toHaveCount(0)
 })
 
 test('英文介面的構詞說明', async ({ page }) => {
   await page.goto('./#/?q=dalum')
-  await page.getByRole('combobox', { name: /介面語言|Interface language/ }).selectOption('en')
+  await page.getByRole('button', { name: /^設定/ }).click()
+  await page.getByRole('dialog').locator('[lang="en"]').click()
+  await page.keyboard.press('Escape')
   await page.getByRole('tab', { name: /^Entries/ }).click()
   await expect(page.getByRole('button', { name: /Derived form: mu- \+ dalum/ }).first()).toBeVisible()
 })
@@ -62,7 +65,7 @@ test('查衍生詞 kinawas：列出詞根 kawas 與辭典標註的派生詞（mu
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'mukawas', exact: true }) }).first()
   await expect(row).toBeVisible()
   await expect(row.getByText('衍生自')).toBeVisible()
-  await expect(row.getByRole('button', { name: /詞根相符：.*kawas/ })).toBeVisible()
+  await expect(row.getByRole('button', { name: /自動拆解：.*kawas/ })).toBeVisible()
   await expectNoHorizontalOverflow(page)
 })
 
@@ -71,7 +74,7 @@ test('去詞綴支援音變：minudox 找到 daux-，說明前綴 minu- 與詞�
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
   await expect(row).toBeVisible()
-  const button = row.getByRole('button', { name: /詞根相符：minu- \+ daux/ })
+  const button = row.getByRole('button', { name: /自動拆解：minu- \+ daux/ })
   await button.click()
   const dialog = page.getByRole('dialog')
   // 音變以整個詞一起比對，每一項標出落在哪個詞素
@@ -87,7 +90,7 @@ test('詞綴本身的音變：modaux 的 mo- 對應 mu-', async ({ page }) => {
   await page.goto('./#/?q=modaux')
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
-  await row.getByRole('button', { name: /詞根相符/ }).click()
+  await row.getByRole('button', { name: /自動拆解/ }).click()
   const dialog = page.getByRole('dialog')
   await expect(dialog.getByText('o→u')).toBeVisible()
   await expect(dialog.getByText(/· 前綴$/)).toBeVisible()

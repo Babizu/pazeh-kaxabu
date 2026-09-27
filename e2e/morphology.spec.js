@@ -59,14 +59,44 @@ test('英文介面的構詞說明', async ({ page }) => {
   await expect(page.getByRole('button', { name: /Derived form: mu- \+ dalum/ }).first()).toBeVisible()
 })
 
-test('查衍生詞 kinawas：列出詞根 kawas 與辭典標註的派生詞（mukawas 等）', async ({ page }) => {
+test('查衍生詞 kinawas：詞根 kawas- 的詞條排第一，辭典列在底下的 mukawas、kinawas 縮排接在後面', async ({ page }) => {
   await page.goto('./#/?q=kinawas')
   await page.getByRole('tab', { name: /^詞條/ }).click()
-  const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'mukawas', exact: true }) }).first()
-  await expect(row).toBeVisible()
-  await expect(row.getByText('衍生自')).toBeVisible()
-  await expect(row.getByRole('button', { name: /自動拆解：.*kawas/ })).toBeVisible()
+  const family = page.locator('[data-entry-group]:visible').first()
+  await expect(family.getByRole('link', { name: 'kawas-', exact: true })).toBeVisible()
+  await expect(family.getByRole('button', { name: /自動拆解：.*kawas/ }).first()).toBeVisible()
+  // kinawas 在辭典中列在 mukawas 底下
+  const mukawas = family.getByRole('listitem').filter({ has: page.getByRole('link', { name: 'mukawas', exact: true }) })
+  await expect(mukawas.getByRole('link', { name: 'kinawas', exact: true })).toBeVisible()
   await expectNoHorizontalOverflow(page)
+})
+
+test('查 pakita：kita- 條排第一，底下是完全相同的 pakita（併入另立條目）與 pinakita；其他辭典的詞另成一組', async ({ page }) => {
+  await page.goto('./#/?q=pakita')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const groups = page.locator('[data-entry-group]:visible')
+  const family = groups.first()
+  await expect(family.getByRole('link', { name: 'kita-', exact: true })).toBeVisible()
+  const pakita = family.getByRole('listitem').filter({ has: page.getByRole('link', { name: 'pakita', exact: true }) }).first()
+  await expect(pakita.getByText('完全相符').first()).toBeVisible()
+  await expect(pakita.getByRole('link', { name: '另立條目' }).first()).toBeVisible()
+  await expect(pakita.getByRole('link', { name: 'pinakita', exact: true })).toBeVisible()
+  // 同一個家族的詞形不會另外出現在別組
+  await expect(groups.getByRole('link', { name: 'pinakita', exact: true })).toHaveCount(1)
+  await expect(groups.nth(1).getByRole('link', { name: 'paakita', exact: true })).toBeVisible()
+  // 衍生詞很多時收起來
+  await family.getByRole('button', { name: /再顯示 \d+ 個相關項目/ }).click()
+  await expect(family.getByRole('link', { name: 'mikita', exact: true })).toBeVisible()
+  await expectNoHorizontalOverflow(page)
+})
+
+test('查 parazem：詞根 razem 以自動拆解列出（不被較差的模糊命中蓋掉），parazem 在它底下', async ({ page }) => {
+  await page.goto('./#/?q=parazem')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const family = page.locator('[data-entry-group]:visible').first()
+  await expect(family.getByRole('link', { name: 'razem', exact: true })).toBeVisible()
+  await expect(family.getByRole('button', { name: /自動拆解：pa- \+ razem/ }).first()).toBeVisible()
+  await expect(family.getByRole('link', { name: 'parazem', exact: true })).toBeVisible()
 })
 
 test('去詞綴支援音變：minudox 找到 daux-，說明前綴 minu- 與詞幹 dox → daux', async ({ page }, info) => {

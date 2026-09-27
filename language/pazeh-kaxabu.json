@@ -450,18 +450,18 @@
     }
   ],
   "morphology": {
-    "cost": 0.3,
+    "cost": 0.2,
     "minStem": 3,
     "maxSteps": 3,
     "prefixes": [
       {
         "form": "a",
         "gloss": {
-          "zh-TW": "動詞化",
-          "en": "verbal"
+          "zh-TW": "動詞名物化",
+          "en": "verb nominalizer"
         },
         "ref": "Li & Tsuchida 2001, p. 10",
-        "note": "也見於 a- ＋ 重疊 ＋ 詞根的名詞化（a-ba-babaw）；噶哈巫語 a-ituku"
+        "note": "也見於 a- ＋ 重疊 ＋ 詞根的名詞化；噶哈巫語 a-ituku"
       },
       {
         "form": "ha",
@@ -548,7 +548,7 @@
           "en": "causative / verbalizer"
         },
         "ref": "Li & Tsuchida 2001, pp. 12, 15–16",
-        "note": "ma- 的非主事形式；也是使動（動態動詞）與動詞化前綴"
+        "note": "使動（動態動詞）與動詞化前綴"
       },
       {
         "form": "maa",
@@ -561,11 +561,11 @@
       {
         "form": "paa",
         "gloss": {
-          "zh-TW": "相互",
-          "en": "reciprocal"
+          "zh-TW": "相互（使役）",
+          "en": "reciprocal (causative)"
         },
         "ref": "Li & Tsuchida 2001, p. 12",
-        "note": "maa- 的非主事形式"
+        "note": "maa- 的使役形式"
       },
       {
         "form": "maaka",
@@ -578,11 +578,11 @@
       {
         "form": "paaka",
         "gloss": {
-          "zh-TW": "相互",
-          "en": "reciprocal"
+          "zh-TW": "相互（使役）",
+          "en": "reciprocal (causative)"
         },
         "ref": "Li & Tsuchida 2001, p. 12",
-        "note": "maaka- 的非主事形式"
+        "note": "maaka- 的使役形式"
       },
       {
         "form": "maaxi",
@@ -600,11 +600,11 @@
       {
         "form": "paka",
         "gloss": {
-          "zh-TW": "使動",
+          "zh-TW": "使役",
           "en": "causative"
         },
         "ref": "Li & Tsuchida 2001, pp. 13, 16",
-        "note": "maka- 的非主事形式；也是靜態動詞的使動前綴"
+        "note": "使役前綴"
       },
       {
         "form": "mana",
@@ -617,11 +617,11 @@
       {
         "form": "pana",
         "gloss": {
-          "zh-TW": "洗（身體部位）",
-          "en": "to wash"
+          "zh-TW": "洗（身體部位）（使役）",
+          "en": "to wash(causative)"
         },
         "ref": "Li & Tsuchida 2001, p. 13",
-        "note": "mana- 的非主事形式"
+        "note": "mana- 的使役形式"
       },
       {
         "form": "mari",
@@ -634,11 +634,11 @@
       {
         "form": "pari",
         "gloss": {
-          "zh-TW": "移動、生產",
-          "en": "to move, to give birth"
+          "zh-TW": "移動、生產（使役）",
+          "en": "to move, to give birth (causative)"
         },
         "ref": "Li & Tsuchida 2001, p. 13",
-        "note": "mari- 的非主事形式"
+        "note": "mari- 的使役形式"
       },
       {
         "form": "maru",
@@ -999,8 +999,8 @@
       {
         "form": "aw",
         "gloss": {
-          "zh-TW": "受事焦點・未來",
-          "en": "PF.FUT"
+          "zh-TW": "勸使語氣",
+          "en": "HORT"
         },
         "ref": "Li & Tsuchida 2001, pp. 10, 19",
         "note": "常與 ta- 同現（ta-kita-aw）"
@@ -1008,8 +1008,8 @@
       {
         "form": "ay",
         "gloss": {
-          "zh-TW": "處所焦點・非實現",
-          "en": "LF.IRR"
+          "zh-TW": "非實現貌",
+          "en": "IRR"
         },
         "ref": "Li & Tsuchida 2001, pp. 10, 19"
       },
@@ -1034,8 +1034,8 @@
       {
         "form": "i",
         "gloss": {
-          "zh-TW": "受事焦點・祈使；呼格",
-          "en": "PF.IMP; vocative"
+          "zh-TW": "祈使；呼格",
+          "en": "IMP; vocative"
         },
         "ref": "Li & Tsuchida 2001, pp. 10, 19–20"
       }
@@ -1048,7 +1048,7 @@
           "en": "progressive"
         },
         "ref": "Li & Tsuchida 2001, pp. 18–19",
-        "note": "在首輔音之後：p<a>i-suzuk、s<a>ungusung"
+        "note": "在詞幹首輔音之後，或可插入在其他前綴中間：p<a>i-suzuk、s<a>ungusung"
       },
       {
         "form": "in",
@@ -1095,7 +1095,7 @@
           "en": "progressive"
         },
         "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
-        "note": "dee~depex、kii~kita（噶哈巫語只有這一種部分重疊）"
+        "note": "dee~depex「正在學習」、kii~kita「正在看」"
       },
       {
         "pattern": "full",
@@ -1206,46 +1206,6 @@
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
         "note": "M-…-ay（M ＝ ma-）"
-      },
-      {
-        "prefix": "mau",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mau- ＝ m<a>u-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
-      },
-      {
-        "prefix": "mai",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mai- ＝ m<a>i-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
-      },
-      {
-        "prefix": "mae",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（mae- ＝ m<a>e-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
-      },
-      {
-        "prefix": "maa",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M<a>-…-ay：中綴 <a> 在主事焦點前綴之中（maa- ＝ m<a>a-；ma- 的 m<a>- 與 ma- 同形，併在上一組）"
       },
       {
         "infix": "in",

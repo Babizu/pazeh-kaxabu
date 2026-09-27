@@ -24,7 +24,7 @@
 │   ├── media/                  錄音
 │   └── scans/                  《巴宰語詞典》原書掃描頁（WebP）
 ├── content/                    「關於」頁（中文、英文）
-├── locales/                    介面字串覆寫（zh-TW、en）與族語介面（pzh）
+├── locales/                    介面字串覆寫（zh-TW、en；鍵是框架的中文原文）
 ├── public/icon.jpg             站徽
 ├── e2e/                        端對端測試（320px／手機／桌面、語系切換、子路徑部署）
 └── .github/workflows/deploy.yml  push 到 main 自動部署到 GitHub Pages
@@ -57,7 +57,7 @@ npx playwright test
 | 網站名稱、搜尋範例、方言名稱與顏色 | `babizu.config.js` |
 | 模糊搜尋的方言對應規則 | `language/pazeh-kaxabu.json`（權重與語意見框架的 docs/language-profile.md） |
 | 「關於」頁 | `content/about.zh-TW.md`、`content/about.en.md` |
-| 族語介面翻譯 | `locales/pzh.json`（格式同框架的 `locales/zh-TW.json`，只要寫已翻譯的鍵） |
+| 族語介面翻譯 | `locales/pzh.json`（格式同框架的 `locales/en.json`：中文原文 → 譯文，只要寫已翻譯的字串） |
 | 辭典資料 | **不要直接改 `data/`**：在 minubizu 改轉接器或原始資料，再 `npm run export` |
 | 框架版本 | `package.json` 的 `babizu` 依賴（`github:Babizu/babizu#vX.Y.Z`） |
 

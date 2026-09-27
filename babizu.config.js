@@ -95,6 +95,4 @@ export default defineSite({
       failures: [['aidi', 'di']],
     },
   },
-  // 構詞搜尋的兩種實作都開放給讀者切換（設定選單），方便比較速度；預設是較快的 BCDP
-  search: { morphology: { methods: ['bcdp', 'chart'], default: 'bcdp' } },
 })

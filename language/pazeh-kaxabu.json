@@ -453,8 +453,6 @@
     "cost": 0.2,
     "minStem": 3,
     "maxSteps": 3,
-    "unattestedPenalty": 0.2,
-    "conditionPenalty": 0.3,
     "morphemes": [
       {
         "id": "AF",
@@ -463,30 +461,14 @@
           "zh-TW": "主事焦點",
           "en": "AF"
         },
+        "forms": [
+          "m",
+          "mu",
+          "mi",
+          "me"
+        ],
         "ref": "Lim & Zeitoun 2024, §51.2.4, p. 9；Li & Tsuchida 2001, pp. 11, 14–15",
-        "note": "同一個詞素的四個同位詞素。LZ 描述巴宰語的分布：元音開頭的詞根用 m-；其餘依詞根第一個元音，u、a 用 mu-，i 用 mi-，e 用 me-。潘德興詞彙表（噶哈巫語）有大量反例（mu-aping、mu-axay、mu-sinaw、mi-tuku 與 mu-tuku 並存），設成條件會讓拆解變差，所以暫不設條件（2026-09-27 維護者決定，檢查點 G1）",
-        "allomorphs": [
-          {
-            "form": "m",
-            "ref": "Li & Tsuchida 2001, p. 11",
-            "note": "巴宰語：接元音開頭的詞根"
-          },
-          {
-            "form": "mu",
-            "ref": "Li & Tsuchida 2001, p. 15",
-            "note": "巴宰語：詞根第一個元音是 u 或 a"
-          },
-          {
-            "form": "mi",
-            "ref": "Li & Tsuchida 2001, pp. 14–15",
-            "note": "巴宰語：詞根第一個元音是 i"
-          },
-          {
-            "form": "me",
-            "ref": "Li & Tsuchida 2001, p. 14",
-            "note": "巴宰語：詞根第一個元音是 e"
-          }
-        ]
+        "note": "同一個詞素的四個同位詞素。LZ 描述巴宰語的分布：元音開頭的詞根用 m-；其餘依詞根第一個元音，u、a 用 mu-，i 用 mi-，e 用 me-。潘德興詞彙表（噶哈巫語）有大量反例（mu-aping、mu-axay、mu-sinaw、mi-tuku 與 mu-tuku 並存）。搜尋時用了哪一個同位詞素由查詢本身決定，不依分布篩選（2026-09-28 構詞文法改版：不再有同位詞素條件，babizu docs/morph-grammar.md）。"
       },
       {
         "id": "pre.a",
@@ -938,17 +920,12 @@
           "zh-TW": "工具焦點",
           "en": "IF"
         },
+        "forms": [
+          "sa",
+          "saa"
+        ],
         "ref": "Li & Tsuchida 2001, p. 16",
-        "note": "sa- ~ saa- 長短元音的差異與音高有關",
-        "allomorphs": [
-          {
-            "form": "sa"
-          },
-          {
-            "form": "saa",
-            "ref": "Li & Tsuchida 2001, p. 16"
-          }
-        ]
+        "note": "sa- ~ saa- 長短元音的差異與音高有關"
       },
       {
         "id": "pre.si",
@@ -1089,18 +1066,12 @@
           "zh-TW": "受事焦點",
           "en": "PF"
         },
+        "forms": [
+          "en",
+          "un"
+        ],
         "ref": "Li & Tsuchida 2001, pp. 10, 19",
-        "note": "-en ~ -un：詞根最後一個元音是 u 時用 -un（bitud-un）",
-        "allomorphs": [
-          {
-            "form": "en"
-          },
-          {
-            "form": "un",
-            "when": "uC*$",
-            "ref": "Li & Tsuchida 2001, pp. 10, 19"
-          }
-        ]
+        "note": "-en ~ -un：詞根最後一個元音是 u 時用 -un（bitud-un）"
       },
       {
         "id": "IMP",

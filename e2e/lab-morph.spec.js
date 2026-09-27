@@ -17,7 +17,8 @@ test('預設例子：minubaket 的詞根 baket，四個面板與分析', async (
   await expect(page.getByRole('tab', { name: '構詞 BCDP' })).toHaveAttribute('data-state', 'active')
   await expect(page.getByLabel('查詢（衍生詞）')).toHaveValue('minubaket')
   const analysis = page.getByRole('region', { name: '④ 分析' })
-  await expect(analysis.getByText('minu-', { exact: true })).toBeVisible()
+  // 構詞文法：minu- 是組合規則 AF.PFV（主事焦點 mu- 加上完成貌 <in>），寫成 m<in>u-
+  await expect(analysis.getByText('m<in>u-', { exact: true })).toBeVisible()
   await expect(analysis.getByText('baket', { exact: true })).toBeVisible()
   const levels = page.getByRole('region', { name: '① 詞綴各層與交界狀態' })
   await expect(levels.getByRole('rowheader', { name: '前綴合併（詞幹起點）' })).toBeVisible()

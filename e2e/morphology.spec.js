@@ -99,12 +99,12 @@ test('查 parazem：詞根 razem 以自動拆解列出（不被較差的模糊�
   await expect(family.getByRole('link', { name: 'parazem', exact: true })).toBeVisible()
 })
 
-test('去詞綴支援音變：minudox 找到 daux-，說明前綴 minu- 與詞幹 dox → daux', async ({ page }, info) => {
+test('去詞綴支援音變：minudox 找到 daux-，說明 m<in>u-（主事焦點・完成）與詞幹 dox → daux', async ({ page }, info) => {
   await page.goto('./#/?q=minudox')
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'daux-', exact: true }) }).first()
   await expect(row).toBeVisible()
-  const button = row.getByRole('button', { name: /自動拆解：minu- \+ daux/ })
+  const button = row.getByRole('button', { name: /自動拆解：m<in>u- \+ daux/ })
   await button.click()
   const dialog = page.getByRole('dialog')
   // 音變以整個詞一起比對，每一項標出落在哪個詞素
@@ -124,4 +124,24 @@ test('詞綴本身的音變：modaux 的 mo- 對應 mu-', async ({ page }) => {
   const dialog = page.getByRole('dialog')
   await expect(dialog.getByText('o→u')).toBeVisible()
   await expect(dialog.getByText(/· 前綴$/)).toBeVisible()
+})
+
+test('構詞文法：maudanay 拆成 m- <a> … -ay（主事焦點・非實現），說明列出每個詞素', async ({ page }) => {
+  await page.goto('./#/?q=maudanay')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const button = page.getByRole('button', { name: /自動拆解：m<a>- \+ udan \+ -ay/ }).first()
+  await button.click()
+  const dialog = page.getByRole('dialog')
+  await expect(dialog.getByText('m<a>-…-ay', { exact: true })).toBeVisible()
+  await expect(dialog.getByText(/組合規則 · 主事焦點・非實現/)).toBeVisible()
+  await expect(dialog.getByText(/中綴 · 非完成貌/)).toBeVisible()
+})
+
+test('構詞文法：minubaket 是 m<in>u-（mu- 之後插入 <in>），mubinaket 是 mu- ＋ <in>（詞根上的中綴）', async ({ page }) => {
+  await page.goto('./#/?q=minubaket')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  await expect(page.getByRole('button', { name: /自動拆解：m<in>u- \+ baket/ }).first()).toBeVisible()
+  await page.goto('./#/?q=mubinaket')
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  await expect(page.getByRole('button', { name: /自動拆解：mu- \+ baket \+ <in>/ }).first()).toBeVisible()
 })

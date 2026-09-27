@@ -453,8 +453,44 @@
     "cost": 0.2,
     "minStem": 3,
     "maxSteps": 3,
-    "prefixes": [
+    "unattestedPenalty": 0.2,
+    "conditionPenalty": 0.3,
+    "morphemes": [
       {
+        "id": "AF",
+        "type": "prefix",
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.2.4, p. 9；Li & Tsuchida 2001, pp. 11, 14–15",
+        "note": "同一個詞素的四個同位詞素。LZ 描述巴宰語的分布：元音開頭的詞根用 m-；其餘依詞根第一個元音，u、a 用 mu-，i 用 mi-，e 用 me-。潘德興詞彙表（噶哈巫語）有大量反例（mu-aping、mu-axay、mu-sinaw、mi-tuku 與 mu-tuku 並存），設成條件會讓拆解變差，所以暫不設條件（2026-09-27 維護者決定，檢查點 G1）",
+        "allomorphs": [
+          {
+            "form": "m",
+            "ref": "Li & Tsuchida 2001, p. 11",
+            "note": "巴宰語：接元音開頭的詞根"
+          },
+          {
+            "form": "mu",
+            "ref": "Li & Tsuchida 2001, p. 15",
+            "note": "巴宰語：詞根第一個元音是 u 或 a"
+          },
+          {
+            "form": "mi",
+            "ref": "Li & Tsuchida 2001, pp. 14–15",
+            "note": "巴宰語：詞根第一個元音是 i"
+          },
+          {
+            "form": "me",
+            "ref": "Li & Tsuchida 2001, p. 14",
+            "note": "巴宰語：詞根第一個元音是 e"
+          }
+        ]
+      },
+      {
+        "id": "pre.a",
+        "type": "prefix",
         "form": "a",
         "gloss": {
           "zh-TW": "動詞名物化",
@@ -464,6 +500,8 @@
         "note": "也見於 a- ＋ 重疊 ＋ 詞根的名詞化；噶哈巫語 a-ituku"
       },
       {
+        "id": "pre.ha",
+        "type": "prefix",
         "form": "ha",
         "gloss": {
           "zh-TW": "靜態",
@@ -473,6 +511,8 @@
         "note": "ha- ~ ma- 依詞彙而定"
       },
       {
+        "id": "KA",
+        "type": "prefix",
         "form": "ka",
         "gloss": {
           "zh-TW": "起始",
@@ -481,6 +521,8 @@
         "ref": "Li & Tsuchida 2001, pp. 10–11"
       },
       {
+        "id": "pre.kaa",
+        "type": "prefix",
         "form": "kaa",
         "gloss": {
           "zh-TW": "名詞化",
@@ -489,6 +531,8 @@
         "ref": "Li & Tsuchida 2001, p. 11"
       },
       {
+        "id": "pre.kai",
+        "type": "prefix",
         "form": "kai",
         "gloss": {
           "zh-TW": "停留於",
@@ -497,6 +541,8 @@
         "ref": "Li & Tsuchida 2001, p. 11"
       },
       {
+        "id": "pre.kali",
+        "type": "prefix",
         "form": "kali",
         "gloss": {
           "zh-TW": "易於、不由自主",
@@ -506,34 +552,35 @@
         "note": "常與 -an 同現（kali-hatan-an）"
       },
       {
+        "id": "pre.kaxa",
+        "type": "prefix",
         "form": "kaxa",
         "ref": "Li & Tsuchida 2001, p. 11",
         "note": "僅兩例"
       },
       {
+        "id": "pre.kaaxa",
+        "type": "prefix",
         "form": "kaaxa",
         "ref": "Li & Tsuchida 2001, p. 11",
         "note": "kaaxa-demel，對照 kaxa-demel"
       },
       {
+        "id": "pre.kaxi",
+        "type": "prefix",
         "form": "kaxi",
         "ref": "Li & Tsuchida 2001, p. 11",
         "note": "僅一例"
       },
       {
+        "id": "pre.ku",
+        "type": "prefix",
         "form": "ku",
         "ref": "Li & Tsuchida 2001, p. 11"
       },
       {
-        "form": "m",
-        "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        },
-        "ref": "Li & Tsuchida 2001, p. 11",
-        "note": "接元音開頭的詞根（LZ §51.2.4 p. 9）"
-      },
-      {
+        "id": "STAT",
+        "type": "prefix",
         "form": "ma",
         "gloss": {
           "zh-TW": "主事焦點／靜態",
@@ -542,6 +589,8 @@
         "ref": "Li & Tsuchida 2001, pp. 11–12"
       },
       {
+        "id": "CAUS",
+        "type": "prefix",
         "form": "pa",
         "gloss": {
           "zh-TW": "使動／動詞化",
@@ -551,6 +600,8 @@
         "note": "使動（動態動詞）與動詞化前綴"
       },
       {
+        "id": "pre.maa",
+        "type": "prefix",
         "form": "maa",
         "gloss": {
           "zh-TW": "相互",
@@ -559,6 +610,8 @@
         "ref": "Li & Tsuchida 2001, p. 12"
       },
       {
+        "id": "pre.paa",
+        "type": "prefix",
         "form": "paa",
         "gloss": {
           "zh-TW": "相互（使役）",
@@ -568,6 +621,8 @@
         "note": "maa- 的使役形式"
       },
       {
+        "id": "pre.maaka",
+        "type": "prefix",
         "form": "maaka",
         "gloss": {
           "zh-TW": "相互",
@@ -576,6 +631,8 @@
         "ref": "Li & Tsuchida 2001, p. 12"
       },
       {
+        "id": "pre.paaka",
+        "type": "prefix",
         "form": "paaka",
         "gloss": {
           "zh-TW": "相互（使役）",
@@ -585,11 +642,15 @@
         "note": "maaka- 的使役形式"
       },
       {
+        "id": "pre.maaxi",
+        "type": "prefix",
         "form": "maaxi",
         "ref": "Li & Tsuchida 2001, p. 13",
         "note": "僅一例"
       },
       {
+        "id": "pre.maka",
+        "type": "prefix",
         "form": "maka",
         "gloss": {
           "zh-TW": "生出、結出",
@@ -598,6 +659,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.paka",
+        "type": "prefix",
         "form": "paka",
         "gloss": {
           "zh-TW": "使役",
@@ -607,6 +670,8 @@
         "note": "使役前綴"
       },
       {
+        "id": "pre.mana",
+        "type": "prefix",
         "form": "mana",
         "gloss": {
           "zh-TW": "洗（身體部位）",
@@ -615,6 +680,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.pana",
+        "type": "prefix",
         "form": "pana",
         "gloss": {
           "zh-TW": "洗（身體部位）（使役）",
@@ -624,6 +691,8 @@
         "note": "mana- 的使役形式"
       },
       {
+        "id": "pre.mari",
+        "type": "prefix",
         "form": "mari",
         "gloss": {
           "zh-TW": "移動、生產",
@@ -632,6 +701,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.pari",
+        "type": "prefix",
         "form": "pari",
         "gloss": {
           "zh-TW": "移動、生產（使役）",
@@ -641,6 +712,8 @@
         "note": "mari- 的使役形式"
       },
       {
+        "id": "pre.maru",
+        "type": "prefix",
         "form": "maru",
         "gloss": {
           "zh-TW": "生產",
@@ -649,6 +722,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.paru",
+        "type": "prefix",
         "form": "paru",
         "gloss": {
           "zh-TW": "生產",
@@ -658,6 +733,8 @@
         "note": "maru- 的非主事形式"
       },
       {
+        "id": "pre.masa",
+        "type": "prefix",
         "form": "masa",
         "gloss": {
           "zh-TW": "動詞前綴",
@@ -666,6 +743,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.masi",
+        "type": "prefix",
         "form": "masi",
         "gloss": {
           "zh-TW": "移動、穿戴",
@@ -674,6 +753,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.pasi",
+        "type": "prefix",
         "form": "pasi",
         "gloss": {
           "zh-TW": "移動、穿戴",
@@ -683,6 +764,8 @@
         "note": "masi- 的非主事形式"
       },
       {
+        "id": "pre.mata",
+        "type": "prefix",
         "form": "mata",
         "gloss": {
           "zh-TW": "次數",
@@ -692,6 +775,8 @@
         "note": "接數詞"
       },
       {
+        "id": "pre.mati",
+        "type": "prefix",
         "form": "mati",
         "gloss": {
           "zh-TW": "攜帶、穿戴、捕捉",
@@ -700,6 +785,8 @@
         "ref": "Li & Tsuchida 2001, p. 13"
       },
       {
+        "id": "pre.pati",
+        "type": "prefix",
         "form": "pati",
         "gloss": {
           "zh-TW": "攜帶、穿戴、捕捉",
@@ -709,6 +796,8 @@
         "note": "mati- 的非主事形式"
       },
       {
+        "id": "pre.matu",
+        "type": "prefix",
         "form": "matu",
         "gloss": {
           "zh-TW": "建造、設置",
@@ -717,6 +806,8 @@
         "ref": "Li & Tsuchida 2001, pp. 13–14"
       },
       {
+        "id": "pre.patu",
+        "type": "prefix",
         "form": "patu",
         "gloss": {
           "zh-TW": "建造、設置",
@@ -726,6 +817,8 @@
         "note": "matu- 的非主事形式"
       },
       {
+        "id": "pre.maxa",
+        "type": "prefix",
         "form": "maxa",
         "gloss": {
           "zh-TW": "產生；成為",
@@ -734,6 +827,8 @@
         "ref": "Li & Tsuchida 2001, p. 14"
       },
       {
+        "id": "pre.paxa",
+        "type": "prefix",
         "form": "paxa",
         "gloss": {
           "zh-TW": "產生；成為",
@@ -743,6 +838,8 @@
         "note": "maxa- 的非主事形式"
       },
       {
+        "id": "pre.maxi",
+        "type": "prefix",
         "form": "maxi",
         "gloss": {
           "zh-TW": "具有；注視",
@@ -751,6 +848,8 @@
         "ref": "Li & Tsuchida 2001, p. 14"
       },
       {
+        "id": "pre.paxi",
+        "type": "prefix",
         "form": "paxi",
         "gloss": {
           "zh-TW": "具有；注視",
@@ -760,33 +859,21 @@
         "note": "maxi- 的非主事形式"
       },
       {
+        "id": "pre.maxu",
+        "type": "prefix",
         "form": "maxu",
         "ref": "Li & Tsuchida 2001, p. 14"
       },
       {
+        "id": "pre.paxu",
+        "type": "prefix",
         "form": "paxu",
         "ref": "Li & Tsuchida 2001, p. 14",
         "note": "maxu- 的非主事形式"
       },
       {
-        "form": "me",
-        "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        },
-        "ref": "Li & Tsuchida 2001, p. 14",
-        "note": "詞根第一個元音是 e 時（LZ §51.2.4 p. 9）"
-      },
-      {
-        "form": "mi",
-        "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        },
-        "ref": "Li & Tsuchida 2001, pp. 14–15",
-        "note": "詞根第一個元音是 i 時（LZ §51.2.4 p. 9）"
-      },
-      {
+        "id": "pre.pi",
+        "type": "prefix",
         "form": "pi",
         "gloss": {
           "zh-TW": "排出、釋放",
@@ -796,11 +883,15 @@
         "note": "mi- 的非主事形式"
       },
       {
+        "id": "pre.i",
+        "type": "prefix",
         "form": "i",
         "ref": "Li & Tsuchida 2001, p. 15",
         "note": "mi- 的另一個非主事形式（mi- (i-)）；也見於 i-dek-e-dek"
       },
       {
+        "id": "pre.mia",
+        "type": "prefix",
         "form": "mia",
         "gloss": {
           "zh-TW": "往…；序數",
@@ -809,6 +900,8 @@
         "ref": "Li & Tsuchida 2001, p. 15"
       },
       {
+        "id": "pre.pia",
+        "type": "prefix",
         "form": "pia",
         "gloss": {
           "zh-TW": "往…",
@@ -818,15 +911,8 @@
         "note": "mia- 的非主事形式"
       },
       {
-        "form": "mu",
-        "gloss": {
-          "zh-TW": "主事焦點",
-          "en": "AF"
-        },
-        "ref": "Li & Tsuchida 2001, p. 15",
-        "note": "詞根第一個元音是 u 或 a 時（LZ §51.2.4 p. 9）"
-      },
-      {
+        "id": "pre.pu",
+        "type": "prefix",
         "form": "pu",
         "gloss": {
           "zh-TW": "鋪設",
@@ -836,6 +922,8 @@
         "note": "mu- 的非主事形式；也是「鋪設」前綴"
       },
       {
+        "id": "pre.papa",
+        "type": "prefix",
         "form": "papa",
         "gloss": {
           "zh-TW": "騎",
@@ -844,23 +932,27 @@
         "ref": "Li & Tsuchida 2001, p. 16"
       },
       {
-        "form": "sa",
+        "id": "IF",
+        "type": "prefix",
         "gloss": {
           "zh-TW": "工具焦點",
           "en": "IF"
         },
         "ref": "Li & Tsuchida 2001, p. 16",
-        "note": "sa- ~ saa- 長短元音的差異與音高有關"
+        "note": "sa- ~ saa- 長短元音的差異與音高有關",
+        "allomorphs": [
+          {
+            "form": "sa"
+          },
+          {
+            "form": "saa",
+            "ref": "Li & Tsuchida 2001, p. 16"
+          }
+        ]
       },
       {
-        "form": "saa",
-        "gloss": {
-          "zh-TW": "工具焦點",
-          "en": "IF"
-        },
-        "ref": "Li & Tsuchida 2001, p. 16"
-      },
-      {
+        "id": "pre.si",
+        "type": "prefix",
         "form": "si",
         "gloss": {
           "zh-TW": "工具焦點；具有；前往",
@@ -869,6 +961,8 @@
         "ref": "Li & Tsuchida 2001, pp. 16–17"
       },
       {
+        "id": "AGT",
+        "type": "prefix",
         "form": "ta",
         "gloss": {
           "zh-TW": "施事者；名詞化",
@@ -877,6 +971,8 @@
         "ref": "Li & Tsuchida 2001, p. 17"
       },
       {
+        "id": "pre.tau",
+        "type": "prefix",
         "form": "tau",
         "gloss": {
           "zh-TW": "施事者；聚集處",
@@ -885,6 +981,8 @@
         "ref": "Li & Tsuchida 2001, p. 17"
       },
       {
+        "id": "pre.taxa",
+        "type": "prefix",
         "form": "taxa",
         "gloss": {
           "zh-TW": "想要…；姿勢",
@@ -893,6 +991,8 @@
         "ref": "Li & Tsuchida 2001, pp. 17–18"
       },
       {
+        "id": "pre.taxi",
+        "type": "prefix",
         "form": "taxi",
         "gloss": {
           "zh-TW": "放低身體",
@@ -901,6 +1001,8 @@
         "ref": "Li & Tsuchida 2001, p. 18"
       },
       {
+        "id": "pre.taxu",
+        "type": "prefix",
         "form": "taxu",
         "gloss": {
           "zh-TW": "四處移動",
@@ -909,6 +1011,8 @@
         "ref": "Li & Tsuchida 2001, p. 18"
       },
       {
+        "id": "pre.ti",
+        "type": "prefix",
         "form": "ti",
         "gloss": {
           "zh-TW": "遭受不適",
@@ -917,6 +1021,8 @@
         "ref": "Li & Tsuchida 2001, p. 18"
       },
       {
+        "id": "pre.tu",
+        "type": "prefix",
         "form": "tu",
         "gloss": {
           "zh-TW": "靜態",
@@ -925,6 +1031,8 @@
         "ref": "Li & Tsuchida 2001, p. 18"
       },
       {
+        "id": "pre.xi",
+        "type": "prefix",
         "form": "xi",
         "gloss": {
           "zh-TW": "反轉",
@@ -933,53 +1041,8 @@
         "ref": "Li & Tsuchida 2001, p. 18"
       },
       {
-        "form": "minu",
-        "gloss": {
-          "zh-TW": "主事焦點・完成",
-          "en": "AF.PFV"
-        },
-        "ref": "Li & Tsuchida 2001, pp. 19, 22",
-        "note": "m<in>u-：中綴 <in> 在前綴 mu- 之中"
-      },
-      {
-        "form": "mina",
-        "gloss": {
-          "zh-TW": "主事焦點・完成",
-          "en": "AF.PFV"
-        },
-        "ref": "Li & Tsuchida 2001, p. 22",
-        "note": "m<in>a-：中綴 <in> 在前綴 ma- 之中"
-      },
-      {
-        "form": "mine",
-        "gloss": {
-          "zh-TW": "主事焦點・完成",
-          "en": "AF.PFV"
-        },
-        "ref": "Li & Tsuchida 2001, p. 19",
-        "note": "m<in>e-：中綴 <in> 在前綴 me- 之中（LZ §51.3.2.1 p. 12 mine-ken）"
-      },
-      {
-        "form": "kina",
-        "gloss": {
-          "zh-TW": "完成",
-          "en": "PFV"
-        },
-        "ref": "Li & Tsuchida 2001, p. 19",
-        "note": "k<in>a-：中綴 <in> 在前綴 ka- 之中，類推 m<in>u-（資料：kinataparax）"
-      },
-      {
-        "form": "pina",
-        "gloss": {
-          "zh-TW": "完成",
-          "en": "PFV"
-        },
-        "ref": "Li & Tsuchida 2001, p. 19",
-        "note": "p<in>a-：中綴 <in> 在前綴 pa- 之中，類推 m<in>u-"
-      }
-    ],
-    "suffixes": [
-      {
+        "id": "LF",
+        "type": "suffix",
         "form": "an",
         "gloss": {
           "zh-TW": "處所焦點；處所",
@@ -988,6 +1051,8 @@
         "ref": "Li & Tsuchida 2001, pp. 10, 19"
       },
       {
+        "id": "LF.nan",
+        "type": "suffix",
         "form": "nan",
         "gloss": {
           "zh-TW": "處所（代名詞、人名）",
@@ -997,6 +1062,8 @@
         "note": "-an ~ -nan：yaku-nan"
       },
       {
+        "id": "HORT.aw",
+        "type": "suffix",
         "form": "aw",
         "gloss": {
           "zh-TW": "勸使語氣",
@@ -1006,6 +1073,8 @@
         "note": "常與 ta- 同現（ta-kita-aw）"
       },
       {
+        "id": "IRR",
+        "type": "suffix",
         "form": "ay",
         "gloss": {
           "zh-TW": "非實現貌",
@@ -1014,54 +1083,60 @@
         "ref": "Li & Tsuchida 2001, pp. 10, 19"
       },
       {
-        "form": "en",
+        "id": "PF",
+        "type": "suffix",
         "gloss": {
           "zh-TW": "受事焦點",
           "en": "PF"
         },
         "ref": "Li & Tsuchida 2001, pp. 10, 19",
-        "note": "-en ~ -un 依前面的元音而定"
+        "note": "-en ~ -un：詞根最後一個元音是 u 時用 -un（bitud-un）",
+        "allomorphs": [
+          {
+            "form": "en"
+          },
+          {
+            "form": "un",
+            "when": "uC*$",
+            "ref": "Li & Tsuchida 2001, pp. 10, 19"
+          }
+        ]
       },
       {
-        "form": "un",
-        "gloss": {
-          "zh-TW": "受事焦點",
-          "en": "PF"
-        },
-        "ref": "Li & Tsuchida 2001, pp. 10, 19",
-        "note": "-en ~ -un 依前面的元音而定（bitud-un）"
-      },
-      {
+        "id": "IMP",
+        "type": "suffix",
         "form": "i",
         "gloss": {
           "zh-TW": "祈使；呼格",
           "en": "IMP; vocative"
         },
         "ref": "Li & Tsuchida 2001, pp. 10, 19–20"
-      }
-    ],
-    "infixes": [
+      },
       {
+        "id": "PROG",
+        "type": "infix",
         "form": "a",
         "gloss": {
-          "zh-TW": "進行、持續",
-          "en": "progressive"
+          "zh-TW": "非完成貌",
+          "en": "PROG"
         },
         "ref": "Li & Tsuchida 2001, pp. 18–19",
         "note": "在詞幹首輔音之後，或可插入在其他前綴中間：p<a>i-suzuk、s<a>ungusung"
       },
       {
+        "id": "PRF",
+        "type": "infix",
         "form": "in",
         "gloss": {
-          "zh-TW": "完成",
-          "en": "perfective"
+          "zh-TW": "完成貌",
+          "en": "PFV"
         },
         "ref": "Li & Tsuchida 2001, p. 19",
         "note": "在首輔音之後：k<in>awas"
-      }
-    ],
-    "reduplication": [
+      },
       {
+        "id": "RED.CVCV",
+        "type": "reduplication",
         "pattern": "CVCV",
         "gloss": {
           "zh-TW": "持續；強調；相互",
@@ -1071,6 +1146,8 @@
         "note": "巴宰語的完整重疊：兩音節、去韻尾（kipu~kipud-i、maa-tebe~teber、luba~lubahing）"
       },
       {
+        "id": "RED.CVCVC",
+        "type": "reduplication",
         "pattern": "CVCVC",
         "gloss": {
           "zh-TW": "持續；強調；相互",
@@ -1080,6 +1157,8 @@
         "note": "噶哈巫語的完整重疊保留韻尾（maa-kudung~kudung）；巴宰語少見"
       },
       {
+        "id": "RED.CV",
+        "type": "reduplication",
         "pattern": "CV",
         "gloss": {
           "zh-TW": "進行",
@@ -1089,6 +1168,8 @@
         "note": "ki~kiliw；序數 du~dusa"
       },
       {
+        "id": "RED.CVV",
+        "type": "reduplication",
         "pattern": "CVV",
         "gloss": {
           "zh-TW": "進行",
@@ -1098,6 +1179,8 @@
         "note": "dee~depex「正在學習」、kii~kita「正在看」"
       },
       {
+        "id": "RED.full",
+        "type": "reduplication",
         "pattern": "full",
         "gloss": {
           "zh-TW": "複數；持續",
@@ -1107,6 +1190,8 @@
         "note": "單音節詞根的完整重疊（saw~saw「人們」）；較長的詞根由 CVCV／CVCVC 涵蓋"
       },
       {
+        "id": "RED.Ca",
+        "type": "reduplication",
         "pattern": "Ca",
         "gloss": {
           "zh-TW": "工具、處所名詞；非實現",
@@ -1114,102 +1199,144 @@
         },
         "ref": "Li & Tsuchida 2001, pp. 20, 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
         "note": "da~dius、la~luzuk、da~daux-ay；元音開頭的詞根只重疊 a（a~alep）"
-      }
-    ],
-    "circumfixes": [
+      },
       {
-        "prefix": "ta",
-        "suffix": "i",
+        "id": "HORT",
+        "type": "prefix",
+        "form": "ta",
+        "free": false,
         "gloss": {
           "zh-TW": "勸說",
           "en": "HORT"
         },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25",
-        "note": "主事與受事焦點的勸說式（ta-kan-i）"
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
+        "note": "只在 ta-…-i、ta-…-aw 中出現（施事者、名詞化的 ta- 是另一個詞素）"
       },
       {
-        "prefix": "ta",
-        "suffix": "aw",
-        "gloss": {
-          "zh-TW": "勸說・受事焦點",
-          "en": "HORT.UVP"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25；Li & Tsuchida 2001, p. 19",
-        "note": "ta-kita-aw、ta-daux-aw"
-      },
-      {
-        "prefix": "ka",
-        "suffix": "an",
+        "id": "KA.UV",
+        "type": "prefix",
+        "form": "ka",
+        "free": false,
         "gloss": {
           "zh-TW": "靜態・受事焦點",
           "en": "STAT.UV"
         },
         "ref": "Lim & Zeitoun 2024, p. 15",
-        "note": "ka- 是靜態動詞 ma- 的受事焦點形式（Blust 視為環綴）"
-      },
+        "note": "ka- 是靜態動詞 ma- 的受事焦點形式（Blust 視為環綴），只在 ka-…-an、ka-…-en 中出現"
+      }
+    ],
+    "constructions": [
       {
-        "prefix": "ka",
-        "suffix": "en",
+        "id": "AF.PFV",
+        "sequence": [
+          "AF",
+          "PRF"
+        ],
         "gloss": {
-          "zh-TW": "靜態・受事焦點",
-          "en": "STAT.UV"
+          "zh-TW": "主事焦點・完成",
+          "en": "AV.PFV"
         },
-        "ref": "Lim & Zeitoun 2024, p. 15",
-        "note": "同 ka-…-an"
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, pp. 19, 22",
+        "note": "M<in>：m<in>u-、m<in>e-、m<in>i-，元音開頭的詞根 m<in>-（原本寫成前綴 minu-、mine-）"
       },
       {
-        "prefix": "m",
-        "suffix": "ay",
+        "id": "STAT.PFV",
+        "sequence": [
+          "STAT",
+          "PRF"
+        ],
+        "gloss": {
+          "zh-TW": "主事焦點・完成",
+          "en": "AV.PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22",
+        "note": "m<in>a-（原本寫成前綴 mina-）"
+      },
+      {
+        "id": "KA.PFV",
+        "sequence": [
+          "KA",
+          "PRF"
+        ],
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "k<in>a-（原本寫成前綴 kina-；資料：kinataparax）"
+      },
+      {
+        "id": "CAUS.PFV",
+        "sequence": [
+          "CAUS",
+          "PRF"
+        ],
+        "gloss": {
+          "zh-TW": "完成",
+          "en": "PFV"
+        },
+        "ref": "Li & Tsuchida 2001, p. 19",
+        "note": "p<in>a-（原本寫成前綴 pina-）"
+      },
+      {
+        "id": "AF.PROG",
+        "sequence": [
+          "AF",
+          "PROG"
+        ],
+        "gloss": {
+          "zh-TW": "主事焦點・非完成貌",
+          "en": "AV.PROG"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
+        "note": "M<a>"
+      },
+      {
+        "id": "AF.IRR",
+        "sequence": [
+          "AF",
+          "PROG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
+        "note": "M-a-…-ay：m<a>-usa-ay（mausay）、m<a>-udan-ay（maudanay）；潘德興詞彙表 m<a>us(a)-ay"
+      },
+      {
+        "id": "AF.IRR2",
+        "sequence": [
+          "AF",
+          "IRR"
+        ],
         "gloss": {
           "zh-TW": "主事焦點・非實現",
           "en": "AV.IRR"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（M ＝ m-）"
+        "note": "M-…-ay（原本的 m-、mu-、mi-、me-…-ay）"
       },
       {
-        "prefix": "mu",
-        "suffix": "ay",
+        "id": "STAT.IRR",
+        "sequence": [
+          "STAT",
+          "IRR"
+        ],
         "gloss": {
           "zh-TW": "主事焦點・非實現",
           "en": "AV.IRR"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（M ＝ mu-）"
+        "note": "ma-…-ay（原本的環綴，維護者決定保留，檢查點 G1）"
       },
       {
-        "prefix": "mi",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（M ＝ mi-）"
-      },
-      {
-        "prefix": "me",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（M ＝ me-）"
-      },
-      {
-        "prefix": "ma",
-        "suffix": "ay",
-        "gloss": {
-          "zh-TW": "主事焦點・非實現",
-          "en": "AV.IRR"
-        },
-        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（M ＝ ma-）"
-      },
-      {
-        "infix": "in",
-        "suffix": "an",
+        "id": "UVL.PFV",
+        "sequence": [
+          "PRF",
+          "LF"
+        ],
         "gloss": {
           "zh-TW": "處所焦點・完成",
           "en": "UVL.PFV"
@@ -1217,8 +1344,11 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "reduplication": "CV",
-        "suffix": "en",
+        "id": "UVP.PROG",
+        "sequence": [
+          "RED.CV",
+          "PF"
+        ],
         "gloss": {
           "zh-TW": "受事焦點・進行",
           "en": "UVP.PROG"
@@ -1226,8 +1356,11 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "reduplication": "CV",
-        "suffix": "an",
+        "id": "UVL.PROG",
+        "sequence": [
+          "RED.CV",
+          "LF"
+        ],
         "gloss": {
           "zh-TW": "處所焦點・進行",
           "en": "UVL.PROG"
@@ -1235,8 +1368,11 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "reduplication": "CV",
-        "suffix": "ay",
+        "id": "AV.IRR.RED",
+        "sequence": [
+          "RED.CV",
+          "IRR"
+        ],
         "gloss": {
           "zh-TW": "主事焦點・非實現",
           "en": "AV.IRR"
@@ -1245,8 +1381,11 @@
         "note": "RED~…-ay（前面可以再加主事焦點前綴）"
       },
       {
-        "reduplication": "Ca",
-        "suffix": "en",
+        "id": "UVP.IRR",
+        "sequence": [
+          "RED.Ca",
+          "PF"
+        ],
         "gloss": {
           "zh-TW": "受事焦點・非實現",
           "en": "UVP.IRR"
@@ -1254,14 +1393,69 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "reduplication": "Ca",
-        "suffix": "ay",
+        "id": "UVL.IRR",
+        "sequence": [
+          "RED.Ca",
+          "IRR"
+        ],
         "gloss": {
           "zh-TW": "處所焦點・非實現；祈願",
           "en": "UVL.IRR; OPT"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25",
         "note": "da~daux-ay"
+      },
+      {
+        "id": "HORT.IMP",
+        "sequence": [
+          "HORT",
+          "IMP"
+        ],
+        "gloss": {
+          "zh-TW": "勸說",
+          "en": "HORT"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25",
+        "note": "主事與受事焦點的勸說式（ta-kan-i）"
+      },
+      {
+        "id": "HORT.UVP",
+        "sequence": [
+          "HORT",
+          "HORT.aw"
+        ],
+        "gloss": {
+          "zh-TW": "勸說・受事焦點",
+          "en": "HORT.UVP"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Lim & Zeitoun 2024, p. 25；Li & Tsuchida 2001, p. 19",
+        "note": "ta-kita-aw、ta-daux-aw"
+      },
+      {
+        "id": "STAT.UVL",
+        "sequence": [
+          "KA.UV",
+          "LF"
+        ],
+        "gloss": {
+          "zh-TW": "靜態・受事焦點",
+          "en": "STAT.UV"
+        },
+        "ref": "Lim & Zeitoun 2024, p. 15",
+        "note": "ka- 是靜態動詞 ma- 的受事焦點形式（Blust 視為環綴）"
+      },
+      {
+        "id": "STAT.UVP",
+        "sequence": [
+          "KA.UV",
+          "PF"
+        ],
+        "gloss": {
+          "zh-TW": "靜態・受事焦點",
+          "en": "STAT.UV"
+        },
+        "ref": "Lim & Zeitoun 2024, p. 15",
+        "note": "同 ka-…-an"
       }
     ],
     "alternations": [

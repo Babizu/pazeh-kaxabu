@@ -1046,8 +1046,9 @@
           "zh-TW": "勸使語氣",
           "en": "HORT"
         },
+        "free": false,
         "ref": "Li & Tsuchida 2001, pp. 10, 19",
-        "note": "常與 ta- 同現（ta-kita-aw）"
+        "note": "只在 ta-…-aw 中出現（ta-kita-aw）。單獨的 -aw 在《巴宰語詞典》的衍生詞與潘德興詞彙表中都沒有出現，卻會把 masuhaw、mataw 拆成 masu-aw、mata-aw（2026-09-28，babizu docs/language-profile.md「編寫技巧」）"
       },
       {
         "id": "IRR",
@@ -1184,6 +1185,34 @@
         "note": "只在 ta-…-i、ta-…-aw 中出現（施事者、名詞化的 ta- 是另一個詞素）"
       },
       {
+        "id": "AF.m",
+        "type": "prefix",
+        "form": "m",
+        "free": false,
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.2.4, p. 9；§51.5.5, Table 51.7, p. 26",
+        "note": "主事焦點在元音開頭的詞根前的形式 m-，只用在 M<a>（AF.PROG、AF.IRR）。組合規則若引用 AF，會連 mu、mi、me 一起展開成 mau-、mai-、mae-，資料中沒有這些形式，卻會把 mausay 拆成 mau- ＋ say"
+      },
+      {
+        "id": "AF.C",
+        "type": "prefix",
+        "forms": [
+          "mu",
+          "mi",
+          "me"
+        ],
+        "free": false,
+        "gloss": {
+          "zh-TW": "主事焦點",
+          "en": "AF"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.2.4, p. 9；§51.5.5, Table 51.7, p. 26",
+        "note": "主事焦點在輔音開頭的詞根前的形式，只用在 M-…-ay（AF.IRR2）。元音開頭的詞根是 M-a-…-ay（AF.IRR），m-…-ay 在資料中沒有出現，卻會把 maudalay 拆成 m- ＋ audal ＋ -ay"
+      },
+      {
         "id": "KA.UV",
         "type": "prefix",
         "form": "ka",
@@ -1252,7 +1281,7 @@
       {
         "id": "AF.PROG",
         "sequence": [
-          "AF",
+          "AF.m",
           "PROG"
         ],
         "gloss": {
@@ -1265,7 +1294,7 @@
       {
         "id": "AF.IRR",
         "sequence": [
-          "AF",
+          "AF.m",
           "PROG",
           "IRR"
         ],
@@ -1279,7 +1308,7 @@
       {
         "id": "AF.IRR2",
         "sequence": [
-          "AF",
+          "AF.C",
           "IRR"
         ],
         "gloss": {
@@ -1287,7 +1316,7 @@
           "en": "AV.IRR"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 27",
-        "note": "M-…-ay（原本的 m-、mu-、mi-、me-…-ay）"
+        "note": "M-…-ay：mu-、mi-、me-…-ay（元音開頭的詞根是 M-a-…-ay，見 AF.IRR）"
       },
       {
         "id": "STAT.IRR",

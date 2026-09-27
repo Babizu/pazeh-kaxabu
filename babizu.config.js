@@ -90,6 +90,8 @@ export default defineSite({
         ['maxapux', 'apux'],
         // 環綴 ta-…-aw（勸說）算一個步驟，加上 a｜a 的元音合併
         ['takitaw', 'kita'],
+        // 構詞文法的組合規則 m<a>-…-ay（主事焦點・非實現）：usa｜ay 的 a｜a 合併
+        ['mausay', 'usa'],
       ],
       // 詞根比最短長度（minStem 3）還短：a- ＋ di 不做構詞分析
       failures: [['aidi', 'di']],

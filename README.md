@@ -6,6 +6,8 @@
 
 - **跨方言模糊搜尋**：依巴宰、噶哈巫方言的語音對應計算距離，例如 `bintul ≈ bintun`、`raulu ≈ laulu`、`semer ≈ semee`；
   也支援前綴與包含比對，以及中文、英文釋義搜尋。
+- **構詞**：查衍生詞找得到詞根（`minudox` → `daux`、`mausay` → `usa`），查詞根也找得到衍生詞；說明由哪些詞素構成（m<a>-…-ay：主事焦點・非實現）。
+  辭典確認屬於同一個詞條的結果排在一起。
 - **溯源**：每筆資料都標出處（辭典頁碼、詞表列號、影片時間碼）；《巴宰語詞典》可以直接對照原書掃描頁。
 - **語音**：有錄音的句子可以直接播放，並附逐詞對譯。
 - **介面語系**：中文、English、族語（族語介面翻譯中，未翻譯的部分以中文顯示）。
@@ -17,7 +19,7 @@
 
 ```
 ├── babizu.config.js            站台設定：名稱、介面語系、方言（巴宰、噶哈巫、巴宰（愛蘭））、搜尋範例…
-├── language/pazeh-kaxabu.json  語言設定檔：正規化、體例符號、57 條方言語音對應規則
+├── language/pazeh-kaxabu.json  語言設定檔：正規化、體例符號、58 條方言語音對應規則、構詞文法（詞素與組合規則）
 ├── data/                       標準格式資料集（由 minubizu 匯出，請勿手動修改）
 │   ├── dataset.json、sources.json
 │   ├── records/<來源>/<分片>.json
@@ -56,6 +58,7 @@ npx playwright test
 |---|---|
 | 網站名稱、搜尋範例、方言名稱與顏色 | `babizu.config.js` |
 | 模糊搜尋的方言對應規則 | `language/pazeh-kaxabu.json`（權重與語意見框架的 docs/language-profile.md） |
+| 詞綴、組合規則（構詞） | `language/pazeh-kaxabu.json` 的 `morphology`（寫法與編寫技巧見框架的 docs/language-profile.md；改動前後以 minubizu 的評估工具比較） |
 | 「關於」頁 | `content/about.zh-TW.md`、`content/about.en.md` |
 | 族語介面翻譯 | `locales/pzh.json`（格式同框架的 `locales/en.json`：中文原文 → 譯文，只要寫已翻譯的字串） |
 | 辭典資料 | **不要直接改 `data/`**：在 minubizu 改轉接器或原始資料，再 `npm run export` |

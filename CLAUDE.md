@@ -9,7 +9,7 @@
 ## 指令
 
 ```bash
-npx babizu build && PLAYWRIGHT_CHANNEL=msedge npx playwright test   # 建置後跑端對端（142 個）
+npx babizu build && PLAYWRIGHT_CHANNEL=msedge npx playwright test   # 建置後跑端對端（151 個）
 npx babizu check                                                     # 設定＋資料集檢查
 ```
 

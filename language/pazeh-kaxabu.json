@@ -1332,6 +1332,62 @@
         "note": "ma-…-ay（原本的環綴，維護者決定保留，檢查點 G1）"
       },
       {
+        "id": "PU.IRR",
+        "sequence": [
+          "pre.pu",
+          "PROG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "鋪設・非實現",
+          "en": "pave.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 18–19（PROG 可插入其他前綴中間：p<a>i-suzuk）；Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26（IRR -ay）",
+        "note": "p<a>u-…-ay：<a> 插在前綴 pu 的首輔音之後。p<a>u-sungud-ay（pausunguday「將要造橋」，《巴宰語詞典》p.283 sungut 條例句；詞根末的 t 在後綴前濁化）"
+      },
+      {
+        "id": "PI.IRR",
+        "sequence": [
+          "pre.pi",
+          "PROG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "排出・非實現",
+          "en": "release.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 18–19（PROG 可插入其他前綴中間：p<a>i-suzuk）；Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26（IRR -ay）",
+        "note": "p<a>i-…-ay：paizauxay、paizazukay（語料）"
+      },
+      {
+        "id": "CAUS.IRR",
+        "sequence": [
+          "CAUS",
+          "PROG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "使動・非實現",
+          "en": "CAUS.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 18–19（PROG 可插入其他前綴中間：p<a>i-suzuk）；Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26（IRR -ay）",
+        "note": "p<a>a-…-ay：paakizihay、paapatusay、paasakelay（語料）"
+      },
+      {
+        "id": "KA.IRR",
+        "sequence": [
+          "KA",
+          "PROG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "ka-・非實現",
+          "en": "KA.IRR"
+        },
+        "ref": "Li & Tsuchida 2001, pp. 18–19（PROG 可插入其他前綴中間：p<a>i-suzuk）；Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26（IRR -ay）",
+        "note": "k<a>a-…-ay：kaakanay、kaakaway（語料）"
+      },
+      {
         "id": "UVL.PFV",
         "sequence": [
           "PRF",

@@ -1,5 +1,6 @@
 /**
- * 構詞分析（語言設定檔的 morphology）：查衍生詞找到詞根、查詞根找到衍生形，並顯示構詞說明。
+ * 構詞分析（語言設定檔的 morphology）：查衍生詞自動拆解出詞根、查詞根找到自動派生形，並顯示構詞說明。
+ * 演算法推定的關係一律標「自動拆解」「自動派生」，與辭典標註的「辭典：衍生自」區分。
  */
 
 import { expect, test } from '@playwright/test'
@@ -12,28 +13,32 @@ async function expectNoHorizontalOverflow(/** @type {import('@playwright/test').
   expect(scrollWidth, '頁面出現水平捲軸（跑版）').toBeLessThanOrEqual(innerWidth + 1)
 }
 
-test('查詞根 dalum：找到構詞分析推定的衍生形 mudalum，並說明構詞', async ({ page }, info) => {
+test('查詞根 dalum：找到自動派生的 mudalum，並說明構詞（寫明是演算法推定的，可連到實驗室）', async ({ page }, info) => {
   await page.goto('./#/?q=dalum')
-  // 構詞分析找到的衍生形排在詞根與已標註的衍生詞之後，要到「詞條」分頁才看得到全部
+  // 自動派生形排在詞根與辭典標註的派生詞之後，要到「詞條」分頁才看得到全部
   await page.getByRole('tab', { name: /^詞條/ }).click()
-  const button = page.getByRole('button', { name: /衍生形：mu- \+ dalum/ }).first()
+  const button = page.getByRole('button', { name: /自動派生：mu- \+ dalum/ }).first()
   await expect(button).toBeVisible()
   await button.click()
   const dialog = page.getByRole('dialog')
-  await expect(dialog.getByText('拆解說明')).toBeVisible()
+  await expect(dialog.getByText('自動派生的說明')).toBeVisible()
   await expect(dialog.getByText('mudalum → dalum')).toBeVisible()
-  await expect(dialog.getByText(/演算法自動去除詞綴/)).toBeVisible()
+  await expect(dialog.getByText(/演算法推定這個詞由上面的詞加上詞綴而來/)).toBeVisible()
   await expect(dialog.getByText('前綴 · 主事焦點')).toBeVisible()
+  await expect(dialog.getByRole('link', { name: /查看演算法運作方式/ })).toHaveAttribute('href', /q=mudalum.*t=dalum/)
   await expectNoHorizontalOverflow(page)
   await page.screenshot({ path: `test-results/screenshots/${info.project.name}-morphology-derived.png`, fullPage: true })
 })
 
-test('查詞根 baket：例句中的衍生形（pabaket）也列出，標為衍生形', async ({ page }) => {
+test('查詞根 baket：例句中的自動派生形（pabaket）也列出，標為自動派生', async ({ page }) => {
   await page.goto('./#/?q=baket')
   await page.getByRole('tab', { name: /例句/ }).click()
   const sentence = page.locator('article').filter({ hasText: 'pabaket mu' }).first()
-  await expect(sentence).toBeVisible()
-  await expect(sentence.getByText('衍生形')).toBeVisible()
+  // 辭典列在 baket 條下的派生詞（mubaket、minubaket…）排在自動派生之前：一頁一頁往下找
+  const more = page.getByRole('button', { name: /顯示更多/ })
+  await expect(more).toBeVisible({ timeout: 30_000 })
+  while (!(await sentence.isVisible()) && (await more.isVisible())) await more.click()
+  await expect(sentence.getByText('自動派生')).toBeVisible()
 })
 
 test('查衍生詞 minubaket：找到詞根 baket，標為自動拆解', async ({ page }) => {
@@ -56,7 +61,7 @@ test('英文介面的構詞說明', async ({ page }) => {
   await page.getByRole('dialog').locator('[lang="en"]').click()
   await page.keyboard.press('Escape')
   await page.getByRole('tab', { name: /^Entries/ }).click()
-  await expect(page.getByRole('button', { name: /Derived form: mu- \+ dalum/ }).first()).toBeVisible()
+  await expect(page.getByRole('button', { name: /Auto-derived: mu- \+ dalum/ }).first()).toBeVisible()
 })
 
 test('查衍生詞 kinawas：詞根 kawas- 的詞條排第一，辭典列在底下的 mukawas、kinawas 縮排接在後面', async ({ page }) => {

@@ -129,7 +129,7 @@
       "label": {
         "en": "Flap r"
       },
-      "description": "r 的脫落、變 l、變喉塞音，以及造成的元音延長或縮減",
+      "description": "r 的脫落、變 l、變喉塞音，以及造成的元音延長或縮減。元音＋r 變長元音（er ＝ ee、ar ＝ aa）只在詞尾（與詞素交界）",
       "rules": [
         [
           "r",
@@ -146,36 +146,42 @@
           "'",
           0.1
         ],
-        [
-          "er",
-          "ee",
-          0.12
-        ],
-        [
-          "ir",
-          "ii",
-          0.12
-        ],
-        [
-          "ar",
-          "aa",
-          0.12
-        ],
-        [
-          "ér",
-          "éé",
-          0.12
-        ],
-        [
-          "ur",
-          "uu",
-          0.12
-        ],
-        [
-          "or",
-          "oo",
-          0.12
-        ],
+        {
+          "source": "er",
+          "target": "ee",
+          "weight": 0.12,
+          "position": "final"
+        },
+        {
+          "source": "ir",
+          "target": "ii",
+          "weight": 0.12,
+          "position": "final"
+        },
+        {
+          "source": "ar",
+          "target": "aa",
+          "weight": 0.12,
+          "position": "final"
+        },
+        {
+          "source": "ér",
+          "target": "éé",
+          "weight": 0.12,
+          "position": "final"
+        },
+        {
+          "source": "ur",
+          "target": "uu",
+          "weight": 0.12,
+          "position": "final"
+        },
+        {
+          "source": "or",
+          "target": "oo",
+          "weight": 0.12,
+          "position": "final"
+        },
         [
           "ere",
           "e",
@@ -268,27 +274,52 @@
         "en": "Voicing"
       },
       "rules": [
+        {
+          "source": "p",
+          "target": "b",
+          "weight": 0.1,
+          "position": "final"
+        },
         [
           "p",
           "b",
-          0.1
+          0.2
         ],
+        {
+          "source": "t",
+          "target": "d",
+          "weight": 0.1,
+          "position": "final"
+        },
         [
           "t",
           "d",
-          0.1
+          0.2
         ],
+        {
+          "source": "k",
+          "target": "g",
+          "weight": 0.1,
+          "position": "final"
+        },
         [
           "k",
           "g",
-          0.1
+          0.2
         ],
+        {
+          "source": "s",
+          "target": "z",
+          "weight": 0.1,
+          "position": "final"
+        },
         [
           "s",
           "z",
-          0.1
+          0.2
         ]
-      ]
+      ],
+      "description": "清濁音的對應。在詞尾與詞素交界（詞根接後綴之前，例如 sasumat-an ＝ sasumadan）常見，阻力低（0.1）；其他位置（詞首、詞中）少見，阻力較高"
     },
     {
       "category": "滑音產生",

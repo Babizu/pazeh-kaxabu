@@ -448,6 +448,7 @@
     "cost": 0.1,
     "minStem": 3,
     "maxSteps": 3,
+    "glides": "iu",
     "morphemes": [
       {
         "id": "AF",
@@ -1146,15 +1147,26 @@
         "note": "dee~depex「正在學習」、kii~kita「正在看」"
       },
       {
-        "id": "RED.CVN",
+        "id": "RED.CGV",
         "type": "reduplication",
-        "pattern": "CVN",
+        "pattern": "CGV",
         "gloss": {
           "zh-TW": "進行",
           "en": "progressive"
         },
         "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
-        "note": "CV 重疊，詞根的第一個元音核有兩個元音時整個元音核一起重疊：ria~riak（riariakan、kaariariak）、tia~tianak（matiatianak）、ziu~ziux（maxaziuziux）、bai~bair（kabaibair）。語料中 19 種、48 個詞"
+        "note": "CV 重疊，詞根的第一個音節含前滑音（i、u 念成滑音）時整個音節一起重疊：ria~riak /rja/（riariakan、kaariariak）、tia~tianak（matiatianak）、ziu~ziux /zju/（maxaziuziux）、lui~luis（muluiluis）。兩個元音都是 i、u 的歸這裡"
+      },
+      {
+        "id": "RED.CVG",
+        "type": "reduplication",
+        "pattern": "CVG",
+        "gloss": {
+          "zh-TW": "進行",
+          "en": "progressive"
+        },
+        "ref": "Li & Tsuchida 2001, p. 22；Lim & Zeitoun 2024, §51.3.2.2, p. 14",
+        "note": "CV 重疊，詞根的第一個音節含後滑音時整個音節一起重疊：bai~bair /baj/（kabaibair）、tau~taukua（tautaukua）。單音節詞根的完整重疊（baibai）是 RED.full"
       },
       {
         "id": "RED.full",
@@ -1418,9 +1430,9 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "id": "UVP.PROG.CVN",
+        "id": "UVP.PROG.CGV",
         "sequence": [
-          "RED.CVN",
+          "RED.CGV",
           "PF"
         ],
         "gloss": {
@@ -1428,7 +1440,20 @@
           "en": "UVP.PROG"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
-        "note": "與 UVP.PROG 相同，重疊部分是整個元音核（ria~riak-an）"
+        "note": "與 UVP.PROG 相同，重疊部分是含前滑音的整個音節（ria~riak-an）"
+      },
+      {
+        "id": "UVP.PROG.CVG",
+        "sequence": [
+          "RED.CVG",
+          "PF"
+        ],
+        "gloss": {
+          "zh-TW": "受事焦點・進行",
+          "en": "UVP.PROG"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
+        "note": "與 UVP.PROG 相同，重疊部分是含後滑音的整個音節（bai~bair-an）"
       },
       {
         "id": "UVL.PROG",
@@ -1443,9 +1468,9 @@
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26"
       },
       {
-        "id": "UVL.PROG.CVN",
+        "id": "UVL.PROG.CGV",
         "sequence": [
-          "RED.CVN",
+          "RED.CGV",
           "LF"
         ],
         "gloss": {
@@ -1453,7 +1478,20 @@
           "en": "UVL.PROG"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
-        "note": "與 UVL.PROG 相同，重疊部分是整個元音核（ria~riak-an）"
+        "note": "與 UVL.PROG 相同，重疊部分是含前滑音的整個音節（ria~riak-an）"
+      },
+      {
+        "id": "UVL.PROG.CVG",
+        "sequence": [
+          "RED.CVG",
+          "LF"
+        ],
+        "gloss": {
+          "zh-TW": "處所焦點・進行",
+          "en": "UVL.PROG"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26",
+        "note": "與 UVL.PROG 相同，重疊部分是含後滑音的整個音節（bai~bair-an）"
       },
       {
         "id": "AV.IRR.RED",
@@ -1469,9 +1507,9 @@
         "note": "RED~…-ay（前面可以再加主事焦點前綴）"
       },
       {
-        "id": "AV.IRR.RED.CVN",
+        "id": "AV.IRR.RED.CGV",
         "sequence": [
-          "RED.CVN",
+          "RED.CGV",
           "IRR"
         ],
         "gloss": {
@@ -1479,7 +1517,20 @@
           "en": "AV.IRR"
         },
         "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 24",
-        "note": "與 AV.IRR.RED 相同，重疊部分是整個元音核（ria~riak-an）"
+        "note": "與 AV.IRR.RED 相同，重疊部分是含前滑音的整個音節（ria~riak-an）"
+      },
+      {
+        "id": "AV.IRR.RED.CVG",
+        "sequence": [
+          "RED.CVG",
+          "IRR"
+        ],
+        "gloss": {
+          "zh-TW": "主事焦點・非實現",
+          "en": "AV.IRR"
+        },
+        "ref": "Lim & Zeitoun 2024, §51.5.5, Table 51.7, p. 26；Li & Tsuchida 2001, p. 24",
+        "note": "與 AV.IRR.RED 相同，重疊部分是含後滑音的整個音節（bai~bair-an）"
       },
       {
         "id": "UVP.IRR",

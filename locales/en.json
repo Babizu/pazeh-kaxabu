@@ -1,3 +1,3 @@
 {
-  "「標準」會找出方言間的語音對應與少量拼寫差異；「精確」只比對拼寫正規化後相同的詞。不論哪一種，都會另外列出「開頭相符」與「包含」查詢字串的詞。": "“Standard” finds cross-dialect sound correspondences (such as a dropped r or final l→n) and small spelling differences; “Exact” only matches identical normalised spellings. Either way, words that start with or contain your query are also listed."
+  "「標準」會找出方言間的語音對應與少量拼寫差異；「精確」只比對拼寫正規化後相同的詞。不論哪一種，都會另外列出開頭、結尾相符與包含查詢字串的詞。": "“Standard” finds cross-dialect sound correspondences (such as a dropped r or final l→n) and small spelling differences; “Exact” only matches identical normalised spellings. Either way, words that start or end with, or contain, what you typed are listed too."
 }

@@ -75,7 +75,8 @@ test('環綴：takitaw 找到 kita，分析是一個環綴 ta-…-aw', async ({ 
 })
 
 test('從搜尋結果的構詞說明連到構詞分頁', async ({ page }) => {
-  await page.goto('./#/?q=minubaket')
+  // 辭典把 minubaket 列在 baket- 條下（確定拆解，優先顯示）；排除確定拆解，看演算法的自動拆解
+  await page.goto('./#/?q=minubaket&x=dictLemma')
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const row = page.locator('article').filter({ has: page.getByRole('link', { name: 'baket-', exact: true }) }).first()
   await row.getByRole('button', { name: /自動拆解/ }).click()

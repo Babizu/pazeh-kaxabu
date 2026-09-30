@@ -1,6 +1,6 @@
 /**
  * 構詞分析（語言設定檔的 morphology）：查衍生詞自動拆解出詞根、查詞根找到自動派生形，並顯示構詞說明。
- * 演算法推定的關係一律標「自動拆解」「自動派生」，與辭典標註的「辭典：衍生自」區分。
+ * 演算法推定的關係一律標「自動拆解」「自動派生」，與辭典標註的「確定派生、確定拆解、確定同根」區分。
  */
 
 import { expect, test } from '@playwright/test'
@@ -69,7 +69,8 @@ test('查衍生詞 kinawas：詞根 kawas- 的詞條排第一，辭典列在底�
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const family = page.locator('[data-entry-group]:visible').first()
   await expect(family.getByRole('link', { name: 'kawas-', exact: true })).toBeVisible()
-  await expect(family.getByRole('button', { name: /自動拆解：.*kawas/ }).first()).toBeVisible()
+  // 辭典把 kinawas 列在 kawas- 條下：kawas- 標確定拆解（辭典標註優先於自動拆解）
+  await expect(family.getByText('確定拆解').first()).toBeVisible()
   // kinawas 在辭典中列在 mukawas 底下
   const mukawas = family.getByRole('listitem').filter({ has: page.getByRole('link', { name: 'mukawas', exact: true }) })
   await expect(mukawas.getByRole('link', { name: 'kinawas', exact: true })).toBeVisible()
@@ -96,7 +97,8 @@ test('查 pakita：kita- 條排第一，底下是完全相同的 pakita（併入
 })
 
 test('查 parazem：詞根 razem 以自動拆解列出（不被較差的模糊命中蓋掉），parazem 在它底下', async ({ page }) => {
-  await page.goto('./#/?q=parazem')
+  // 辭典也把 parazem 列在 razem 條下（確定拆解，優先顯示）；排除確定拆解，看自動拆解有沒有被模糊命中蓋掉
+  await page.goto('./#/?q=parazem&x=dictLemma')
   await page.getByRole('tab', { name: /^詞條/ }).click()
   const family = page.locator('[data-entry-group]:visible').first()
   await expect(family.getByRole('link', { name: 'razem', exact: true })).toBeVisible()

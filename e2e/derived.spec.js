@@ -1,7 +1,7 @@
 /**
  * 查詞根找加綴變化：
  * - 自動派生：由建置時的自動派生圖找到（演算法推定），包括辭典沒有另立條目、只出現在例句裡的詞；
- * - 辭典：衍生自：句中的詞是辭典列在查詢詞條下的派生詞（辭典標註），排在自動派生之前。
+ * - 確定派生：句中的詞是辭典列在查詢詞條下的派生詞（辭典標註），排在自動派生之前。
  * 例句的結果也和詞條一樣標出怎麼找到的。
  */
 
@@ -54,17 +54,17 @@ test('寬鬆查 sugut：由相近的 sungut 找到 pausunguday，說明寫法的
   await expect(page.getByRole('dialog').getByText(/查詢「sugut」與詞庫中的「sungut」寫法相近，由「sungut」自動派生/)).toBeVisible()
 })
 
-test('查 usa：辭典列在 usa 條下的 mukusa 所在的例句標「辭典：衍生自 usa」，排在只是含有 usa 的 dusa 之前', async ({ page }, info) => {
+test('查 usa：辭典列在 usa 條下的 mukusa 所在的例句標「確定派生 usa」，排在只是含有 usa 的 dusa 之前', async ({ page }, info) => {
   await page.goto('./#/?q=usa')
   await page.getByRole('tab', { name: /例句/ }).click()
   const more = page.getByRole('button', { name: /顯示更多/ })
   const sentence = page.locator('article').filter({ has: page.locator('mark', { hasText: /^mukusa$/ }) }).first()
   await expect(more).toBeVisible({ timeout: 30_000 })
   while (!(await sentence.isVisible()) && (await more.isVisible())) await more.click()
-  await expect(sentence.getByText('辭典：衍生自')).toBeVisible()
-  await expect(sentence.getByText('辭典：衍生自')).toHaveAttribute('title', /不是演算法推定的/)
+  await expect(sentence.getByText('確定派生')).toBeVisible()
+  await expect(sentence.getByText('確定派生')).toHaveAttribute('title', /不是演算法推定的/)
   const texts = await page.locator('article').allTextContents()
-  const mukusa = texts.findIndex((x) => /辭典：衍生自/.test(x))
+  const mukusa = texts.findIndex((x) => /確定派生/.test(x))
   const dusa = texts.findIndex((x) => /\bdusa\b/.test(x))
   if (dusa >= 0) expect(mukusa).toBeLessThan(dusa)
   await expectNoHorizontalOverflow(page)

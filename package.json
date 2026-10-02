@@ -13,7 +13,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "babizu": "github:Babizu/babizu#v0.5.9"
+    "babizu": "github:Babizu/babizu#v0.6.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0"

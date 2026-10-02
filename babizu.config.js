@@ -60,6 +60,17 @@ export default defineSite({
     { q: '火', note: { 'zh-TW': '以中文釋義搜尋', en: 'search Chinese meanings' } },
     { q: 'fire', note: { 'zh-TW': '以英文釋義搜尋', en: 'search English meanings' } },
   ],
+  // 「關於」頁句型搜尋說明的例子（docs/pattern-query.md）
+  patternExamples: [
+    { q: 'yaku ka _* isiw', note: { 'zh-TW': 'yaku ka 與 isiw 中間隔任意幾個詞', en: 'yaku ka and isiw with any number of words in between' } },
+    { q: 'pa-… ki _', note: { 'zh-TW': '帶使役 pa- 的詞，後面接 ki 與一個詞', en: 'a word with causative pa-, followed by ki and one word' } },
+    { q: 'm<in>u-…', note: { 'zh-TW': '主事焦點完成貌（m<in>u-、m<in>-、mi<in>- 都算）', en: 'AF perfective (m<in>u-, m<in>-, mi<in>- all count)' } },
+    { q: 'ta-…-i', note: { 'zh-TW': '勸說 ta-…-i', en: 'hortative ta-…-i' } },
+    { q: '…-i $', note: { 'zh-TW': '最後一個詞帶 -i 的句子（祈使）', en: 'sentences whose last word has -i (imperative)' } },
+    { q: 'ini _', note: { 'zh-TW': 'ini 後面接什麼（看「頻率」分頁）', en: 'what follows ini (see the Frequency tab)' } },
+    { q: '^ _ ki', note: { 'zh-TW': '第二個詞是 ki 的句子', en: 'sentences whose second word is ki' } },
+    { q: '@kita', note: { 'zh-TW': 'kita 的詞族：辭典標註的派生與自動派生', en: 'the kita family: annotated and automatic derivations' } },
+  ],
   about: { 'zh-TW': 'content/about.zh-TW.md', en: 'content/about.en.md' },
   footer: {
     'zh-TW': '巴宰–噶哈巫語數位辭典 · 資料版權屬各原始來源，引用時請註明出處（每筆詞條皆附「出處」資訊）。',

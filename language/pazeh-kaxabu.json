@@ -479,6 +479,7 @@
     "cost": 0.1,
     "minStem": 3,
     "maxSteps": 3,
+    "virtualRootLengthCost": 0.03,
     "glides": "iu",
     "morphemes": [
       {

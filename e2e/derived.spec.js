@@ -95,3 +95,21 @@ test('查 binubuer（詞庫中沒有）：找到自動同根的 mabubuer，共�
   await expectNoHorizontalOverflow(page)
   await page.screenshot({ path: `test-results/screenshots/${info.project.name}-sibling.png`, fullPage: false })
 })
+
+test("查 kali'angidan：自動拆解出詞庫中的 angit，再往下找到同根的詞；排在原本的結果之後，說明是詞庫中的詞根", async ({ page }) => {
+  await page.goto("./#/?q=kali'angidan")
+  await page.getByRole('tab', { name: /^詞條/ }).click()
+  const tag = page.getByRole('button', { name: /自動同根：angit/ }).first()
+  await expect(tag).toBeVisible({ timeout: 30_000 })
+  // 原本的結果（kali'angidan 本身）在自動同根之前
+  const first = page.locator('article').first()
+  await expect(first.getByRole('button', { name: /自動同根/ })).toHaveCount(0)
+  await tag.click()
+  const dialog = page.getByRole('dialog')
+  await expect(dialog.getByText('自動同根的說明')).toBeVisible()
+  await expect(dialog.getByText(/兩個詞推定來自同一個詞根「angit」（詞庫中的詞）/)).toBeVisible()
+  await expect(dialog.getByText('詞庫外的詞根')).toHaveCount(0)
+  // 詞根在詞庫中：最後一層（這個詞 → 上一層）可以在實驗室重現
+  await expect(dialog.getByRole('link', { name: /查看演算法運作方式/ })).toBeVisible()
+  await expectNoHorizontalOverflow(page)
+})

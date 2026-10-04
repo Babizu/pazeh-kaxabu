@@ -57,6 +57,18 @@ test('詞綴從最外層算起：mara mu-… a 找不到 imini（i-mini、i-m-in
   await expect(row.getByRole('button', { name: /^自動拆解 · 次佳/ })).toBeVisible()
 })
 
+test('pina-…-an、pa-<in>…-an 找到 pinahazaban（pa-<in>hazap-an，交界濁化）：虛擬詞根的拆法不把它擠掉；精確模式也找得到', async ({ page }) => {
+  for (const q of ['pina-…-an', 'pa-<in>…-an']) {
+    for (const extra of ['', '&fz=exact']) {
+      await search(page, q, extra)
+      const row = page.locator('article').filter({ hasText: 'pinahazaban a daxe' })
+      await expect(row, `${q}${extra}`).toBeVisible()
+      // 證據用詞庫詞根 hazap（與一般搜尋的自動拆解相同），不是虛擬詞根
+      await expect(row.getByRole('button', { name: /^自動拆解/ })).toContainText('hazap')
+    }
+  }
+})
+
 test('mu-… 提示另有詞形的 mu- 在內層；點「改查」改用 …-mu-…，記錄變多', async ({ page }) => {
   await search(page, 'mu-…')
   const before = await total(page)

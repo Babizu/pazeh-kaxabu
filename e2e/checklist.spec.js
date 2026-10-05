@@ -62,3 +62,37 @@ test('完全相同的詞條：同一來源內釋義也相同的標為疑似重�
   await expectNoHorizontalOverflow(page)
   await page.screenshot({ path: `test-results/screenshots/${info.project.name}-checklist-duplicates.png`, fullPage: false })
 })
+
+test('人工拆解對照：以潘德興詞彙表的人工拆解為標準，列出句型搜尋漏掉與誤配的詞綴', async ({ page }, info) => {
+  await page.goto('./#/checklist?tab=segmentations&issue=miss')
+  const panel = page.locator('#panel-segmentations')
+  const rows = panel.locator(':scope > ol > li')
+  await expect(rows.first()).toBeVisible({ timeout: 30_000 })
+  await expect(page.getByRole('tab', { name: /人工拆解對照/ })).toHaveAttribute('aria-selected', 'true')
+  await expect(panel.getByRole('button', { name: /漏（召回）/ })).toHaveAttribute('aria-pressed', 'true')
+  // 準確與召回：與評估工具（minubizu tools/eval-parse-gold.mjs）同一個量法
+  await expect(panel.getByText(/準確 \d+\.\d%.*召回 \d+\.\d%/)).toBeVisible()
+
+  // pakaasikit：人工拆解 pa-ka-asikit，搜尋拆成 paka- ＋ asikit：pa- 漏、paka- 誤配
+  const row = rows.filter({ has: page.getByRole('heading', { level: 3, name: 'pakaasikit' }) })
+  await expect(row).toHaveCount(1)
+  await expect(row.locator('code')).toHaveText('pa-ka-asikit')
+  // 符號 ✗ ＋ 只給眼睛看；連結的名稱是詞綴與狀態
+  await expect(row.getByRole('link', { name: /^pa-\s*漏$/ })).toBeVisible()
+  await expect(row.getByRole('link', { name: /^paka-$/ })).toBeVisible()
+  // 搜尋取到的拆法：paka- ＋ asikit
+  await expect(row.locator('ul').last()).toContainText('asikit')
+  await expectNoHorizontalOverflow(page)
+  await page.screenshot({ path: `test-results/screenshots/${info.project.name}-checklist-segmentations.png`, fullPage: false })
+
+  // 模糊程度記在網址上（與搜尋相同的 fz）；寬鬆時漏得比較少
+  const missCount = async () => Number((await panel.getByRole('button', { name: /漏（召回）/ }).innerText()).match(/(\d+)\s*$/)?.[1])
+  const normalMiss = await missCount()
+  await panel.getByRole('button', { name: '寬鬆' }).click()
+  await expect(page).toHaveURL(/fz=loose/)
+  await expect.poll(missCount, { timeout: 20_000 }).toBeLessThan(normalMiss)
+
+  // 詞綴可以點：直接以那個構詞樣式搜尋（沿用模糊程度）
+  await row.getByRole('link', { name: /^pa-\s*漏$/ }).click()
+  await expect(page).toHaveURL(/#\/\?q=pa-%E2%80%A6&fz=loose$/)
+})

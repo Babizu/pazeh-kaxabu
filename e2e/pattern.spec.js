@@ -69,6 +69,14 @@ test('pina-…-an、pa-<in>…-an 找到 pinahazaban（pa-<in>hazap-an，交界�
   }
 })
 
+test('<a>…-an 與 a-…-an 都找到 aitukuan：元音開頭的詞根上中綴 <a> 與前綴 a- 表面相同，兩種讀法都收', async ({ page }) => {
+  // 研究紀錄 U.25：同分時原本只留規格中較前的前綴 a-，<a>…-an 找不到
+  for (const q of ['<a>…-an', 'a-…-an']) {
+    await search(page, q)
+    await expect(page.locator('article').filter({ hasText: 'muasak liaki aitukuan' }), q).toBeVisible()
+  }
+})
+
 test('mu-… 提示另有詞形的 mu- 在內層；點「改查」改用 …-mu-…，記錄變多', async ({ page }) => {
   await search(page, 'mu-…')
   const before = await total(page)

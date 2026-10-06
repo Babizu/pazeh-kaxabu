@@ -48,11 +48,13 @@ test('中綴寫在哪裡都一樣、同位詞素組等價：m<in>u-… ＝ m-<in
   expect(a).toBeGreaterThan(0)
 })
 
-test('詞綴從最外層算起：mara mu-… a 找不到 imini（i-mini、i-m-ini）；…-mu-… 找到，標「自動拆解 · 次佳」', async ({ page }) => {
-  await search(page, 'mara mu-… a')
-  await expect(page.locator('article').filter({ hasText: 'mara imini a mamais' })).toHaveCount(0)
-  await search(page, 'mara …-mu-… a')
-  const row = page.locator('article').filter({ hasText: 'mara imini a mamais' })
+test('詞綴從最外層算起：mu-"aping" 找不到 imisiw talima pakamuaping（paka-mu-aping）；…-mu-"aping" 找到，標「自動拆解 · 次佳」', async ({ page }) => {
+  // 原本的例子 imini（i-m-ini）用的前綴 i- 是指示代名詞中已石化的成分，維護者決定從語言設定檔移除（研究紀錄 U.26）
+  await search(page, 'mu-"aping"')
+  await expect(page.locator('article').filter({ hasText: 'pakamuaping' })).toHaveCount(0)
+  await expect(page.locator('article').filter({ hasText: 'muaping' }).first()).toBeVisible()
+  await search(page, '…-mu-"aping"')
+  const row = page.locator('article').filter({ hasText: 'imisiw talima pakamuaping' })
   await expect(row).toBeVisible()
   await expect(row.getByRole('button', { name: /^自動拆解 · 次佳/ })).toBeVisible()
 })

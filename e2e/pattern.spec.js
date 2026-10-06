@@ -48,15 +48,17 @@ test('中綴寫在哪裡都一樣、同位詞素組等價：m<in>u-… ＝ m-<in
   expect(a).toBeGreaterThan(0)
 })
 
-test('詞綴從最外層算起：mu-"aping" 找不到 imisiw talima pakamuaping（paka-mu-aping）；…-mu-"aping" 找到，標「自動拆解 · 次佳」', async ({ page }) => {
-  // 原本的例子 imini（i-m-ini）用的前綴 i- 是指示代名詞中已石化的成分，維護者決定從語言設定檔移除（研究紀錄 U.26）
-  await search(page, 'mu-"aping"')
-  await expect(page.locator('article').filter({ hasText: 'pakamuaping' })).toHaveCount(0)
-  await expect(page.locator('article').filter({ hasText: 'muaping' }).first()).toBeVisible()
-  await search(page, '…-mu-"aping"')
-  const row = page.locator('article').filter({ hasText: 'imisiw talima pakamuaping' })
-  await expect(row).toBeVisible()
-  await expect(row.getByRole('button', { name: /^自動拆解 · 次佳/ })).toBeVisible()
+test('詞綴從最外層算起：mu-"angit" 找不到 pakamangit（paka-m-angit）；…-mu-"angit" 找到，標「自動拆解 · 次佳」', async ({ page }) => {
+  // 原本的例子 imini（i-m-ini）用的前綴 i- 已從語言設定檔移除；pakamuaping 在詞根偏好雙音節之後（研究紀錄 U.27）
+  // paka-mu-aping 成了最好的拆法，不再是次佳。pakamangit 最好的拆法是 paka- ＋ mangit，paka- ＋ m- ＋ angit 是次佳
+  // 詞條 pakamangit（潘德興詞彙表；含它的句子在結果的後幾頁）
+  const row = () => page.locator('article').filter({ has: page.getByRole('link', { name: 'pakamangit', exact: true }) })
+  await search(page, 'mu-"angit"')
+  await expect(page.locator('article').filter({ hasText: 'mangit' }).first()).toBeVisible()
+  await expect(row()).toHaveCount(0)
+  await search(page, '…-mu-"angit"')
+  await expect(row()).toBeVisible()
+  await expect(row().getByRole('button', { name: /^自動拆解 · 次佳/ })).toBeVisible()
 })
 
 test('pina-…-an、pa-<in>…-an 找到 pinahazaban（pa-<in>hazap-an，交界濁化）：虛擬詞根的拆法不把它擠掉；精確模式也找得到', async ({ page }) => {

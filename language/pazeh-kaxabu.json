@@ -479,6 +479,11 @@
     "minStem": 3,
     "maxSteps": 3,
     "virtualRootLengthCost": 0.03,
+    "rootSyllableCost": {
+      "1": 0.1,
+      "3": 0.1,
+      "4": 0.2
+    },
     "glides": "iu",
     "morphemes": [
       {

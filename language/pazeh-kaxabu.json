@@ -481,10 +481,6 @@
     "virtualRootLengthCost": 0.03,
     "rootSyllableCost": {
       "1": 0.5,
-      "2": {
-        "entry": 0,
-        "other": 0.2
-      },
       "3": 0.1,
       "4": 0.2
     },

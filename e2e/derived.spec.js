@@ -79,17 +79,20 @@ test('例句的模糊命中也標出對齊（≈ 與規則），與詞條相同'
   await expect(sentence.getByRole('button', { name: /相近拼寫/ })).toBeVisible()
 })
 
-test('查 binubuer（詞庫中沒有）：找到自動同根的 mabubuer，共同的詞根 bubuer 也不在詞庫中', async ({ page }, info) => {
-  await page.goto('./#/?q=binubuer')
+// 詞根偏好雙音節之後（rootSyllableCost），mabubuer 拆成 ma- ＋ bu~ ＋ buer，查 binubuer 不再經 bubuer 找到它
+test('查 binulalu（詞庫中沒有）：找到自動同根的 tubulalu，共同的詞根 bulalu 也不在詞庫中', async ({ page }, info) => {
+  await page.goto('./#/?q=binulalu')
   await page.getByRole('tab', { name: /^詞條/ }).click()
-  const tag = page.getByRole('button', { name: /自動同根：bubuer/ }).first()
+  const tag = page.getByRole('button', { name: /自動同根：bulalu/ }).first()
   await expect(tag).toBeVisible({ timeout: 30_000 })
   await tag.click()
   const dialog = page.getByRole('dialog')
   await expect(dialog.getByText('自動同根的說明')).toBeVisible()
   await expect(dialog.getByText(/這個詞根不在詞庫中/)).toBeVisible()
-  await expect(dialog.getByText(/binubuer ＝ bubuer \+ <in>/)).toBeVisible()
+  await expect(dialog.getByText(/binulalu ＝ bulalu \+ <in>/)).toBeVisible()
   await expect(dialog.getByText('詞庫外的詞根')).toBeVisible()
+  // 三音節的詞根另列音節數的成本（含在詞庫外的代價裡）
+  await expect(dialog.getByText('詞根「bulalu」的音節數')).toBeVisible()
   await expect(dialog.getByText(/演算法推定兩個詞來自同一個詞根/)).toBeVisible()
   await expect(dialog.getByRole('link', { name: /查看演算法運作方式/ })).toHaveCount(0)
   await expectNoHorizontalOverflow(page)

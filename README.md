@@ -34,7 +34,7 @@
 
 ## 建置
 
-需要 Node.js 20.19 以上。
+需要 Node.js 22.18 以上。
 
 ```bash
 npm ci

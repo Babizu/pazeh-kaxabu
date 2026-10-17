@@ -222,7 +222,8 @@
   "mergeProbability": 0.7,
   "beta": 1,
   "minSites": 2,
-  "priorSites": 2
+  "priorSites": 2,
+  "scoreScale": 0.2
  },
  "levels": {
   "normal": {

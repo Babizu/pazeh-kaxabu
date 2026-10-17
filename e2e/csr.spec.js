@@ -5,6 +5,10 @@
  */
 
 import { expect, test } from '@playwright/test'
+import config from '../babizu.config.js'
+
+// 網站目前不啟用對應組檢索（babizu.config.js 的 csr: false）；啟用時這些測試才跑
+test.skip(!config.csr, '網站沒有啟用對應組檢索')
 
 /** 在設定選單選一種模糊搜尋 @param {import('@playwright/test').Page} page @param {string} name */
 async function chooseAlgorithm(page, name) {

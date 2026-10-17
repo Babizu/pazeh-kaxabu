@@ -72,10 +72,11 @@ export default defineSite({
     { q: '@kita', note: { 'zh-TW': 'kita 的詞族：辭典標註的派生與自動派生', en: 'the kita family: annotated and automatic derivations' } },
   ],
   about: { 'zh-TW': 'content/about.zh-TW.md', en: 'content/about.en.md' },
-  // 對應組檢索（實驗性，babizu 的 docs/csr.md）：搜尋篩選多一個「比對方式」，讀者可以改用它比對詞條。
+  // 對應組檢索（實驗性，babizu 的 docs/csr.md）：目前不啟用（2026-10-18 的決定）。
+  // 要啟用時改成 csr: { model: 'language/csr-model.json' }：右上角的設定選單多「模糊搜尋」，讀者可以改用它當模糊搜尋的核心。
   // 模型由私有 repo 的 `npm run csr:model` 從已公開的詞條學出（巴宰 pazih-dict、噶哈巫 kaxabu-classified 與 pan-dexing-wordlist），
-  // 不要手動修改；要關掉就刪掉這一行
-  csr: { model: 'language/csr-model.json' },
+  // 不要手動修改；不啟用時模型檔照樣保留、照樣更新
+  csr: false,
   footer: {
     'zh-TW': '巴宰–噶哈巫語數位辭典 · 資料版權屬各原始來源，引用時請註明出處（每筆詞條皆附「出處」資訊）。',
     en: 'Pazeh–Kaxabu Digital Dictionary · All content belongs to the original sources; please cite them (every entry lists its source).',

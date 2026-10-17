@@ -478,6 +478,7 @@
     "cost": 0.1,
     "minStem": 3,
     "maxSteps": 3,
+    "lemmaRulePenalty": 4,
     "virtualRootLengthCost": 0.03,
     "rootSyllableCost": {
       "1": 0.5,

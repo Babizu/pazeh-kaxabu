@@ -27,7 +27,8 @@ test('由資料來源頁進入；例句中沒有詞條的詞並列辭典中最�
   // 出現最多次、沒有辭典條目的詞排第一，右欄是它在辭典中最接近的詞條
   await expect(rows.first().getByRole('heading', { level: 3 })).toHaveText('akhéhén')
   await expect(rows.first().getByText('出現在 28 句')).toBeVisible()
-  await expect(rows.first().getByText('像加綴派生')).toBeVisible()
+  // 最接近的是 akhén（相近拼寫）。構詞規格的 lemmaRulePenalty 讓「a- ＋ xexen、詞幹套四條規則」的拆法排到後面，所以不是像加綴派生
+  await expect(rows.first().getByText('有相近的詞條')).toBeVisible()
   const first = await rows.count()
 
   // 捲到底：載入下一頁
